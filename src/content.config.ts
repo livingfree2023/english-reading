@@ -1,0 +1,43 @@
+import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
+
+const mediaSchema = z.object({
+  url: z.string().url(),
+  sourceName: z.string(),
+  sourceUrl: z.string().url(),
+  rightsNote: z.string(),
+  duration: z.string().optional(),
+});
+
+const speeches = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/speeches' }),
+  schema: z.object({
+    titleZh: z.string(),
+    titleEn: z.string(),
+    speaker: z.string(),
+    year: z.number().int(),
+    date: z.string(),
+    location: z.string(),
+    era: z.string(),
+    kind: z.string(),
+    status: z.enum(['full', 'excerpt']),
+    description: z.string(),
+    topics: z.array(z.string()),
+    difficulty: z.enum(['beginner', 'intermediate', 'advanced']),
+    readingTime: z.number().int().positive(),
+    sourceName: z.string(),
+    sourceUrl: z.string().url(),
+    copyrightStatus: z.enum([
+      'us-government-work',
+      'historical-public-domain',
+      'copyrighted-excerpt',
+      'rights-review',
+    ]),
+    copyrightNote: z.string(),
+    audio: mediaSchema.optional(),
+    video: mediaSchema.optional(),
+    related: z.array(z.string()).default([]),
+  }),
+});
+
+export const collections = { speeches };
