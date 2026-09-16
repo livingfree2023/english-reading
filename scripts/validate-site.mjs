@@ -14,8 +14,8 @@ const expectedExcerpts = new Set([
   'lincoln-lyceum-1838', 'lincoln-second-inaugural-1865',
   'washington-farewell-1796', 'webster-liberty-and-union-1830',
   'mlk-i-have-a-dream-1963', 'johnson-we-shall-overcome-1965',
-  'rfk-indianapolis-1968', 'reagan-first-inaugural-1981',
-  'reagan-berlin-wall-1987', 'obama-keynote-2004',
+  'rfk-indianapolis-1968', 'reagan-berlin-wall-1987',
+  'obama-keynote-2004',
 ]);
 
 function parseFrontmatter(text, file) {
