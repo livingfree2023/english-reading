@@ -45,5 +45,5 @@ const jsonLd = {
     <footer class="ft">原文来源：<a href={data.sourceUrl} target="_blank" rel="noopener">{data.sourceName}</a>。{data.copyrightNote}</footer>
   </div>
   <VocabularyPopover />
-  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
+  <script is:inline type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
 </BaseLayout>

@@ -3,9 +3,9 @@ import { z } from 'astro/zod';
 import { glob } from 'astro/loaders';
 
 const mediaSchema = z.object({
-  url: z.string().url(),
+  url: z.url(),
   sourceName: z.string(),
-  sourceUrl: z.string().url(),
+  sourceUrl: z.url(),
   rightsNote: z.string(),
   duration: z.string().optional(),
 });
@@ -27,7 +27,7 @@ const speeches = defineCollection({
     difficulty: z.enum(['beginner', 'intermediate', 'advanced']),
     readingTime: z.number().int().positive(),
     sourceName: z.string(),
-    sourceUrl: z.string().url(),
+    sourceUrl: z.url(),
     copyrightStatus: z.enum([
       'us-government-work',
       'historical-public-domain',
