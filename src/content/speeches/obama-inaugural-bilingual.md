@@ -1,0 +1,262 @@
+---
+titleZh: "奥巴马首次就职演说"
+titleEn: "Barack Obama — First Inaugural Address, 20 January 2009"
+speaker: "First Inaugural Address, 20 January 2009"
+year: 2009
+date: "Inaugural Address · 44th President of the United States"
+location: "Inaugural Address · 44th President of the United States"
+era: "民权与当代"
+kind: "就职演说"
+status: "full"
+description: "2008 年秋，雷曼兄弟倒闭引发大萧条以来最严重的金融危机：失业率突破两位数，房利美与房地美被政府接管，国会通过七千亿美元的问题资产救助计划。与此同时，美军仍在伊拉克与阿富汗两线作战，布什政府支持率跌至历史低点。11 月大选，民主党同时拿下白宫与国会多数。2009 年 1 月 20 日，约一百八十万人涌入国家广场，见证首位非裔美国总统就职——距马丁·路德·金在林肯纪念堂前说出「我有一个梦想」不到四十六年。这篇演说的任务，是在危机与战争中为全国定调，同时交代这个国家刚刚跨过的一道历史门槛。"
+topics: ["演讲", "政治", "美式发音", "含音频"]
+difficulty: "advanced"
+readingTime: 23
+sourceName: "原文来源待复核"
+sourceUrl: "https://www.booknim.com/obama-inaugural-bilingual.html"
+copyrightStatus: "historical-public-domain"
+copyrightNote: "原文：Barack Obama, First Inaugural Address, United States Capitol, Washington, D.C., 20 January 2009（公有领域）。 译文与注音：本页中文为对照译文，音标采用美式发音（General American）；词性依该词在句中的用法标注。 注：原文 \"Khe Sahn\" 通行为 Khe Sanh（越南溪山），译文中已更正。 音频：Wikimedia Commons「Barack Obama inauguration speech 2009」，公有领域，18:58。 视频：The Obama White House 官方 YouTube 频道（点击后加载，不预先请求第三方资源）。"
+audio: null
+video: null
+related: []
+---
+
+<!-- 1 -->
+<section class="para">
+  <span class="no">01</span>
+  <div class="en">My fellow citizens:<br><br>I stand here today <span class="voc"><span class="w">humbled</span><span class="g"><i>adj.</i> /ˈhʌmbəld/ 谦卑的，敬畏的</span></span> by the task before us, grateful for the trust you have <span class="voc"><span class="w">bestowed</span><span class="g"><i>v.</i> /bɪˈstoʊd/ 授予，给予</span></span>, <span class="voc"><span class="w">mindful</span><span class="g"><i>adj.</i> /ˈmaɪndfl/ 铭记的，留心的</span></span> of the <span class="voc"><span class="w">sacrifices</span><span class="g"><i>n.</i> /ˈsækrɪfaɪsɪz/ 牺牲</span></span> <span class="voc"><span class="w">borne</span><span class="g"><i>v.</i> /bɔːrn/ 承受（bear 的过去分词）</span></span> by our <span class="voc"><span class="w">ancestors</span><span class="g"><i>n.</i> /ˈænsestərz/ 祖先</span></span>. I thank President Bush for his service to our nation, as well as the <span class="voc"><span class="w">generosity</span><span class="g"><i>n.</i> /ˌdʒenəˈrɑːsəti/ 慷慨</span></span> and cooperation he has shown throughout this <span class="voc"><span class="w">transition</span><span class="g"><i>n.</i> /trænˈzɪʃn/ 过渡，交接</span></span>.</div>
+  <div class="zh">同胞们：<br><br>今天我站在这里，面前的使命令我敬畏；我感激你们给予的信任，也铭记先辈们所承受的牺牲。我感谢布什总统为这个国家所尽的服务，也感谢他在整个交接期间所表现出的慷慨与合作。</div>
+</section>
+
+<!-- 2 -->
+<section class="para">
+  <span class="no">02</span>
+  <div class="en">Forty-four Americans have now taken the presidential <span class="voc"><span class="w">oath</span><span class="g"><i>n.</i> /oʊθ/ 誓言</span></span>. The words have been spoken during <span class="voc"><span class="w">rising tides</span><span class="g"><i>n.</i> /ˈraɪzɪŋ taɪdz/ 上涨的潮水</span></span> of prosperity and the still waters of peace. Yet, every so often the oath is taken <span class="voc"><span class="w">amidst</span><span class="g"><i>prep.</i> /əˈmɪdst/ 在……之中</span></span> gathering clouds and <span class="voc"><span class="w">raging</span><span class="g"><i>adj.</i> /ˈreɪdʒɪŋ/ 狂暴的，汹涌的</span></span> storms. At these moments, America has carried on not simply because of the skill or vision of those in high office, but because We the People have remained faithful to the ideals of our <span class="voc"><span class="w">forbearers</span><span class="g"><i>n.</i> /ˈfɔːrberərz/ 先辈</span></span>, and true to our founding documents.</div>
+  <div class="zh">迄今已有四十四位美国人宣读过总统就职誓言。这些誓词，曾在繁荣的涨潮之时、在和平的静水之畔被念出。然而，也时有这样的时刻：誓词是在乌云汇聚、风暴肆虐之际念出的。在这样的时刻，美国之所以能延续，并不仅仅因为身居高位者的才干或远见，而是因为我们人民始终忠于先辈的理想，忠于我们的建国文献。</div>
+</section>
+
+<!-- 3 -->
+<section class="para">
+  <span class="no">03</span>
+  <div class="en">So it has been. So it must be with this generation of Americans.</div>
+  <div class="zh">过去如此。今天这一代美国人也必须如此。</div>
+</section>
+
+<!-- 4 -->
+<section class="para">
+  <span class="no">04</span>
+  <div class="en">That we are in the midst of crisis is now well understood. Our nation is at war, against a <span class="voc"><span class="w">far-reaching</span><span class="g"><i>adj.</i> /ˌfɑːrˈriːtʃɪŋ/ 影响深远的，广泛的</span></span> network of violence and hatred. Our economy is badly <span class="voc"><span class="w">weakened</span><span class="g"><i>adj.</i> /ˈwiːkənd/ 被削弱的</span></span>, a <span class="voc"><span class="w">consequence</span><span class="g"><i>n.</i> /ˈkɑːnsəkwens/ 后果</span></span> of <span class="voc"><span class="w">greed</span><span class="g"><i>n.</i> /ɡriːd/ 贪婪</span></span> and <span class="voc"><span class="w">irresponsibility</span><span class="g"><i>n.</i> /ˌɪrɪspɑːnsəˈbɪləti/ 不负责任</span></span> on the part of some, but also our <span class="voc"><span class="w">collective</span><span class="g"><i>adj.</i> /kəˈlektɪv/ 集体的</span></span> failure to make hard choices and prepare the nation for a new age. Homes have been lost; jobs shed; businesses <span class="voc"><span class="w">shuttered</span><span class="g"><i>v.</i> /ˈʃʌtərd/ 关闭，停业</span></span>. Our health care is too costly; our schools fail too many; and each day brings further evidence that the ways we use energy strengthen our <span class="voc"><span class="w">adversaries</span><span class="g"><i>n.</i> /ˈædvərseriz/ 对手，敌手</span></span> and <span class="voc"><span class="w">threaten</span><span class="g"><i>v.</i> /ˈθretn/ 威胁</span></span> our planet.</div>
+  <div class="zh">我们正处于危机之中，这一点现在已被充分认识。我们的国家在打仗，对手是一个广布各地的暴力与仇恨之网。我们的经济严重受损，这固然是某些人贪婪与不负责任的后果，但也是我们集体未能作出艰难抉择、未能让国家为新时代做好准备。房屋失去了，工作丢掉了，企业关门了。我们的医疗过于昂贵；我们的学校辜负了太多人；而且每一天都有新的证据表明，我们使用能源的方式在壮大我们的对手、威胁我们的星球。</div>
+</section>
+
+<!-- 5 -->
+<section class="para">
+  <span class="no">05</span>
+  <div class="en">These are the <span class="voc"><span class="w">indicators</span><span class="g"><i>n.</i> /ˈɪndɪkeɪtərz/ 指标，征象</span></span> of crisis, subject to data and statistics. Less measurable but no less <span class="voc"><span class="w">profound</span><span class="g"><i>adj.</i> /prəˈfaʊnd/ 深刻的</span></span> is a <span class="voc"><span class="w">sapping</span><span class="g"><i>n.</i> /ˈsæpɪŋ/ 消磨，侵蚀</span></span> of confidence across our land — a <span class="voc"><span class="w">nagging</span><span class="g"><i>adj.</i> /ˈnæɡɪŋ/ 萦绕不去的</span></span> fear that America's <span class="voc"><span class="w">decline</span><span class="g"><i>n.</i> /dɪˈklaɪn/ 衰落</span></span> is <span class="voc"><span class="w">inevitable</span><span class="g"><i>adj.</i> /ɪnˈevɪtəbl/ 不可避免的</span></span>, and that the next generation must <span class="voc"><span class="w">lower its sights</span><span class="g"><i>phr.</i> 降低期望，放低目标</span></span>.</div>
+  <div class="zh">这些是危机的指标，可以用数据和统计来衡量。较难量化但同样深刻的，是信心的流失遍布全国——一种挥之不去的恐惧：美国的衰落不可避免，下一代必须放低自己的期望。</div>
+</section>
+
+<!-- 6 -->
+<section class="para">
+  <span class="no">06</span>
+  <div class="en">Today I say to you that the challenges we face are real. They are serious and they are many. They will not be met easily or in a short <span class="voc"><span class="w">span</span><span class="g"><i>n.</i> /spæn/ 一段时间，跨度</span></span> of time. But know this, America — they will be met.</div>
+  <div class="zh">今天我要对你们说：我们面临的挑战是真实的。它们严峻，而且众多。它们不会轻易被解决，也不会在短时间内被解决。但要记住这一点，美国——它们终将被解决。</div>
+</section>
+
+<!-- 7 -->
+<section class="para">
+  <span class="no">07</span>
+  <div class="en">On this day, we gather because we have chosen hope over fear, unity of purpose over conflict and <span class="voc"><span class="w">discord</span><span class="g"><i>n.</i> /ˈdɪskɔːrd/ 不和，纷争</span></span>.</div>
+  <div class="zh">在这一天，我们聚集在一起，因为我们选择了希望而非恐惧，选择了目标的一致而非冲突与纷争。</div>
+</section>
+
+<!-- 8 -->
+<section class="para">
+  <span class="no">08</span>
+  <div class="en">On this day, we come to <span class="voc"><span class="w">proclaim</span><span class="g"><i>v.</i> /prəˈkleɪm/ 宣告，宣布</span></span> an end to the <span class="voc"><span class="w">petty</span><span class="g"><i>adj.</i> /ˈpeti/ 琐碎的，小气的</span></span> <span class="voc"><span class="w">grievances</span><span class="g"><i>n.</i> /ˈɡriːvənsɪz/ 不满，积怨</span></span> and false promises, the <span class="voc"><span class="w">recriminations</span><span class="g"><i>n.</i> /rɪˌkrɪmɪˈneɪʃnz/ 相互指责</span></span> and worn out <span class="voc"><span class="w">dogmas</span><span class="g"><i>n.</i> /ˈdɔːɡməz/ 教条</span></span>, that for far too long have <span class="voc"><span class="w">strangled</span><span class="g"><i>v.</i> /ˈstræŋɡld/ 扼杀，窒息</span></span> our politics.</div>
+  <div class="zh">在这一天，我们前来宣告：要终结那些琐碎的积怨与虚假的承诺、相互的指责与陈腐的教条——它们长久以来窒息了我们的政治。</div>
+</section>
+
+<!-- 9 -->
+<section class="para">
+  <span class="no">09</span>
+  <div class="en">We remain a young nation, but in the words of <span class="voc"><span class="w">Scripture</span><span class="g"><i>n.</i> /ˈskrɪptʃər/ 圣经，经文</span></span>, the time has come to <span class="voc"><span class="w">set aside</span><span class="g"><i>phr.</i> 放下，搁置</span></span> childish things. The time has come to <span class="voc"><span class="w">reaffirm</span><span class="g"><i>v.</i> /ˌriːəˈfɜːrm/ 重申，再确认</span></span> our <span class="voc"><span class="w">enduring</span><span class="g"><i>adj.</i> /ɪnˈdʊrɪŋ/ 持久的，不朽的</span></span> spirit; to choose our better history; to carry forward that precious gift, that noble idea, passed on from generation to generation: the God-given promise that all are equal, all are free, and all deserve a chance to <span class="voc"><span class="w">pursue</span><span class="g"><i>v.</i> /pərˈsuː/ 追求</span></span> their full measure of happiness.</div>
+  <div class="zh">我们仍是一个年轻的国家，但正如《圣经》所说，现在是放下孩童之事的时候了。现在是重申我们不朽精神的时候；是选择我们更好的历史的时候；是把那份珍贵的礼物、那个高贵的理念——代代相传的、上帝赋予的承诺——继续传递下去的时候：人人平等，人人自由，人人都应有机会追求自己全部的幸福。</div>
+</section>
+
+<!-- 10 -->
+<section class="para">
+  <span class="no">10</span>
+  <div class="en">In reaffirming the greatness of our nation, we understand that greatness is never a <span class="voc"><span class="w">given</span><span class="g"><i>n.</i> /ˈɡɪvn/ 既定之物，理所当然的事</span></span>. It must be earned. Our journey has never been one of <span class="voc"><span class="w">short-cuts</span><span class="g"><i>n.</i> /ˈʃɔːrtkʌts/ 捷径</span></span> or <span class="voc"><span class="w">settling for</span><span class="g"><i>phr.</i> 将就，退而求其次</span></span> less. It has not been the path for the <span class="voc"><span class="w">faint-hearted</span><span class="g"><i>adj.</i> /ˌfeɪntˈhɑːrtɪd/ 怯懦的</span></span> — for those who prefer <span class="voc"><span class="w">leisure</span><span class="g"><i>n.</i> /ˈliːʒər/ 安逸，闲暇</span></span> over work, or seek only the pleasures of riches and fame. Rather, it has been the risk-takers, the doers, the makers of things — some celebrated but more often men and women <span class="voc"><span class="w">obscure</span><span class="g"><i>adj.</i> /əbˈskjʊr/ 默默无闻的</span></span> in their labor, who have carried us up the long, <span class="voc"><span class="w">rugged</span><span class="g"><i>adj.</i> /ˈrʌɡɪd/ 崎岖的</span></span> path towards <span class="voc"><span class="w">prosperity</span><span class="g"><i>n.</i> /prɑːˈsperəti/ 繁荣</span></span> and freedom.</div>
+  <div class="zh">在重申国家伟大之时，我们明白：伟大从来不是天赐之物，它必须靠赢得。我们的历程从来不是走捷径或将就退让的历程。它不是为怯懦者准备的道路——不是为那些宁要安逸而不要工作、只追求财富与名声之乐的人准备的。相反，走在这条路上的是冒险者、实干者、创造者——其中有些人享有盛名，但更多的是劳作中默默无闻的男男女女——是他们带着我们沿着漫长而崎岖的道路走向繁荣与自由。</div>
+</section>
+
+<!-- 11 -->
+<section class="para">
+  <span class="no">11</span>
+  <div class="en">For us, they packed up their few <span class="voc"><span class="w">worldly possessions</span><span class="g"><i>phr.</i> 世俗财物，身外之物</span></span> and traveled across oceans in search of a new life.</div>
+  <div class="zh">为了我们，他们收拾起寥寥几件身外之物，漂洋过海去寻找新的生活。</div>
+</section>
+
+<!-- 12 -->
+<section class="para">
+  <span class="no">12</span>
+  <div class="en">For us, they <span class="voc"><span class="w">toiled</span><span class="g"><i>v.</i> /tɔɪld/ 辛苦劳作</span></span> in <span class="voc"><span class="w">sweatshops</span><span class="g"><i>n.</i> /ˈswetʃɑːps/ 血汗工厂</span></span> and settled the West; <span class="voc"><span class="w">endured</span><span class="g"><i>v.</i> /ɪnˈdʊrd/ 忍受</span></span> the <span class="voc"><span class="w">lash</span><span class="g"><i>n.</i> /læʃ/ 鞭打</span></span> of the whip and <span class="voc"><span class="w">plowed</span><span class="g"><i>v.</i> /plaʊd/ 耕犁</span></span> the hard earth.</div>
+  <div class="zh">为了我们，他们在血汗工厂里劳作，在西部定居；忍受皮鞭的抽打，耕耘坚硬的土地。</div>
+</section>
+
+<!-- 13 -->
+<section class="para">
+  <span class="no">13</span>
+  <div class="en">For us, they fought and died, in places like Concord and Gettysburg; Normandy and Khe Sanh.</div>
+  <div class="zh">为了我们，他们在康科德与葛底斯堡、诺曼底与溪山（Khe Sanh，越南战争中的溪山战役）这样的地方战斗并献出生命。</div>
+</section>
+
+<!-- 14 -->
+<section class="para">
+  <span class="no">14</span>
+  <div class="en"><span class="voc"><span class="w">Time and again</span><span class="g"><i>phr.</i> 一次又一次</span></span> these men and women struggled and sacrificed and worked till their hands were <span class="voc"><span class="w">raw</span><span class="g"><i>adj.</i> /rɔː/ 磨破的，生疼的</span></span> so that we might live a better life. They saw America as bigger than the sum of our individual <span class="voc"><span class="w">ambitions</span><span class="g"><i>n.</i> /æmˈbɪʃnz/ 抱负，野心</span></span>; greater than all the differences of birth or wealth or <span class="voc"><span class="w">faction</span><span class="g"><i>n.</i> /ˈfækʃn/ 派系</span></span>.</div>
+  <div class="zh">这些男男女女一次又一次地奋斗、牺牲、劳作，直到双手磨破，好让我们能过上更好的生活。在他们眼中，美国大于我们个人抱负的总和；大于出身、财富或派系的一切差异。</div>
+</section>
+
+<!-- 15 -->
+<section class="para">
+  <span class="no">15</span>
+  <div class="en">This is the journey we continue today. We remain the most <span class="voc"><span class="w">prosperous</span><span class="g"><i>adj.</i> /ˈprɑːspərəs/ 繁荣的</span></span>, powerful nation on Earth. Our workers are no less productive than when this crisis began. Our minds are no less <span class="voc"><span class="w">inventive</span><span class="g"><i>adj.</i> /ɪnˈventɪv/ 有创造力的</span></span>, our goods and services no less needed than they were last week or last month or last year. Our capacity remains <span class="voc"><span class="w">undiminished</span><span class="g"><i>adj.</i> /ˌʌndɪˈmɪnɪʃt/ 未减弱的</span></span>. But our time of <span class="voc"><span class="w">standing pat</span><span class="g"><i>phr.</i> 固守原地，安于现状</span></span>, of protecting narrow interests and putting off unpleasant decisions — that time has surely passed. Starting today, we must pick ourselves up, dust ourselves off, and begin again the work of <span class="voc"><span class="w">remaking</span><span class="g"><i>v.</i> /ˌriːˈmeɪkɪŋ/ 重塑，改造</span></span> America.</div>
+  <div class="zh">这就是我们今天继续的历程。我们依然是地球上最繁荣、最强大的国家。我们工人的生产力并不比这场危机开始时低。我们的头脑并不缺少创造力，我们的商品和服务并不比上周、上月或去年更不需要。我们的能力并未减弱。但是，那个安于现状、维护狭隘利益、推迟令人不快的决定的时代——无疑已经过去了。从今天起，我们必须振作起来，掸去身上的尘土，重新开始重建美国的工作。</div>
+</section>
+
+<!-- 16 -->
+<section class="para">
+  <span class="no">16</span>
+  <div class="en">For everywhere we look, there is work to be done. The state of the economy calls for action, bold and swift, and we will act — not only to create new jobs, but to lay a new <span class="voc"><span class="w">foundation</span><span class="g"><i>n.</i> /faʊnˈdeɪʃn/ 基础，地基</span></span> for growth. We will build the roads and bridges, the electric <span class="voc"><span class="w">grids</span><span class="g"><i>n.</i> /ɡrɪdz/ 电网，网格</span></span> and digital lines that feed our commerce and bind us together. We will <span class="voc"><span class="w">restore</span><span class="g"><i>v.</i> /rɪˈstɔːr/ 使回归，恢复</span></span> science to its <span class="voc"><span class="w">rightful</span><span class="g"><i>adj.</i> /ˈraɪtfl/ 应有的，正当的</span></span> place, and <span class="voc"><span class="w">wield</span><span class="g"><i>v.</i> /wiːld/ 运用，施展</span></span> technology's wonders to raise health care's quality and lower its cost. We will <span class="voc"><span class="w">harness</span><span class="g"><i>v.</i> /ˈhɑːrnɪs/ 利用（自然力）</span></span> the sun and the winds and the soil to fuel our cars and run our factories. And we will <span class="voc"><span class="w">transform</span><span class="g"><i>v.</i> /trænsˈfɔːrm/ 改造，变革</span></span> our schools and colleges and universities to meet the demands of a new age. All this we can do. And all this we will do.</div>
+  <div class="zh">因为无论看向哪里，都有工作要做。经济的状况要求行动——大胆而迅速的行动，我们将会行动：不仅是为了创造新的就业，更是为了奠定增长的新基础。我们将修建道路与桥梁，建设电网与数字线路，它们滋养我们的商业，把我们联结在一起。我们将让科学回归其应有的位置，并运用技术的奇迹来提高医疗的质量、降低医疗的成本。我们将利用阳光、风力和土壤来驱动我们的汽车、运转我们的工厂。我们还将改造我们的中小学、学院与大学，以满足新时代的要求。这一切我们都能够做到。这一切我们都将会做到。</div>
+</section>
+
+<!-- 17 -->
+<section class="para">
+  <span class="no">17</span>
+  <div class="en">Now, there are some who question the <span class="voc"><span class="w">scale</span><span class="g"><i>n.</i> /skeɪl/ 规模，尺度</span></span> of our ambitions — who suggest that our system cannot <span class="voc"><span class="w">tolerate</span><span class="g"><i>v.</i> /ˈtɑːləreɪt/ 容忍，承受</span></span> too many big plans. Their memories are short. For they have forgotten what this country has already done; what free men and women can achieve when <span class="voc"><span class="w">imagination</span><span class="g"><i>n.</i> /ɪˌmædʒɪˈneɪʃn/ 想象力</span></span> is joined to common purpose, and <span class="voc"><span class="w">necessity</span><span class="g"><i>n.</i> /nəˈsesəti/ 必然，必要性</span></span> to courage.</div>
+  <div class="zh">现在，有人质疑我们的抱负过于宏大——说我们的体制容不下太多庞大的计划。他们的记性太差。因为他们忘记了这个国家已经做成过什么；忘记了当想象力与共同的目标结合、当必然与勇气结合时，自由的男男女女能够取得怎样的成就。</div>
+</section>
+
+<!-- 18 -->
+<section class="para">
+  <span class="no">18</span>
+  <div class="en">What the <span class="voc"><span class="w">cynics</span><span class="g"><i>n.</i> /ˈsɪnɪks/ 愤世嫉俗者，怀疑论者</span></span> fail to understand is that the ground has shifted beneath them — that the <span class="voc"><span class="w">stale</span><span class="g"><i>adj.</i> /steɪl/ 陈腐的，过时的</span></span> political arguments that have consumed us for so long no longer apply. The question we ask today is not whether our government is too big or too small, but whether it works — whether it helps families find jobs at a <span class="voc"><span class="w">decent</span><span class="g"><i>adj.</i> /ˈdiːsnt/ 体面的，像样的</span></span> wage, care they can afford, a retirement that is <span class="voc"><span class="w">dignified</span><span class="g"><i>adj.</i> /ˈdɪɡnɪfaɪd/ 有尊严的</span></span>. Where the answer is yes, we intend to move forward. Where the answer is no, programs will end. And those of us who manage the public's dollars will be <span class="voc"><span class="w">held to account</span><span class="g"><i>phr.</i> 被问责，被追究</span></span> — to spend wisely, reform bad habits, and do our business in the light of day — because only then can we restore the <span class="voc"><span class="w">vital</span><span class="g"><i>adj.</i> /ˈvaɪtl/ 至关重要的</span></span> trust between a people and their government.</div>
+  <div class="zh">愤世嫉俗者未能理解的是：他们脚下的土地已经移动——那些长期消耗我们的陈腐政治争论已经不再适用。今天我们提出的问题，不是政府太大还是太小，而是它是否有效——它是否帮助家庭找到体面工资的工作、负担得起的医疗、有尊严的退休生活。答案是肯定的地方，我们就继续推进。答案是否定的地方，项目就会终止。而我们这些管理公共资金的人将被问责——要明智地花钱、改掉坏习惯、在阳光下行事——因为只有这样，我们才能重建人民与政府之间至关重要的信任。</div>
+</section>
+
+<!-- 19 -->
+<section class="para">
+  <span class="no">19</span>
+  <div class="en">Nor is the question before us whether the market is a force for good or ill. Its power to generate wealth and expand freedom is <span class="voc"><span class="w">unmatched</span><span class="g"><i>adj.</i> /ʌnˈmætʃt/ 无可匹敌的</span></span>, but this crisis has reminded us that without a <span class="voc"><span class="w">watchful</span><span class="g"><i>adj.</i> /ˈwɑːtʃfl/ 警觉的，密切注意的</span></span> eye, the market can <span class="voc"><span class="w">spin out of control</span><span class="g"><i>phr.</i> 失控</span></span> — and that a nation cannot prosper long when it favors only the prosperous. The success of our economy has always depended not just on the size of our Gross Domestic Product, but on the reach of our prosperity; on the ability to extend opportunity to every willing heart — not out of <span class="voc"><span class="w">charity</span><span class="g"><i>n.</i> /ˈtʃærəti/ 施舍，慈善</span></span>, but because it is the surest route to our <span class="voc"><span class="w">common good</span><span class="g"><i>phr.</i> 共同利益</span></span>.</div>
+  <div class="zh">我们面临的问题，也不是市场究竟是善的力量还是恶的力量。它创造财富、扩展自由的能力无可匹敌，但这场危机提醒我们：如果没有警觉的注视，市场可能失控——而一个国家若只偏袒已经富足的人，就不可能长久繁荣。我们经济的成功，从来不只取决于国内生产总值的规模，还取决于繁荣所能触及的范围；取决于把机会延伸到每一个愿意努力的人的能力——这不是出于施舍，而是因为这是通向共同利益最可靠的道路。</div>
+</section>
+
+<!-- 20 -->
+<section class="para">
+  <span class="no">20</span>
+  <div class="en">As for our <span class="voc"><span class="w">common defense</span><span class="g"><i>phr.</i> 共同防务</span></span>, we reject as false the choice between our safety and our ideals. Our Founding Fathers, faced with <span class="voc"><span class="w">perils</span><span class="g"><i>n.</i> /ˈperəlz/ 危险，险境</span></span> we can <span class="voc"><span class="w">scarcely</span><span class="g"><i>adv.</i> /ˈskersli/ 几乎不</span></span> imagine, drafted a <span class="voc"><span class="w">charter</span><span class="g"><i>n.</i> /ˈtʃɑːrtər/ 宪章，章程</span></span> to assure the rule of law and the rights of man, a charter expanded by the blood of generations. Those ideals still light the world, and we will not give them up for <span class="voc"><span class="w">expedience</span><span class="g"><i>n.</i> /ɪkˈspiːdiəns/ 权宜之计</span></span>'s sake. And so to all other peoples and governments who are watching today, from the grandest capitals to the small village where my father was born: know that America is a friend of each nation and every man, woman, and child who seeks a future of peace and <span class="voc"><span class="w">dignity</span><span class="g"><i>n.</i> /ˈdɪɡnəti/ 尊严</span></span>, and we are ready to lead once more.</div>
+  <div class="zh">至于我们的共同防务，我们拒绝在安全与理想之间作选择——这种选择是虚假的。我们的开国先辈面对着我们几乎无法想象的危险，起草了一部保障法治与人权的宪章，一部由一代代人的鲜血扩展的宪章。那些理想依然照亮世界，我们不会因为权宜而放弃它们。因此，对今天所有在注视着的民族和政府——从最宏伟的首都，到我父亲出生的那个小村庄：请你们知道，美国是每一个国家、每一个寻求和平与尊严之未来的男人、女人和孩子的朋友，我们已准备好再一次领导。</div>
+</section>
+
+<!-- 21 -->
+<section class="para">
+  <span class="no">21</span>
+  <div class="en">Recall that earlier generations <span class="voc"><span class="w">faced down</span><span class="g"><i>phr.</i> 直面并挫败</span></span> fascism and communism not just with missiles and tanks, but with <span class="voc"><span class="w">sturdy</span><span class="g"><i>adj.</i> /ˈstɜːrdi/ 坚固的，强健的</span></span> alliances and enduring <span class="voc"><span class="w">convictions</span><span class="g"><i>n.</i> /kənˈvɪkʃnz/ 信念</span></span>. They understood that our power alone cannot protect us, nor does it <span class="voc"><span class="w">entitle</span><span class="g"><i>v.</i> /ɪnˈtaɪtl/ 使有资格，赋予权利</span></span> us to do as we please. Instead, they knew that our power grows through its <span class="voc"><span class="w">prudent</span><span class="g"><i>adj.</i> /ˈpruːdnt/ 审慎的，稳健的</span></span> use; our security <span class="voc"><span class="w">emanates</span><span class="g"><i>v.</i> /ˈeməneɪts/ 源自，发源于</span></span> from the <span class="voc"><span class="w">justness</span><span class="g"><i>n.</i> /ˈdʒʌstnəs/ 正义，正当</span></span> of our cause, the force of our example, the tempering qualities of <span class="voc"><span class="w">humility</span><span class="g"><i>n.</i> /hjuːˈmɪləti/ 谦逊</span></span> and <span class="voc"><span class="w">restraint</span><span class="g"><i>n.</i> /rɪˈstreɪnt/ 克制，节制</span></span>.</div>
+  <div class="zh">请记住，先辈们战胜法西斯主义与共产主义，靠的不只是导弹和坦克，还靠坚固的联盟与持久的信念。他们明白，单凭我们的力量无法保护我们，也不意味着我们可以为所欲为。相反，他们知道：我们的力量会因为审慎使用而增长；我们的安全源自我们事业的正义、我们榜样的力量，以及谦逊与克制这些调和的品质。</div>
+</section>
+
+<!-- 22 -->
+<section class="para">
+  <span class="no">22</span>
+  <div class="en">We are the keepers of this <span class="voc"><span class="w">legacy</span><span class="g"><i>n.</i> /ˈleɡəsi/ 遗产，传承</span></span>. Guided by these principles once more, we can meet those new threats that demand even greater effort — even greater cooperation and understanding between nations. We will begin to responsibly leave Iraq to its people, and <span class="voc"><span class="w">forge</span><span class="g"><i>v.</i> /fɔːrdʒ/ 锻造，缔造</span></span> a <span class="voc"><span class="w">hard-earned</span><span class="g"><i>adj.</i> /ˌhɑːrdˈɜːrnd/ 来之不易的</span></span> peace in Afghanistan. With old friends and former <span class="voc"><span class="w">foes</span><span class="g"><i>n.</i> /foʊz/ 敌人，对手</span></span>, we'll work tirelessly to <span class="voc"><span class="w">lessen</span><span class="g"><i>v.</i> /ˈlesn/ 减少，减轻</span></span> the nuclear threat, and roll back the <span class="voc"><span class="w">specter</span><span class="g"><i>n.</i> /ˈspektər/ 幽灵，阴霾</span></span> of a warming planet. We will not apologize for our way of life, nor will we <span class="voc"><span class="w">waver</span><span class="g"><i>v.</i> /ˈweɪvər/ 动摇，摇摆</span></span> in its defense, and for those who seek to advance their aims by <span class="voc"><span class="w">inducing</span><span class="g"><i>v.</i> /ɪnˈduːsɪŋ/ 引发，诱使</span></span> terror and <span class="voc"><span class="w">slaughtering</span><span class="g"><i>v.</i> /ˈslɔːtərɪŋ/ 屠杀</span></span> innocents, we say to you now that our spirit is stronger and cannot be broken; you cannot <span class="voc"><span class="w">outlast</span><span class="g"><i>v.</i> /ˌaʊtˈlæst/ 比……持久</span></span> us, and we will defeat you.</div>
+  <div class="zh">我们是这份遗产的守护者。再次以这些原则为指引，我们能够应对那些需要付出更大努力、需要国与国之间更大合作与理解的新威胁。我们将开始负责任地把伊拉克交还给伊拉克人民，并在阿富汗缔造一份来之不易的和平。我们将与老朋友以及昔日的对手一起，不懈努力以减少核威胁，扭转地球变暖的阴霾。我们不会为我们的生活方式道歉，也不会在捍卫它时动摇；而对那些企图通过制造恐怖、屠杀无辜来推进其目标的人，我们现在就告诉你们：我们的精神更强大，不可被摧毁；你们无法比我们撑得更久，我们将战胜你们。</div>
+</section>
+
+<!-- 23 -->
+<section class="para">
+  <span class="no">23</span>
+  <div class="en">For we know that our <span class="voc"><span class="w">patchwork</span><span class="g"><i>n.</i> /ˈpætʃwɜːrk/ 拼布，拼缀物</span></span> <span class="voc"><span class="w">heritage</span><span class="g"><i>n.</i> /ˈherɪtɪdʒ/ 传统，遗产</span></span> is a strength, not a weakness. We are a nation of Christians and Muslims, Jews and Hindus — and <span class="voc"><span class="w">non-believers</span><span class="g"><i>n.</i> /ˌnɑːnbɪˈliːvərz/ 无信仰者</span></span>. We are shaped by every language and culture, drawn from every end of this Earth; and because we have tasted the bitter <span class="voc"><span class="w">swill</span><span class="g"><i>n.</i> /swɪl/ 泔水，苦汁</span></span> of civil war and <span class="voc"><span class="w">segregation</span><span class="g"><i>n.</i> /ˌseɡrɪˈɡeɪʃn/ 种族隔离</span></span>, and emerged from that dark chapter stronger and more united, we cannot help but believe that the old hatreds shall someday pass; that the lines of tribe shall soon <span class="voc"><span class="w">dissolve</span><span class="g"><i>v.</i> /dɪˈzɑːlv/ 消融，消散</span></span>; that as the world grows smaller, our common humanity shall reveal itself; and that America must play its role in <span class="voc"><span class="w">ushering in</span><span class="g"><i>phr.</i> 开启，迎来</span></span> a new era of peace.</div>
+  <div class="zh">因为我们知道，我们这份拼缀而成的传统是一种力量，而不是弱点。我们是一个由基督徒与穆斯林、犹太教徒与印度教徒——以及无信仰者——组成的国家。我们受每一种语言与文化的塑造，来自地球的每一个尽头；因为我们已经尝过内战与种族隔离的苦汁，并从那黑暗的篇章中走出来，变得更强大、更团结，我们不能不相信：旧的仇恨终有一天会过去；部族的界线终将消融；随着世界变小，我们共同的人性终将显现；而美国必须在开启和平新纪元中扮演自己的角色。</div>
+</section>
+
+<!-- 24 -->
+<section class="para">
+  <span class="no">24</span>
+  <div class="en">To the Muslim world, we seek a new way forward, based on <span class="voc"><span class="w">mutual</span><span class="g"><i>adj.</i> /ˈmjuːtʃuəl/ 相互的，共同的</span></span> interest and mutual respect. To those leaders around the globe who seek to <span class="voc"><span class="w">sow</span><span class="g"><i>v.</i> /soʊ/ 播种，挑起</span></span> conflict, or blame their society's <span class="voc"><span class="w">ills</span><span class="g"><i>n.</i> /ɪlz/ 弊病，苦难</span></span> on the West — know that your people will judge you on what you can build, not what you destroy. To those who <span class="voc"><span class="w">cling</span><span class="g"><i>v.</i> /klɪŋ/ 紧紧抓住</span></span> to power through <span class="voc"><span class="w">corruption</span><span class="g"><i>n.</i> /kəˈrʌpʃn/ 腐败</span></span> and <span class="voc"><span class="w">deceit</span><span class="g"><i>n.</i> /dɪˈsiːt/ 欺骗</span></span> and the silencing of <span class="voc"><span class="w">dissent</span><span class="g"><i>n.</i> /dɪˈsent/ 异议，不同政见</span></span>, know that you are on the wrong side of history; but that we will extend a hand if you are willing to <span class="voc"><span class="w">unclench</span><span class="g"><i>v.</i> /ˌʌnˈklentʃ/ 松开，放开</span></span> your fist.</div>
+  <div class="zh">对穆斯林世界，我们寻求一条基于共同利益与相互尊重的新路。对世界上那些企图挑起冲突、或把本国社会的弊病归咎于西方的领导人——请你们知道，你们的人民将根据你们能建成什么来评判你们，而不是你们能摧毁什么。对那些靠腐败、欺骗和压制异见来攥住权力的人，请你们知道，你们正站在历史的错误一边；但如果你们愿意松开握紧的拳头，我们会伸出一只手。</div>
+</section>
+
+<!-- 25 -->
+<section class="para">
+  <span class="no">25</span>
+  <div class="en">To the people of poor nations, we <span class="voc"><span class="w">pledge</span><span class="g"><i>v.</i> /pledʒ/ 承诺，保证</span></span> to work alongside you to make your farms <span class="voc"><span class="w">flourish</span><span class="g"><i>v.</i> /ˈflɜːrɪʃ/ 繁盛，兴旺</span></span> and let clean waters flow; to <span class="voc"><span class="w">nourish</span><span class="g"><i>v.</i> /ˈnɜːrɪʃ/ 滋养</span></span> <span class="voc"><span class="w">starved</span><span class="g"><i>adj.</i> /stɑːrvd/ 饥饿的</span></span> bodies and feed hungry minds. And to those nations like ours that enjoy relative plenty, we say we can no longer afford <span class="voc"><span class="w">indifference</span><span class="g"><i>n.</i> /ɪnˈdɪfrəns/ 漠不关心</span></span> to the suffering outside our borders; nor can we consume the world's resources <span class="voc"><span class="w">without regard to</span><span class="g"><i>phr.</i> 不顾，无视</span></span> effect. For the world has changed, and we must change with it.</div>
+  <div class="zh">对贫穷国家的人民，我们承诺与你们并肩工作，让你们的农田丰收，让洁净的水流淌；让饥饿的身体得到滋养，让渴求的心灵得到哺育。而对那些像我们一样享有相对富足的国家，我们要说：我们再也无法承受对国界之外的苦难漠不关心；我们也不能不顾后果地消耗世界的资源。因为世界已经改变，我们必须随之改变。</div>
+</section>
+
+<!-- 26 -->
+<section class="para">
+  <span class="no">26</span>
+  <div class="en">As we consider the road that <span class="voc"><span class="w">unfolds</span><span class="g"><i>v.</i> /ʌnˈfoʊldz/ 展开，呈现</span></span> before us, we remember with humble gratitude those brave Americans who, at this very hour, <span class="voc"><span class="w">patrol</span><span class="g"><i>v.</i> /pəˈtroʊl/ 巡逻</span></span> far-off deserts and distant mountains. They have something to tell us, just as the fallen heroes who lie in Arlington whisper through the ages. We honor them not only because they are <span class="voc"><span class="w">guardians</span><span class="g"><i>n.</i> /ˈɡɑːrdiənz/ 守护者</span></span> of our liberty, but because they <span class="voc"><span class="w">embody</span><span class="g"><i>v.</i> /ɪmˈbɑːdi/ 体现，化身</span></span> the spirit of service; a willingness to find meaning in something greater than themselves. And yet, at this moment — a moment that will define a generation — it is precisely this spirit that must <span class="voc"><span class="w">inhabit</span><span class="g"><i>v.</i> /ɪnˈhæbɪt/ 栖居于，存在于</span></span> us all.</div>
+  <div class="zh">当我们思考展现在面前的道路时，我们怀着谦卑的感激，记起此时此刻正在遥远的沙漠与远山巡逻的那些勇敢的美国人。他们有话要告诉我们，正如长眠于阿灵顿的阵亡英雄穿越岁月向我们低语。我们尊敬他们，不仅因为他们是我们自由的守护者，更因为他们体现了服务的精神——愿意在比自身更伟大的事物中找到意义。然而，在此刻——在一个将定义一代人的时刻——正是这种精神必须存在于我们所有人之中。</div>
+</section>
+
+<!-- 27 -->
+<section class="para">
+  <span class="no">27</span>
+  <div class="en">For as much as government can do and must do, it is <span class="voc"><span class="w">ultimately</span><span class="g"><i>adv.</i> /ˈʌltɪmətli/ 最终，归根到底</span></span> the faith and determination of the American people upon which this nation relies. It is the kindness to take in a stranger when the <span class="voc"><span class="w">levees</span><span class="g"><i>n.</i> /ˈleviz/ 堤坝</span></span> break, the <span class="voc"><span class="w">selflessness</span><span class="g"><i>n.</i> /ˈselfləsnəs/ 无私</span></span> of workers who would rather cut their hours than see a friend lose their job which sees us through our darkest hours. It is the firefighter's courage to storm a stairway filled with smoke, but also a parent's willingness to <span class="voc"><span class="w">nurture</span><span class="g"><i>v.</i> /ˈnɜːrtʃər/ 养育，培育</span></span> a child, that finally decides our <span class="voc"><span class="w">fate</span><span class="g"><i>n.</i> /feɪt/ 命运</span></span>.</div>
+  <div class="zh">因为无论政府能做多少、必须做多少，这个国家最终依靠的是美国人民的信念与决心。是堤坝溃决时收留陌生人的那份善意，是宁愿减少自己工时也不愿看着朋友失业的工人那份无私，帮助我们渡过最黑暗的时刻。是消防员冲进浓烟弥漫的楼梯的勇气，也是父母愿意养育一个孩子的那份心，最终决定了我们的命运。</div>
+</section>
+
+<!-- 28 -->
+<section class="para">
+  <span class="no">28</span>
+  <div class="en">Our challenges may be new. The <span class="voc"><span class="w">instruments</span><span class="g"><i>n.</i> /ˈɪnstrəmənts/ 工具，手段</span></span> with which we meet them may be new. But those values upon which our success depends — honesty and hard work, courage and fair play, <span class="voc"><span class="w">tolerance</span><span class="g"><i>n.</i> /ˈtɑːlərəns/ 宽容</span></span> and <span class="voc"><span class="w">curiosity</span><span class="g"><i>n.</i> /ˌkjʊriˈɑːsəti/ 好奇心</span></span>, loyalty and <span class="voc"><span class="w">patriotism</span><span class="g"><i>n.</i> /ˈpeɪtriətɪzəm/ 爱国主义</span></span> — these things are old. These things are true. They have been the quiet force of progress throughout our history. What is demanded then is a return to these truths. What is required of us now is a new era of responsibility — a recognition, on the part of every American, that we have duties to ourselves, our nation, and the world, duties that we do not <span class="voc"><span class="w">grudgingly</span><span class="g"><i>adv.</i> /ˈɡrʌdʒɪŋli/ 勉强地，不情愿地</span></span> accept but rather seize gladly, firm in the knowledge that there is nothing so satisfying to the spirit, so defining of our character, than giving our all to a difficult task.</div>
+  <div class="zh">我们的挑战也许是新的。我们用以应对它们的工具也许是新的。但我们成功所依赖的那些价值——诚实与勤劳、勇气与公平、宽容与好奇、忠诚与爱国——这些是古老的。这些是真实的。它们一直是贯穿我们历史的那股沉静的推动力。因此，所要求的就是回归这些真理。现在对我们的要求，是一个负责任的新时代——每一个美国人都认识到：我们对自己、对国家、对世界负有责任，这些责任不是勉强接受，而是欣然承担，因为我们坚信：没有什么比全力以赴完成一项艰难的任务更能让精神满足、更能定义我们的品格。</div>
+</section>
+
+<!-- 29 -->
+<section class="para">
+  <span class="no">29</span>
+  <div class="en">This is the price and the promise of <span class="voc"><span class="w">citizenship</span><span class="g"><i>n.</i> /ˈsɪtɪzənʃɪp/ 公民身份</span></span>.</div>
+  <div class="zh">这就是公民身份的代价与承诺。</div>
+</section>
+
+<!-- 30 -->
+<section class="para">
+  <span class="no">30</span>
+  <div class="en">This is the source of our confidence — the knowledge that God calls on us to shape an uncertain <span class="voc"><span class="w">destiny</span><span class="g"><i>n.</i> /ˈdestəni/ 命运，天命</span></span>.</div>
+  <div class="zh">这就是我们信心的源泉——我们知道，上帝召唤我们去塑造一个尚不确定的命运。</div>
+</section>
+
+<!-- 31 -->
+<section class="para">
+  <span class="no">31</span>
+  <div class="en">This is the meaning of our liberty and our <span class="voc"><span class="w">creed</span><span class="g"><i>n.</i> /kriːd/ 信条，信念</span></span> — why men and women and children of every race and every faith can join in celebration across this <span class="voc"><span class="w">magnificent</span><span class="g"><i>adj.</i> /mæɡˈnɪfɪsnt/ 壮丽的</span></span> mall, and why a man whose father less than sixty years ago might not have been served at a local restaurant can now stand before you to take a most <span class="voc"><span class="w">sacred</span><span class="g"><i>adj.</i> /ˈseɪkrɪd/ 神圣的</span></span> oath.</div>
+  <div class="zh">这就是我们的自由与我们的信条的意义——为什么不同种族、不同信仰的男人、女人和孩子能够在这条壮丽的广场大道上共同欢庆；为什么一个父亲在不到六十年前可能还无法在当地的餐馆得到服务的人，今天能够站在你们面前宣读最神圣的誓言。</div>
+</section>
+
+<!-- 32 -->
+<section class="para">
+  <span class="no">32</span>
+  <div class="en">So let us mark this day with <span class="voc"><span class="w">remembrance</span><span class="g"><i>n.</i> /rɪˈmembrəns/ 纪念，追忆</span></span>, of who we are and how far we have traveled. In the year of America's birth, in the coldest of months, a small band of patriots <span class="voc"><span class="w">huddled</span><span class="g"><i>v.</i> /ˈhʌdld/ 挤聚，蜷缩</span></span> by dying campfires on the shores of an icy river. The capital was abandoned. The enemy was advancing. The snow was <span class="voc"><span class="w">stained</span><span class="g"><i>v.</i> /steɪnd/ 沾染，染污</span></span> with blood. At a moment when the outcome of our revolution was most in doubt, the father of our nation ordered these words be read to the people:
+  <span class="q">"Let it be told to the future world...that in the depth of winter, when nothing but hope and <span class="voc"><span class="w">virtue</span><span class="g"><i>n.</i> /ˈvɜːrtʃuː/ 美德，德行</span></span> could survive...that the city and the country, alarmed at one common danger, came forth to meet [it]."</span></div>
+  <div class="zh">因此，让我们以纪念来标记这一天——纪念我们是谁，纪念我们已经走了多远。在美国诞生之年，在最寒冷的月份，一小队爱国者挤在冰河岸边即将熄灭的篝火旁。首都被放弃了。敌人正在推进。雪地被鲜血染红。在我们的革命结局最不确定的时刻，我们的国父下令向人民宣读这些话：
+  <span class="q">"让未来的世界知道……在最深的冬天，当除了希望与美德之外别无他物能够存活……这座城市和这个国家，被一个共同的危险所惊醒，挺身而出迎击它。"</span></div>
+</section>
+
+<!-- 33 -->
+<section class="para">
+  <span class="no">33</span>
+  <div class="en">America. In the face of our common dangers, in this winter of our hardship, let us remember these <span class="voc"><span class="w">timeless</span><span class="g"><i>adj.</i> /ˈtaɪmləs/ 永恒的，不朽的</span></span> words. With hope and virtue, let us <span class="voc"><span class="w">brave</span><span class="g"><i>v.</i> /breɪv/ 勇敢面对</span></span> once more the icy currents, and <span class="voc"><span class="w">endure</span><span class="g"><i>v.</i> /ɪnˈdʊr/ 忍受，坚持</span></span> what storms may come. Let it be said by our children's children that when we were tested we refused to let this journey end, that we did not turn back nor did we <span class="voc"><span class="w">falter</span><span class="g"><i>v.</i> /ˈfɔːltər/ 动摇，踉跄</span></span>; and with eyes fixed on the horizon and God's <span class="voc"><span class="w">grace</span><span class="g"><i>n.</i> /ɡreɪs/ 恩典</span></span> upon us, we carried forth that great gift of freedom and delivered it safely to future generations.</div>
+  <div class="zh">美国。面对我们共同的危险，在这个艰难的冬天，让我们记住这些不朽的话语。带着希望与美德，让我们再一次勇敢地渡过冰冷的激流，忍受可能到来的风暴。让我们的子孙后代这样说：当我们受到考验时，我们拒绝让这段旅程终结；我们没有回头，也没有动摇；我们的目光注视着地平线，上帝的恩典与我们同在，我们把自由这份伟大的礼物传递下去，安然地交到未来几代人的手中。</div>
+</section>
+
+<!-- 34 -->
+<section class="para">
+  <span class="no">34</span>
+  <div class="en">Thank you. God bless you and God bless the United States of America.</div>
+  <div class="zh">谢谢你们。愿上帝保佑你们，愿上帝保佑美利坚合众国。</div>
+</section>
