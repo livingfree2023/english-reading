@@ -24,7 +24,7 @@
 
 完整清单与每篇的版权依据见 `CONTENT.md`。
 
-### 已发布（20 篇）
+### 已发布（28 篇）
 
 | 文件 | 年份 | 标题 | 形式 |
 |------|------|------|------|
@@ -48,14 +48,18 @@
 | fdr-day-of-infamy-1941.html | 1941 | 小罗斯福耻辱之日 | 全文 |
 | eisenhower-farewell-1961.html | 1961 | 艾森豪威尔告别演说 | 全文 |
 | jfk-inaugural-1961.html | 1961 | 肯尼迪就职演说 | 全文 |
+| lincoln-first-inaugural-1861.html | 1861 | 林肯首次就职演说 | 节选 |
+| lincoln-second-inaugural-1865.html | 1865 | 林肯第二次就职演说 | 节选 |
+| mlk-i-have-a-dream-1963.html | 1963 | 马丁·路德·金我有一个梦想 | 节选 |
+| johnson-we-shall-overcome-1965.html | 1965 | 约翰逊 We Shall Overcome | 节选 |
+| rfk-indianapolis-1968.html | 1968 | 罗伯特·肯尼迪金遇刺当晚演说 | 节选 |
+| reagan-first-inaugural-1981.html | 1981 | 里根首次就职演说 | 节选 |
+| reagan-berlin-wall-1987.html | 1987 | 里根推倒这堵墙 | 节选 |
+| obama-keynote-2004.html | 2004 | 奥巴马无畏的希望 | 节选 |
 
-### 待做（8 篇）
+### 待做（0 篇）
 
-下一批 = era 2（1838–1865）补齐林肯篇目：
-1. 1861 林肯首次就职演说
-2. 1865 林肯第二次就职演说
-
-其余待做篇目见 `CONTENT.md`，包括约翰逊、肯尼迪、里根、马丁·路德·金与 2004 年奥巴马演说。
+28 篇计划已全部登记并发布；后续可继续补充新的演说或扩充现有节选页。
 
 完整清单见 `CONTENT.md`。
 
@@ -140,7 +144,7 @@ git log --oneline -5      # 最近提交
 # 确认 skill 存在
 ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
 
-# 下一步：创建下一篇待做页面，并同步更新 CONTENT.md、index.html 与 sitemap.xml
+# 下一步：维护现有页面，或在 CONTENT.md 中新增下一篇演说后同步更新 index.html 与 sitemap.xml
 #
 # 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
 # 可启动后台 agent 并行生成
