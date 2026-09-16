@@ -11,7 +11,7 @@ const eras = [...new Set(speeches.map((speech) => speech.data.era))];
 
 <BaseLayout title="双语精读 · 用演讲串起的美国史" description="以演讲为线索的中英双语历史精读，按时间轴排列。" canonical="https://www.booknim.com/">
   <div class="home-wrap">
-    <header class="home-header"><p class="kicker">A History of the United States in Speeches</p><h1>用演讲串起的美国史<small>英文原文 + 逐段中文对照 + 生词浮层注音</small></h1><p class="home-intro">{speeches.length} 篇双语精读材料，按时间顺序阅读美国历史中的公共语言。</p></header>
+    <header class="home-header"><p class="kicker">A History of the United States in Speeches</p><h1>用演讲串起的美国史</h1><p class="home-intro">{speeches.length} 篇双语精读材料，按时间顺序阅读美国历史中的公共语言。</p></header>
     <div class="filters" aria-label="Speech filters">
       <label>搜索<input id="search" type="search" placeholder="标题、人物或主题" /></label>
       <label>难度<select id="difficulty"><option value="">全部</option><option value="beginner">入门</option><option value="intermediate">中级</option><option value="advanced">进阶</option></select></label>
