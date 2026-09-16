@@ -1,0 +1,24 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  speech: CollectionEntry<'speeches'>;
+  index: number;
+}
+
+const { speech, index } = Astro.props;
+const { data } = speech;
+const href = `/${speech.id}.html`;
+---
+
+<li class="tl-item" data-year={data.year} data-speaker={data.speaker} data-era={data.era} data-topics={data.topics.join(',')} data-kind={data.kind} data-difficulty={data.difficulty}>
+  <div class="tl-year"><span class="dot"></span><span class="yr">{data.year}</span></div>
+  <a class="card" href={href}>
+    <span class="top"><span class="idx">{String(index).padStart(2, '0')}</span><span class="kind">{data.status === 'excerpt' ? '节选' : data.kind}</span><span class="go">阅读 →</span></span>
+    <h2>{data.titleZh}</h2>
+    <p class="orig">{data.titleEn}</p>
+    <p class="meta">{data.date} · {data.location}</p>
+    <p class="intro">{data.description}</p>
+    <p class="tags">{data.topics.map((topic) => <span>{topic}</span>)}{data.video && <span>含视频</span>}{data.audio && <span>含音频</span>}</p>
+  </a>
+</li>

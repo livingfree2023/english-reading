@@ -1,0 +1,61 @@
+---
+interface MediaItem {
+  url: string;
+  sourceName: string;
+  sourceUrl: string;
+  rightsNote: string;
+  duration?: string;
+}
+
+interface Props {
+  audio?: MediaItem | null;
+  video?: MediaItem | null;
+}
+
+const { audio, video } = Astro.props;
+const hasAudio = Boolean(audio?.url);
+const hasVideo = Boolean(video?.url);
+---
+
+{(hasAudio || hasVideo) && (
+  <section class="media" aria-label="Speech media">
+    {hasAudio && audio && (
+      <div class="mrow">
+        <span class="mlbl">音频</span>
+        <audio controls preload="none" src={audio.url}></audio>
+        <span class="mn">{audio.duration ? `${audio.duration} · ` : ''}{audio.sourceName} · <a href={audio.sourceUrl} target="_blank" rel="noopener">来源</a></span>
+      </div>
+    )}
+    {hasVideo && video && (
+      <div class="mrow" data-video-url={video.url}>
+        <span class="mlbl">视频</span>
+        <button class="vidbtn" type="button">▶ 加载视频</button>
+        <span class="mn">{video.sourceName} · <a href={video.sourceUrl} target="_blank" rel="noopener">在新窗口打开</a><br /><small>{video.rightsNote}</small></span>
+        <div class="vidwrap" hidden></div>
+      </div>
+    )}
+  </section>
+)}
+
+{hasVideo && (
+  <script>
+    document.querySelectorAll('[data-video-url]').forEach((row) => {
+      const button = row.querySelector<HTMLButtonElement>('.vidbtn');
+      const wrap = row.querySelector<HTMLDivElement>('.vidwrap');
+      const url = row.getAttribute('data-video-url');
+      if (!button || !wrap || !url) return;
+      button.addEventListener('click', () => {
+        if (wrap.firstChild) return;
+        const frame = document.createElement('iframe');
+        frame.src = url;
+        frame.title = 'Speech video';
+        frame.loading = 'lazy';
+        frame.allowFullscreen = true;
+        frame.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+        wrap.appendChild(frame);
+        wrap.hidden = false;
+        button.hidden = true;
+      });
+    });
+  </script>
+)}

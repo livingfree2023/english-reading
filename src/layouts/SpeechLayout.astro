@@ -1,0 +1,49 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import MediaPanel from '../components/MediaPanel.astro';
+import VocabularyPopover from '../components/VocabularyPopover.astro';
+import '../styles/site.css';
+
+interface Props {
+  speech: CollectionEntry<'speeches'>;
+  Content: any;
+  related: CollectionEntry<'speeches'>[];
+}
+
+const { speech, Content, related } = Astro.props;
+const { data } = speech;
+const canonical = new URL(`/${speech.id}.html`, Astro.site).href;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: data.titleZh,
+  name: data.titleEn,
+  description: data.description,
+  datePublished: `${data.year}-01-01`,
+  author: { '@type': 'Person', name: data.speaker },
+  mainEntityOfPage: canonical,
+};
+---
+
+<BaseLayout title={`${data.titleZh} · 中英双语精读`} description={data.description} canonical={canonical} type="article" author={data.speaker}>
+  <div class="wrap">
+    <a class="back" href="/">← 返回时间轴</a>
+    <header class="hd">
+      <p class="kicker">{data.date} · {data.location}</p>
+      <h1>{data.titleZh}<small>{data.titleEn}</small></h1>
+      <div class="badges"><span>{data.status === 'excerpt' ? '节选' : '全文'}</span><span>{data.difficulty}</span><span>约 {data.readingTime} 分钟</span></div>
+    </header>
+    <MediaPanel audio={data.audio} video={data.video} />
+    <main id="body"><Content /></main>
+    {related.length > 0 && (
+      <nav class="related" aria-label="Related speeches">
+        <h2>相关篇目</h2>
+        {related.map((item) => <a href={`/${item.id}.html`}>{item.data.titleZh} · {item.data.year}</a>)}
+      </nav>
+    )}
+    <footer class="ft">原文来源：<a href={data.sourceUrl} target="_blank" rel="noopener">{data.sourceName}</a>。{data.copyrightNote}</footer>
+  </div>
+  <VocabularyPopover />
+  <script type="application/ld+json" set:html={JSON.stringify(jsonLd)}></script>
+</BaseLayout>

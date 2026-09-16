@@ -1,0 +1,39 @@
+---
+---
+
+<script>
+  const closeAll = () => {
+    document.querySelectorAll('.voc.is-open').forEach((word) => {
+      word.classList.remove('is-open');
+      word.setAttribute('aria-expanded', 'false');
+    });
+  };
+
+  document.querySelectorAll('.voc').forEach((word) => {
+    const gloss = word.querySelector('.g');
+    const visible = word.querySelector('.w');
+    if (!gloss || !visible) return;
+    word.setAttribute('tabindex', '0');
+    word.setAttribute('role', 'button');
+    word.setAttribute('aria-expanded', 'false');
+    word.setAttribute('aria-label', `${visible.textContent?.trim()}: ${gloss.textContent?.trim()}`);
+    word.addEventListener('click', (event) => {
+      event.stopPropagation();
+      const open = word.classList.contains('is-open');
+      closeAll();
+      if (!open) {
+        word.classList.add('is-open');
+        word.setAttribute('aria-expanded', 'true');
+      }
+    });
+    word.addEventListener('keydown', (event) => {
+      const keyboardEvent = event as KeyboardEvent;
+      if (keyboardEvent.key === 'Enter' || keyboardEvent.key === ' ') {
+        event.preventDefault();
+        word.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+      }
+      if (keyboardEvent.key === 'Escape') closeAll();
+    });
+  });
+  document.addEventListener('click', closeAll);
+</script>
