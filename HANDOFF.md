@@ -7,18 +7,11 @@
 - **部署**: Cloudflare Pages，自动从 `main` 执行 `npm run build`，发布 `dist/`
 - **本地克隆**: `<workspace>/english-reading/`
 
-## 生产技能
+## Astro 维护入口
 
-`bilingual-reading-page` skill（用户级，`~/.workbuddy-ai/skills/bilingual-reading-page/`）：
+Markdown 是唯一内容源；不要直接编辑 `dist/` 或生成的 HTML。新增或修改文章时编辑 `src/content/speeches/*.md`，然后运行 `npm run check && npm run build`。
 
-| 文件 | 用途 |
-|------|------|
-| `SKILL.md` | 生产流程、版权/媒体规则、体例 |
-| `assets/page-template.html` | 文章页骨架（CSS + JS + 占位符） |
-| `assets/index-template.html` | 时间轴首页骨架（六个时代分区） |
-| `scripts/add_to_index.py` | 按年份插入卡片到首页，自动选时代、重排编号、更新「共 N 篇」 |
-
-**如果新机器上没有这个 skill**：任何一个已发布页面（如 `washington-first-inaugural-1789.html`）都是完整的 HTML 参考——结构、CSS、JS 可直接复制。`add_to_index.py` 的用法见下文「每篇流程」第 6 步。
+生成的根级 `.html` 文件仅用于发布，不应作为内容编辑入口。
 
 ## 内容计划: 28 篇总计
 
@@ -79,24 +72,10 @@
 ## 每篇流程
 
 1. **取原文**：Wikisource / Yale Avalon Project / Library of Congress 等权威来源，逐字核对。
-2. **套模板**：读 `assets/page-template.html`，替换占位符（`{{FILE_SLUG}}`、`{{AUDIO_SRC}}` 等），填入英中对照段落 + 词汇注释。
-3. **词汇注释**：`<span class="voc"><span class="w">word</span><span class="g"><i>词性</i> /IPA/ 中文释义</span></span>`。JS 自动解析 `.g` 为 data 属性，页尾生成去重词汇总表。
-4. **媒体**：音频取 Wikimedia Commons MP3 转码；视频走 YouTube `youtube-nocookie` 懒加载（点击才插入 iframe）。1877 年前的演说无原声音频；可附现代朗诵但须注明「非历史原声」。无媒体时整块 `.media` 不出现（模板 JS 自隐藏）。
-5. **页脚**：注明来源 URL、版权依据、历史背景说明。
-6. **注册首页**：
-   ```bash
-   python3 ~/.workbuddy-ai/skills/bilingual-reading-page/scripts/add_to_index.py <repo_dir> \
-     --file <filename>.html --year <YYYY> \
-     --date "YYYY 年 M 月 D 日 · 地点" --kind "就职演说" \
-     --zh "中文标题" --en "English Title — Author" \
-     --tags "标签1,标签2" --intro "200–300 字历史政治背景"
-   ```
-7. **清理 `data-page-node-id`**：编辑器会在每个 HTML 元素上注入此属性。提交前必须清除：
-   ```bash
-   git checkout -- index.html   # 若只是被重新注入
-   # 或用正则: \s+data-page-node-id="[A-Za-z0-9_-]+"
-   ```
-8. **提交推送**：`git add <file> index.html CONTENT.md && git commit && git push origin main`
+2. **编辑 Markdown**：更新 frontmatter 与英中对照正文；词汇使用 `<span class="voc"><span class="w">word</span><span class="g">...</span></span>`。
+3. **媒体与页脚**：只使用外链，分别记录来源、权利说明和回退链接；没有媒体时不显示整个媒体区。
+4. **验证**：运行 `npm run check && npm run build`，确认路由、sitemap、元数据和移动布局。
+5. **提交**：单独提交内容变更，并同步更新 `CONTENT.md`。
 
 ## 版权规则（硬约束）
 
@@ -127,8 +106,7 @@
 
 - `data-page-node-id`：WorkBuddy 编辑器在每个 HTML 元素上注入此属性。提交前必须清除。快速修复：`git checkout -- <file>`（若只是被重新注入）。
 - 仓库 git 历史中仍有 24.6 MB `media/obama-inaugural-2009.mp3` blob（已从工作区删除但历史未重写）。彻底清除需 `git filter-repo` + 强推（破坏性操作，需用户同意）。
-- `sitemap.xml` 尚未生成。
-- FDR 1933 首次就职演说 PD 依据未定。
+- 历史提交仍包含已删除的媒体二进制 blob；清理历史需要明确批准后执行 `git filter-repo` 并强推。
 
 ## 快速恢复
 
@@ -144,7 +122,7 @@ git log --oneline -5      # 最近提交
 # 确认 skill 存在
 ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
 
-# 下一步：维护现有页面，或在 CONTENT.md 中新增下一篇演说后同步更新 index.html 与 sitemap.xml
+# 下一步：维护现有 Markdown，或在 CONTENT.md 中登记并加入新的 Markdown 演说
 #
 # 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
 # 可启动后台 agent 并行生成

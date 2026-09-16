@@ -1,0 +1,23 @@
+<aside class="glossary" aria-labelledby="glossary-title">
+  <h2 id="glossary-title">本页词汇</h2>
+  <div class="glossary-list"></div>
+  <noscript>请启用 JavaScript 查看本页去重词汇表；每个生词的释义同时保留在正文中。</noscript>
+</aside>
+
+<script>
+  const list = document.querySelector<HTMLElement>('.glossary-list');
+  if (list) {
+    const seen = new Set<string>();
+    document.querySelectorAll<HTMLElement>('.voc').forEach((word) => {
+      const visible = word.querySelector('.w')?.textContent?.trim();
+      const gloss = word.querySelector('.g')?.textContent?.trim();
+      if (!visible || !gloss || seen.has(visible.toLowerCase())) return;
+      seen.add(visible.toLowerCase());
+      const item = document.createElement('span');
+      item.className = 'glossary-item';
+      item.textContent = `${visible} — ${gloss}`;
+      list.appendChild(item);
+    });
+    if (!list.children.length) list.parentElement?.setAttribute('hidden', 'true');
+  }
+</script>

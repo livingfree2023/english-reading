@@ -9,6 +9,14 @@ const required = ['titleZh', 'titleEn', 'speaker', 'year', 'date', 'location', '
 const statuses = new Set(['us-government-work', 'historical-public-domain', 'copyrighted-excerpt', 'rights-review']);
 const ids = new Set();
 const errors = [];
+const expectedExcerpts = new Set([
+  'churchill-iron-curtain-1946', 'lincoln-first-inaugural-1861',
+  'lincoln-lyceum-1838', 'lincoln-second-inaugural-1865',
+  'washington-farewell-1796', 'webster-liberty-and-union-1830',
+  'mlk-i-have-a-dream-1963', 'johnson-we-shall-overcome-1965',
+  'rfk-indianapolis-1968', 'reagan-first-inaugural-1981',
+  'reagan-berlin-wall-1987', 'obama-keynote-2004',
+]);
 
 function parseFrontmatter(text, file) {
   const match = text.match(/^---\n([\s\S]*?)\n---\n/);
@@ -41,8 +49,10 @@ for (const file of files) {
     if (media == null) continue;
     if (!media.url || !/^https?:\/\//.test(media.url)) errors.push(`${file}: ${kind}.url must be an HTTP URL`);
     if (!media.sourceName || !media.sourceUrl || !media.rightsNote) errors.push(`${file}: ${kind} needs sourceName, sourceUrl, and rightsNote`);
+    if (/加载视频|在新窗口打开/.test(media.sourceName ?? '')) errors.push(`${file}: ${kind}.sourceName contains UI text`);
     if (kind === 'video' && !media.url.includes('youtube-nocookie.com/embed/')) errors.push(`${file}: video must use youtube-nocookie embed`);
   }
+  if (expectedExcerpts.has(id) && data.status !== 'excerpt') errors.push(`${file}: expected excerpt status`);
   if (text.includes('{{')) errors.push(`${file}: unresolved placeholder`);
   if (!text.includes('<section class="para">')) errors.push(`${file}: speech body has no paragraphs`);
 }
@@ -56,6 +66,14 @@ if (existsSync(join(root, 'dist'))) {
   for (const route of expectedRoutes) if (!existsSync(join(root, `dist${route}`))) errors.push(`missing built route: ${route}`);
   if (!existsSync(join(root, 'dist/index.html'))) errors.push('missing built homepage');
   if (!existsSync(join(root, 'dist/sitemap.xml'))) errors.push('missing built sitemap');
+  const sitemap = readFileSync(join(root, 'dist/sitemap.xml'), 'utf8');
+  const sitemapRoutes = [...sitemap.matchAll(/<loc>https?:\/\/[^<]+(\/[^<]*)<\/loc>/g)].map((match) => match[1]);
+  const expectedSitemap = ['/'].concat(expectedRoutes).sort();
+  if (sitemapRoutes.length !== expectedSitemap.length || sitemapRoutes.sort().join('|') !== expectedSitemap.join('|')) errors.push('sitemap routes do not exactly match collection routes');
+  for (const route of expectedRoutes) {
+    const html = readFileSync(join(root, `dist${route}`), 'utf8');
+    if (!html.includes('<link rel="canonical"') || !html.includes('property="og:title"') || !html.includes('property="og:description"')) errors.push(`missing required metadata: ${route}`);
+  }
 }
 
 if (errors.length) {

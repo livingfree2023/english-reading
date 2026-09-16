@@ -1,0 +1,9 @@
+.js .voc .g { display: none; }
+.js .voc.is-open .g, .js .voc:hover .g { display: block; position: absolute; z-index: 5; left: 0; bottom: calc(100% + 8px); width: max-content; max-width: min(320px, 80vw); padding: 8px 10px; background: #2b2926; color: #fff; border-radius: 6px; font: 12px/1.5 -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif; box-shadow: 0 5px 18px #0002; }
+.js .voc[data-placement="below"] .g { top: calc(100% + 8px); bottom: auto; }
+.js .voc.is-open .g::after, .js .voc:hover .g::after { content: ""; position: absolute; left: 12px; top: 100%; border: 6px solid transparent; border-top-color: #2b2926; }
+.js .voc[data-placement="below"] .g::after { top: auto; bottom: 100%; border-top-color: transparent; border-bottom-color: #2b2926; }
+.glossary { margin-top: 28px; padding-top: 18px; border-top: 1px solid var(--rule); }
+.glossary h2 { font: 600 19px Georgia, serif; }
+.glossary-list { display: flex; flex-wrap: wrap; gap: 6px; }
+.glossary-item { padding: 4px 8px; background: #f4f1ea; border-radius: 5px; color: var(--soft); font-size: 12px; }

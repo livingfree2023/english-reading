@@ -17,7 +17,7 @@ sourceUrl: "https://avalon.law.yale.edu/19th_century/lincoln1.asp"
 copyrightStatus: "historical-public-domain"
 copyrightNote: "原文来源： Yale Avalon Project 。本页为公有领域演说的双语精选段落；完整演说见美国政府历史文献版本。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/CrbIYFzWJpY?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 演说朗诵视频 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=CrbIYFzWJpY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/CrbIYFzWJpY?rel=0", "sourceName": "演说朗诵视频（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=CrbIYFzWJpY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

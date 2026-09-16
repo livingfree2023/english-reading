@@ -11,7 +11,7 @@ const { title, description, canonical = Astro.url.href, type = 'website', author
 ---
 
 <!doctype html>
-<html lang="zh-CN">
+<html lang="zh-CN" class="no-js">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -26,4 +26,5 @@ const { title, description, canonical = Astro.url.href, type = 'website', author
     {author && <meta name="author" content={author} />}
   </head>
   <body><slot /></body>
+  <script is:inline>document.documentElement.classList.replace('no-js', 'js');</script>
 </html>

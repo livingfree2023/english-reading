@@ -19,6 +19,6 @@ const href = `/${speech.id}.html`;
     <p class="orig">{data.titleEn}</p>
     <p class="meta">{data.date} · {data.location}</p>
     <p class="intro">{data.description}</p>
-    <p class="tags">{data.topics.map((topic) => <span>{topic}</span>)}{data.video && <span>含视频</span>}{data.audio && <span>含音频</span>}</p>
+    <p class="tags">{data.topics.map((topic) => <span>{topic}</span>)}{data.video && !data.topics.includes('含视频') && <span>含视频</span>}{data.audio && !data.topics.includes('含音频') && <span>含音频</span>}</p>
   </a>
 </li>

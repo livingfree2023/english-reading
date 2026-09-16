@@ -3,7 +3,9 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import MediaPanel from '../components/MediaPanel.astro';
 import VocabularyPopover from '../components/VocabularyPopover.astro';
+import Glossary from '../components/Glossary.astro';
 import '../styles/site.css';
+import '../styles/interactive.css';
 
 interface Props {
   speech: CollectionEntry<'speeches'>;
@@ -36,6 +38,7 @@ const jsonLd = {
     </header>
     <MediaPanel audio={data.audio} video={data.video} />
     <main id="body"><Content /></main>
+    <Glossary />
     {related.length > 0 && (
       <nav class="related" aria-label="Related speeches">
         <h2>相关篇目</h2>
