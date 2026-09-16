@@ -89,6 +89,20 @@ def cards(index: str) -> dict[str, dict]:
     return result
 
 
+def era_for(year: int) -> str:
+    if year <= 1830:
+        return '建国与早期共和国'
+    if year <= 1865:
+        return '奴隶制、分裂与内战'
+    if year <= 1918:
+        return '镀金时代与进步时代'
+    if year <= 1945:
+        return '大萧条与第二次世界大战'
+    if year <= 1962:
+        return '冷战初期'
+    return '民权与当代'
+
+
 def main() -> None:
     index = (ROOT / 'index.html').read_text()
     card_map = cards(index)
@@ -113,7 +127,7 @@ def main() -> None:
         text_length = len(clean(body.group(1)))
         voc_count = page.count('class="voc"')
         status = 'excerpt' if card.get('kind') == '节选' or '节选' in page[:1200] else 'full'
-        copyright_status = 'copyrighted-excerpt' if '版权' in source_html and '非联邦' in source_html else ('us-government-work' if '联邦' in source_html else 'historical-public-domain')
+        copyright_status = 'copyrighted-excerpt' if any(marker in source_html for marker in ('受版权保护', '版权归相关权利人', '非联邦职务演说')) else ('us-government-work' if '联邦职务作品' in source_html or '联邦职务演说' in source_html else 'historical-public-domain')
         metadata = {
             'titleZh': card.get('titleZh', page_path.stem),
             'titleEn': title_en,
@@ -121,7 +135,7 @@ def main() -> None:
             'year': card.get('year', 0),
             'date': kicker_text,
             'location': kicker_text,
-            'era': '待复核',
+            'era': era_for(card.get('year', 0)),
             'kind': card.get('kind', '公开演说'),
             'status': status,
             'description': card.get('description', ''),

@@ -1,4 +1,5 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { z } from 'astro/zod';
 import { glob } from 'astro/loaders';
 
 const mediaSchema = z.object({
@@ -34,8 +35,8 @@ const speeches = defineCollection({
       'rights-review',
     ]),
     copyrightNote: z.string(),
-    audio: mediaSchema.optional(),
-    video: mediaSchema.optional(),
+    audio: mediaSchema.nullable().optional(),
+    video: mediaSchema.nullable().optional(),
     related: z.array(z.string()).default([]),
   }),
 });

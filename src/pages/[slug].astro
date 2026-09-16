@@ -4,7 +4,7 @@ import SpeechLayout from '../layouts/SpeechLayout.astro';
 
 export async function getStaticPaths() {
   const speeches = await getCollection('speeches');
-  return speeches.map((speech) => ({ params: { slug: `${speech.id}.html` }, props: { speech } }));
+  return speeches.map((speech) => ({ params: { slug: speech.id }, props: { speech } }));
 }
 
 const { speech } = Astro.props;
