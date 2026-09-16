@@ -225,7 +225,7 @@
   <div class="mrow" data-media="video">
     <span class="mlbl">视频</span>
     <button class="vidbtn" id="vidbtn" type="button">▶ 加载视频（YouTube）</button>
-    <span class="mn">{{VIDEO_SOURCE}} · <a href="https://www.youtube.com/watch?v={{YOUTUBE_ID}}" target="_blank" rel="noopener">在新窗口打开</a></span>
+    <span class="mn">George C. Marshall Foundation 音视频 · <a href="https://www.youtube.com/watch?v=ML7LpdTFcwg" target="_blank" rel="noopener">在新窗口打开</a></span>
   </div>
   <div class="vidwrap" id="vidwrap" hidden></div>
 </section>
@@ -504,7 +504,7 @@
   if(vidbtn && vidrow && !vidrow.hidden){
     vidbtn.addEventListener('click', function(){
       var f = document.createElement('iframe');
-      f.src = 'https://www.youtube-nocookie.com/embed/{{YOUTUBE_ID}}?rel=0';
+      f.src = 'https://www.youtube-nocookie.com/embed/ML7LpdTFcwg?rel=0';
       f.title = 'The Marshall Plan Speech — George C. Marshall';
       f.setAttribute('frameborder','0');
       f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
