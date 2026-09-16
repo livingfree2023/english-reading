@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TimelineCard from '../components/TimelineCard.astro';
+import '../styles/site.css';
+import '../styles/home.css';
+
+const speeches = (await getCollection('speeches')).sort((a, b) => a.data.year - b.data.year);
+const eras = [...new Set(speeches.map((speech) => speech.data.era))];
+---
+
+<BaseLayout title="双语精读 · 用演讲串起的美国史" description="以演讲为线索的中英双语历史精读，按时间轴排列。">
+  <div class="home-wrap">
+    <header class="home-header"><p class="kicker">A History of the United States in Speeches</p><h1>用演讲串起的美国史<small>英文原文 + 逐段中文对照 + 生词浮层注音</small></h1><p class="home-intro">{speeches.length} 篇双语精读材料，按时间顺序阅读美国历史中的公共语言。</p></header>
+    <div class="filters" aria-label="Speech filters">
+      <label>搜索<input id="search" type="search" placeholder="标题、人物或主题" /></label>
+      <label>难度<select id="difficulty"><option value="">全部</option><option value="beginner">入门</option><option value="intermediate">中级</option><option value="advanced">进阶</option></select></label>
+      <label>形式<select id="status"><option value="">全部</option><option value="full">全文</option><option value="excerpt">节选</option></select></label>
+    </div>
+    <p id="result-count" class="result-count" aria-live="polite"></p>
+    <div class="eras">
+      {eras.map((era) => <section class="era" data-era={era}><h2>{era}</h2><ol class="tl">{speeches.filter((speech) => speech.data.era === era).map((speech) => <TimelineCard speech={speech} index={speeches.indexOf(speech) + 1} />)}</ol></section>)}
+    </div>
+    <footer class="ft">共 {speeches.length} 篇 · 静态生成 · 音视频均为外链</footer>
+  </div>
+  <script>
+    const search = document.querySelector<HTMLInputElement>('#search');
+    const difficulty = document.querySelector<HTMLSelectElement>('#difficulty');
+    const status = document.querySelector<HTMLSelectElement>('#status');
+    const cards = [...document.querySelectorAll<HTMLElement>('.tl-item')];
+    const eras = [...document.querySelectorAll<HTMLElement>('.era')];
+    const count = document.querySelector<HTMLElement>('#result-count');
+    if (!search || !difficulty || !status || !count) throw new Error('Filter controls are missing');
+    const update = () => {
+      const query = search.value.trim().toLowerCase(); let visible = 0;
+      cards.forEach((card) => {
+        const haystack = `${card.textContent} ${card.dataset.speaker} ${card.dataset.topics}`.toLowerCase();
+        const isExcerpt = card.querySelector('.kind')?.textContent === '节选';
+        const matches = (!query || haystack.includes(query)) && (!difficulty.value || card.dataset.difficulty === difficulty.value) && (!status.value || (status.value === 'excerpt') === isExcerpt);
+        card.hidden = !matches; if (matches) visible += 1;
+      });
+      eras.forEach((era) => { era.hidden = !era.querySelector('.tl-item:not([hidden])'); }); count.textContent = `显示 ${visible} / ${cards.length} 篇`;
+    };
+    [search, difficulty, status].forEach((control) => control.addEventListener('input', update)); update();
+  </script>
+</BaseLayout>
