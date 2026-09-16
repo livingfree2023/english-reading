@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>耻辱之日 · 中英双语精注版</title>
+<meta name="description" content="耻辱之日：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<link rel="canonical" href="https://www.booknim.com/fdr-day-of-infamy-1941.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.booknim.com/fdr-day-of-infamy-1941.html">
+<meta property="og:title" content="耻辱之日 · 中英双语精注版">
+<meta property="og:description" content="耻辱之日：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<meta property="og:site_name" content="双语精读 · 用演讲串起的美国史">
+<style>
+  :root{
+    --bg:#fbfaf7;
+    --paper:#ffffff;
+    --ink:#1c1b19;
+    --ink-soft:#4a4744;
+    --zh:#2f4f6f;
+    --accent:#8b1e1e;
+    --gold:#a8842c;
+    --rule:#e6e1d8;
+    --chip:#f4f1ea;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Georgia","Times New Roman",-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",serif;
+    line-height:1.75;
+  }
+  .wrap{max-width:780px;margin:0 auto;padding:0 24px 60px}
+
+  .back{
+    display:inline-block;margin:20px 0 0;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12px;letter-spacing:.04em;color:var(--gold);text-decoration:none;
+  }
+  .back:hover{color:var(--accent)}
+  .back + header.hd{padding-top:12px}
+  header.hd{padding:38px 0 18px;border-bottom:3px double var(--rule);margin-bottom:4px}
+  .kicker{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--gold);margin:0 0 8px;
+  }
+  h1{font-size:25px;line-height:1.3;margin:0 0 6px;font-weight:600;letter-spacing:.01em}
+  h1 small{display:block;font-size:13.5px;font-weight:400;color:var(--ink-soft);margin-top:6px;letter-spacing:.04em}
+
+  /* 音视频 */
+  .media{
+    margin:14px 0 2px;padding:10px 13px 11px;
+    background:var(--paper);border:1px solid var(--rule);border-radius:9px;
+  }
+  .media[hidden],.mrow[hidden]{display:none}
+  .mrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .mrow.sep{margin-top:8px;padding-top:8px;border-top:1px dashed #eee8dc}
+  .mlbl{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.14em;color:var(--gold);flex:none;
+  }
+  .aud{flex:1 1 240px;min-width:200px;height:32px;display:block}
+  .mn{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:11.5px;color:#8d887e;line-height:1.5}
+  .mn a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+  .mn a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+  .vidbtn{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12.5px;cursor:pointer;padding:5px 12px;border-radius:999px;
+    border:1px solid var(--rule);background:var(--paper);color:var(--ink-soft);transition:.15s;
+  }
+  .vidbtn:hover{border-color:var(--gold);color:var(--ink)}
+  .vidwrap{margin-top:10px}
+  .vidwrap[hidden]{display:none}
+  .vidwrap iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:6px;background:#000}
+
+  /* 设置：默认隐藏，点右下角按钮展开 */
+  .fab{
+    position:fixed;right:16px;bottom:16px;z-index:310;
+    width:38px;height:38px;border-radius:50%;
+    border:1px solid var(--rule);background:rgba(255,255,255,.92);
+    color:var(--ink-soft);cursor:pointer;
+    box-shadow:0 2px 10px rgba(40,32,18,.10);
+    display:flex;align-items:center;justify-content:center;
+    font-size:16px;line-height:1;padding:0;
+    backdrop-filter:blur(6px);transition:.15s;
+  }
+  .fab:hover{color:var(--ink);border-color:var(--gold)}
+  .panel{
+    position:fixed;right:16px;bottom:62px;z-index:310;
+    min-width:186px;padding:8px 12px 10px;
+    background:#fff;border:1px solid #e6dfd0;border-radius:10px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:13px;color:var(--ink-soft);
+  }
+  .panel[hidden]{display:none}
+  .panel .row{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:5px 0;white-space:nowrap}
+  .panel .row + .row{border-top:1px dashed #eee8dc}
+  .panel .info{padding-top:7px;margin-top:2px;border-top:1px solid #eee8dc;font-size:11.5px;color:#8d887e}
+  .sw{
+    position:relative;width:34px;height:19px;flex:none;
+    border:none;border-radius:999px;background:#dcd6ca;cursor:pointer;padding:0;transition:background .15s;
+  }
+  .sw::after{
+    content:"";position:absolute;top:2px;left:2px;
+    width:15px;height:15px;border-radius:50%;background:#fff;
+    box-shadow:0 1px 2px rgba(0,0,0,.22);transition:left .15s;
+  }
+  .sw[aria-pressed="true"]{background:var(--accent)}
+  .sw[aria-pressed="true"]::after{left:17px}
+
+  .para{padding:13px 0;border-bottom:1px solid var(--rule)}
+  .para:first-of-type{padding-top:4px}
+  .para .no{
+    display:inline-block;font-size:10px;letter-spacing:.14em;color:var(--gold);
+    font-family:-apple-system,sans-serif;margin-bottom:4px;
+  }
+  .en{font-size:17px;line-height:1.62;color:var(--ink);text-align:justify;hyphens:auto;margin:0}
+  .en p{margin:0 0 6px}
+  .zh{
+    margin-top:7px;padding-left:13px;
+    border-left:3px solid #dfe7ee;
+    font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:14px;line-height:1.7;color:var(--zh);
+  }
+  .en .q{display:block;margin:10px 0 2px 22px;font-style:italic;color:var(--ink-soft)}
+  .zh .q{display:block;margin:7px 0 2px 8px;color:var(--zh)}
+
+  /* 词汇：原文只留虚线下划线，释义隐藏在 .g 中，由浮层读取 */
+  .voc{display:inline;cursor:help;position:relative}
+  .voc .w{
+    text-decoration:underline dotted var(--gold) 1.5px;
+    text-underline-offset:4px;font-weight:600;transition:background .12s;
+  }
+  .voc .w:hover,.voc.on .w{background:linear-gradient(transparent 62%,#f6e8c8 62%)}
+  .voc .g{display:none}
+
+  .vpop{
+    position:fixed;left:0;top:0;z-index:200;
+    min-width:150px;max-width:300px;padding:10px 13px 11px;
+    background:#fff;color:var(--ink);
+    border:1px solid #e6dfd0;border-radius:9px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    pointer-events:none;opacity:0;transform:translateY(4px);
+    transition:opacity .13s ease,transform .13s ease;
+  }
+  .vpop.show{opacity:1;transform:translateY(0)}
+  .vpop[hidden]{display:none}
+  .vpop .pw{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:600;color:var(--ink);line-height:1.35;margin-bottom:5px}
+  .vpop .pm{font-size:13px;line-height:1.5;margin-bottom:4px;display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
+  .vpop .pos{color:var(--gold);font-style:italic;flex:none}
+  .vpop .ipa{color:var(--accent);font-family:"Times New Roman",Times,serif;font-size:15px}
+  .vpop .pd{font-size:13.5px;line-height:1.55;color:var(--ink-soft);padding-top:6px;border-top:1px dashed #ede7da}
+  .vpop .ar{position:absolute;width:10px;height:10px;background:#fff;border:1px solid #e6dfd0;transform:rotate(45deg)}
+  .vpop:not(.below) .ar{bottom:-6px;border-top:none;border-left:none}
+  .vpop.below .ar{top:-6px;border-bottom:none;border-right:none}
+  .vpop.pinned .pw::after{
+    content:"已固定";float:right;margin-left:10px;
+    font-family:-apple-system,"PingFang SC",sans-serif;
+    font-size:10px;font-weight:400;color:var(--gold);
+    border:1px solid var(--gold);border-radius:3px;padding:1px 4px;letter-spacing:.05em;
+  }
+
+  body.no-gloss .voc{cursor:default}
+  body.no-gloss .voc .w{text-decoration:none;font-weight:400;background:none !important}
+  body.no-zh .zh{display:none}
+
+  .gloss{margin-top:36px;padding-top:20px;border-top:3px double var(--rule)}
+  .gloss h2{font-size:17px;margin:0 0 4px;font-weight:600}
+  .gloss .sub{font-size:12px;color:var(--ink-soft);margin:0 0 12px;font-family:-apple-system,sans-serif}
+  table.gt{width:100%;border-collapse:collapse;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:12.5px}
+  table.gt th,table.gt td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+  table.gt th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);border-bottom:2px solid var(--rule);font-weight:600}
+  table.gt td.wd{font-family:Georgia,serif;font-weight:600;width:20%}
+  table.gt td.ps{color:var(--gold);width:11%;font-variant:italic}
+  table.gt td.ip{font-family:"Times New Roman",serif;color:var(--accent);width:24%}
+  table.gt tr:hover td{background:var(--chip)}
+
+  footer.ft{
+    margin-top:32px;font-size:11.5px;color:var(--ink-soft);line-height:1.75;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  }
+  footer.ft[hidden]{display:none}
+
+  @media (max-width:640px){
+    .wrap{padding:0 15px 56px}
+    h1{font-size:21px}
+    .en{font-size:16px;line-height:1.72}
+    .zh{font-size:13.5px;line-height:1.72}
+    .gloss table.gt td.ip{width:auto}
+    .fab{right:12px;bottom:12px;width:34px;height:34px;font-size:14px}
+    .panel{right:12px;bottom:54px}
+  }
+  @media print{
+    .fab,.panel,.media{display:none !important}
+    body{background:#fff}
+    .para{page-break-inside:avoid}
+    .gloss{page-break-before:always}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<a class="back" href="index.html">← 返回时间轴</a>
+
+<header class="hd">
+  <p class="kicker">1941 年 12 月 8 日 · 华盛顿国会联席会议</p>
+  <h1>耻辱之日
+    <small>Day of Infamy — Franklin D. Roosevelt</small>
+  </h1>
+</header>
+
+<!-- 没有音频/视频时整段删除；没有视频就只留音频那一行 -->
+<section class="media" id="media" hidden>
+  <div class="mrow" data-media="audio">
+    <span class="mlbl">音频</span>
+    <audio class="aud" controls preload="none" src="{{AUDIO_SRC}}"></audio>
+    <span class="mn">{{AUDIO_LEN}} · {{AUDIO_COPYRIGHT}} · <a href="{{AUDIO_SRC}}" download>下载 MP3</a></span>
+  </div>
+  <div class="mrow" data-media="video">
+    <span class="mlbl">视频</span>
+    <button class="vidbtn" id="vidbtn" type="button">▶ 加载视频（YouTube）</button>
+    <span class="mn">{{VIDEO_SOURCE}} · <a href="https://www.youtube.com/watch?v={{YOUTUBE_ID}}" target="_blank" rel="noopener">在新窗口打开</a></span>
+  </div>
+  <div class="vidwrap" id="vidwrap" hidden></div>
+</section>
+
+<main id="body">
+
+<section class="para">
+  <span class="no">01</span>
+  <div class="en">Mr. Vice President, Mr. Speaker, members of the Senate and the House of Representatives: Yesterday, December 7th, 1941—a date which will live in <span class="voc"><span class="w">infamy</span><span class="g"><i>n.</i> /ˈɪnfəmi/ 声名狼藉；耻辱</span></span>—the United States of America was suddenly and <span class="voc"><span class="w">deliberately</span><span class="g"><i>adv.</i> /dɪˈlɪbərətli/ 蓄意地，故意地</span></span> attacked by <span class="voc"><span class="w">naval</span><span class="g"><i>adj.</i> /ˈneɪvl/ 海军的</span></span> and air forces of the <span class="voc"><span class="w">Empire</span><span class="g"><i>n.</i> /ˈempaɪər/ 帝国</span></span> of Japan.</div>
+  <div class="zh">副总统先生、议长先生、参议院和众议院的各位议员：昨天，1941年12月7日——一个将永远蒙受耻辱的日子——美利坚合众国遭到了日本帝国海军和空军部队突然而蓄意的攻击。</div>
+</section>
+
+<section class="para">
+  <span class="no">02</span>
+  <div class="en">The United States was at peace with that nation, and, at the <span class="voc"><span class="w">solicitation</span><span class="g"><i>n.</i> /səˌlɪsɪˈteɪʃn/ 请求，恳求；劝诱</span></span> of Japan, was still in conversation with its Government and its Emperor looking toward the <span class="voc"><span class="w">maintenance</span><span class="g"><i>n.</i> /ˈmeɪntənəns/ 维持，保持</span></span> of peace in the Pacific. Indeed, one hour after Japanese air <span class="voc"><span class="w">squadrons</span><span class="g"><i>n.</i> /ˈskwɑːdrənz/ 中队（空军编制）</span></span> had <span class="voc"><span class="w">commenced</span><span class="g"><i>v.</i> /kəˈmenst/ 开始（commence 的过去式）</span></span> bombing in the American island of Oahu, the Japanese <span class="voc"><span class="w">Ambassador</span><span class="g"><i>n.</i> /æmˈbæsədər/ 大使</span></span> to the United States and his <span class="voc"><span class="w">colleague</span><span class="g"><i>n.</i> /ˈkɑːliːɡ/ 同事，同僚</span></span> delivered to our Secretary of State a formal reply to a recent American message. And while this reply stated that it seemed useless to continue the existing <span class="voc"><span class="w">diplomatic</span><span class="g"><i>adj.</i> /ˌdɪpləˈmætɪk/ 外交的</span></span> <span class="voc"><span class="w">negotiations</span><span class="g"><i>n.</i> /nɪˌɡoʊʃiˈeɪʃnz/ 谈判，磋商</span></span>, it contained no threat or hint of war or of armed attack.</div>
+  <div class="zh">美国当时与那个国家处于和平状态，并且应日本之请，仍在与其政府和天皇进行对话，以期维持太平洋地区的和平。事实上，在日本空军机群开始轰炸美国瓦胡岛一小时之后，日本驻美国大使及其同僚才向我国国务卿递交了对最近一份美国照会的正式答复。而这份答复虽然声称继续现有的外交谈判已无意义，却丝毫没有提及战争或武装进攻的威胁或暗示。</div>
+</section>
+
+<section class="para">
+  <span class="no">03</span>
+  <div class="en">It will be <span class="voc"><span class="w">recorded</span><span class="g"><i>v.</i> /rɪˈkɔːrdɪd/ 记载，记录</span></span> that the distance of Hawaii from Japan makes it <span class="voc"><span class="w">obvious</span><span class="g"><i>adj.</i> /ˈɑːbviəs/ 明显的，显而易见的</span></span> that the attack was deliberately planned many days or even weeks ago. During the <span class="voc"><span class="w">intervening</span><span class="g"><i>adj.</i> /ˌɪntərˈviːnɪŋ/ 介于其间的</span></span> time the Japanese Government has deliberately sought to <span class="voc"><span class="w">deceive</span><span class="g"><i>v.</i> /dɪˈsiːv/ 欺骗，蒙蔽</span></span> the United States by false statements and <span class="voc"><span class="w">expressions</span><span class="g"><i>n.</i> /ɪkˈspreʃnz/ 表达，表示</span></span> of hope for continued peace.</div>
+  <div class="zh">必须记录在案的是：夏威夷与日本相距遥远，这就使显而易见——此次攻击是许多天甚至数周之前就已蓄意策划的。在这段时间里，日本政府蓄意以虚假的声明和希望继续和平的表示来欺骗美国。</div>
+</section>
+
+<section class="para">
+  <span class="no">04</span>
+  <div class="en">The attack yesterday on the Hawaiian Islands has caused <span class="voc"><span class="w">severe</span><span class="g"><i>adj.</i> /sɪˈvɪr/ 严重的，剧烈的</span></span> damage to American naval and military forces. I <span class="voc"><span class="w">regret</span><span class="g"><i>v.</i> /rɪˈɡret/ 遗憾，抱歉</span></span> to tell you that very many American lives have been lost. In addition American ships have been reported <span class="voc"><span class="w">torpedoed</span><span class="g"><i>v.</i> /tɔːrˈpiːdoʊd/ 用鱼雷击沉</span></span> on the <span class="voc"><span class="w">high seas</span><span class="g"><i>phr.</i> /ˌhaɪ ˈsiːz/ 公海，远洋</span></span> between San Francisco and Honolulu.</div>
+  <div class="zh">昨天对夏威夷群岛的进攻，已使美国海军和军事力量遭受严重损失。我遗憾地告诉各位，为数众多的美国人已经丧生。此外，据报道，美国船只已在旧金山与檀香山之间的公海上遭到鱼雷攻击。</div>
+</section>
+
+<section class="para">
+  <span class="no">05</span>
+  <div class="en">Yesterday the Japanese Government also <span class="voc"><span class="w">launched</span><span class="g"><i>v.</i> /lɔːntʃt/ 发动，发起</span></span> an <span class="voc"><span class="w">attack</span><span class="g"><i>n.</i> /əˈtæk/ 攻击，进攻</span></span> against Malaya.</div>
+  <div class="zh">昨天，日本政府还发动了对马来亚的进攻。</div>
+</section>
+
+<section class="para">
+  <span class="no">06</span>
+  <div class="en">Last night Japanese <span class="voc"><span class="w">forces</span><span class="g"><i>n.</i> /ˈfɔːrsɪz/ 武装力量，部队</span></span> <span class="voc"><span class="w">attacked</span><span class="g"><i>v.</i> /əˈtækt/ 袭击，攻击</span></span> Hong Kong.</div>
+  <div class="zh">昨夜，日军进攻了香港。</div>
+</section>
+
+<section class="para">
+  <span class="no">07</span>
+  <div class="en">Last night Japanese forces attacked Guam.</div>
+  <div class="zh">昨夜，日军进攻了关岛。</div>
+</section>
+
+<section class="para">
+  <span class="no">08</span>
+  <div class="en">Last night Japanese forces attacked the Philippine Islands.</div>
+  <div class="zh">昨夜，日军进攻了菲律宾群岛。</div>
+</section>
+
+<section class="para">
+  <span class="no">09</span>
+  <div class="en">Last night the Japanese attacked Wake Island.</div>
+  <div class="zh">昨夜，日军进攻了威克岛。</div>
+</section>
+
+<section class="para">
+  <span class="no">10</span>
+  <div class="en">And this morning the Japanese attacked Midway Island.</div>
+  <div class="zh">今天上午，日军进攻了中途岛。</div>
+</section>
+
+<section class="para">
+  <span class="no">11</span>
+  <div class="en">Japan has, therefore, <span class="voc"><span class="w">undertaken</span><span class="g"><i>v.</i> /ˌʌndərˈteɪkən/ 着手，进行（undertake 的过去分词）</span></span> a surprise <span class="voc"><span class="w">offensive</span><span class="g"><i>n.</i> /əˈfensɪv/ 攻势，进攻</span></span> <span class="voc"><span class="w">extending</span><span class="g"><i>v.</i> /ɪkˈstendɪŋ/ 延伸，扩展</span></span> throughout the Pacific area. The facts of yesterday and today speak for themselves. The people of the United States have already formed their opinions and well understand the <span class="voc"><span class="w">implications</span><span class="g"><i>n.</i> /ˌɪmplɪˈkeɪʃnz/ 影响，含义</span></span> to the very life and safety of our <span class="voc"><span class="w">nation</span><span class="g"><i>n.</i> /ˈneɪʃn/ 国家，民族</span></span>.</div>
+  <div class="zh">因此，日本已发动了一场遍及整个太平洋地区的突然攻势。昨天和今天的事实本身就说明了一切。美国人民已经形成了自己的判断，并充分理解这对我国生死存亡和安全的影响。</div>
+</section>
+
+<section class="para">
+  <span class="no">12</span>
+  <div class="en">As <span class="voc"><span class="w">Commander-in-Chief</span><span class="g"><i>n.</i> /kəˌmændər ɪn ˈtʃiːf/ 总司令</span></span> of the Army and Navy, I have <span class="voc"><span class="w">directed</span><span class="g"><i>v.</i> /dəˈrektɪd/ 指示，命令</span></span> that all <span class="voc"><span class="w">measures</span><span class="g"><i>n.</i> /ˈmeʒərz/ 措施，办法</span></span> be taken for our <span class="voc"><span class="w">defense</span><span class="g"><i>n.</i> /dɪˈfens/ 防御，防卫</span></span>.</div>
+  <div class="zh">作为陆军和海军总司令，我已下令采取一切措施进行防御。</div>
+</section>
+
+<section class="para">
+  <span class="no">13</span>
+  <div class="en">But always will our whole nation remember the <span class="voc"><span class="w">character</span><span class="g"><i>n.</i> /ˈkærəktər/ 性质，特征</span></span> of the <span class="voc"><span class="w">onslaught</span><span class="g"><i>n.</i> /ˈɑːnslɔːt/ 猛攻，袭击</span></span> against us. No matter how long it may take us to <span class="voc"><span class="w">overcome</span><span class="g"><i>v.</i> /ˌoʊvərˈkʌm/ 战胜，克服</span></span> this <span class="voc"><span class="w">premeditated</span><span class="g"><i>adj.</i> /priˈmedɪteɪtɪd/ 预谋的，事先策划的</span></span> <span class="voc"><span class="w">invasion</span><span class="g"><i>n.</i> /ɪnˈveɪʒn/ 入侵，侵略</span></span>, the American people in their <span class="voc"><span class="w">righteous</span><span class="g"><i>adj.</i> /ˈraɪtʃəs/ 正义的，正当的</span></span> <span class="voc"><span class="w">might</span><span class="g"><i>n.</i> /maɪt/ 力量，威力</span></span> will win through to <span class="voc"><span class="w">absolute</span><span class="g"><i>adj.</i> /ˈæbsəluːt/ 绝对的，完全的</span></span> victory.</div>
+  <div class="zh">但我们的全国民众将永远铭记这次袭击的性质。无论我们需要多长时间才能战胜这场预谋已久的侵略，美国人民都将以其正义的力量赢得彻底的胜利。</div>
+</section>
+
+<section class="para">
+  <span class="no">14</span>
+  <div class="en">I believe that I <span class="voc"><span class="w">interpret</span><span class="g"><i>v.</i> /ɪnˈtɜːrprət/ 诠释，理解</span></span> the will of the Congress and of the people when I <span class="voc"><span class="w">assert</span><span class="g"><i>v.</i> /əˈsɜːrt/ 断言，宣称</span></span> that we will not only defend ourselves to the <span class="voc"><span class="w">uttermost</span><span class="g"><i>n.</i> /ˈʌtərmoʊst/ 最大限度，极致</span></span> but will make it very certain that this form of <span class="voc"><span class="w">treachery</span><span class="g"><i>n.</i> /ˈtretʃəri/ 背信弃义，背叛</span></span> shall never again <span class="voc"><span class="w">endanger</span><span class="g"><i>v.</i> /ɪnˈdeɪndʒər/ 危及，使遭危险</span></span> us.</div>
+  <div class="zh">我相信，当我断言我们不仅将竭尽全力自卫，而且将使这种背信弃义的行为永不再危及我们时，我表达了国会和人民的意志。</div>
+</section>
+
+<section class="para">
+  <span class="no">15</span>
+  <div class="en"><span class="voc"><span class="w">Hostilities</span><span class="g"><i>n.</i> /hɑːˈstɪlətiz/ 敌对行动，战争状态</span></span> exist. There is no <span class="voc"><span class="w">blinking</span><span class="g"><i>v.</i> /ˈblɪŋkɪŋ/ 眨眼；（此处）回避、视而不见</span></span> at the fact that our people, our <span class="voc"><span class="w">territory</span><span class="g"><i>n.</i> /ˈterətɔːri/ 领土，领地</span></span> and our interests are in <span class="voc"><span class="w">grave</span><span class="g"><i>adj.</i> /ɡreɪv/ 严重的，重大的</span></span> danger.</div>
+  <div class="zh">敌对行动已经存在。不容回避的事实是：我们的人民、我们的领土和我们的利益都处于严重的危险之中。</div>
+</section>
+
+<section class="para">
+  <span class="no">16</span>
+  <div class="en">With <span class="voc"><span class="w">confidence</span><span class="g"><i>n.</i> /ˈkɑːnfɪdəns/ 信心，信任</span></span> in our armed forces—with the unbounding <span class="voc"><span class="w">determination</span><span class="g"><i>n.</i> /dɪˌtɜːrmɪˈneɪʃn/ 决心，坚定</span></span> of our people—we will gain the <span class="voc"><span class="w">inevitable</span><span class="g"><i>adj.</i> /ɪnˈevɪtəbl/ 必然的，不可避免的</span></span> <span class="voc"><span class="w">triumph</span><span class="g"><i>n.</i> /ˈtraɪʌmf/ 胜利，凯旋</span></span>—so help us God.</div>
+  <div class="zh">怀着对武装部队的信心——怀着我国人民无穷的决心——我们将赢得必然的胜利——愿上帝助我。</div>
+</section>
+
+<section class="para">
+  <span class="no">17</span>
+  <div class="en">I ask that the Congress <span class="voc"><span class="w">declare</span><span class="g"><i>v.</i> /dɪˈkler/ 宣布，宣告</span></span> that since the <span class="voc"><span class="w">unprovoked</span><span class="g"><i>adj.</i> /ˌʌnprəˈvoʊkt/ 未受挑衅的，无端的</span></span> and <span class="voc"><span class="w">dastardly</span><span class="g"><i>adj.</i> /ˈdæstərdli/ 卑鄙的，怯懦的</span></span> attack by Japan on Sunday, December 7th, 1941, a <span class="voc"><span class="w">state of war</span><span class="g"><i>phr.</i> /ˌsteɪt əv ˈwɔːr/ 战争状态</span></span> has existed between the United States and the Japanese Empire.</div>
+  <div class="zh">我请求国会宣布：自日本于1941年12月7日星期日发动无端而卑鄙的进攻以来，美国与日本帝国之间已处于战争状态。</div>
+</section>
+
+</main>
+
+<section class="gloss">
+  <h2>词汇总表</h2>
+  <p class="sub">按英文段落出现顺序排列，共 <b id="gcount">—</b> 条。</p>
+  <table class="gt">
+    <thead><tr><th>Word</th><th>词性</th><th>音标（美式）</th><th>释义</th></tr></thead>
+    <tbody id="gbody"></tbody>
+  </table>
+</section>
+
+<footer class="ft">
+  原文来源：Wikisource「Day of Infamy」。富兰克林·D·罗斯福 1941 年 12 月 8 日在珍珠港遇袭次日向国会联席会议发表，请求对日宣战。联邦职务作品（17 U.S.C. §105），载于《Congressional Record》87 Cong. Rec. 9689。无原声音频。
+</footer>
+
+</div>
+
+<div class="panel" id="panel" hidden>
+  <div class="row"><span>中文译文</span><button class="sw" id="tgZh" aria-pressed="true" aria-label="中文译文"></button></div>
+  <div class="row"><span>词汇浮层</span><button class="sw" id="tgGl" aria-pressed="true" aria-label="词汇浮层"></button></div>
+  <div class="info">共 <b id="gcount2">—</b> 条词汇 · 音标为美式发音</div>
+</div>
+<button class="fab" id="fab" aria-label="显示设置" title="显示设置">⚙</button>
+
+<div class="vpop" id="vpop" hidden aria-hidden="true">
+  <span class="ar"></span>
+  <div class="pw"></div>
+  <div class="pm"><span class="pos"></span><span class="ipa"></span></div>
+  <div class="pd"></div>
+</div>
+
+<script>
+(function(){
+  var body = document.body;
+
+  /* 0. 媒体是可选的：未填写的行自动隐藏，全都没填则整块不显示 */
+  var mediaSec = document.getElementById('media');
+  if(mediaSec){
+    var rows = Array.prototype.slice.call(mediaSec.querySelectorAll('[data-media]'));
+    var shown = 0;
+    rows.forEach(function(r){
+      var filled = !/\{\{[A-Z_]+\}\}/.test(r.innerHTML) && !/\ssrc=""/.test(r.innerHTML);
+      r.hidden = !filled;
+      if(filled){ r.classList.toggle('sep', shown > 0); shown++; }
+    });
+    mediaSec.hidden = shown === 0;
+  }
+  var ft = document.querySelector('footer.ft');
+  if(ft){
+    ft.hidden = ft.textContent.trim() === '' || /\{\{[A-Z_]+\}\}/.test(ft.textContent);
+  }
+
+  /* 1. 词汇释义 -> data 属性 */
+  var seen = Object.create(null);
+  var items = [];
+  Array.prototype.forEach.call(document.querySelectorAll('#body .voc'), function(v){
+    var wEl = v.querySelector('.w');
+    var gEl = v.querySelector('.g');
+    if(!wEl || !gEl) return;
+    var word = wEl.textContent.trim();
+    var posEl = gEl.querySelector('i');
+    var pos = posEl ? posEl.textContent.trim() : '';
+    var rest = posEl ? gEl.textContent.replace(posEl.textContent, '').trim() : gEl.textContent.trim();
+    var m = rest.match(/^(\/[^/]*\/)\s*([\s\S]*)$/);
+    var ipa = m ? m[1] : '';
+    var def = m ? m[2] : rest;
+    v.setAttribute('data-w', word);
+    v.setAttribute('data-pos', pos);
+    v.setAttribute('data-ipa', ipa);
+    v.setAttribute('data-def', def);
+    v.setAttribute('tabindex', '0');
+    v.setAttribute('role', 'button');
+    v.setAttribute('aria-label', word + ' ' + ipa + ' ' + def);
+    var key = word.toLowerCase();
+    if(!seen[key]){ seen[key] = 1; items.push({w:word, pos:pos, ipa:ipa, def:def}); }
+  });
+
+  /* 2. 页尾词汇总表（去重、按出现顺序） */
+  var tb = document.getElementById('gbody');
+  items.forEach(function(r){
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td class="wd"></td><td class="ps"></td><td class="ip"></td><td></td>';
+    tr.children[0].textContent = r.w;
+    tr.children[1].textContent = r.pos;
+    tr.children[2].textContent = r.ipa;
+    tr.children[3].textContent = r.def;
+    tb.appendChild(tr);
+  });
+  document.getElementById('gcount').textContent = items.length;
+  var g2 = document.getElementById('gcount2');
+  if(g2) g2.textContent = items.length;
+
+  /* 3. 浮层：悬停显示，单击固定，点别处 / Esc 关闭 */
+  var pop   = document.getElementById('vpop');
+  var pw    = pop.querySelector('.pw');
+  var ppos  = pop.querySelector('.pos');
+  var pipa  = pop.querySelector('.ipa');
+  var pdef  = pop.querySelector('.pd');
+  var arrow = pop.querySelector('.ar');
+  var current = null, pinned = null;
+
+  function enabled(){ return !body.classList.contains('no-gloss'); }
+
+  function place(el){
+    var r = el.getBoundingClientRect();
+    var pwid = pop.offsetWidth, phgt = pop.offsetHeight;
+    var left = Math.max(10, Math.min(r.left + r.width/2 - pwid/2, window.innerWidth - pwid - 10));
+    var top = r.top - phgt - 11, below = false;
+    if(top < 10){ top = r.bottom + 11; below = true; }
+    pop.style.left = Math.round(left) + 'px';
+    pop.style.top  = Math.round(top) + 'px';
+    pop.classList.toggle('below', below);
+    arrow.style.left = Math.round(Math.max(10, Math.min(r.left + r.width/2 - left, pwid - 20))) + 'px';
+  }
+
+  function show(el){
+    if(!enabled()) return;
+    if(current && current !== el) current.classList.remove('on');
+    current = el; el.classList.add('on');
+    pw.textContent   = el.getAttribute('data-w');
+    ppos.textContent = el.getAttribute('data-pos');
+    pipa.textContent = el.getAttribute('data-ipa');
+    pdef.textContent = el.getAttribute('data-def');
+    pop.hidden = false;
+    pop.setAttribute('aria-hidden','false');
+    pop.classList.toggle('pinned', pinned === el);
+    place(el);
+    requestAnimationFrame(function(){ pop.classList.add('show'); });
+  }
+
+  function hide(){
+    if(current){ current.classList.remove('on'); current = null; }
+    pinned = null;
+    pop.classList.remove('show','pinned');
+    pop.hidden = true;
+    pop.setAttribute('aria-hidden','true');
+  }
+
+  function vocOf(t){ return t && t.closest ? t.closest('.voc') : null; }
+
+  document.addEventListener('mouseover', function(e){
+    var v = vocOf(e.target);
+    if(!v || !enabled() || pinned || v === current) return;
+    show(v);
+  });
+  document.addEventListener('mouseout', function(e){
+    var v = vocOf(e.target);
+    if(!v) return;
+    var to = e.relatedTarget;
+    if(to && vocOf(to) === v) return;
+    if(pinned === v) return;
+    hide();
+  });
+  document.addEventListener('click', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled()){
+      if(pinned === v){ hide(); } else { pinned = v; show(v); }
+      return;
+    }
+    if(!v && (current || pinned)) hide();
+  });
+  document.addEventListener('focusin', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled() && v !== current) show(v);
+  });
+  document.addEventListener('focusout', function(e){
+    var v = vocOf(e.target);
+    if(v && !pinned) hide();
+  });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && (current || pinned)) hide();
+  });
+
+  var raf = 0;
+  function reposition(){ if(!current || pop.hidden) return; raf = 0; place(current); }
+  window.addEventListener('scroll', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); }, true);
+  window.addEventListener('resize', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); });
+
+  /* 4. 视频：点击后才加载 iframe */
+  var vidbtn = document.getElementById('vidbtn');
+  var vidwrap = document.getElementById('vidwrap');
+  var vidrow = vidbtn && vidbtn.closest('[data-media]');
+  if(vidbtn && vidrow && !vidrow.hidden){
+    vidbtn.addEventListener('click', function(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/{{YOUTUBE_ID}}?rel=0';
+      f.title = 'Day of Infamy — Franklin D. Roosevelt';
+      f.setAttribute('frameborder','0');
+      f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+      f.setAttribute('allowfullscreen','');
+      f.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+      f.loading = 'lazy';
+      vidwrap.appendChild(f);
+      vidwrap.hidden = false;
+      vidbtn.hidden = true;
+    });
+  }
+
+  /* 5. 显示开关（右下角按钮，默认收起） */
+  var tgZh = document.getElementById('tgZh');
+  var tgGl = document.getElementById('tgGl');
+  var fab  = document.getElementById('fab');
+  var panel= document.getElementById('panel');
+
+  function sync(){
+    tgZh.setAttribute('aria-pressed', body.classList.contains('no-zh') ? 'false' : 'true');
+    tgGl.setAttribute('aria-pressed', body.classList.contains('no-gloss') ? 'false' : 'true');
+  }
+  fab.addEventListener('click', function(e){ e.stopPropagation(); panel.hidden = !panel.hidden; });
+  tgZh.addEventListener('click', function(e){ e.stopPropagation(); body.classList.toggle('no-zh'); sync(); });
+  tgGl.addEventListener('click', function(e){
+    e.stopPropagation();
+    body.classList.toggle('no-gloss');
+    if(body.classList.contains('no-gloss')) hide();
+    sync();
+  });
+  panel.addEventListener('click', function(e){ e.stopPropagation(); });
+  document.addEventListener('click', function(e){
+    if(!panel.hidden && !panel.contains(e.target) && e.target !== fab) panel.hidden = true;
+  });
+  sync();
+})();
+</script>
+</body>
+</html>
