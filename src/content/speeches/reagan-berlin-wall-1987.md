@@ -21,4 +21,26 @@ video: {"url": "https://www.youtube-nocookie.com/embed/5MDFX-dNtsM?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">There is one sign the Soviets may make that would be unmistakable, that would advance dramatically the cause of freedom and peace. General Secretary Gorbachev, if you seek peace—if you seek prosperity for the Soviet Union and Eastern Europe—come here, to this gate.</div><div class="zh">苏联可以发出一个明确无误、能极大推进自由与和平事业的信号。总书记戈尔巴乔夫，如果你寻求和平，如果你寻求苏联和东欧的繁荣——请来到这里，来到这座门前。</div></section><section class="para"><span class="no">02</span><div class="en">Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!</div><div class="zh">戈尔巴乔夫先生，打开这扇门！戈尔巴乔夫先生，推倒这堵墙！</div></section><section class="para"><span class="no">03</span><div class="en">As long as this gate is closed, as long as this scar of a wall is permitted to stand, it is not simply the German question that remains open, but the question of freedom for all mankind.</div><div class="zh">只要这扇门仍然关闭，只要这道伤疤般的墙仍被允许存在，悬而未决的就不只是德国问题，而是全人类的自由问题。</div></section><section class="para"><span class="no">04</span><div class="en">This wall will fall. For it cannot withstand faith; it cannot withstand truth. The wall cannot withstand freedom.</div><div class="zh">这堵墙终将倒塌。因为它无法抵挡信仰，无法抵挡真理，也无法抵挡自由。</div></section>
+### 01
+
+There is one sign the Soviets may make that would be unmistakable, that would advance dramatically the cause of freedom and peace. General Secretary Gorbachev, if you seek peace—if you seek prosperity for the Soviet Union and Eastern Europe—come here, to this gate.
+
+> 苏联可以发出一个明确无误、能极大推进自由与和平事业的信号。总书记戈尔巴乔夫，如果你寻求和平，如果你寻求苏联和东欧的繁荣——请来到这里，来到这座门前。
+
+### 02
+
+Mr. Gorbachev, open this gate! Mr. Gorbachev, tear down this wall!
+
+> 戈尔巴乔夫先生，打开这扇门！戈尔巴乔夫先生，推倒这堵墙！
+
+### 03
+
+As long as this gate is closed, as long as this scar of a wall is permitted to stand, it is not simply the German question that remains open, but the question of freedom for all mankind.
+
+> 只要这扇门仍然关闭，只要这道伤疤般的墙仍被允许存在，悬而未决的就不只是德国问题，而是全人类的自由问题。
+
+### 04
+
+This wall will fall. For it cannot withstand faith; it cannot withstand truth. The wall cannot withstand freedom.
+
+> 这堵墙终将倒塌。因为它无法抵挡信仰，无法抵挡真理，也无法抵挡自由。

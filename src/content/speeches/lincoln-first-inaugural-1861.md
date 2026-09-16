@@ -21,4 +21,32 @@ video: {"url": "https://www.youtube-nocookie.com/embed/CrbIYFzWJpY?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">I hold that in contemplation of universal law and of the Constitution the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments.</div><div class="zh">我认为，依照普遍法则和宪法，这些州组成的联邦是永久性的。即使没有明文写出，永久性也蕴含在一切国家政府的根本法之中。</div></section><section class="para"><span class="no">02</span><div class="en">No State, upon its own mere motion, can lawfully get out of the Union; resolves and ordinances to that effect are legally void. I shall consider and deal with the act of secession as a nullity.</div><div class="zh">任何州都不能仅凭自身意愿合法退出联邦；具有这种效力的决议和法令在法律上均属无效。我将把脱离联邦的行为视为无效之举来处理。</div></section><section class="para"><span class="no">03</span><div class="en">The central idea of secession is the essence of anarchy. A majority held in restraint by constitutional checks and limitations, and always changing easily with deliberate changes of popular opinions and sentiments, is the only true sovereign of a free people.</div><div class="zh">脱离联邦的核心思想，本质上就是无政府状态。受到宪法制约与限制、并能随着民意和情感的审慎变化而和平更替的多数，才是自由人民唯一真正的主权者。</div></section><section class="para"><span class="no">04</span><div class="en">We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory will yet swell the chorus of the Union.</div><div class="zh">我们不是敌人，而是朋友。我们绝不能成为敌人。激情或许使情感的纽带绷紧，却不应将它撕裂。记忆的神秘琴弦，终将再次奏响联邦的合唱。</div></section><section class="para"><span class="no">05</span><div class="en">The mystic chords of memory will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature.</div><div class="zh">我们天性中更善良的天使，必将被我们天性中更善良的天使所触动。</div></section>
+### 01
+
+I hold that in contemplation of universal law and of the Constitution the Union of these States is perpetual. Perpetuity is implied, if not expressed, in the fundamental law of all national governments.
+
+> 我认为，依照普遍法则和宪法，这些州组成的联邦是永久性的。即使没有明文写出，永久性也蕴含在一切国家政府的根本法之中。
+
+### 02
+
+No State, upon its own mere motion, can lawfully get out of the Union; resolves and ordinances to that effect are legally void. I shall consider and deal with the act of secession as a nullity.
+
+> 任何州都不能仅凭自身意愿合法退出联邦；具有这种效力的决议和法令在法律上均属无效。我将把脱离联邦的行为视为无效之举来处理。
+
+### 03
+
+The central idea of secession is the essence of anarchy. A majority held in restraint by constitutional checks and limitations, and always changing easily with deliberate changes of popular opinions and sentiments, is the only true sovereign of a free people.
+
+> 脱离联邦的核心思想，本质上就是无政府状态。受到宪法制约与限制、并能随着民意和情感的审慎变化而和平更替的多数，才是自由人民唯一真正的主权者。
+
+### 04
+
+We are not enemies, but friends. We must not be enemies. Though passion may have strained, it must not break our bonds of affection. The mystic chords of memory will yet swell the chorus of the Union.
+
+> 我们不是敌人，而是朋友。我们绝不能成为敌人。激情或许使情感的纽带绷紧，却不应将它撕裂。记忆的神秘琴弦，终将再次奏响联邦的合唱。
+
+### 05
+
+The mystic chords of memory will yet swell the chorus of the Union, when again touched, as surely they will be, by the better angels of our nature.
+
+> 我们天性中更善良的天使，必将被我们天性中更善良的天使所触动。

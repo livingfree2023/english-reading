@@ -21,4 +21,26 @@ video: {"url": "https://www.youtube-nocookie.com/embed/BCrx_u3825g?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">I have some very sad news for all of our fellow citizens and people who love peace all over the world, and that is that Martin Luther King was shot and was killed tonight in Memphis, Tennessee.</div><div class="zh">我有一个极其悲伤的消息要告诉所有同胞，也告诉全世界热爱和平的人们：马丁·路德·金今晚在田纳西州孟菲斯遭枪击身亡。</div></section><section class="para"><span class="no">02</span><div class="en">Martin Luther King dedicated his life to love and to justice between fellow human beings. He died in that effort.</div><div class="zh">马丁·路德·金把一生献给了人与人之间的爱与正义。他在这项努力中献出了生命。</div></section><section class="para"><span class="no">03</span><div class="en">For those of you who are black and are tempted to be filled with hatred and distrust, I can only say that I can feel in my own heart the same kind of feeling.</div><div class="zh">对于你们中那些黑人朋友，如果你们正被仇恨与不信任填满，我只能说，我在自己的心里也能感受到同样的情绪。</div></section><section class="para"><span class="no">04</span><div class="en">We can move in that direction as a country, in greater polarization—black people amongst blacks, white amongst whites, filled with hatred toward one another. Or we can make an effort, as Martin Luther King did, to understand and to replace that violence with compassion.</div><div class="zh">作为一个国家，我们可以走向更深的两极化：黑人只和黑人在一起，白人只和白人在一起，彼此充满仇恨；也可以像马丁·路德·金那样努力去理解，并以同情取代暴力。</div></section>
+### 01
+
+I have some very sad news for all of our fellow citizens and people who love peace all over the world, and that is that Martin Luther King was shot and was killed tonight in Memphis, Tennessee.
+
+> 我有一个极其悲伤的消息要告诉所有同胞，也告诉全世界热爱和平的人们：马丁·路德·金今晚在田纳西州孟菲斯遭枪击身亡。
+
+### 02
+
+Martin Luther King dedicated his life to love and to justice between fellow human beings. He died in that effort.
+
+> 马丁·路德·金把一生献给了人与人之间的爱与正义。他在这项努力中献出了生命。
+
+### 03
+
+For those of you who are black and are tempted to be filled with hatred and distrust, I can only say that I can feel in my own heart the same kind of feeling.
+
+> 对于你们中那些黑人朋友，如果你们正被仇恨与不信任填满，我只能说，我在自己的心里也能感受到同样的情绪。
+
+### 04
+
+We can move in that direction as a country, in greater polarization—black people amongst blacks, white amongst whites, filled with hatred toward one another. Or we can make an effort, as Martin Luther King did, to understand and to replace that violence with compassion.
+
+> 作为一个国家，我们可以走向更深的两极化：黑人只和黑人在一起，白人只和白人在一起，彼此充满仇恨；也可以像马丁·路德·金那样努力去理解，并以同情取代暴力。

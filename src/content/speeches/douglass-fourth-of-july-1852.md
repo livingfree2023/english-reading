@@ -21,476 +21,600 @@ video: null
 related: []
 ---
 
-<section class="para">
-  <span class="no">01</span>
-  <div class="en">Mr. President, Friends and Fellow Citizens:<br><br>He who could address this audience without a <span class="voc"><span class="w">quailing</span><span class="g"><i>adj.</i> /ˈkweɪlɪŋ/ 畏缩的，胆怯的</span></span> sensation, has stronger nerves than I have. I do not remember ever to have appeared as a speaker before any assembly more <span class="voc"><span class="w">shrinkingly</span><span class="g"><i>adv.</i> /ˈʃrɪŋkɪŋli/ 畏缩地，退缩地</span></span>, nor with greater distrust of my ability, than I do this day. A feeling has crept over me, quite unfavorable to the exercise of my limited powers of speech. The task before me is one which requires much previous thought and study for its proper performance. I know that apologies of this sort are generally considered flat and unmeaning. I trust, however, that mine will not be so considered. Should I seem at ease, my appearance would much <span class="voc"><span class="w">misrepresent</span><span class="g"><i>v.</i> /ˌmɪsˌreprɪˈzent/ 错误地表现，给人以错误印象</span></span> me. The little experience I have had in addressing public meetings, in country school houses, <span class="voc"><span class="w">avails</span><span class="g"><i>v.</i> /əˈveɪlz/ 有用，有助于</span></span> me nothing on the present occasion.</div>
-  <div class="zh">主席先生，朋友们，同胞们：<br><br>一个人若能在这样的听众面前讲话而毫不畏缩，他的神经必定比我坚强。我不记得自己曾以比今天更畏怯的姿态、更怀疑自己能力的心理，出现在任何集会面前。一种情绪悄悄攫住了我，它对我这点有限的说话本领极为不利。摆在我面前的任务，若要做得像样，需要事先大量的思考与钻研。我知道，这类道歉通常被视为空洞而无意义。但我相信，我的道歉不致如此看待。倘若我看上去从容自在，那副模样就大大地错写了我。我在乡间校舍里对着公众集会讲话的那点微薄经验，在今天的场合一无所用。</div>
-</section>
-
-<section class="para">
-  <span class="no">02</span>
-  <div class="en">The papers and <span class="voc"><span class="w">placards</span><span class="g"><i>n.</i> /ˈplækɑːrdz/ 标语牌，招贴</span></span> say, that I am to deliver a 4th July oration. This certainly, sounds large, and out of the common way, for it is true that I have often had the privilege to speak in this beautiful Hall, and to address many who now honor me with their presence. But neither their familiar faces, nor the perfect <span class="voc"><span class="w">gage</span><span class="g"><i>n.</i> /ɡeɪdʒ/ 尺度，估量（同 gauge）</span></span> I think I have of Corinthian Hall, seems to free me from <span class="voc"><span class="w">embarrassment</span><span class="g"><i>n.</i> /ɪmˈbærəsmənt/ 窘迫，局促不安</span></span>.</div>
-  <div class="zh">报纸和招贴上写着，我要作一篇七月四日演说。这听上去当然口气很大，也非同寻常；因为诚然，我常有机会在这座美丽的礼堂里讲话，也曾向如今莅临、给我以荣光的许多人致辞。然而，无论是这些熟悉的面孔，还是我自以为对科林斯礼堂的十足了解，似乎都不能使我摆脱窘迫。</div>
-</section>
-
-<section class="para">
-  <span class="no">03</span>
-  <div class="en">The fact is, ladies and gentlemen, the distance between this platform and the slave plantation, from which I escaped, is considerable—and the difficulties to be overcome in getting from the latter to the former, are by no means slight. That I am here to-day is, to me, a matter of astonishment as well as of gratitude. You will not, therefore, be surprised, if in what I have to say, I <span class="voc"><span class="w">evince</span><span class="g"><i>v.</i> /ɪˈvɪns/ 表明，显出</span></span> no elaborate preparation, nor grace my speech with any high sounding <span class="voc"><span class="w">exordium</span><span class="g"><i>n.</i> /eɡˈzɔːrdiəm/ 开场白，绪论</span></span>. With little experience and with less learning, I have been able to throw my thoughts hastily and imperfectly together; and trusting to your patient and generous <span class="voc"><span class="w">indulgence</span><span class="g"><i>n.</i> /ɪnˈdʌldʒəns/ 宽容，包涵</span></span>, I will proceed to lay them before you.</div>
-  <div class="zh">事实是，女士们先生们，这座讲台与我逃出来的那座奴隶种植园之间，距离相当遥远——而要从后者走到前者，需要克服的困难绝非轻微。今天我站在这里，对我自己而言，既是感激，也是惊愕。因此，倘若我在接下来的话里显不出什么精心准备，也不曾用任何冠冕堂皇的开场白来装点我的演说，诸位不必惊讶。经验既少，学问更浅，我只能把想法仓促而不完美地拼凑起来；如今就仰仗诸位耐心而宽厚的包涵，把它们一一陈于诸位面前。</div>
-</section>
-
-<section class="para">
-  <span class="no">04</span>
-  <div class="en">This, for the purpose of this celebration, is the 4th of July. It is the birthday of your National Independence, and of your political freedom. This, to you, is what the <span class="voc"><span class="w">Passover</span><span class="g"><i>n.</i> /ˈpæsoʊvər/ 逾越节</span></span> was to the emancipated people of God. It carries your minds back to the day, and to the act of your great <span class="voc"><span class="w">deliverance</span><span class="g"><i>n.</i> /dɪˈlɪvərəns/ 解救，拯救</span></span>; and to the signs, and to the wonders, associated with that act, and that day. This celebration also marks the beginning of another year of your national life; and reminds you that the Republic of America is now 76 years old. I am glad, fellow-citizens, that your nation is so young. Seventy-six years, though a good old age for a man, is but a mere speck in the life of a nation. Three score years and ten is the <span class="voc"><span class="w">allotted</span><span class="g"><i>adj.</i> /əˈlɑːtɪd/ 分定的，规定的</span></span> time for individual men; but nations number their years by thousands. According to this fact, you are, even now, only in the beginning of your national career, still lingering in the period of childhood. I repeat, I am glad this is so. There is hope in the thought, and hope is much needed, under the dark clouds which lower above the horizon. The eye of the reformer is met with angry flashes, <span class="voc"><span class="w">portending</span><span class="g"><i>v.</i> /pɔːrˈtendɪŋ/ 预示，预兆</span></span> disastrous times; but his heart may well beat lighter at the thought that America is young, and that she is still in the <span class="voc"><span class="w">impressible</span><span class="g"><i>adj.</i> /ɪmˈpresəbl/ 易受影响的，可塑的</span></span> stage of her existence. May he not hope that high lessons of wisdom, of justice and of truth, will yet give direction to her destiny? Were the nation older, the patriot's heart might be sadder, and the reformer's brow heavier. Its future might be shrouded in gloom, and the hope of its prophets go out in sorrow. There is consolation in the thought that America is young.—Great streams are not easily turned from channels, worn deep in the course of ages. They may sometimes rise in quiet and stately majesty, and <span class="voc"><span class="w">inundate</span><span class="g"><i>v.</i> /ˈɪnʌndeɪt/ 淹没，泛滥</span></span> the land, refreshing and fertilizing the earth with their mysterious properties. They may also rise in wrath and fury, and bear away, on their angry waves, the accumulated wealth of years of toil and hardship. They, however, gradually flow back to the same old channel, and flow on as <span class="voc"><span class="w">serenely</span><span class="g"><i>adv.</i> /səˈriːnli/ 平静地，安详地</span></span> as ever. But, while the river may not be turned aside, it may dry up, and leave nothing behind but the withered branch, and the unsightly rock, to howl in the abyss-sweeping wind, the sad tale of departed glory. As with rivers so with nations.</div>
-  <div class="zh">就这场庆典而言，今天就是七月四日。它是你们国家独立的生日，也是你们政治自由的生日。这一天之于你们，正如逾越节之于被解救的上帝之民。它把你们的思绪带回那个日子，带回你们那场伟大解放的行动，也带回与那行动、那日子相连的种种神迹与奇事。这场庆典还标志着你们国族生命又一年的开始，并提醒你们：美利坚共和国如今已七十六岁。同胞们，我很高兴你们的国家如此年轻。七十六年，对一个人来说算是高龄，对一国生命而言却不过是微尘一点。人的寿数是七十岁；而国族是以千年来计年的。依此看来，你们此刻仍只处在国族生涯的开端，还逗留在童年时期。我再说一遍，我很高兴事情如此。这念头里有希望，而在低垂于地平线上的乌云之下，希望正是亟需之物。改革者的目光所遇，是预示灾难时世的愤怒闪光；但一想到美国还年轻、仍处在可塑的阶段，他的心便大可跳得轻快些。他岂不盼望智慧、正义与真理的崇高教训，终将为她的命运指引方向？倘若这国族更老一些，爱国者的心或许会更悲凉，改革者的眉头也会更沉重；它的前途可能笼罩在阴霾里，它的先知们的希望也会在悲哀中熄灭。想到美国还年轻，人便得到安慰。——大江大河不易偏离它们历经千百年冲刷而成的深水道。它们有时会以平静而庄严的威仪上涨，淹没大地，以其神秘的属性使土壤清新肥沃；它们有时也会在暴怒中上涨，以狂涛卷走多年辛劳与困苦积攒的财富。然而它们终究会渐渐退回原来那条旧河道，一如既往安详地流下去。可是，河流虽无法被扭转，却可能干涸，只留下枯枝与丑石，在席卷深渊的风中哀号，诉说那已逝荣光的悲惨故事。江河如此，国族亦然。</div>
-</section>
-
-<section class="para">
-  <span class="no">05</span>
-  <div class="en">Fellow-citizens, I shall not <span class="voc"><span class="w">presume</span><span class="g"><i>v.</i> /prɪˈzuːm/ 冒昧，胆敢</span></span> to dwell at length on the associations that cluster about this day. The simple story of it is that, 76 years ago, the people of this country were British subjects. The style and title of your "sovereign people" (in which you now glory) was not then born. You were under the British Crown. Your fathers esteemed the English Government as the home government; and England as the fatherland. This home government, you know, although a considerable distance from your home, did, in the exercise of its parental <span class="voc"><span class="w">prerogatives</span><span class="g"><i>n.</i> /prɪˈrɑːɡətɪvz/ 特权，君权</span></span>, impose upon its colonial children, such <span class="voc"><span class="w">restraints</span><span class="g"><i>n.</i> /rɪˈstreɪnts/ 约束，限制</span></span>, burdens and limitations, as, in its mature judgement, it deemed wise, right and proper.</div>
-  <div class="zh">同胞们，我不打算絮絮长谈环绕这一天的种种联想。它的简单经过是：七十六年前，这个国家的人民还是英国臣民。你们如今引以为荣的「主权人民」这一名号与头衔，那时尚未诞生。你们处在英国王权之下。你们的父辈把英国政府视为本土政府，把英格兰视为祖国。你们知道，这个本土政府虽然离你们的家相当遥远，却以它身为父母的特权，把一些束缚、负担与限制加在它的殖民地子民身上——在它成熟的判断里，这些都是明智、正当而合宜的。</div>
-</section>
-
-<section class="para">
-  <span class="no">06</span>
-  <div class="en">But, your fathers, who had not adopted the fashionable idea of this day, of the <span class="voc"><span class="w">infallibility</span><span class="g"><i>n.</i> /ɪnˌfæləˈbɪləti/ 绝无谬误，永不犯错</span></span> of government, and the absolute character of its acts, presumed to differ from the home government in respect to the wisdom and the justice of some of those burdens and restraints. They went so far in their excitement as to pronounce the measures of government unjust, unreasonable, and oppressive, and altogether such as ought not to be quietly submitted to. I scarcely need say, fellow-citizens, that my opinion of those measures fully accords with that of your fathers. Such a declaration of agreement on my part would not be worth much to anybody. It would, certainly, prove nothing, as to what part I might have taken, had I lived during the great controversy of 1776. To say now that America was right, and England wrong, is exceedingly easy. Everybody can say it; the <span class="voc"><span class="w">dastard</span><span class="g"><i>n.</i> /ˈdæstərd/ 懦夫，卑怯之人</span></span>, not less than the noble brave, can <span class="voc"><span class="w">flippantly</span><span class="g"><i>adv.</i> /ˈflɪpəntli/ 轻率地，油滑地</span></span> discant on the tyranny of England towards the American Colonies. It is fashionable to do so; but there was a time when to pronounce against England, and in favor of the cause of the colonies, tried men's souls. They who did so were accounted in their day, plotters of mischief, <span class="voc"><span class="w">agitators</span><span class="g"><i>n.</i> /ˈædʒɪteɪtərz/ 鼓动者，煽动者</span></span> and rebels, dangerous men. To side with the right, against the wrong, with the weak against the strong, and with the oppressed against the oppressor! here lies the merit, and the one which, of all others, seems unfashionable in our day. The cause of liberty may be stabbed by the men who glory in the deeds of your fathers. But, to proceed.</div>
-  <div class="zh">但是，你们的父辈并没有接受今天这套时髦观念——政府不会犯错、其行为具有绝对性质；他们竟敢就那些负担与限制中某些是否明智、是否公正，与本土政府持不同意见。他们激动之下甚至走得更远，宣称政府的那些措施不义、不合理、压迫人，总之是绝不应默默忍受的。同胞们，我几乎不必说：我对那些措施的看法，与你们的父辈完全一致。可我这样一句表示赞同的话，对谁都不值多少。它当然证明不了什么——证明不了倘若我活在 1776 年那场大争论之中，我会站在哪一边。如今说美国对、英国错，再容易不过。人人都说得出口；懦夫与高尚的勇者一样，都能油嘴滑舌地大谈英国对北美殖民地如何暴虐。这样说很时髦；可是曾有那么一个时候，站出来反对英国、拥护殖民地的事业，是要拷问人的灵魂的。当年这样做的人，被同代人视为捣乱分子、煽动者、叛党，是危险人物。站在对的一边反对错的，站在弱者一边反对强者，站在被压迫者一边反对压迫者！——价值正在这里，而这恰恰是今天最不时髦的一件事。自由的事业，也可能被那些以你们父辈功业为荣的人所刺穿。不过，且往下说。</div>
-</section>
-
-<section class="para">
-  <span class="no">07</span>
-  <div class="en">Feeling themselves harshly and unjustly treated by the home government, your fathers, like men of honesty, and men of spirit, earnestly sought <span class="voc"><span class="w">redress</span><span class="g"><i>n.</i> /rɪˈdres/ 救济，补偿</span></span>. They petitioned and <span class="voc"><span class="w">remonstrated</span><span class="g"><i>v.</i> /rɪˈmɑːnstreɪtɪd/ 抗议，谏诤</span></span>; they did so in a <span class="voc"><span class="w">decorous</span><span class="g"><i>adj.</i> /ˈdekərəs/ 得体的，合乎礼数的</span></span>, respectful, and loyal manner. Their conduct was wholly <span class="voc"><span class="w">unexceptionable</span><span class="g"><i>adj.</i> /ˌʌnɪkˈsepʃənəbl/ 无可指摘的</span></span>. This, however, did not answer the purpose. They saw themselves treated with sovereign indifference, coldness and scorn. Yet they persevered. They were not the men to look back.</div>
-  <div class="zh">你们的父辈感到自己受到本土政府的苛刻与不公对待，于是像诚实而有志气的人那样，恳切地寻求救济。他们请愿、抗议，而方式得体、恭敬、忠诚。他们的行为完全无可指摘。然而，这并没有达到目的。他们看到自己得到的对待，是君王般的漠然、冷淡与轻蔑。可他们仍坚持不懈。他们不是会回头的人。</div>
-</section>
-
-<section class="para">
-  <span class="no">08</span>
-  <div class="en">As the <span class="voc"><span class="w">sheet anchor</span><span class="g"><i>phr.</i> /ˈʃiːt ˌæŋkər/ 船首大锚，最后的依靠</span></span> takes a firmer hold, when the ship is tossed by the storm, so did the cause of your fathers grow stronger, as it <span class="voc"><span class="w">breasted</span><span class="g"><i>v.</i> /ˈbrestɪd/ 迎击，顶住（breast 的过去式）</span></span> the chilling blasts of kingly displeasure. The greatest and best of British statesmen admitted its justice, and the loftiest eloquence of the British Senate came to its support. But, with that blindness which seems to be the unvarying characteristic of tyrants, since Pharaoh and his hosts were drowned in the Red Sea, the British Government persisted in the <span class="voc"><span class="w">exactions</span><span class="g"><i>n.</i> /ɪɡˈzækʃnz/ 强索，勒索</span></span> complained of.</div>
-  <div class="zh">正如大船在风暴中颠簸时，船首大锚反而咬得更牢；你们父辈的事业在迎击王权不悦的凛冽狂风时，也愈发坚强。英国最伟大、最优秀的政治家承认它合乎正义，英国上议院最高超的雄辩也来支持它。然而，英国政府却怀着那种似乎是暴君一成不变的盲目——自从法老与他的大军淹没在红海之中便是如此——执意坚持那些被人控告的勒索。</div>
-</section>
-
-<section class="para">
-  <span class="no">09</span>
-  <div class="en">The madness of this course, we believe, is admitted now, even by England; but we fear the lesson is wholly lost on our present rulers.</div>
-  <div class="zh">这一做法的疯狂，我们相信如今连英格兰自己也承认了；但我们担心，这个教训对我们当今的统治者全然无用。</div>
-</section>
-
-<section class="para">
-  <span class="no">10</span>
-  <div class="en">Oppression makes a wise man mad. Your fathers were wise men, and if they did not go mad, they became <span class="voc"><span class="w">restive</span><span class="g"><i>adj.</i> /ˈrestɪv/ 焦躁不安的，难以驾驭的</span></span> under this treatment. They felt themselves the victims of <span class="voc"><span class="w">grievous</span><span class="g"><i>adj.</i> /ˈɡriːvəs/ 深重的，令人痛苦的</span></span> wrongs, wholly incurable in their colonial capacity. With brave men there is always a remedy for oppression. Just here, the idea of a total separation of the colonies from the crown was born! It was a startling idea, much more so, than we, at this distance of time, regard it. The timid and the prudent (as has been <span class="voc"><span class="w">intimated</span><span class="g"><i>v.</i> /ˈɪntɪmeɪtɪd/ 暗示，示意</span></span>) of that day, were, of course, shocked and alarmed by it.</div>
-  <div class="zh">压迫使智者发狂。你们的父辈是智者；他们纵然没有发狂，也在这种对待之下变得躁动不安。他们感到自己是深重冤屈的受害者，而这样的冤屈在殖民地的身份之下全然无药可医。对于勇敢的人来说，压迫总有解救之道。正是在这里，殖民地与王权彻底分离的念头诞生了！这是一个惊人的念头，比我们在今天这个遥远的距离上看来要惊人得多。当年那些怯懦者与审慎者（如前所暗示）自然为此震惊、惊恐。</div>
-</section>
-
-<section class="para">
-  <span class="no">11</span>
-  <div class="en">Such people lived then, had lived before, and will, probably, ever have a place on this planet; and their course, in respect to any great change, (no matter how great the good to be attained, or the wrong to be redressed by it,) may be calculated with as much <span class="voc"><span class="w">precision</span><span class="g"><i>n.</i> /prɪˈsɪʒn/ 精确，准确</span></span> as can be the course of the stars. They hate all changes, but silver, gold and copper change! Of this sort of change they are always strongly in favor.</div>
-  <div class="zh">这类人当年活着，此前也活着，大概将来也永远会在这个星球上占有一席之地；而他们面对任何重大变革时的行径（无论这变革能带来多大的善，或能纠正多大的恶），都可以像星辰的运行那样被精确推算。他们憎恨一切变化——除了银、金、铜的变化！对这一类变化，他们总是热烈赞成。</div>
-</section>
-
-<section class="para">
-  <span class="no">12</span>
-  <div class="en">These people were called <span class="voc"><span class="w">tories</span><span class="g"><i>n.</i> /ˈtɔːriz/ 托利党人，亲英派</span></span> in the days of your fathers; and the <span class="voc"><span class="w">appellation</span><span class="g"><i>n.</i> /ˌæpəˈleɪʃn/ 称呼，名号</span></span>, probably, conveyed the same idea that is meant by a more modern, though a somewhat less <span class="voc"><span class="w">euphonious</span><span class="g"><i>adj.</i> /juːˈfoʊniəs/ 悦耳的，好听的</span></span> term, which we often find in our papers, applied to some of our old politicians.</div>
-  <div class="zh">在你们父辈的时代，这些人被称为「托利党人」；这个称呼所传达的意思，大概与一个更晚近、却略欠悦耳的名词相同——我们在报纸上常见到那个名词，被用来指称某些老政客。</div>
-</section>
-
-<section class="para">
-  <span class="no">13</span>
-  <div class="en">Their opposition to the then dangerous thought was earnest and powerful; but, amid all their terror and affrighted <span class="voc"><span class="w">vociferations</span><span class="g"><i>n.</i> /voʊˌsɪfəˈreɪʃnz/ 大声叫嚷，喧嚷</span></span> against it, the alarming and revolutionary idea moved on, and the country with it.</div>
-  <div class="zh">他们对当时那个危险念头的反对既认真又有力；然而，在他们一切的恐惧和反对它的惊惶叫嚣之中，那个令人惊骇的革命性念头依旧向前推进，国家也随之前行。</div>
-</section>
-
-<section class="para">
-  <span class="no">14</span>
-  <div class="en">On the 2d of July, 1776, the old <span class="voc"><span class="w">Continental Congress</span><span class="g"><i>n.</i> /ˌkɑːntɪˈnentl ˈkɑːŋɡrəs/ 大陆会议</span></span>, to the dismay of the lovers of ease, and the worshipers of property, clothed that dreadful idea with all the authority of national <span class="voc"><span class="w">sanction</span><span class="g"><i>n.</i> /ˈsæŋkʃn/ 认可，批准</span></span>. They did so in the form of a resolution; and as we seldom hit upon resolutions, drawn up in our day, whose <span class="voc"><span class="w">transparency</span><span class="g"><i>n.</i> /trænsˈpærənsi/ 明白透彻，一目了然</span></span> is at all equal to this, it may refresh your minds and help my story if I read it.</div>
-  <div class="zh">1776 年 7 月 2 日，旧日的大陆会议——令爱好安逸者与崇拜财产者大为惊慌——把那个可怖的念头披上了国家认可的全部权威。他们是以一项决议的形式这样做的；既然我们今天起草的决议很少能有哪一份在明白透彻上及得上它，那么我把它读出来，或许能刷新诸位的记忆，也有助于我的叙述。</div>
-</section>
-
-<section class="para">
-  <span class="no">15</span>
-  <div class="en"><span class="q">"Resolved, That these united colonies are, and of right, ought to be, free and Independent States; that they are <span class="voc"><span class="w">absolved</span><span class="g"><i>v.</i> /əbˈzɑːlvd/ 解除，免除（责任、义务）</span></span> from all <span class="voc"><span class="w">allegiance</span><span class="g"><i>n.</i> /əˈliːdʒəns/ 效忠，臣服</span></span> to the British Crown; and that all political connection between them and the State of Great Britain is, and ought to be, <span class="voc"><span class="w">dissolved</span><span class="g"><i>v.</i> /dɪˈzɑːlvd/ 解除，终止</span></span>."</span></div>
-  <div class="zh"><span class="q">「决议：兹决议，这些联合殖民地是、并且依其权利理应是自由而独立的国家；它们已解除对英国王室的一切效忠；它们与大不列颠国之间的一切政治联系是、并且理应予以解除。」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">16</span>
-  <div class="en">Citizens, your fathers made good that resolution. They succeeded; and to-day you reap the fruits of their success. The freedom gained is yours; and you, therefore, may properly celebrate this anniversary. The 4th of July is the first great fact in your nation's history—the very <span class="voc"><span class="w">ring-bolt</span><span class="g"><i>n.</i> /ˈrɪŋ boʊlt/ 环栓，关键扣件</span></span> in the chain of your yet undeveloped destiny.</div>
-  <div class="zh">公民们，你们的父辈实现了那项决议。他们成功了；今天你们收获着他们成功的果实。赢得的自由是你们的；因此，你们理当庆祝这个周年。七月四日是你们国族历史上的第一个伟大事实——是你们那尚未展开的命运之链上最紧要的那个环栓。</div>
-</section>
-
-<section class="para">
-  <span class="no">17</span>
-  <div class="en">Pride and patriotism, not less than gratitude, prompt you to celebrate and to hold it in <span class="voc"><span class="w">perpetual</span><span class="g"><i>adj.</i> /pərˈpetʃuəl/ 永久的，长存的</span></span> remembrance. I have said that the Declaration of Independence is the ringbolt to the chain of your nation's destiny; so, indeed, I regard it. The principles contained in that <span class="voc"><span class="w">instrument</span><span class="g"><i>n.</i> /ˈɪnstrəmənt/ 文书，文献</span></span> are <span class="voc"><span class="w">saving</span><span class="g"><i>adj.</i> /ˈseɪvɪŋ/ 能救人的，有救赎之功的</span></span> principles. Stand by those principles, be true to them on all occasions, in all places, against all foes, and at whatever cost.</div>
-  <div class="zh">骄傲与爱国心，不亚于感激之情，促使你们庆祝这一天，并把它永远铭记。我说过，《独立宣言》是你们国族命运之链上的环栓；我确实这样看待它。那份文献所包含的原则，是能救人救国的原则。坚守那些原则吧，在任何场合、任何地方，面对任何敌人，无论付出何等代价，都要忠于它们。</div>
-</section>
-
-<section class="para">
-  <span class="no">18</span>
-  <div class="en">From the <span class="voc"><span class="w">round top</span><span class="g"><i>n.</i> /ˈraʊnd tɑːp/ 桅顶平台，桅盘</span></span> of your ship of state, dark and threatening clouds may be seen. Heavy <span class="voc"><span class="w">billows</span><span class="g"><i>n.</i> /ˈbɪloʊz/ 巨浪，波涛</span></span>, like mountains in the distance, disclose to the <span class="voc"><span class="w">leeward</span><span class="g"><i>adv.</i> /ˈliːwərd/ 在下风方向</span></span> huge forms of <span class="voc"><span class="w">flinty</span><span class="g"><i>adj.</i> /ˈflɪnti/ 坚硬的，燧石般的</span></span> rocks! That bolt drawn, that chain broken, and all is lost. Cling to this day—cling to it, and to its principles, with the grasp of a storm-tossed <span class="voc"><span class="w">mariner</span><span class="g"><i>n.</i> /ˈmærɪnər/ 水手，航海者</span></span> to a <span class="voc"><span class="w">spar</span><span class="g"><i>n.</i> /spɑːr/ 桅杆，圆材</span></span> at midnight.</div>
-  <div class="zh">从你们这艘国家之舟的桅顶望去，可以看到阴沉而险恶的乌云。沉重的巨浪，如远处的山峦，在下风方向显露出嶙峋礁岩的巨大形影！那根螺栓一旦拔出，那条锁链一旦断裂，一切便都完了。紧紧抓住这一天——抓住它，也抓住它的原则，就像风暴中颠簸的水手在午夜死死抓住一根桅杆那样。</div>
-</section>
-
-<section class="para">
-  <span class="no">19</span>
-  <div class="en">The coming into being of a nation, in any circumstances, is an interesting event. But, besides general considerations, there were peculiar circumstances which make the <span class="voc"><span class="w">advent</span><span class="g"><i>n.</i> /ˈædvent/ 到来，问世</span></span> of this republic an event of special attractiveness.</div>
-  <div class="zh">一个国族的诞生，无论处于何种境况，都是引人注目的事件。但除了种种一般性的缘由之外，还有一些特殊情形，使这个共和国的问世成为一个格外富于吸引力的事件。</div>
-</section>
-
-<section class="para">
-  <span class="no">20</span>
-  <div class="en">The whole scene, as I look back to it, was simple, dignified and <span class="voc"><span class="w">sublime</span><span class="g"><i>adj.</i> /səˈblaɪm/ 崇高的，庄严伟大的</span></span>.</div>
-  <div class="zh">我回顾那整幅景象，它是朴素的、庄严的、崇高的。</div>
-</section>
-
-<section class="para">
-  <span class="no">21</span>
-  <div class="en">The population of the country, at the time, stood at the insignificant number of three millions. The country was poor in the <span class="voc"><span class="w">munitions</span><span class="g"><i>n.</i> /mjuˈnɪʃnz/ 军火，军需品</span></span> of war. The population was weak and scattered, and the country a wilderness <span class="voc"><span class="w">unsubdued</span><span class="g"><i>adj.</i> /ˌʌnsəbˈduːd/ 未被征服的，未被驯服的</span></span>. There were then no means of <span class="voc"><span class="w">concert</span><span class="g"><i>n.</i> /kənˈsɜːrt/ 协同，一致行动</span></span> and combination, such as exist now. Neither steam nor lightning had then been reduced to order and discipline. From the Potomac to the Delaware was a journey of many days. Under these, and innumerable other disadvantages, your fathers declared for liberty and independence and triumphed.</div>
-  <div class="zh">当时全国人口只有微不足道的三百万。这个国家缺乏军火。人口孱弱而分散，国土是一片未被驯服的荒野。那时没有如今这样的协调与联合手段。蒸汽与闪电都还没有被纳入秩序与纪律。从波托马克河到特拉华河，是一段要走许多天的旅程。在这些以及无数其他不利条件之下，你们的父辈宣告了自由与独立，并且取得了胜利。</div>
-</section>
-
-<section class="para">
-  <span class="no">22</span>
-  <div class="en">Fellow Citizens, I am not wanting in respect for the fathers of this republic. The signers of the Declaration of Independence were brave men. They were great men too—great enough to give fame to a great age. It does not often happen to a nation to raise, at one time, such a number of truly great men. The point from which I am compelled to view them is not, certainly, the most favorable; and yet I cannot <span class="voc"><span class="w">contemplate</span><span class="g"><i>v.</i> /ˈkɑːntəmpleɪt/ 凝望，沉思</span></span> their great deeds with less than admiration. They were statesmen, patriots and heroes, and for the good they did, and the principles they <span class="voc"><span class="w">contended</span><span class="g"><i>v.</i> /kənˈtendɪd/ 力争，抗争</span></span> for, I will unite with you to honor their memory.</div>
-  <div class="zh">同胞们，我对这个共和国的国父们并不缺少敬意。《独立宣言》的签署者是勇敢的人。他们也是伟大的人——伟大到足以让一个伟大的时代享有声名。一个国家很少能在同一时间涌现出这么多真正伟大的人物。我被迫观察他们的立场，当然不是最有利的；然而我无法不以钦佩之心去凝望他们的伟业。他们是政治家、爱国者与英雄；为他们所做的善事、为他们所力争的原则，我愿与你们一同尊崇他们的遗名。</div>
-</section>
-
-<section class="para">
-  <span class="no">23</span>
-  <div class="en">They loved their country better than their own private interests; and, though this is not the highest form of human excellence, all will <span class="voc"><span class="w">concede</span><span class="g"><i>v.</i> /kənˈsiːd/ 承认，让步</span></span> that it is a rare virtue, and that when it is exhibited, it ought to command respect. He who will, intelligently, lay down his life for his country, is a man whom it is not in human nature to despise. Your fathers <span class="voc"><span class="w">staked</span><span class="g"><i>v.</i> /steɪkt/ 押上，以……为赌注</span></span> their lives, their fortunes, and their sacred honor, on the cause of their country. In their admiration of liberty, they lost sight of all other interests.</div>
-  <div class="zh">他们爱自己的国家胜过爱自己的私利；这虽然不是人类美德中最高的形态，但人人都会承认，这是一种罕见的德性，一旦显现，便理应赢得敬重。一个愿意明智地为国捐躯的人，人性本身不会去轻蔑他。你们的父辈把生命、财产与神圣的荣誉，全都押在祖国的事业上。在对自由的热爱之中，他们看不见其他一切利害。</div>
-</section>
-
-<section class="para">
-  <span class="no">24</span>
-  <div class="en">They were peace men; but they preferred revolution to peaceful submission to <span class="voc"><span class="w">bondage</span><span class="g"><i>n.</i> /ˈbɑːndɪdʒ/ 奴役，束缚</span></span>. They were quiet men; but they did not shrink from agitating against oppression. They showed <span class="voc"><span class="w">forbearance</span><span class="g"><i>n.</i> /fɔːrˈberəns/ 克制，忍耐</span></span>; but that they knew its limits. They believed in order; but not in the order of <span class="voc"><span class="w">tyranny</span><span class="g"><i>n.</i> /ˈtɪrəni/ 暴政，专制</span></span>. With them, nothing was "settled" that was not right. With them, justice, liberty and humanity were "final;" not slavery and oppression. You may well cherish the memory of such men. They were great in their day and generation. Their solid manhood stands out the more as we contrast it with these <span class="voc"><span class="w">degenerate</span><span class="g"><i>adj.</i> /dɪˈdʒenərət/ 衰败的，堕落的</span></span> times.</div>
-  <div class="zh">他们是爱好和平的人；但他们宁可革命，也不愿和平地屈从于奴役。他们是安静的人；但他们并不回避为反对压迫而鼓动。他们表现出克制；但他们知道克制的限度。他们信奉秩序；但不是暴政的秩序。在他们那里，凡不正当的，就没有什么是「已成定局」的。在他们那里，正义、自由与仁道是「终局」的，奴隶制与压迫不是。这样的人，你们理当珍视其记忆。他们在自己的时代与世代中是伟大的。当我们把这些与如今这衰败的时世相对照，他们那坚实的丈夫气概便格外凸显。</div>
-</section>
-
-<section class="para">
-  <span class="no">25</span>
-  <div class="en">How <span class="voc"><span class="w">circumspect</span><span class="g"><i>adj.</i> /ˈsɜːrkəmspekt/ 审慎的，周密的</span></span>, exact and <span class="voc"><span class="w">proportionate</span><span class="g"><i>adj.</i> /prəˈpɔːrʃənət/ 合乎分寸的，相称的</span></span> were all their movements! How unlike the politicians of an hour! Their <span class="voc"><span class="w">statesmanship</span><span class="g"><i>n.</i> /ˈsteɪtsmənʃɪp/ 政治家的才干与风范</span></span> looked beyond the passing moment, and stretched away in strength into the distant future. They seized upon eternal principles, and set a glorious example in their defence. Mark them!</div>
-  <div class="zh">他们的一切举动是何等审慎、精确而合乎分寸！与那些只图一时之利的政客何等不同！他们的政治家眼光越过了转瞬即逝的当下，凭着力量延伸到遥远的未来。他们抓住了永恒的原则，并为捍卫这些原则树立了光辉的榜样。仔细看看他们吧！</div>
-</section>
-
-<section class="para">
-  <span class="no">26</span>
-  <div class="en">Fully appreciating the hardship to be encountered, firmly believing in the right of their cause, honorably inviting the <span class="voc"><span class="w">scrutiny</span><span class="g"><i>n.</i> /ˈskruːtəni/ 审视，细察</span></span> of an on-looking world, reverently appealing to heaven to <span class="voc"><span class="w">attest</span><span class="g"><i>v.</i> /əˈtest/ 见证，证明</span></span> their sincerity, soundly comprehending the solemn responsibility they were about to assume, wisely measuring the terrible <span class="voc"><span class="w">odds</span><span class="g"><i>n.</i> /ɑːdz/ 胜算，不利形势</span></span> against them, your fathers, the fathers of this republic, did, most deliberately, under the inspiration of a glorious patriotism, and with a sublime faith in the great principles of justice and freedom, lay deep the corner-stone of the national <span class="voc"><span class="w">superstructure</span><span class="g"><i>n.</i> /ˈsuːpərstrʌktʃər/ 上层建筑，上部结构</span></span>, which has risen and still rises in grandeur around you.</div>
-  <div class="zh">他们充分估量到将要遭遇的艰难，坚定地相信自己事业的正当，光明正大地请旁观的世人审视，虔诚地吁请上天见证他们的真诚，清醒地理解他们即将承担的庄严责任，明智地衡量那对他们极为不利的可怕形势；于是，你们的父辈、这个共和国的国父们，在一种光荣的爱国精神的感召之下，怀着对正义与自由这些伟大原则的崇高信念，极其审慎地为国家上层建筑奠下了深深的基石——这建筑已在你们周围巍然升起，且仍在不断升起。</div>
-</section>
-
-<section class="para">
-  <span class="no">27</span>
-  <div class="en">Of this fundamental work, this day is the anniversary. Our eyes are met with demonstrations of joyous enthusiasm. Banners and pennants wave <span class="voc"><span class="w">exultingly</span><span class="g"><i>adv.</i> /ɪɡˈzʌltɪŋli/ 得意扬扬地，欢欣地</span></span> on the breeze. The din of business, too, is hushed. Even <span class="voc"><span class="w">mammon</span><span class="g"><i>n.</i> /ˈmæmən/ 财神，财利</span></span> seems to have quitted his grasp on this day. The ear-piercing <span class="voc"><span class="w">fife</span><span class="g"><i>n.</i> /faɪf/ 横笛，军笛</span></span> and the stirring drum unite their accents with the ascending peal of a thousand church bells. Prayers are made, hymns are sung, and sermons are preached in honor of this day; while the quick martial tramp of a great and multitudinous nation, echoed back by all the hills, valleys and mountains of a vast continent, bespeak the occasion one of thrilling and universal interests—a nation's <span class="voc"><span class="w">jubilee</span><span class="g"><i>n.</i> /ˈdʒuːbɪliː/ 禧年，大赦欢庆之年</span></span>.</div>
-  <div class="zh">这一天，正是那项根本工程的周年纪念。我们眼前满是欢欣热情的种种表现。旗帜与三角旗在微风中得意飘扬。市廛的喧嚣也静了下来。连财神在这一天似乎也松开了他的攫取之手。刺耳的军笛与振奋的鼓声，与上千座教堂钟楼升腾而起的钟鸣汇成一片。人们为尊崇这一天而祈祷、唱诗、讲道；而一个伟大而众多之国族急促的行军步伐，被这片广袤大陆的群山、峡谷与峰峦一一回荡，说明这一场合牵动着令人心潮激荡的、普遍的关切——一个国族的禧年。</div>
-</section>
-
-<section class="para">
-  <span class="no">28</span>
-  <div class="en">Friends and citizens, I need not enter further into the causes which led to this anniversary. Many of you understand them better than I do. You could instruct me in regard to them. That is a branch of knowledge in which you feel, perhaps, a much deeper interest than your speaker. The causes which led to the separation of the colonies from the British crown have never lacked for a tongue. They have all been taught in your common schools, narrated at your <span class="voc"><span class="w">firesides</span><span class="g"><i>n.</i> /ˈfaɪərsaɪdz/ 炉边，家内</span></span>, unfolded from your <span class="voc"><span class="w">pulpits</span><span class="g"><i>n.</i> /ˈpʊlpɪts/ 讲道坛，布道台</span></span>, and thundered from your legislative halls, and are as familiar to you as household words. They form the <span class="voc"><span class="w">staple</span><span class="g"><i>n.</i> /ˈsteɪpl/ 主要成分，主要内容</span></span> of your national poetry and eloquence.</div>
-  <div class="zh">朋友们，公民们，我无须再深入探讨导致这个纪念日的种种缘由。你们中许多人对此比我懂得更多，尽可以来教导我。这也许是你们比演讲人兴趣更浓的一门学问。导致殖民地与英国王权分离的那些缘由，从来不缺人讲述。它们在你们的公立学校里被讲授，在你们的炉边被叙说，在你们的讲道坛上被阐发，在你们的议事厅里被高声宣扬，对你们来说熟悉得如同家常话语。它们构成了你们民族诗歌与雄辩的主要内容。</div>
-</section>
-
-<section class="para">
-  <span class="no">29</span>
-  <div class="en">I remember, also, that, as a people, Americans are remarkably familiar with all facts which make in their own favor. This is <span class="voc"><span class="w">esteemed</span><span class="g"><i>v.</i> /ɪˈstiːmd/ 被视为，被认为</span></span> by some as a national trait—perhaps a national weakness. It is a fact, that whatever makes for the wealth or for the reputation of Americans, and can be had cheap! will be found by Americans. I shall not be charged with <span class="voc"><span class="w">slandering</span><span class="g"><i>v.</i> /ˈslændərɪŋ/ 诽谤，诋毁</span></span> Americans, if I say I think the American side of any question may be safely left in American hands.</div>
-  <div class="zh">我还记得，作为一个民族，美国人对一切于己有利的事实都格外熟悉。有人把这一点视为一种民族特性——或许是一种民族弱点。事实是：凡能增进美国人的财富或声誉、又能便宜到手的东西，都会被美国人找到。倘若我说，任何问题的美国这一面，尽可放心交给美国人去处理，想来不致被指为诽谤美国人。</div>
-</section>
-
-<section class="para">
-  <span class="no">30</span>
-  <div class="en">I leave, therefore, the great deeds of your fathers to other gentlemen whose claim to have been regularly <span class="voc"><span class="w">descended</span><span class="g"><i>adj.</i> /dɪˈsendɪd/ 出身（某世系）的，嫡传的</span></span> will be less likely to be disputed than mine!</div>
-  <div class="zh">因此，你们父辈的伟大功业，我就留给别的先生们去讲吧——他们自称是嫡传后裔，这一点比我更不容易被质疑！</div>
-</section>
-
-<section class="para">
-  <span class="no">31</span>
-  <div class="en">My business, if I have any here to-day, is with the present. The accepted time with God and his cause is the ever-living now.</div>
-  <div class="zh">倘若我今天在这里有什么正事要做，那便是与当下有关。在上帝及其事业那里，蒙悦纳的时刻，就是那永活的「现在」。</div>
-</section>
-
-<section class="para">
-  <span class="no">32</span>
-  <div class="en"><span class="q">"Trust no future, however pleasant,<br>Let the dead past bury its dead;<br>Act, act in the living present,<br>Heart within, and God overhead."</span></div>
-  <div class="zh"><span class="q">「莫信赖未来，无论它多令人愉悦，<br>让死去的过去埋葬它的死者；<br>行动吧，就在活生生的当下行动，<br>心怀在内，上帝在上。」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">33</span>
-  <div class="en">We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, and have done their work, and have done much of it well. You live and must die, and you must do your work. You have no right to enjoy a child's share in the labor of your fathers, unless your children are to be blest by your labors. You have no right to wear out and waste the hard-earned fame of your fathers to cover your <span class="voc"><span class="w">indolence</span><span class="g"><i>n.</i> /ˈɪndələns/ 懒惰，怠惰</span></span>. Sydney Smith tells us that men seldom <span class="voc"><span class="w">eulogize</span><span class="g"><i>v.</i> /ˈjuːlədʒaɪz/ 颂扬，称颂</span></span> the wisdom and virtues of their fathers, but to excuse some <span class="voc"><span class="w">folly</span><span class="g"><i>n.</i> /ˈfɑːli/ 愚行，蠢事</span></span> or wickedness of their own. This truth is not a doubtful one. There are illustrations of it near and remote, ancient and modern. It was fashionable, hundreds of years ago, for the children of Jacob to boast, we have "Abraham to our father," when they had long lost Abraham's faith and spirit. That people contented themselves under the shadow of Abraham's great name, while they <span class="voc"><span class="w">repudiated</span><span class="g"><i>v.</i> /rɪˈpjuːdieɪtɪd/ 否弃，拒不承认</span></span> the deeds which made his name great. Need I remind you that a similar thing is being done all over this country to-day? Need I tell you that the Jews are not the only people who built the tombs of the prophets, and garnished the <span class="voc"><span class="w">sepulchres</span><span class="g"><i>n.</i> /ˈseplkərz/ 坟墓，墓室</span></span> of the righteous? Washington could not die till he had broken the chains of his slaves. Yet his monument is built up by the price of human blood, and the traders in the bodies and souls of men, shout—"We have Washington to our father."—Alas! that it should be so; yet so it is.</div>
-  <div class="zh">我们与过去打交道，只在能使它有益于现在与未来的时候。一切鼓舞人心的动机、一切能从过去取得的崇高事迹，我们都欢迎。但此刻才是时候，才是要紧的时候。你们的父辈活过、死去了，他们做完了他们的工作，而且多半做得很好。你们活着，也必死去，你们必须做你们的工作。除非你们的子女将因你们的劳作而蒙福，你们就无权在父辈的劳作中享受一份孩童式的份额。你们无权把父辈辛苦赢来的名声磨损、挥霍掉，用来掩盖自己的懒惰。悉尼·史密斯告诉我们：人们很少颂扬父辈的智慧与德行，除非是为了替自己的某种愚行或邪恶开脱。这个道理并不可疑。古往今来、远近各处，例证比比皆是。几百年前，雅各的子孙在早已丧失亚伯拉罕的信仰与精神之后，仍以「我们有亚伯拉罕作我们的父」自夸，这曾是一种时髦。那族人在亚伯拉罕伟大名号的荫庇下自我满足，却否弃了使那名号伟大的作为。我还需要提醒你们，同样的事如今正在这整个国家里发生吗？我还需要告诉你们，犹太人并不是唯一为先知筑坟、为义人修饰墓石的人吗？华盛顿直到打碎了他奴隶的锁链才肯死去。然而他的纪念碑是用人血的代价筑起的，而那些贩卖人的身体与灵魂的商人还在高喊——「我们有华盛顿作我们的父。」——唉！事情竟至于如此；然而事实就是如此。</div>
-</section>
-
-<section class="para">
-  <span class="no">34</span>
-  <div class="en"><span class="q">"The evil that men do, lives after them,<br>The good is oft' <span class="voc"><span class="w">interred</span><span class="g"><i>v.</i> /ɪnˈtɜːrd/ 埋葬，入土</span></span> with their bones."</span></div>
-  <div class="zh"><span class="q">「人们所行的恶，会在他们身后长存，<br>他们的善，却往往随骸骨一同埋葬。」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">35</span>
-  <div class="en">Fellow-citizens, pardon me, allow me to ask, why am I called upon to speak here to-day? What have I, or those I represent, to do with your national independence? Are the great principles of political freedom and of natural justice, embodied in that Declaration of Independence, extended to us? and am I, therefore, called upon to bring our humble offering to the national <span class="voc"><span class="w">altar</span><span class="g"><i>n.</i> /ˈɔːltər/ 祭坛</span></span>, and to confess the benefits and express <span class="voc"><span class="w">devout</span><span class="g"><i>adj.</i> /dɪˈvaʊt/ 虔诚的，诚挚的</span></span> gratitude for the blessings resulting from your independence to us?</div>
-  <div class="zh">同胞们，恕我冒昧，请允许我问一句：今天为什么叫我来这里讲话？我，或者我所代表的人们，与你们的国家独立有什么相干？《独立宣言》所体现的政治自由与自然正义的伟大原则，是否也延伸到了我们身上？因此，我是否就被叫来向国家的祭坛献上我们卑微的供物，为你们的独立带给我们的福祉而承认其恩惠、表达虔诚的感激？</div>
-</section>
-
-<section class="para">
-  <span class="no">36</span>
-  <div class="en">Would to God, both for your sakes and ours, that an affirmative answer could be truthfully returned to these questions! Then would my task be light, and my burden easy and delightful. For who is there so cold, that a nation's sympathy could not warm him? Who so <span class="voc"><span class="w">obdurate</span><span class="g"><i>adj.</i> /ˈɑːbdərət/ 顽固不化的，铁石心肠的</span></span> and dead to the claims of gratitude, that would not thankfully acknowledge such priceless benefits? Who so <span class="voc"><span class="w">stolid</span><span class="g"><i>adj.</i> /ˈstɑːlɪd/ 麻木的，无动于衷的</span></span> and selfish, that would not give his voice to swell the <span class="voc"><span class="w">hallelujahs</span><span class="g"><i>n.</i> /ˌhæləˈluːjəz/ 哈利路亚，赞美上帝的欢呼</span></span> of a nation's jubilee, when the chains of servitude had been torn from his limbs? I am not that man. In a case like that, the dumb might eloquently speak, and the "lame man leap as an hart."</div>
-  <div class="zh">但愿上帝成全——既为你们，也为我们——让这些问题能够真实地得到肯定的回答！那么我的任务便会轻松，我的担子便会轻省而愉快。因为，谁的心会冷到连一个民族的同情都暖不热他？谁会顽固到对感恩的诉求全无反应，竟不肯感激地承认这般无价的恩惠？谁会麻木自私到如此地步，在奴役的锁链已从他四肢上扯落之时，也不肯出声，汇入一个民族禧年的哈利路亚之中？我不是那样的人。在那样一种情形下，哑巴也能雄辩滔滔，「瘸子必跳跃如鹿」。</div>
-</section>
-
-<section class="para">
-  <span class="no">37</span>
-  <div class="en">But, such is not the state of the case. I say it with a sad sense of the <span class="voc"><span class="w">disparity</span><span class="g"><i>n.</i> /dɪˈspærəti/ 悬殊，不相称</span></span> between us. I am not included within the <span class="voc"><span class="w">pale</span><span class="g"><i>n.</i> /peɪl/ 界内，范围</span></span> of this glorious anniversary! Your high independence only reveals the immeasurable distance between us. The blessings in which you, this day, rejoice, are not enjoyed in common.—The rich inheritance of justice, liberty, prosperity and independence, <span class="voc"><span class="w">bequeathed</span><span class="g"><i>v.</i> /bɪˈkwiːðd/ 遗赠，传下</span></span> by your fathers, is shared by you, not by me. The sunlight that brought life and healing to you, has brought <span class="voc"><span class="w">stripes</span><span class="g"><i>n.</i> /straɪps/ 鞭痕，抽打的伤痕</span></span> and death to me. This Fourth July is yours, not mine. You may rejoice, I must mourn. To drag a man in fetters into the grand illuminated temple of liberty, and call upon him to join you in joyous anthems, were inhuman mockery and <span class="voc"><span class="w">sacrilegious</span><span class="g"><i>adj.</i> /ˌsækrəˈlɪdʒəs/ 亵渎神明的</span></span> irony. Do you mean, citizens, to mock me, by asking me to speak to-day? If so, there is a parallel to your conduct. And let me warn you that it is dangerous to copy the example of a nation whose crimes, towering up to heaven, were thrown down by the breath of the Almighty, burying that nation in irrecoverable ruin! I can to-day take up the <span class="voc"><span class="w">plaintive</span><span class="g"><i>adj.</i> /ˈpleɪntɪv/ 哀怨的，悲诉的</span></span> lament of a peeled and <span class="voc"><span class="w">woe-smitten</span><span class="g"><i>adj.</i> /ˈwoʊ ˌsmɪtn/ 被灾祸击打的</span></span> people!</div>
-  <div class="zh">可是，情形并非如此。我说这话时，怀着一种对彼此之间巨大差距的悲哀意识。我并未被纳入这个光荣周年的界内！你们那崇高的独立，恰恰显露出我们之间无法丈量的距离。你们今天所欢庆的福祉，并不是共同享有的。——你们父辈遗下的那份由正义、自由、繁荣与独立构成的丰厚遗产，由你们分享，而非由我分享。那给你们带来生命与疗愈的阳光，给我带来的却是鞭痕与死亡。这个七月四日是你们的，不是我的。你们可以欢庆，我却必须哀悼。把一个人戴着镣铐拖进那座灯火辉煌的自由圣殿，还叫他与你们一同高唱欢乐的颂歌，那是非人的嘲弄、亵渎的讽刺。公民们，你们今天叫我来讲话，莫非是要嘲弄我？若果真如此，你们的行径是有先例可循的。让我警告你们：效法某个民族的先例是危险的——那个民族的罪恶高耸及天，被全能者的一口气息推倒，使那民族陷于无可挽回的毁灭之中！今天，我大可以接过一个被剥光、被灾祸击打之民族的哀歌！</div>
-</section>
-
-<section class="para">
-  <span class="no">38</span>
-  <div class="en"><span class="q">"By the rivers of Babylon, there we sat down. Yea! we wept when we remembered Zion. We hanged our harps upon the willows in the midst thereof. For there, they that carried us away <span class="voc"><span class="w">captive</span><span class="g"><i>adj.</i> /ˈkæptɪv/ 被掳的，被俘的</span></span>, required of us a song; and they who wasted us required of us mirth, saying, Sing us one of the songs of Zion. How can we sing the Lord's song in a strange land? If I forget thee, O Jerusalem, let my right hand forget her <span class="voc"><span class="w">cunning</span><span class="g"><i>n.</i> /ˈkʌnɪŋ/ 技巧，灵巧</span></span>. If I do not remember thee, let my tongue <span class="voc"><span class="w">cleave</span><span class="g"><i>v.</i> /kliːv/ 黏附，贴住</span></span> to the roof of my mouth."</span></div>
-  <div class="zh"><span class="q">「我们曾在巴比伦的河边坐下，一追想锡安就哭了。我们把琴挂在那里的柳树上。因为在那里，掳掠我们的要我们唱歌，抢夺我们的要我们作乐，说：给我们唱一首锡安歌吧。我们怎能在外邦唱耶和华的歌呢？耶路撒冷啊，我若忘记你，情愿我的右手忘记技巧。我若不记念你，情愿我的舌头贴于上膛。」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">39</span>
-  <div class="en">Fellow-citizens; above your national, <span class="voc"><span class="w">tumultuous</span><span class="g"><i>adj.</i> /tuːˈmʌltʃuəs/ 喧腾的，骚动的</span></span> joy, I hear the mournful <span class="voc"><span class="w">wail</span><span class="g"><i>n.</i> /weɪl/ 哀号，恸哭</span></span> of millions! whose chains, heavy and grievous yesterday, are, to-day, rendered more <span class="voc"><span class="w">intolerable</span><span class="g"><i>adj.</i> /ɪnˈtɑːlərəbl/ 难以忍受的</span></span> by the jubilee shouts that reach them. If I do forget, if I do not faithfully remember those bleeding children of sorrow this day, "may my right hand forget her cunning, and may my tongue cleave to the roof of my mouth!" To forget them, to pass lightly over their wrongs, and to chime in with the popular theme, would be treason most scandalous and shocking, and would make me a reproach before God and the world. My subject, then, fellow-citizens, is American Slavery. I shall see, this day, and its popular characteristics, from the slave's point of view. Standing, there, identified with the American <span class="voc"><span class="w">bondman</span><span class="g"><i>n.</i> /ˈbɑːndmən/ 奴隶，被奴役者</span></span>, making his wrongs mine, I do not hesitate to declare, with all my soul, that the character and conduct of this nation never looked blacker to me than on this 4th of July! Whether we turn to the declarations of the past, or to the professions of the present, the conduct of the nation seems equally <span class="voc"><span class="w">hideous</span><span class="g"><i>adj.</i> /ˈhɪdiəs/ 可憎的，骇人的</span></span> and revolting. America is false to the past, false to the present, and solemnly binds herself to be false to the future. Standing with God and the crushed and bleeding slave on this occasion, I will, in the name of humanity which is outraged, in the name of liberty which is fettered, in the name of the constitution and the Bible, which are disregarded and trampled upon, dare to call in question and to denounce, with all the emphasis I can command, everything that serves to <span class="voc"><span class="w">perpetuate</span><span class="g"><i>v.</i> /pərˈpetʃueɪt/ 使永存，使延续</span></span> slavery—the great sin and shame of America! "I will not <span class="voc"><span class="w">equivocate</span><span class="g"><i>v.</i> /ɪˈkwɪvəkeɪt/ 含糊其辞，模棱两可</span></span>; I will not excuse;" I will use the severest language I can command; and yet not one word shall escape me that any man, whose judgement is not blinded by prejudice, or who is not at heart a slaveholder, shall not confess to be right and just.</div>
-  <div class="zh">同胞们；在你们举国欢腾的喧闹之上，我听见千百万人的哀号！他们的锁链昨天已够沉重、够痛苦，今天又被传到他们耳中的禧年欢呼声弄得更加难以忍受。倘若我忘记，倘若我今日不忠实地记念那些流着血的苦难儿女，「情愿我的右手忘记技巧，情愿我的舌头贴于上膛！」忘记他们，轻轻略过他们的冤屈，随声附和那流行的调子，那将是最可耻、最骇人的叛国，会使我在上帝与世界面前成为被唾弃之人。那么，同胞们，我的题目就是美国奴隶制。今天，我要从奴隶的立场来看待这一天以及它那些流行的特征。我站在那里，与美国黑奴认同，把他的冤屈当作我的冤屈；我要毫不犹豫地以我的全副心灵宣告：这个国家的品格与行为，在我看来从没有比在这个七月四日更黑暗过！无论我们去看过去的宣示，还是去看当下的表白，这个国家的行为都同样可憎、同样令人作呕。美国对过去是虚假的，对现在是虚假的，并且郑重地把自己许给对未来的虚假。在这一场合，我站在上帝与被碾碎、流着血的奴隶一边；以被凌辱的人道的名义，以被锁链束缚的自由的名义，以被漠视、被践踏的宪法与《圣经》的名义，我要斗胆质疑并谴责一切有助于让奴隶制永存的东西——那是美国的大罪与大耻！「我绝不模棱两可，我绝不宽宥；」我要用我能掌握的最严厉的语言；然而，凡是一个判断未被偏见蒙蔽、内心不是奴隶主的人，都不会不承认是正确而公道的字眼，我一个也不会放过。</div>
-</section>
-
-<section class="para">
-  <span class="no">40</span>
-  <div class="en">But I fancy I hear some one of my audience say, it is just in this circumstance that you and your brother <span class="voc"><span class="w">abolitionists</span><span class="g"><i>n.</i> /ˌæbəˈlɪʃənɪsts/ 废奴主义者</span></span> fail to make a favorable impression on the public mind. Would you argue more, and denounce less, would you persuade more, and <span class="voc"><span class="w">rebuke</span><span class="g"><i>v.</i> /rɪˈbjuːk/ 斥责，责难</span></span> less, your cause would be much more likely to succeed. But, I submit, where all is plain there is nothing to be argued. What point in the anti-slavery <span class="voc"><span class="w">creed</span><span class="g"><i>n.</i> /kriːd/ 信条，教义</span></span> would you have me argue? On what branch of the subject do the people of this country need light? Must I undertake to prove that the slave is a man? That point is conceded already. Nobody doubts it. The slaveholders themselves acknowledge it in the <span class="voc"><span class="w">enactment</span><span class="g"><i>n.</i> /ɪˈnæktmənt/ 制定，颁行</span></span> of laws for their government. They acknowledge it when they punish disobedience on the part of the slave. There are seventy-two crimes in the State of Virginia, which, if committed by a black man, (no matter how ignorant he be,) subject him to the punishment of death; while only two of the same crimes will subject a white man to the like punishment.—What is this but the acknowledgement that the slave is a moral, intellectual and responsible being. The manhood of the slave is conceded. It is admitted in the fact that Southern <span class="voc"><span class="w">statute books</span><span class="g"><i>n.</i> /ˈstætʃuːt bʊks/ 法令汇编，成文法典</span></span> are covered with enactments forbidding, under severe fines and penalties, the teaching of the slave to read or to write.—When you can point to any such laws, in reference to the beasts of the field, then I may consent to argue the manhood of the slave. When the dogs in your streets, when the fowls of the air, when the cattle on your hills, when the fish of the sea, and the reptiles that crawl, shall be unable to distinguish the slave from a <span class="voc"><span class="w">brute</span><span class="g"><i>n.</i> /bruːt/ 畜生，野兽</span></span>, then will I argue with you that the slave is a man!</div>
-  <div class="zh">但我仿佛听见听众中有人说：正是在这一点上，你和你的废奴派同道们无法在公众心中留下好印象。倘若你们多讲道理、少加谴责，多去劝说、少加斥责，你们的事业就大有可能成功。可是，我认为，凡属一清二楚的事，就无须去论证。反奴隶制信条里，你要我论证哪一点？在这个题目上，这个国家的人民需要哪一分支的启发？莫非还要我来证明奴隶是人？这一点早已被承认了。没有人怀疑它。奴隶主自己在为管理他们而制定的法律中承认了它。他们在惩罚奴隶的不服从时承认了它。在弗吉尼亚州有七十二种罪行，若由黑人犯下（无论他多么无知），都会使他被处死刑；而同样的罪行中只有两种会使白人受到同样的惩罚。——这若不是承认奴隶是有道德、有智力、须负责的存在，又是什么？奴隶的人格是被承认了的。南方的法令汇编里满是严厉罚金与刑罚之下禁止教奴隶读写的规定，这一事实本身就承认了它。——等到你能指出针对田野牲畜的任何这类法律时，我才可能同意去论证奴隶的人格。等到你街上的狗、空中的飞鸟、你山上的牛群、海里的鱼，以及爬行的虫蛇，都无法把奴隶与畜生区分开来时，我才来与你论证奴隶是人！</div>
-</section>
-
-<section class="para">
-  <span class="no">41</span>
-  <div class="en">For the present, it is enough to <span class="voc"><span class="w">affirm</span><span class="g"><i>v.</i> /əˈfɜːrm/ 断言，确认</span></span> the equal manhood of the negro race. Is it not astonishing that, while we are ploughing, planting and reaping, using all kinds of mechanical tools, erecting houses, constructing bridges, building ships, working in metals of brass, iron, copper, silver and gold; that, while we are reading, writing and <span class="voc"><span class="w">cyphering</span><span class="g"><i>v.</i> /ˈsaɪfərɪŋ/ 计算，算术</span></span>, acting as clerks, merchants and secretaries, having among us lawyers, doctors, ministers, poets, authors, editors, orators and teachers; that, while we are engaged in all manner of enterprises common to other men, digging gold in California, capturing the whale in the Pacific, feeding sheep and cattle on the hill-side, living, moving, acting, thinking, planning, living in families as husbands, wives and children, and, above all, confessing and worshipping the Christian's God, and looking hopefully for life and <span class="voc"><span class="w">immortality</span><span class="g"><i>n.</i> /ˌɪmɔːrˈtæləti/ 不朽，永生</span></span> beyond the grave, we are called upon to prove that we are men!</div>
-  <div class="zh">就目前而言，确认黑人种族具有平等的人格，已经足够。难道不令人惊异吗：我们耕地、播种、收割，使用各种机械工具，盖房子、架桥梁、造船只，加工黄铜、铁、铜、银、金各种金属；我们读书、写字、算账，做办事员、商人、书记，我们中间有律师、医生、牧师、诗人、作家、编辑、演说家与教师；我们从事其他人所从事的一切事业，在加利福尼亚掘金，在太平洋捕鲸，在山坡上放牧牛羊，生活、行动、做事、思考、谋划，作为丈夫、妻子与子女生活在家庭之中，而且，最重要的是，信奉并敬拜基督徒的上帝，怀着希望仰望坟墓之外的生命与不朽——就在这样的时候，我们却被叫去证明我们是人！</div>
-</section>
-
-<section class="para">
-  <span class="no">42</span>
-  <div class="en">Would you have me argue that man is <span class="voc"><span class="w">entitled</span><span class="g"><i>adj.</i> /ɪnˈtaɪtld/ 有权的，有资格的</span></span> to liberty? that he is the rightful owner of his own body? You have already declared it. Must I argue the wrongfulness of slavery? Is that a question for Republicans? Is it to be settled by the rules of logic and <span class="voc"><span class="w">argumentation</span><span class="g"><i>n.</i> /ˌɑːrɡjumənˈteɪʃn/ 论证，论辩</span></span>, as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to be understood? How should I look to-day, in the presence of Americans, dividing, and subdividing a discourse, to show that men have a natural right to freedom? speaking of it relatively, and positively, negatively, and affirmatively. To do so, would be to make myself ridiculous, and to offer an insult to your understanding.—There is not a man beneath the <span class="voc"><span class="w">canopy</span><span class="g"><i>n.</i> /ˈkænəpi/ 华盖，穹苍</span></span> of heaven, that does not know that slavery is wrong for him.</div>
-  <div class="zh">你要我论证人有权享有自由吗？论证他是自己身体的合法主人吗？这些你们早已宣告过了。还要我论证奴隶制的邪恶吗？这是共和党人要解决的问题吗？它是要靠逻辑与论辩的规则来裁定、作为一个困难重重、牵涉到正义原则如何可疑适用、难以理解的问题吗？今天，在美国人面前，我若把一篇讲话分割了又分割，只为说明人有一种天生的自由权利，说它相对的、绝对的、反面的、正面的——我该是什么样子？那样做只会使我显得可笑，也是对诸位理解力的侮辱。——普天之下没有一个人不知道：奴隶制对他自己来说是错的。</div>
-</section>
-
-<section class="para">
-  <span class="no">43</span>
-  <div class="en">What, am I to argue that it is wrong to make men brutes, to rob them of their liberty, to work them without wages, to keep them ignorant of their relations to their fellow men, to beat them with sticks, to <span class="voc"><span class="w">flay</span><span class="g"><i>v.</i> /fleɪ/ 剥（皮），抽打得皮开肉绽</span></span> their flesh with the <span class="voc"><span class="w">lash</span><span class="g"><i>n.</i> /læʃ/ 鞭子</span></span>, to load their limbs with irons, to hunt them with dogs, to sell them at <span class="voc"><span class="w">auction</span><span class="g"><i>n.</i> /ˈɔːkʃn/ 拍卖</span></span>, to <span class="voc"><span class="w">sunder</span><span class="g"><i>v.</i> /ˈsʌndər/ 拆散，使分离</span></span> their families, to knock out their teeth, to burn their flesh, to starve them into obedience and submission to their masters? Must I argue that a system thus marked with blood, and stained with pollution, is wrong? No! I will not. I have better employment for my time and strength, than such arguments would imply.</div>
-  <div class="zh">什么，还要我论证把人变成畜生是错的吗？剥夺他们的自由，不给工钱叫他们干活，让他们对自己的同胞一无所知，用棍棒打他们，用鞭子抽得他们皮开肉绽，给他们的四肢上镣铐，放狗追猎他们，把他们拉到拍卖场上卖掉，拆散他们的家庭，敲掉他们的牙齿，烧灼他们的皮肉，用饥饿逼他们服从、屈从于主人——这些是错的吗？还要我论证一个如此血迹斑斑、如此污秽不堪的制度是错的吗？不！我不会。我的时间和精力有更好的用处，不该用来做这类论证所意味的事。</div>
-</section>
-
-<section class="para">
-  <span class="no">44</span>
-  <div class="en">What, then, remains to be argued? Is it that slavery is not <span class="voc"><span class="w">divine</span><span class="g"><i>adj.</i> /dɪˈvaɪn/ 神授的，神圣的</span></span>; that God did not establish it; that our doctors of divinity are mistaken? There is <span class="voc"><span class="w">blasphemy</span><span class="g"><i>n.</i> /ˈblæsfəmi/ 亵渎神明</span></span> in the thought. That which is inhuman, cannot be divine! Who can reason on such a <span class="voc"><span class="w">proposition</span><span class="g"><i>n.</i> /ˌprɑːpəˈzɪʃn/ 命题，主张</span></span>? They that can, may; I cannot. The time for such argument is past.</div>
-  <div class="zh">那么，还剩下什么可论证的呢？是说奴隶制并非神授？上帝并未设立它？我们的神学博士们搞错了？这念头里就含着亵渎。凡属非人的东西，就不可能是神授的！谁能就这样的命题讲道理？能的人尽管去讲；我不能。这类论证的时候已经过去了。</div>
-</section>
-
-<section class="para">
-  <span class="no">45</span>
-  <div class="en">At a time like this, <span class="voc"><span class="w">scorching</span><span class="g"><i>adj.</i> /ˈskɔːrtʃɪŋ/ 灼人的，辛辣的</span></span> <span class="voc"><span class="w">irony</span><span class="g"><i>n.</i> /ˈaɪrəni/ 讽刺，反讽</span></span>, not convincing argument, is needed. O! had I the ability, and could I reach the nation's ear, I would, to day, pour out a fiery stream of biting ridicule, blasting reproach, <span class="voc"><span class="w">withering</span><span class="g"><i>adj.</i> /ˈwɪðərɪŋ/ 令人枯萎的，摧折人的</span></span> <span class="voc"><span class="w">sarcasm</span><span class="g"><i>n.</i> /ˈsɑːrkæzəm/ 讥讽，挖苦</span></span>, and stern rebuke. For it is not light that is needed, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake. The feeling of the nation must be quickened; the conscience of the nation must be roused; the propriety of the nation must be startled; the <span class="voc"><span class="w">hypocrisy</span><span class="g"><i>n.</i> /hɪˈpɑːkrəsi/ 伪善，虚伪</span></span> of the nation must be exposed; and its crimes against God and man must be proclaimed and denounced.</div>
-  <div class="zh">在这样的时刻，需要的是灼人的讽刺，而不是令人信服的论证。啊！倘若我有那份才能，倘若我能让全国都听见，我今天就要倾泻出滚滚烈流：尖刻的嘲弄、毁灭性的责难、令人枯萎的讥讽与严厉的斥责。因为需要的是火，不是光；是雷霆，不是细雨。我们需要风暴、旋风与地震。全国的情感必须被唤醒；全国的良知必须被激起；全国的体面必须被惊动；全国的伪善必须被揭穿；它对上帝与人类所犯的罪，必须被宣告、被谴责。</div>
-</section>
-
-<section class="para">
-  <span class="no">46</span>
-  <div class="en">What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim. To him, your celebration is a <span class="voc"><span class="w">sham</span><span class="g"><i>n.</i> /ʃæm/ 骗局，假象</span></span>; your boasted liberty, an unholy <span class="voc"><span class="w">license</span><span class="g"><i>n.</i> /ˈlaɪsns/ 放纵，无法无天</span></span>; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciations of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade, and solemnity, are, to him, mere <span class="voc"><span class="w">bombast</span><span class="g"><i>n.</i> /ˈbɑːmbæst/ 浮夸之辞，大话</span></span>, fraud, deception, <span class="voc"><span class="w">impiety</span><span class="g"><i>n.</i> /ɪmˈpaɪəti/ 不敬神，亵慢</span></span>, and hypocrisy—a thin veil to cover up crimes which would disgrace a nation of <span class="voc"><span class="w">savages</span><span class="g"><i>n.</i> /ˈsævɪdʒɪz/ 野蛮人，未开化者</span></span>. There is not a nation on the earth guilty of practices, more shocking and bloody, than are the people of these United States, at this very hour.</div>
-  <div class="zh">对美国的奴隶来说，你们的七月四日是什么？我回答：是一年之中最能向他揭示他时刻身受的滔天不义与残酷的一天。对他来说，你们的庆典是一场骗局；你们夸耀的自由，是一种不神圣的放纵；你们的国家伟大，是膨胀的虚荣；你们的欢庆之声空洞而冷酷；你们对暴君的谴责，是厚颜无耻；你们对自由与平等的呼喊，是空洞的嘲弄；你们的祈祷与赞美诗，你们的布道与感恩，连同你们全部的宗教排场与庄严，在他看来都只是浮夸、欺诈、蒙骗、不敬与伪善——一层薄薄的帷幕，遮掩着那些足以让野蛮民族蒙羞的罪行。地球上没有一个民族所犯的行径，比此刻这些合众国的人民更加骇人听闻、更加血腥。</div>
-</section>
-
-<section class="para">
-  <span class="no">47</span>
-  <div class="en">Go where you may, search where you will, roam through all the <span class="voc"><span class="w">monarchies</span><span class="g"><i>n.</i> /ˈmɑːnərkiz/ 君主国</span></span> and <span class="voc"><span class="w">despotisms</span><span class="g"><i>n.</i> /ˈdespətɪzəmz/ 专制国，暴政</span></span> of the old world, travel through South America, search out every abuse, and when you have found the last, lay your facts by the side of the every day practices of this nation, and you will say with me, that, for <span class="voc"><span class="w">revolting</span><span class="g"><i>adj.</i> /rɪˈvoʊltɪŋ/ 令人作呕的，令人反感的</span></span> <span class="voc"><span class="w">barbarity</span><span class="g"><i>n.</i> /bɑːrˈbærəti/ 野蛮，残暴</span></span> and shameless hypocrisy, America reigns without a rival.</div>
-  <div class="zh">随你走到哪里，随你搜寻何处，漫游旧世界一切君主国与专制国，走遍南美洲，把每一种弊端都找出来；等你找到最后一种，把你的事实与这个国家日常的行径并排放着，你就会与我一同说：论令人作呕的野蛮与无耻的伪善，美国称王，无有匹敌。</div>
-</section>
-
-<section class="para">
-  <span class="no">48</span>
-  <div class="en">Take the American slave-trade, which, we are told by the papers, is especially prosperous just now. Ex-Senator Benton tells us that the price of men was never higher than now. He mentions the fact to show that slavery is in no danger. This trade is one of the peculiarities of American institutions. It is carried on in all the large towns and cities in one half of this confederacy; and millions are <span class="voc"><span class="w">pocketed</span><span class="g"><i>v.</i> /ˈpɑːkɪtɪd/ 装入私囊，中饱</span></span> every year, by dealers in this horrid <span class="voc"><span class="w">traffic</span><span class="g"><i>n.</i> /ˈtræfɪk/ 买卖，交易（常指不正当的）</span></span>. In several states, this trade is a chief source of wealth. It is called (in <span class="voc"><span class="w">contradistinction</span><span class="g"><i>n.</i> /ˌkɑːntrədɪˈstɪŋkʃn/ 对照之别，相对而言</span></span> to the foreign slave-trade) "the internal slave trade." It is, probably, called so, too, in order to divert from it the horror with which the foreign slave-trade is contemplated. That trade has long since been denounced by this government, as <span class="voc"><span class="w">piracy</span><span class="g"><i>n.</i> /ˈpaɪrəsi/ 海盗行为</span></span>. It has been denounced with burning words, from the high places of the nation, as an <span class="voc"><span class="w">execrable</span><span class="g"><i>adj.</i> /ˈeksɪkrəbl/ 可憎的，该受诅咒的</span></span> traffic. To arrest it, to put an end to it, this nation keeps a squadron, at immense cost, on the coast of Africa. Everywhere, in this country, it is safe to speak of this foreign slave-trade, as a most inhuman traffic, opposed alike to the laws of God and of man. The duty to <span class="voc"><span class="w">extirpate</span><span class="g"><i>v.</i> /ˈekstərpeɪt/ 根除，铲除</span></span> and destroy it, is admitted even by our Doctors of Divinity. In order to put an end to it, some of these last have consented that their colored brethren (nominally free) should leave this country, and establish themselves on the western coast of Africa! It is, however, a notable fact that, while so much <span class="voc"><span class="w">execration</span><span class="g"><i>n.</i> /ˌeksɪˈkreɪʃn/ 诅咒，憎恶</span></span> is poured out by Americans upon those engaged in the foreign slave-trade, the men engaged in the slave-trade between the states pass without condemnation, and their business is deemed honorable.</div>
-  <div class="zh">就拿美国的奴隶贸易来说吧——报纸告诉我们，它眼下特别兴旺。前参议员本顿告诉我们，人的价格从未像现在这样高。他提这件事，是为了说明奴隶制毫无危险。这门生意是美国制度的特点之一。它在这个联邦一半的大城镇里进行着；从事这桩可怕买卖的商人，每年把数以百万计的钱装进口袋。在好几个州，这门生意是财富的主要来源。它（与外洋奴隶贸易相对而言）被称为「国内奴隶贸易」。它大概也是因此得名，为的是把人们注视外洋奴隶贸易时怀有的那种恐惧从它身上引开。外洋奴隶贸易早已被这个政府谴责为海盗行径。它被全国的高位者用灼热的言辞斥为可憎的买卖。为了拦截它、终止它，这个国家不惜巨资，在非洲海岸常驻一支舰队。在这个国家，无论何处，把外洋奴隶贸易说成最不人道的买卖、说它同时违背上帝之法与人之法，都是安全的。就连我们的神学博士们也承认，有责任把它连根拔除、彻底消灭。为了终止它，这些博士中有些人竟同意让他们的有色弟兄（名义上是自由人）离开这个国家，到非洲西海岸去安身！然而，一个值得注意的事实是：美国人对从事外洋奴隶贸易者倾泻了如此多的诅咒，而从事州际奴隶贸易的人却不受谴责，他们的生意还被认为体面。</div>
-</section>
-
-<section class="para">
-  <span class="no">49</span>
-  <div class="en">Behold the practical operation of this internal slave-trade, the American slave-trade, sustained by American politics and American religion. Here you will see men and women <span class="voc"><span class="w">reared</span><span class="g"><i>v.</i> /rɪrd/ 饲养，养育</span></span> like swine for the market. You know what a swine-drover? I will show you a man-drover. They inhabit all our Southern States. They <span class="voc"><span class="w">perambulate</span><span class="g"><i>v.</i> /pəˈræmbjuleɪt/ 巡行，走遍</span></span> the country, and crowd the highways of the nation, with <span class="voc"><span class="w">droves</span><span class="g"><i>n.</i> /droʊvz/ 畜群，成群的人</span></span> of human stock. You will see one of these human flesh-jobbers, armed with pistol, whip and bowie-knife, driving a company of a hundred men, women, and children, from the Potomac to the slave market at New Orleans. These wretched people are to be sold singly, or in lots, to suit purchasers. They are food for the cotton-field, and the deadly sugar-mill. Mark the sad procession, as it moves wearily along, and the inhuman wretch who drives them. Hear his savage yells and his blood-chilling oaths, as he hurries on his affrighted captives! There, see the old man, with locks thinned and gray. Cast one glance, if you please, upon that young mother, whose shoulders are bare to the scorching sun, her <span class="voc"><span class="w">briny</span><span class="g"><i>adj.</i> /ˈbraɪni/ 咸的，含盐的</span></span> tears falling on the brow of the babe in her arms. See, too, that girl of thirteen, weeping, yes! weeping, as she thinks of the mother from whom she has been torn! The drove moves <span class="voc"><span class="w">tardily</span><span class="g"><i>adv.</i> /ˈtɑːrdɪli/ 迟缓地，缓慢地</span></span>. Heat and sorrow have nearly consumed their strength; suddenly you hear a quick snap, like the discharge of a rifle; the <span class="voc"><span class="w">fetters</span><span class="g"><i>n.</i> /ˈfetərz/ 脚镣，镣铐</span></span> clank, and the chain rattles simultaneously; your ears are saluted with a scream, that seems to have torn its way to the centre of your soul! The crack you heard, was the sound of the slave-whip; the scream you heard, was from the woman you saw with the babe. Her speed had faltered under the weight of her child and her chains! that <span class="voc"><span class="w">gash</span><span class="g"><i>n.</i> /ɡæʃ/ 深长的伤口，砍痕</span></span> on her shoulder tells her to move on. Follow this drove to New Orleans. Attend the auction; see men examined like horses; see the forms of women rudely and brutally exposed to the shocking gaze of American slave-buyers. See this drove sold and separated forever; and never forget the deep, sad sobs that arose from that scattered multitude. Tell me citizens, where, under the sun, you can witness a spectacle more fiendish and shocking. Yet this is but a glance at the American slave-trade, as it exists, at this moment, in the ruling part of the United States.</div>
-  <div class="zh">且看这国内奴隶贸易——由美国政治与美国宗教支撑的美国奴隶贸易——的实际运作吧。在这里，你会看到男男女女像猪一样被养大，供市场之用。你知道什么是赶猪人吗？我要让你看看赶人的人。他们遍布我们南方各州。他们走遍全国，用一群群「人畜」塞满这个国家的通衢大道。你会看到这样一个人肉贩子，带着手枪、鞭子和猎刀，赶着一百名男女老幼，从波托马克河一路赶到新奥尔良的奴隶市场。这些可怜人将被单个或成批出售，以迎合买主。他们是棉田与那致命的榨糖厂的食料。请留意那支悲哀的队伍，疲惫地缓缓前行，还有那个驱赶他们的非人之徒。听他那野蛮的吆喝与他令人血冷的咒骂，催促着那些惊恐的俘虏！看那里，那位头发稀疏斑白的老者。倘若你愿意，请把目光投向那位年轻母亲：她的双肩赤裸地承受着灼人的烈日，她咸涩的泪水落进怀中婴儿的额头。再看那个十三岁的女孩，在哭泣——是的！哭泣，因为她想起了自己被夺走的母亲！队伍行进迟缓。炎热与悲伤几乎耗尽了他们的气力；忽然你听到一声清脆的断裂声，像步枪击发；镣铐哐当，铁链同时哗啦作响；你的耳中撞进一声尖叫，仿佛撕开了一条路，直抵你灵魂的中心！你听到的那一响，是奴隶鞭的声音；你听到的那一声尖叫，来自你看见的那位抱着婴儿的妇人。在孩子的重量与锁链的重量之下，她的脚步慢了下来！她肩上的那道血口子叫她往前走。跟着这支队伍到新奥尔良去。去旁观那场拍卖；看男人像马一样被检验；看女人的身体被粗野残暴地暴露在美国奴隶买主令人震惊的注视之下。看这支队伍被卖掉、永远分离；并且永远不要忘记从那散落的人群中升起的、深沉悲哀的抽泣。告诉我，公民们，在太阳底下，你还能在哪里看到更恶魔般、更骇人的景象。然而这不过是瞥一眼此刻正存在于合众国统治地区的那桩美国奴隶贸易而已。</div>
-</section>
-
-<section class="para">
-  <span class="no">50</span>
-  <div class="en">I was born amid such sights and scenes. To me the American slave-trade is a terrible reality. When a child, my soul was often pierced with a sense of its horrors. I lived on Philpot Street, Fell's Point, Baltimore, and have watched from the <span class="voc"><span class="w">wharves</span><span class="g"><i>n.</i> /wɔːrvz/ 码头</span></span>, the slave ships in the Basin, anchored from the shore, with their cargoes of human flesh, waiting for favorable winds to <span class="voc"><span class="w">waft</span><span class="g"><i>v.</i> /wɑːft/ 吹送，飘送</span></span> them down the Chesapeake. There was, at that time, a grand slave <span class="voc"><span class="w">mart</span><span class="g"><i>n.</i> /mɑːrt/ 市场，交易场</span></span> kept at the head of Pratt Street, by Austin Woldfolk. His agents were sent into every town and county in Maryland, announcing their arrival, through the papers, and on flaming "hand-bills," headed cash for negroes. These men were generally well dressed men, and very <span class="voc"><span class="w">captivating</span><span class="g"><i>adj.</i> /ˈkæptɪveɪtɪŋ/ 迷人的，有魅力的</span></span> in their manners. Ever ready to drink, to treat, and to gamble. The fate of many a slave has depended upon the turn of a single card; and many a child has been snatched from the arms of its mother by bargains arranged in a state of brutal drunkenness.</div>
-  <div class="zh">我就是在这样的景象与场面中出生的。对我来说，美国奴隶贸易是一个可怕的现实。童年时，它的种种恐怖常常刺穿我的灵魂。我住在巴尔的摩费尔斯角的菲尔波特街，曾从码头望着内港里的奴隶船——它们离岸下锚，载着人肉货物，等着顺风把它们吹下切萨皮克湾。那时，普拉特街的街口有一处大奴隶市场，经营者是奥斯汀·沃尔德福克。他的代理人被派往马里兰的每一个城镇与县，通过报纸和醒目的「招贴」宣告他们的到来，招贴上写着「现金收购黑人」。这些人一般都衣着讲究，举止极为迷人。随时准备喝酒、请客、赌博。许多奴隶的命运，就取决于一张牌的翻转；许多孩子，就被人借着酒醉做出的交易，从母亲的怀里夺走。</div>
-</section>
-
-<section class="para">
-  <span class="no">51</span>
-  <div class="en">The <span class="voc"><span class="w">flesh-mongers</span><span class="g"><i>n.</i> /ˈfleʃ ˌmʌŋɡərz/ 人肉贩子，肉体买卖者</span></span> gather up their victims by dozens, and drive them, chained, to the general <span class="voc"><span class="w">depot</span><span class="g"><i>n.</i> /ˈdiːpoʊ/ 集中地，集散站</span></span> at Baltimore. When a sufficient number have been collected here, a ship is <span class="voc"><span class="w">chartered</span><span class="g"><i>v.</i> /ˈtʃɑːrtərd/ 包租，租赁</span></span>, for the purpose of conveying the <span class="voc"><span class="w">forlorn</span><span class="g"><i>adj.</i> /fərˈlɔːrn/ 孤苦无告的，绝望的</span></span> crew to Mobile, or to New Orleans. From the slave prison to the ship, they are usually driven in the darkness of night; for since the antislavery agitation, a certain caution is observed.</div>
-  <div class="zh">人肉贩子把他们的受害者成打地收集起来，锁上铁链，驱赶到巴尔的摩的总集中地。等这里聚起足够的人数，就租一条船，把这群孤苦无告的人运往莫比尔或新奥尔良。从奴隶监狱到船上，他们通常是在夜色的黑暗中赶过去的；因为自从反奴隶制的鼓动兴起以来，人们总还要保持几分谨慎。</div>
-</section>
-
-<section class="para">
-  <span class="no">52</span>
-  <div class="en">In the deep still darkness of midnight, I have been often aroused by the dead heavy footsteps, and the <span class="voc"><span class="w">piteous</span><span class="g"><i>adj.</i> /ˈpɪtiəs/ 凄厉的，令人怜悯的</span></span> cries of the chained gangs that passed our door. The <span class="voc"><span class="w">anguish</span><span class="g"><i>n.</i> /ˈæŋɡwɪʃ/ 痛苦，苦闷</span></span> of my boyish heart was intense; and I was often <span class="voc"><span class="w">consoled</span><span class="g"><i>v.</i> /kənˈsoʊld/ 安慰，宽慰</span></span>, when speaking to my mistress in the morning, to hear her say that the custom was very wicked; that she hated to hear the rattle of the chains, and the heart-rending cries. I was glad to find one who <span class="voc"><span class="w">sympathised</span><span class="g"><i>v.</i> /ˈsɪmpəθaɪzd/ 同情，同感</span></span> with me in my horror.</div>
-  <div class="zh">在午夜深沉寂静的黑暗里，我常被那死沉沉的重脚步声，以及从我们门前经过的、上了锁链的成群奴隶的凄厉哭喊惊醒。我少年之心的痛苦极为剧烈；而清晨与我的女主人说话时，听她说这风俗非常邪恶、说她讨厌听见铁链的哗啦声和撕心裂肺的哭喊，我往往得到安慰。我很高兴能找到一个与我同样感到恐惧的人。</div>
-</section>
-
-<section class="para">
-  <span class="no">53</span>
-  <div class="en">Fellow-citizens, this murderous traffic is, to-day, in active operation in this boasted republic. In the solitude of my spirit, I see clouds of dust raised on the highways of the South; I see the bleeding footsteps; I hear the <span class="voc"><span class="w">doleful</span><span class="g"><i>adj.</i> /ˈdoʊlfl/ 悲恸的，哀伤的</span></span> wail of <span class="voc"><span class="w">fettered</span><span class="g"><i>adj.</i> /ˈfetərd/ 被镣铐锁住的，受束缚的</span></span> humanity, on the way to the slave-markets, where the victims are to be sold like horses, sheep, and swine, knocked off to the highest <span class="voc"><span class="w">bidder</span><span class="g"><i>n.</i> /ˈbɪdər/ 出价人，竞买者</span></span>. There I see the tenderest ties ruthlessly broken, to gratify the lust, <span class="voc"><span class="w">caprice</span><span class="g"><i>n.</i> /kəˈpriːs/ 任性，反复无常</span></span> and <span class="voc"><span class="w">rapacity</span><span class="g"><i>n.</i> /rəˈpæsəti/ 贪婪，攫取</span></span> of the buyers and sellers of men. My soul sickens at the sight.</div>
-  <div class="zh">同胞们，这桩杀人的买卖，今天仍在这个自我夸耀的共和国里活跃地进行着。在我灵魂的孤寂中，我看见南方大路上扬起的尘土；我看见带血的脚印；我听见被镣铐束缚的人性发出悲恸的哀号，他们正走在通往奴隶市场的路上，在那里，受害者要像马、像羊、像猪一样被卖掉，被拍给出价最高的人。在那里，我看见最温柔的纽带被无情扯断，只为满足人的买卖者的贪欲、任性与贪婪。我的灵魂见此情景便作呕。</div>
-</section>
-
-<section class="para">
-  <span class="no">54</span>
-  <div class="en"><span class="q">"Is this the land your Fathers loved,<br>The freedom which they toiled to win?<br>In this the earth whereon they moved?<br>Are these the graves they slumber in?"</span></div>
-  <div class="zh"><span class="q">「这就是你们父辈所爱之地，<br>他们辛劳争得的自由？<br>他们行走其上的就是这片土地？<br>他们长眠的就是这些坟茔？」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">55</span>
-  <div class="en">But a still more inhuman, disgraceful, and scandalous state of things remains to be presented.</div>
-  <div class="zh">然而，还有一番更加不人道、更加可耻、更加丑恶的情形有待呈现。</div>
-</section>
-
-<section class="para">
-  <span class="no">56</span>
-  <div class="en">By an act of the American Congress, not yet two years old, slavery has been nationalized in its most horrible and revolting form. By that act, Mason &amp; Dixon's line has been <span class="voc"><span class="w">obliterated</span><span class="g"><i>v.</i> /əˈblɪtəreɪtɪd/ 抹去，消除</span></span>; New York has become as Virginia; and the power to hold, hunt, and sell men, women, and children as slaves remains no longer a mere state institution, but is now an institution of the whole United States. The power is <span class="voc"><span class="w">co-extensive</span><span class="g"><i>adj.</i> /ˌkoʊ ɪkˈstensɪv/ 同其广袤的，范围相同</span></span> with the star-spangled banner and American Christianity. Where these go, may also go the merciless slave-hunter. Where these are, man is not sacred. He is a bird for the sportsman's gun. By that most foul and fiendish of all human decrees, the liberty and person of every man are put in peril. Your broad republican domain is hunting ground for men. Not for thieves and robbers, enemies of society, merely, but for men guilty of no crime. Your law-makers have commanded all good citizens to engage in this hellish sport. Your President, your Secretary of State, your lords, nobles, and <span class="voc"><span class="w">ecclesiastics</span><span class="g"><i>n.</i> /ɪˌkliːziˈæstɪks/ 教士，神职人员</span></span>, enforce, as a duty you owe to your free and glorious country, and to your God, that you do this <span class="voc"><span class="w">accursed</span><span class="g"><i>adj.</i> /əˈkɜːrsɪd/ 该受诅咒的，可憎的</span></span> thing. Not fewer than forty Americans have, within the past two years, been hunted down and, without a moment's warning, hurried away in chains, and consigned to slavery and <span class="voc"><span class="w">excruciating</span><span class="g"><i>adj.</i> /ɪkˈskruːʃieɪtɪŋ/ 极痛苦的，折磨人的</span></span> torture. Some of these have had wives and children, dependent on them for bread; but of this, no account was made. The right of the hunter to his prey stands superior to the right of marriage, and to all rights in this republic, the rights of God included! For black men there are neither law, justice, humanity, nor religion. The Fugitive Slave Law makes mercy to them, a crime; and bribes the judge who tries them. An American judge gets ten dollars for every victim he consigns to slavery, and five, when he fails to do so. The oath of any two villains is sufficient, under this hell-black enactment, to send the most pious and <span class="voc"><span class="w">exemplary</span><span class="g"><i>adj.</i> /ɪɡˈzempləri/ 堪为表率的，典范的</span></span> black man into the <span class="voc"><span class="w">remorseless</span><span class="g"><i>adj.</i> /rɪˈmɔːrsləs/ 毫不留情的，无情的</span></span> jaws of slavery! His own testimony is nothing. He can bring no witnesses for himself. The minister of American justice is bound by the law to hear but one side; and that side, is the side of the oppressor. Let this damning fact be perpetually told. Let it be thundered around the world, that, in tyrant-killing, king-hating, people-loving, democratic, Christian America, the seats of justice are filled with judges, who hold their offices under an open and <span class="voc"><span class="w">palpable</span><span class="g"><i>adj.</i> /ˈpælpəbl/ 明显的，显而易见的</span></span> bribe, and are bound, in deciding in the case of a man's liberty, to hear only his accusers!</div>
-  <div class="zh">凭借美国国会一项还不满两年的法案，奴隶制以其最可怕、最令人作呕的形式被全国化了。凭借那项法案，梅森—狄克逊线被抹去了；纽约变得和弗吉尼亚一样；持有、追猎并贩卖男女老幼为奴的权力，不再仅仅是某个州的制度，而如今成了整个合众国的制度。这项权力与星条旗和美国基督教同其广袤。它们所到之处，那毫不留情的猎奴者也随之而去。有它们在的地方，人便不再神圣。他是供猎人枪击的鸟。凭借人类一切法令中最卑劣、最恶魔般的那一条，每个人的自由与人身都陷入危险。你们那辽阔的共和疆域，成了猎人的猎场——猎的是人。不只是盗贼与强盗这些社会之敌，而是无罪之人。你们的立法者命令一切好公民都参与这场地狱般的狩猎。你们的总统、你们的国务卿、你们的贵人、显要与教士们，把做这件该受诅咒的事，当作你们对自己自由而光荣的祖国、对你们上帝所负的义务来强制执行。在过去两年里，不少于四十名美国人被追猎，未经片刻警告就被锁链拖走，被投入奴役与酷刑之中。其中一些人还有妻子儿女，靠他们挣面包；但对此，无人加以考虑。猎人对猎物的权利，高踞于婚姻的权利之上，高踞于这个共和国的一切权利之上，连上帝的权利也包括在内！对黑人来说，既没有法律，也没有正义，没有人道，也没有宗教。《逃奴法》把怜悯他们变成一种罪，还贿赂审判他们的法官。一名美国法官，每把一个人判入奴役就得十美元，判不成则得五美元。在这条地狱般黑暗的法令之下，任何两个恶棍的宣誓，就足以把最虔诚、最堪为表率的黑人送进奴隶制那毫不留情的血盆大口！他自己的证词等于无物。他不能为自己带来任何证人。美国司法的执事者依法只能听一面之词；而那一面，就是压迫者的一面。让这个该受诅咒的事实被永远讲述下去吧。让它在全世界被高声传扬：在弑君、仇王、爱民、民主、基督教的美国，司法席位上坐满了法官，他们凭着一笔公开而明显的贿赂而任职，在裁定一个人的人身自由时，依法只能听取控告者的说法！</div>
-</section>
-
-<section class="para">
-  <span class="no">57</span>
-  <div class="en">In <span class="voc"><span class="w">glaring</span><span class="g"><i>adj.</i> /ˈɡlerɪŋ/ 公然的，昭彰的</span></span> violation of justice, in shameless disregard of the forms of administering law, in cunning arrangement to <span class="voc"><span class="w">entrap</span><span class="g"><i>v.</i> /ɪnˈtræp/ 诱捕，设局陷害</span></span> the defenceless, and in <span class="voc"><span class="w">diabolical</span><span class="g"><i>adj.</i> /ˌdaɪəˈbɑːlɪkl/ 魔鬼般的，凶残的</span></span> intent, this Fugitive Slave Law stands alone in the <span class="voc"><span class="w">annals</span><span class="g"><i>n.</i> /ˈænlz/ 编年史，纪年录</span></span> of tyrannical legislation. I doubt if there be another nation on the globe, having the <span class="voc"><span class="w">brass</span><span class="g"><i>n.</i> /bræs/ 厚颜无耻，无耻的胆量</span></span> and the baseness to put such a law on the statute-book. If any man in this assembly thinks differently from me in this matter, and feels able to disprove my statements, I will gladly confront him at any suitable time and place he may select.</div>
-  <div class="zh">在公然违背正义、无耻无视司法程序的形式、狡诈地设局陷害无力自卫者、以及魔鬼般的意图这几方面，这部《逃奴法》在暴虐立法的编年史上都独一份。我怀疑地球上是否还有另一个国家，有那样的厚颜与卑劣，把这样一条法律列入法典。倘若在座有人对此与我所见不同，并且觉得能够驳倒我的陈述，我乐意在他选定的任何合适时间与地点与他对质。</div>
-</section>
-
-<section class="para">
-  <span class="no">58</span>
-  <div class="en">I take this law to be one of the <span class="voc"><span class="w">grossest</span><span class="g"><i>adj.</i> /ˈɡroʊsɪst/ 最粗暴的，最严重的</span></span> <span class="voc"><span class="w">infringements</span><span class="g"><i>n.</i> /ɪnˈfrɪndʒmənts/ 侵犯，侵害</span></span> of Christian Liberty, and, if the churches and ministers of our country were not stupidly blind, or most wickedly indifferent, they, too, would so regard it.</div>
-  <div class="zh">我认为这部法律是对基督徒自由最粗暴的侵犯之一；倘若我们国家的各教会与牧师们不是愚钝地盲目，或极其邪恶地漠不关心，他们也定会这样看待它。</div>
-</section>
-
-<section class="para">
-  <span class="no">59</span>
-  <div class="en">At the very moment that they are thanking God for the enjoyment of civil and religious liberty, and for the right to worship God according to the dictates of their own consciences, they are utterly silent in respect to a law which robs religion of its chief significance, and makes it utterly worthless to a world lying in wickedness. Did this law concern the "mint, anise and cummin"—<span class="voc"><span class="w">abridge</span><span class="g"><i>v.</i> /əˈbrɪdʒ/ 削减，剥夺</span></span> the right to sing psalms, to partake of the <span class="voc"><span class="w">sacrament</span><span class="g"><i>n.</i> /ˈsækrəmənt/ 圣餐，圣礼</span></span>, or to engage in any of the ceremonies of religion, it would be smitten by the thunder of a thousand pulpits. A general shout would go up from the church, demanding <span class="voc"><span class="w">repeal</span><span class="g"><i>n.</i> /rɪˈpiːl/ 废止，撤销</span></span>, repeal, instant repeal!—And it would go hard with that politician who presumed to solicit the votes of the people without inscribing this motto on his banner. Further, if this demand were not complied with, another Scotland would be added to the history of religious liberty, and the stern old <span class="voc"><span class="w">covenanters</span><span class="g"><i>n.</i> /ˌkʌvəˈnæntərz/ 誓约派（苏格兰长老会历史派别）</span></span> would be thrown into the shade. A John Knox would be seen at every church door, and heard from every pulpit, and Fillmore would have no more <span class="voc"><span class="w">quarter</span><span class="g"><i>n.</i> /ˈkwɔːrtər/ 宽待，饶恕</span></span> than was shown by Knox, to the beautiful, but treacherous queen Mary of Scotland.—The fact that the church of our country, (with fractional exceptions,) does not esteem "the Fugitive Slave Law" as a declaration of war against religious liberty, implies that that church regards religion simply as a form of worship, an empty ceremony, and not a vital principle, requiring active <span class="voc"><span class="w">benevolence</span><span class="g"><i>n.</i> /bəˈnevələns/ 仁爱，善行</span></span>, justice, love and good will towards man. It esteems sacrifice above mercy; psalm-singing above right doing; solemn meetings above practical <span class="voc"><span class="w">righteousness</span><span class="g"><i>n.</i> /ˈraɪtʃəsnəs/ 义，正直</span></span>. A worship that can be conducted by persons who refuse to give shelter to the houseless, to give bread to the hungry, clothing to the naked, and who enjoin obedience to a law forbidding these acts of mercy, is a curse, not a blessing to mankind. The Bible addresses all such persons as "scribes, pharisees, <span class="voc"><span class="w">hypocrites</span><span class="g"><i>n.</i> /ˈhɪpəkrɪts/ 假冒为善者，伪君子</span></span>, who pay <span class="voc"><span class="w">tithe</span><span class="g"><i>n.</i> /taɪð/ 什一奉献，十分之一</span></span> of mint, anise, and cummin, and have omitted the weightier matters of the law, judgement, mercy and faith."</div>
-  <div class="zh">就在他们为享有公民自由与宗教自由、为有权按自己良心的指引敬拜上帝而感谢神的那一刻，他们对一部剥夺了宗教主要意义、使宗教对一个沉沦于邪恶的世界变得全然无用的法律，却完全沉默。倘若这部法律涉及的是「薄荷、茴香、芹菜」——剥夺人唱诗篇的权利、领圣餐的权利，或参与任何宗教仪式的权利——它早就会被上千座讲道坛的雷霆击碎了。教会里会响起一片呼声，要求废止、废止、立即废止！——而那个胆敢不把这句口号写在自己旗号上就去拉选票的政客，日子也会很不好过。再者，倘若这一要求得不到满足，宗教自由史上就会再添一个苏格兰，那些严峻的老誓约派也会相形失色。每一座教堂门口都会出现一位约翰·诺克斯，每一座讲道坛上都会听见他的声音，而菲尔莫尔所得的宽待，不会比诺克斯当年给予那位美丽却背信的苏格兰女王玛丽更多。——我们国家的教会（只有零星例外）不把《逃奴法》视为对宗教自由的宣战，这一事实意味着：那教会把宗教仅仅看作一种崇拜形式、一种空洞的仪式，而不是一种活的根本原则——它要求的是积极的仁爱、正义、爱以及对人人的善意。它把献祭看得高于怜悯；把唱诗篇看得高于行正事；把庄重的集会看得高于实际的义行。一种崇拜，若可以由那些拒绝给无家可归者庇护、拒绝给饥饿者面包、拒绝给赤身者衣穿、并且吩咐人服从一部禁止这类怜悯之举的法律的人来主持，那对人类就是咒诅，而不是祝福。《圣经》把所有这类人称为「文士、法利赛人、假冒为善的人，你们将薄荷、茴香、芹菜献上十分之一，那律法上更重的事，就是公义、怜悯、信实，反倒不行了」。</div>
-</section>
-
-<section class="para">
-  <span class="no">60</span>
-  <div class="en">But the church of this country is not only indifferent to the wrongs of the slave, it actually takes sides with the oppressors. It has made itself the <span class="voc"><span class="w">bulwark</span><span class="g"><i>n.</i> /ˈbʊlwɜːrk/ 堡垒，屏障</span></span> of American slavery, and the shield of American slave-hunters. Many of its most eloquent <span class="voc"><span class="w">Divines</span><span class="g"><i>n.</i> /dɪˈvaɪnz/ 神学家，牧师</span></span>, who stand as the very lights of the church, have shamelessly given the sanction of religion and the Bible to the whole slave system.—They have taught that man may, properly, be a slave; that the relation of master and slave is <span class="voc"><span class="w">ordained</span><span class="g"><i>v.</i> /ɔːrˈdeɪnd/ 命定，规定</span></span> of God; that to send back an escaped bondman to his master is clearly the duty of all the followers of the Lord Jesus Christ; and this horrible blasphemy is <span class="voc"><span class="w">palmed off</span><span class="g"><i>phr.</i> /pɑːmd ɔːf/ 冒充兜售，蒙混推销</span></span> upon the world for Christianity.</div>
-  <div class="zh">然而，这个国家的教会不仅对奴隶的冤屈漠不关心，它实际上还站到了压迫者一边。它把自己变成了美国奴隶制的堡垒、美国猎奴者的盾牌。它许多最有口才的神学家——那些教会中堪称明灯的人——无耻地以宗教与《圣经》的名义，为整个奴隶制度背书。——他们教导说：人可以正当地成为奴隶；主奴关系是上帝所命定的；把一个逃走的奴隶送回主人那里，显然是所有跟随主耶稣基督之人的责任；而这可怕亵渎，竟被当作基督教兜售给世界。</div>
-</section>
-
-<section class="para">
-  <span class="no">61</span>
-  <div class="en">For my part, I would say, welcome <span class="voc"><span class="w">infidelity</span><span class="g"><i>n.</i> /ɪnˈfɪdələti/ 不信神，怀疑论</span></span>! welcome <span class="voc"><span class="w">atheism</span><span class="g"><i>n.</i> /ˈeɪθiɪzəm/ 无神论</span></span>! welcome anything! in preference to the gospel, as preached by those Divines! They convert the very name of religion into an engine of tyranny, and barbarous cruelty, and serve to confirm more <span class="voc"><span class="w">infidels</span><span class="g"><i>n.</i> /ˈɪnfɪdəlz/ 不信教者，怀疑论者</span></span>, in this age, than all the infidel writings of Thomas Paine, Voltaire, and Bolingbroke, put together, have done! These ministers make religion a cold and flinty-hearted thing, having neither principles of right action, nor bowels of compassion. They strip the love of God of its beauty, and leave the throne of religion a huge, horrible, repulsive form. It is a religion for oppressors, tyrants, man-stealers, and thugs. It is not that "pure and <span class="voc"><span class="w">undefiled</span><span class="g"><i>adj.</i> /ˌʌndɪˈfaɪld/ 没有玷污的，纯洁的</span></span> religion" which is from above, and which is "first pure, then peaceable, easy to be <span class="voc"><span class="w">entreated</span><span class="g"><i>v.</i> /ɪnˈtriːtɪd/ 恳求，劝解（easy to be entreated 意为温良柔顺）</span></span>, full of mercy and good fruits, without <span class="voc"><span class="w">partiality</span><span class="g"><i>n.</i> /ˌpɑːrʃiˈæləti/ 偏心，偏袒</span></span>, and without hypocrisy." But a religion which favors the rich against the poor; which <span class="voc"><span class="w">exalts</span><span class="g"><i>v.</i> /ɪɡˈzɔːlts/ 抬举，抬高</span></span> the proud above the humble; which divides mankind into two classes, tyrants and slaves; which says to the man in chains, stay there; and to the oppressor, oppress on; it is a religion which may be professed and enjoyed by all the robbers and enslavers of mankind; it makes God a respecter of persons, denies his fatherhood of the race, and tramples in the dust the great truth of the brotherhood of man. All this we affirm to be true of the popular church, and the popular worship of our land and nation—a religion, a church, and a worship which, on the authority of inspired wisdom, we pronounce to be an <span class="voc"><span class="w">abomination</span><span class="g"><i>n.</i> /əˌbɑːmɪˈneɪʃn/ 可憎之物，令人厌恶之事</span></span> in the sight of God. In the language of Isaiah, the American church might be well addressed, "Bring no more vain <span class="voc"><span class="w">oblations</span><span class="g"><i>n.</i> /əˈbleɪʃnz/ 供物，祭品</span></span>; <span class="voc"><span class="w">incense</span><span class="g"><i>n.</i> /ˈɪnsens/ 香品，熏香</span></span> is an abomination unto me: the new moons and Sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting. Your new moons and your appointed feasts my soul hateth. They are a trouble to me, I am weary to bear them; and when ye spread forth your hands I will hide mine eyes from you. Yea! when ye make many prayers, I will not hear. YOUR HANDS ARE FULL OF BLOOD; cease to do evil, learn to do well; seek judgement; relieve the oppressed; judge for the fatherless; plead for the widow."</div>
-  <div class="zh">至于我，我要说：欢迎不信！欢迎无神论！什么都欢迎！——只要不是那些神学家所宣讲的福音！他们把宗教之名本身变成暴政与野蛮残酷的引擎，在这个时代所造成的怀疑论者，比托马斯·潘恩、伏尔泰和博林布鲁克所有不信之作加在一起所造就的还要多！这些牧师把宗教弄成一件冰冷坚硬的东西，既无正当行动的原则，也无慈悲的心肠。他们剥去了上帝之爱的美，只把宗教的宝座留下，成为一个巨大、可怖、令人厌恶的形影。这是一种供压迫者、暴君、贩人者和凶手信奉的宗教。它不是那种「清洁没有玷污的虔诚」——那是从上头来的，「先是清洁，后是和平，温良柔顺，满有怜悯，多结善果，没有偏见，没有假冒」。它反而是这样一种宗教：偏袒富人、压制穷人；抬举骄傲者、贬抑谦卑者；把人类分成两个阶级——暴君与奴隶；对锁链中的人说「待着吧」，对压迫者说「继续压迫吧」。这是一种一切强盗与奴役人类者都能信奉、都能享受的宗教；它使上帝成为看人下菜碟的神，否认他对全族的父职，把人类皆兄弟这一伟大真理踏进尘土。这一切，我们都断定是我国与民族的流行教会与流行崇拜的真实情形——这样一种宗教、教会与崇拜，我们凭受神启示的智慧之权威，宣告它是上帝眼中可憎之物。用《以赛亚书》的话来说，对美国教会正可以这样说：「你们不要再献虚浮的供物；香品是我所憎恶的；月朔和安息日，并宣召的大会，也是我所憎恶的；作罪孽，又守严肃会，我也不能容忍。你们的月朔和节期，我心里恨恶；我都以为麻烦；我担当便不耐烦。你们举手祷告，我必遮眼不看。就是你们多多地祈祷，我也不听。你们的手都满了杀人的血。你们要洗濯、自洁，从我眼前除掉你们的恶行；要止住作恶，学习行善，寻求公平，解救受欺压的，给孤儿伸冤，为寡妇辨屈。」</div>
-</section>
-
-<section class="para">
-  <span class="no">62</span>
-  <div class="en">The American church is guilty, when viewed in connection with what it is doing to uphold slavery; but it is <span class="voc"><span class="w">superlatively</span><span class="g"><i>adv.</i> /suːˈpɜːrlətɪvli/ 无以复加地，最高程度地</span></span> guilty when viewed in connection with its ability to abolish slavery.</div>
-  <div class="zh">就美国教会为维系奴隶制所做的一切来看，它是有罪的；但若就它本有能力废除奴隶制这一点来看，它的罪就无以复加了。</div>
-</section>
-
-<section class="para">
-  <span class="no">63</span>
-  <div class="en">The sin of which it is guilty is one of <span class="voc"><span class="w">omission</span><span class="g"><i>n.</i> /əˈmɪʃn/ 不作为，疏漏</span></span> as well as of <span class="voc"><span class="w">commission</span><span class="g"><i>n.</i> /kəˈmɪʃn/ 作为，实行（犯罪）</span></span>. Albert Barnes but uttered what the common sense of every man at all <span class="voc"><span class="w">observant</span><span class="g"><i>adj.</i> /əbˈzɜːrvənt/ 留意的，善于观察的</span></span> of the actual state of the case will receive as truth, when he declared that "There is no power out of the church that could sustain slavery an hour, if it were not sustained in it."</div>
-  <div class="zh">它所犯的罪，既是作为之罪，也是不作为之罪。阿尔伯特·巴恩斯不过是说出了每个稍加留意实际情况的人凭常识都会当作真理接受的话：「若奴隶制不是靠教会支撑，教会之外的任何力量都撑不了它一个小时。」</div>
-</section>
-
-<section class="para">
-  <span class="no">64</span>
-  <div class="en">Let the religious press, the pulpit, the Sunday school, the conference meeting, the great ecclesiastical, missionary, Bible and <span class="voc"><span class="w">tract</span><span class="g"><i>n.</i> /trækt/ 传单，小册子</span></span> associations of the land <span class="voc"><span class="w">array</span><span class="g"><i>v.</i> /əˈreɪ/ 列阵，部署</span></span> their immense powers against slavery and slave-holding; and the whole system of crime and blood would be scattered to the winds; and that they do not do this involves them in the most awful responsibility of which the mind can <span class="voc"><span class="w">conceive</span><span class="g"><i>v.</i> /kənˈsiːv/ 设想，构想</span></span>.</div>
-  <div class="zh">倘若宗教报刊、讲道坛、主日学、聚会，以及全国那些庞大的教会、差传、《圣经》与传单协会，把它们的巨大力量列阵对抗奴隶制与蓄奴；那么整个由罪与血构成的制度就会被驱散得无影无踪；而他们不这样做，就使他们陷于人心所能设想的最可怕的责任之中。</div>
-</section>
-
-<section class="para">
-  <span class="no">65</span>
-  <div class="en">In <span class="voc"><span class="w">prosecuting</span><span class="g"><i>v.</i> /ˈprɑːsɪkjuːtɪŋ/ 推进，从事</span></span> the anti-slavery enterprise, we have been asked to spare the church, to spare the ministry; but how, we ask, could such a thing be done? We are met on the <span class="voc"><span class="w">threshold</span><span class="g"><i>n.</i> /ˈθreʃhoʊld/ 门槛，入口</span></span> of our efforts for the <span class="voc"><span class="w">redemption</span><span class="g"><i>n.</i> /rɪˈdempʃn/ 赎回，解救</span></span> of the slave, by the church and ministry of the country, in battle arrayed against us; and we are compelled to fight or flee. From what quarter, I beg to know, has proceeded a fire so deadly upon our ranks, during the last two years, as from the Northern pulpit? As the <span class="voc"><span class="w">champions</span><span class="g"><i>n.</i> /ˈtʃæmpiənz/ 拥护者，卫道士</span></span> of oppressors, the chosen men of American theology have appeared—men, honored for their so-called <span class="voc"><span class="w">piety</span><span class="g"><i>n.</i> /ˈpaɪəti/ 虔诚</span></span>, and their real learning. The Lords of Buffalo, the Springs of New York, the Lathorps of Auburn, the Coxes and Spencers of Brooklyn, the Gannetts and Sharps of Boston, the Deweys of Washington, and other great religious lights of the land, have, in utter denial of the authority of Him, by whom they professed to be called to the ministry, deliberately taught us, against the example of the Hebrews and against the <span class="voc"><span class="w">remonstrance</span><span class="g"><i>n.</i> /rɪˈmɑːnstrəns/ 劝诫，抗议</span></span> of the Apostles, they teach "that we ought to obey man's law before the law of God."</div>
-  <div class="zh">在推进反奴隶制事业时，有人要求我们放过教会、放过教士；可是我们问，这种事怎么办得到？我们在为赎回奴隶而努力的门口，就遇上这个国家的教会与教士列阵与我们为敌；我们被迫要么战斗，要么逃走。请问，在过去两年里，向我们队伍射来的致命火力，有哪一处比北方讲道坛更猛？美国神学界的精选之士，是以压迫者的卫道士面目出现的——那些人因其所谓的虔诚与真实的学问而受人尊敬。布法罗的洛兹们、纽约的斯普林斯们、奥本的莱索普们、布鲁克林的考克斯们与斯宾塞们、波士顿的甘尼特们与夏普们、华盛顿的杜威们，以及这片土地上其他宗教明灯，全然否认那位他们自称受召为其执事的上帝的权威，刻意教导我们——违背希伯来人的榜样、违背使徒们的劝诫——他们教导「我们应当遵守人的律法先于上帝的律法」。</div>
-</section>
-
-<section class="para">
-  <span class="no">66</span>
-  <div class="en">My spirit <span class="voc"><span class="w">wearies</span><span class="g"><i>v.</i> /ˈwɪriz/ 使厌倦，使疲乏</span></span> of such blasphemy; and how such men can be supported, as the "standing types and representatives of Jesus Christ," is a mystery which I leave others to <span class="voc"><span class="w">penetrate</span><span class="g"><i>v.</i> /ˈpenətreɪt/ 参透，看穿</span></span>. In speaking of the American church, however, let it be distinctly understood that I mean the great mass of the religious organizations of our land. There are exceptions, and I thank God that there are. Noble men may be found, scattered all over these Northern States, of whom Henry Ward Beecher of Brooklyn, Samuel J. May of Syracuse, and my esteemed friend on the platform, are shining examples; and let me say further, that upon these men lies the duty to inspire our ranks with high religious faith and <span class="voc"><span class="w">zeal</span><span class="g"><i>n.</i> /ziːl/ 热忱，热心</span></span>, and to cheer us on in the great mission of the slave's redemption from his chains.</div>
-  <div class="zh">我的心灵厌倦了这样的亵渎；这样的人竟能作为「耶稣基督的常设典范与代表」而得到供养，这其中的奥秘我留待别人去参透。不过，在谈到美国教会时，必须明确：我指的是我们这片土地上宗教组织中的绝大多数。例外是有的，我感谢上帝，例外确实存在。在这些北方各州，散落着一些高尚的人，布鲁克林的亨利·沃德·比彻、锡拉丘兹的塞缪尔·J. 梅，以及讲台上我敬重的朋友，都是光辉的例子；我还要说，让我们的队伍充满崇高的宗教信仰与热忱、在把奴隶从锁链中赎回这一伟大使命中为我们鼓劲，正是这些人所肩负的责任。</div>
-</section>
-
-<section class="para">
-  <span class="no">67</span>
-  <div class="en">One is struck with the difference between the attitude of the American church towards the anti-slavery movement, and that occupied by the churches in England towards a similar movement in that country. There, the church, true to its mission of <span class="voc"><span class="w">ameliorating</span><span class="g"><i>v.</i> /əˈmiːliəreɪtɪŋ/ 改善，改良</span></span>, <span class="voc"><span class="w">elevating</span><span class="g"><i>v.</i> /ˈelɪveɪtɪŋ/ 提升，提高</span></span>, and improving the condition of mankind, came forward promptly, bound up the wounds of the West Indian slave, and restored him to his liberty. There, the question of <span class="voc"><span class="w">emancipation</span><span class="g"><i>n.</i> /ɪˌmænsɪˈpeɪʃn/ 解放，释放</span></span> was a high religious question. It was demanded, in the name of humanity, and according to the law of the living God. The Sharps, the Clarksons, the Wilberforces, the Buxtons, the Burchells and the Knibbs, were alike famous for their piety, and for their <span class="voc"><span class="w">philanthropy</span><span class="g"><i>n.</i> /fɪˈlænθrəpi/ 博爱，慈善</span></span>. The anti-slavery movement there was not an anti-church movement, for the reason that the church took its full share in prosecuting that movement: and the anti-slavery movement in this country will cease to be an anti-church movement, when the church of this country shall assume a favorable, instead of a <span class="voc"><span class="w">hostile</span><span class="g"><i>adj.</i> /ˈhɑːstl/ 敌对的，敌意的</span></span> position towards that movement.</div>
-  <div class="zh">人们会注意到，美国教会对反奴隶制运动的态度，与英格兰各教会对该国同类运动的态度，形成了鲜明对照。在那里，教会忠于其改善、提升、改良人类处境的使命，迅速站了出来，为西印度奴隶包扎伤口，还他自由。在那里，解放是一个崇高的宗教问题。它是凭人道的名义、依照永生上帝的律法被要求的。夏普们、克拉克森们、威尔伯福斯们、巴克斯顿们、伯切尔们与尼布们，都同样以虔诚与博爱闻名。那里的反奴隶制运动不是一场反教会的运动，因为教会充分分担了推进那场运动的责任；而在这个国家，当这里的教会对这一运动采取支持而非敌对的立场时，反奴隶制运动也将不再是一场反教会的运动。</div>
-</section>
-
-<section class="para">
-  <span class="no">68</span>
-  <div class="en">Americans! your republican politics, not less than your republican religion, are <span class="voc"><span class="w">flagrantly</span><span class="g"><i>adv.</i> /ˈfleɪɡrəntli/ 公然地，明目张胆地</span></span> inconsistent. You boast of your love of liberty, your superior civilization, and your pure Christianity, while the whole political power of the nation (as embodied in the two great political parties), is solemnly pledged to support and perpetuate the enslavement of three millions of your countrymen. You hurl your <span class="voc"><span class="w">anathemas</span><span class="g"><i>n.</i> /əˈnæθəməz/ 诅咒，革出教门之罚</span></span> at the crowned headed tyrants of Russia and Austria, and pride yourselves on your Democratic institutions, while you yourselves consent to be the mere tools and body-guards of the tyrants of Virginia and Carolina. You invite to your shores fugitives of oppression from abroad, honor them with banquets, greet them with <span class="voc"><span class="w">ovations</span><span class="g"><i>n.</i> /oʊˈveɪʃnz/ 热烈欢迎，欢呼</span></span>, cheer them, toast them, salute them, protect them, and pour out your money to them like water; but the fugitives from your own land you advertise, hunt, arrest, shoot and kill. You glory in your <span class="voc"><span class="w">refinement</span><span class="g"><i>n.</i> /rɪˈfaɪnmənt/ 文雅，教养</span></span> and your universal education; yet you maintain a system as barbarous and dreadful as ever stained the character of a nation—a system begun in <span class="voc"><span class="w">avarice</span><span class="g"><i>n.</i> /ˈævərɪs/ 贪婪，贪财</span></span>, supported in pride, and perpetuated in cruelty. You shed tears over fallen Hungary, and make the sad story of her wrongs the theme of your poets, statesmen and orators, till your gallant sons are ready to fly to arms to <span class="voc"><span class="w">vindicate</span><span class="g"><i>v.</i> /ˈvɪndɪkeɪt/ 为……辩护，讨回公道</span></span> her cause against her oppressors; but, in regard to the ten thousand wrongs of the American slave, you would enforce the strictest silence, and would hail him as an enemy of the nation who dares to make those wrongs the subject of public discourse! You are all on fire at the mention of liberty for France or for Ireland; but are as cold as an iceberg at the thought of liberty for the enslaved of America.—You discourse eloquently on the dignity of labor; yet, you sustain a system which, in its very essence, casts a stigma upon labor. You can bare your bosom to the storm of British artillery to throw off a threepenny tax on tea; and yet wring the last hard-earned <span class="voc"><span class="w">farthing</span><span class="g"><i>n.</i> /ˈfɑːrðɪŋ/ 法新（英国旧时最小铜币）</span></span> from the grasp of the black laborers of your country. You profess to believe "that, of one blood, God made all nations of men to dwell on the face of all the earth," and hath commanded all men, everywhere to love one another; yet you <span class="voc"><span class="w">notoriously</span><span class="g"><i>adv.</i> /noʊˈtɔːriəsli/ 众所周知地，臭名昭著地</span></span> hate, (and glory in your hatred,) all men whose skins are not colored like your own. You declare, before the world, and are understood by the world to declare, that you "hold these truths to be self evident, that all men are created equal; and are endowed by their Creator with certain <span class="voc"><span class="w">inalienable</span><span class="g"><i>adj.</i> /ɪnˈeɪliənəbl/ 不可让与的</span></span> rights; and that, among these are, life, liberty, and the pursuit of happiness;" and yet, you hold securely, in a bondage which, according to your own Thomas Jefferson, "is worse than ages of that which your fathers rose in rebellion to oppose," a seventh part of the inhabitants of your country.</div>
-  <div class="zh">美国人！你们共和派的政治，不亚于你们共和派的宗教，都是公然自相矛盾的。你们夸耀自己爱自由、夸耀自己优越的文明与纯正的基督教，而全国的政治力量（体现于两大政党之中）却郑重承诺支持并延续对你们三百万同胞的奴役。你们对俄国和奥地利那些头戴王冠的暴君抛出诅咒，为你们的民主制度自豪，而你们自己却甘心充当弗吉尼亚与卡罗来纳暴君的工具与保镖。你们把国外受压迫的逃亡者请到自己的海岸，用宴席款待他们，用欢呼迎接他们，为他们喝彩、祝酒、致敬、保护他们，把钱像水一样倒给他们；可是从你们自己国土上逃出的人，你们却张贴告示、追捕、逮捕、枪击、杀害。你们为自己的文雅与普及教育而得意；却维持着一套野蛮可怕的制度，其恶劣程度前所未有地玷污过一个国家的品格——这制度起于贪婪，靠骄傲支撑，以残酷延续。你们为陷落的匈牙利洒泪，把她冤屈的悲惨故事变成你们诗人、政治家与演说家的题目，直到你们英勇的子弟准备拿起武器，为她的事业向压迫者讨回公道；可是对于美国奴隶的万千冤屈，你们却要施行最严格的沉默，谁敢把这些冤屈作为公开议论的题目，你们就要把他当作国家的敌人。一提到法国或爱尔兰的自由，你们就热血沸腾；一想到美国被奴役者的自由，你们却冷得像冰山。——你们雄辩地谈论劳动的尊严；却维持着一套本质上给劳动打上耻辱烙印的制度。为了摆脱三便士的茶税，你们能袒胸迎向英国炮火的暴风；却要从你们国家黑人劳动者的手里，榨出最后一枚辛苦挣来的法新。你们自称相信「上帝从一本造出万族的人，住在全地上」，并吩咐各处的人彼此相爱；可是对于那些肤色与你们不同的人，你们却众所周知地恨他们（还以自己的恨为荣）。你们在全世界面前宣告，而且全世界也明白你们是在宣告：「我们认为下列真理是不言而喻的：人人生而平等；造物主赋予他们若干不可让与的权利；其中包括生命、自由和追求幸福」；然而，你们却用一道枷锁——按你们自己的托马斯·杰斐逊的说法，它「比你们父辈起而反抗的那种奴役还要坏上许多世代」——牢牢地拘禁着你们国家七分之一的人口。</div>
-</section>
-
-<section class="para">
-  <span class="no">69</span>
-  <div class="en">Fellow-citizens! I will not enlarge further on your national inconsistencies. The existence of slavery in this country <span class="voc"><span class="w">brands</span><span class="g"><i>v.</i> /brændz/ 打上烙印，标明为</span></span> your republicanism as a sham, your humanity as a base pretence, and your Christianity as a lie. It destroys your moral power abroad; it corrupts your politicians at home. It <span class="voc"><span class="w">saps</span><span class="g"><i>v.</i> /sæps/ 蛀空，逐渐削弱</span></span> the foundation of religion; it makes your name a hissing, and a by word to a mocking earth. It is the <span class="voc"><span class="w">antagonistic</span><span class="g"><i>adj.</i> /ænˌtæɡəˈnɪstɪk/ 对抗的，敌对的</span></span> force in your government, the only thing that seriously disturbs and endangers your Union. It fetters your progress; it is the enemy of improvement, the deadly foe of education; it <span class="voc"><span class="w">fosters</span><span class="g"><i>v.</i> /ˈfɔːstərz/ 助长，培养</span></span> pride; it breeds <span class="voc"><span class="w">insolence</span><span class="g"><i>n.</i> /ˈɪnsələns/ 蛮横，傲慢无礼</span></span>; it promotes vice; it shelters crime; it is a curse to the earth that supports it; and yet, you cling to it, as if it were the sheet anchor of all your hopes. Oh! be warned! be warned! a horrible <span class="voc"><span class="w">reptile</span><span class="g"><i>n.</i> /ˈreptaɪl/ 爬虫，爬行动物</span></span> is coiled up in your nation's bosom; the <span class="voc"><span class="w">venomous</span><span class="g"><i>adj.</i> /ˈvenəməs/ 有毒的</span></span> creature is nursing at the tender breast of your youthful republic; for the love of God, tear away, and fling from you the hideous monster, and let the weight of twenty millions crush and destroy it forever!</div>
-  <div class="zh">同胞们！我不再就你们国家的种种自相矛盾多作铺陈了。这个国家存在奴隶制，就把你们的共和主义烙成一场骗局，把你们的人道烙成卑劣的伪装，把你们的基督教烙成一个谎言。它毁掉你们在国外的道德力量；它腐蚀你们国内的政客。它蛀空宗教的根基；它使你们的名字在讥笑你们的世上成为嗤笑与话柄。它是你们政府中的对抗力量，是唯一严重搅扰并危及你们联邦的东西。它束缚你们的进步；它是改良的敌人，是教育的死敌；它助长骄傲；它滋生蛮横；它鼓励恶行；它庇护犯罪；它是对承载它的那片土地的咒诅；然而你们却紧抱不放，仿佛它是你们全部希望的船首大锚。啊！要警惕！要警惕！一条可怕的爬虫正蜷伏在你们国家的怀抱里；那有毒的东西正吮吸着你们年轻共和国柔嫩的胸膛；看在上帝之爱的份上，把它扯开，把这可憎的怪物从你们身上扔掉，让两千万人的重量把它永远碾碎、消灭！</div>
-</section>
-
-<section class="para">
-  <span class="no">70</span>
-  <div class="en">But it is answered in reply to all this, that precisely what I have now denounced is, in fact, guaranteed and sanctioned by the Constitution of the United States; that the right to hold and to hunt slaves is a part of that Constitution framed by the <span class="voc"><span class="w">illustrious</span><span class="g"><i>adj.</i> /ɪˈlʌstriəs/ 杰出的，显赫的</span></span> Fathers of this Republic.</div>
-  <div class="zh">但对这一切，有人会回答说：我刚才所谴责的东西，实际上正是由《美国宪法》所保障与认可的；持有并追猎奴隶的权利，正是这个共和国那些杰出国父们所制定的宪法的一部分。</div>
-</section>
-
-<section class="para">
-  <span class="no">71</span>
-  <div class="en">Then, I dare to affirm notwithstanding all I have said before, your fathers <span class="voc"><span class="w">stooped</span><span class="g"><i>v.</i> /stuːpt/ 屈身，降格</span></span>, <span class="voc"><span class="w">basely</span><span class="g"><i>adv.</i> /ˈbeɪsli/ 卑劣地，下贱地</span></span> stooped.</div>
-  <div class="zh">那么，尽管我先前说了那一切，我仍要斗胆断言：你们的父辈弯下了腰，卑劣地弯下了腰。</div>
-</section>
-
-<section class="para">
-  <span class="no">72</span>
-  <div class="en"><span class="q">"To <span class="voc"><span class="w">palter</span><span class="g"><i>v.</i> /ˈpɔːltər/ 闪烁其词，玩弄文字</span></span> with us in a double sense:<br>And keep the word of the promise to the ear<br>But break it to the heart."</span></div>
-  <div class="zh"><span class="q">「用双重的含义同我们玩弄文字：<br>把诺言留在我们耳边，<br>却让它在心里破碎。」</span></div>
-</section>
-
-<section class="para">
-  <span class="no">73</span>
-  <div class="en">And instead of being the honest men I have before declared them to be, they were the <span class="voc"><span class="w">veriest</span><span class="g"><i>adj.</i> /ˈveriɪst/ 最十足的，地道的</span></span> <span class="voc"><span class="w">imposters</span><span class="g"><i>n.</i> /ɪmˈpɑːstərz/ 骗子，冒名者</span></span> that ever practised on mankind. This is the inevitable conclusion, and from it there is no escape. But I differ from those who charge this baseness on the <span class="voc"><span class="w">framers</span><span class="g"><i>n.</i> /ˈfreɪmərz/ 制定者，起草人</span></span> of the Constitution of the United States. It is a <span class="voc"><span class="w">slander</span><span class="g"><i>n.</i> /ˈslændər/ 诽谤，中伤</span></span> upon their memory, at least, so I believe. There is not time now to argue the constitutional question at length; nor have I the ability to discuss it as it ought to be discussed. The subject has been handled with masterly power by Lysander Spooner, Esq., by William Goodell, by Samuel E. Sewall, Esq., and last, though not least, by Gerritt Smith, Esq. These gentlemen have, as I think, fully and clearly vindicated the Constitution from any design to support slavery for an hour.</div>
-  <div class="zh">那么，他们就不是我先前所宣称的那种诚实之人，而是世上最地道的骗子。这是不可避免的结论，无从逃避。可是，我与那些把这种卑劣归咎于《美国宪法》制定者的人不同。那是对他们名声的诽谤——至少我相信如此。现在没有时间详细论证这个宪法问题；我也没有能力按应有的方式来讨论它。这个问题已由莱桑德·斯普纳先生、威廉·古德尔、塞缪尔·E. 休厄尔先生，以及最后一位但同样重要的格里特·史密斯先生，以精湛的功力处理过了。在我看来，这些先生已经充分而清楚地证明：《宪法》绝无支持奴隶制哪怕一个小时的意图。</div>
-</section>
-
-<section class="para">
-  <span class="no">74</span>
-  <div class="en">Fellow-citizens! there is no matter in respect to which, the people of the North have allowed themselves to be so ruinously imposed upon, as that of the pro-slavery character of the Constitution. In that instrument I hold there is neither warrant, license, nor sanction of the hateful thing; but, interpreted as it ought to be interpreted, the Constitution is a Glorious Liberty Document. Read its <span class="voc"><span class="w">preamble</span><span class="g"><i>n.</i> /ˈpriːæmbl/ 序言，前言</span></span>, consider its purposes. Is slavery among them? Is it at the gateway? or is it in the temple? it is neither. While I do not intend to argue this question on the present occasion, let me ask, if it be not somewhat <span class="voc"><span class="w">singular</span><span class="g"><i>adj.</i> /ˈsɪŋɡjələr/ 奇特的，不寻常的</span></span> that, if the Constitution were intended to be, by its framers and adopters, a slave-holding instrument, why neither slavery, slaveholding, nor slave can anywhere be found in it. What would be thought of an instrument, drawn up, legally drawn up, for the purpose of entitling the city of Rochester to a <span class="voc"><span class="w">tract</span><span class="g"><i>n.</i> /trækt/ 地块，一片土地</span></span> of land, in which no mention of land was made? Now, there are certain rules of interpretation, for the proper understanding of all legal instruments. These rules are well established. They are plain, common-sense rules, such as you and I, and all of us, can understand and apply, without having passed years in the study of law. I <span class="voc"><span class="w">scout</span><span class="g"><i>v.</i> /skaʊt/ 鄙视，嗤为无稽</span></span> the idea that the question of the constitutionality or unconstitutionality of slavery is not a question for the people. I hold that every American citizen has a right to form an opinion of the constitution, and to <span class="voc"><span class="w">propagate</span><span class="g"><i>v.</i> /ˈprɑːpəɡeɪt/ 传播，宣扬</span></span> that opinion, and to use all honorable means to make his opinion the prevailing one. Without this right, the liberty of an American citizen would be as insecure as that of a Frenchman. Ex-Vice-President Dallas tells us that the constitution is an object to which no American mind can be too attentive, and no American heart too <span class="voc"><span class="w">devoted</span><span class="g"><i>adj.</i> /dɪˈvoʊtɪd/ 忠诚的，专注的</span></span>. He further says, the constitution, in its words, is plain and intelligible, and is meant for the home-bred, <span class="voc"><span class="w">unsophisticated</span><span class="g"><i>adj.</i> /ˌʌnsəˈfɪstɪkeɪtɪd/ 质朴的，不矫饰的</span></span> understandings of our fellow-citizens. Senator Berrien tell us that the Constitution is the fundamental law, that which controls all others. The <span class="voc"><span class="w">charter</span><span class="g"><i>n.</i> /ˈtʃɑːrtər/ 宪章，特许状</span></span> of our liberties, which every citizen has a personal interest in understanding thoroughly. The <span class="voc"><span class="w">testimony</span><span class="g"><i>n.</i> /ˈtestɪmoʊni/ 证言，陈述</span></span> of Senator Breese, Lewis Cass, and many others that might be named, who are everywhere esteemed as sound lawyers, so regard the constitution. I take it, therefore, that it is not <span class="voc"><span class="w">presumption</span><span class="g"><i>n.</i> /prɪˈzʌmpʃn/ 僭妄，放肆</span></span> in a private citizen to form an opinion of that instrument.</div>
-  <div class="zh">同胞们！北方人民在没有任何一件事上像在「宪法支持奴隶制」这一点上那样，让自己被如此毁灭性地欺骗。我认为，在那份文献里，既没有对这可恨之物的授权、许可，也没有它的认可；而按它应当被解释的方式去解释，《宪法》是一份光荣的自由文献。读读它的序言，想想它的宗旨。奴隶制在其中吗？是在门口，还是在殿内？两者都不是。虽然我不打算在此时论证这个问题，但请允许我问一句：倘若《宪法》的制定者与采纳者有意把它制成一份蓄奴的文书，那么为什么在它里面哪儿也找不到「奴隶制」「蓄奴」或「奴隶」这些词？倘若有一份文书，为把罗切斯特市对某片土地的权利依法订立而成，通篇却一次也没提到土地，人们会怎么想？如今，为了正确理解一切法律文书，存在某些解释规则。这些规则早已确立。它们是些明白的常识规则，你、我，我们所有人，无须研习法律多年，都能理解并运用。我鄙视那种认为奴隶制合宪或违宪不是人民的问题的说法。我认为，每一个美国公民都有权对宪法形成自己的看法、传播这一看法，并用一切正当手段使自己的看法成为主流。没有这项权利，一个美国公民的自由就会同一个法国人一样没有保障。前副总统达拉斯告诉我们：宪法是这样一件东西，美国人的心智对它怎样专注都不为过，美国人的心对它怎样忠诚都不为过。他还说，宪法在文字上明白易懂，是为我们同胞中那些土生土长、未受矫饰的理解力而设的。参议员贝里恩告诉我们，《宪法》是根本法，是支配其他一切法律的法律；是我们各项自由的宪章，每个公民都切身关心要彻底理解它。参议员布里斯、刘易斯·卡斯，以及其他许多可以举出的、到处被尊为严谨法学家的人，也都这样看待宪法。因此我认为，一个普通公民对那份文献形成看法，并不是僭妄。</div>
-</section>
-
-<section class="para">
-  <span class="no">75</span>
-  <div class="en">Now, take the constitution according to its plain reading, and I <span class="voc"><span class="w">defy</span><span class="g"><i>v.</i> /dɪˈfaɪ/ 公然挑战，不服</span></span> the presentation of a single pro-slavery <span class="voc"><span class="w">clause</span><span class="g"><i>n.</i> /klɔːz/ 条款</span></span> in it. On the other hand it will be found to contain principles and purposes, entirely hostile to the existence of slavery.</div>
-  <div class="zh">现在，请按字面平实地读宪法，我敢说，你找不出其中哪怕一条支持奴隶制的条款。反过来说，你会发现它所包含的原则与宗旨，与奴隶制的存在完全敌对。</div>
-</section>
-
-<section class="para">
-  <span class="no">76</span>
-  <div class="en">I have <span class="voc"><span class="w">detained</span><span class="g"><i>v.</i> /dɪˈteɪnd/ 使滞留，耽搁</span></span> my audience entirely too long already. At some future period I will gladly <span class="voc"><span class="w">avail</span><span class="g"><i>v.</i> /əˈveɪl/ 利用（avail oneself of 抓住机会）</span></span> myself of an opportunity to give this subject a full and fair discussion.</div>
-  <div class="zh">我已经让听众留得太久了。将来某个时候，我会乐于抓住机会，对这个题目作一次充分而公正的讨论。</div>
-</section>
-
-<section class="para">
-  <span class="no">77</span>
-  <div class="en">Allow me to say, in conclusion, notwithstanding the dark picture I have this day presented of the state of the nation, I do not <span class="voc"><span class="w">despair</span><span class="g"><i>v.</i> /dɪˈsper/ 绝望，失去希望</span></span> of this country. There are forces in operation, which must <span class="voc"><span class="w">inevitably</span><span class="g"><i>adv.</i> /ɪnˈevɪtəbli/ 不可避免地，必然</span></span> work The downfall of slavery. "The arm of the Lord is not shortened," and the <span class="voc"><span class="w">doom</span><span class="g"><i>n.</i> /duːm/ 厄运，终局</span></span> of slavery is certain. I, therefore, leave off where I began, with hope. While drawing encouragement from "the Declaration of Independence," the great principles it contains, and the genius of American Institutions, my spirit is also cheered by the obvious tendencies of the age. Nations do not now stand in the same relation to each other that they did ages ago. No nation can now shut itself up from the surrounding world, and trot round in the same old path of its fathers without interference. The time was when such could be done. Long established customs of hurtful character could formerly fence themselves in, and do their evil work with social <span class="voc"><span class="w">impunity</span><span class="g"><i>n.</i> /ɪmˈpjuːnəti/ 不受惩罚，免于追究</span></span>. Knowledge was then confined and enjoyed by the privileged few, and the <span class="voc"><span class="w">multitude</span><span class="g"><i>n.</i> /ˈmʌltɪtuːd/ 大众，民众</span></span> walked on in mental darkness. But a change has now come over the affairs of mankind. Walled cities and empires have become unfashionable. The arm of <span class="voc"><span class="w">commerce</span><span class="g"><i>n.</i> /ˈkɑːmɜːrs/ 商业，贸易</span></span> has borne away the gates of the strong city. Intelligence is penetrating the darkest corners of the globe. It makes its pathway over and under the sea, as well as on the earth. Wind, steam, and lightning are its chartered agents. Oceans no longer divide, but link nations together. From Boston to London is now a holiday excursion. Space is comparatively <span class="voc"><span class="w">annihilated</span><span class="g"><i>v.</i> /əˈnaɪəleɪtɪd/ 消灭，化为乌有</span></span>.—Thoughts expressed on one side of the Atlantic are, distinctly heard on the other.</div>
-  <div class="zh">请允许我在结尾时说一句：尽管我今天描绘了国家现状这样一幅黑暗的图景，我并未对这个国家绝望。有种种力量正在运作，它们必将促成奴隶制的倾覆。「耶和华的膀臂并非缩短」，奴隶制的末日是确定的。因此，我在开始的地方收尾——怀着希望。当我从《独立宣言》、它所包含的伟大原则以及美国制度的精髓中汲取鼓舞时，我的心灵也为这个时代显而易见的趋向而振奋。如今各国之间的关系，已不同于往昔。没有任何国家还能把自己同周围世界封闭起来，沿着父辈那条旧路打转而不受干扰。曾经有过可以那样做的时代。有害性质的古老习俗从前能把自己围起来，在社会不受追究的情况下行其恶事。那时知识被少数特权者所独占、所享用，大众则在精神的黑暗中行走。但人类事务如今已发生了一场变化。有墙的城市与帝国已经不合时宜。商业的手臂已经搬走了坚固城池的门闩。智识正渗入地球最黑暗的角落。它的通路既在陆上，也在海面与海下。风、蒸汽与闪电都是它领有执照的代理人。海洋不再分隔各国，而是把各国联结起来。从波士顿到伦敦如今不过是一次假日远游。空间在相当程度上已被消灭。——大西洋一岸表达的思想，在另一岸能清晰地听见。</div>
-</section>
-
-<section class="para">
-  <span class="no">78</span>
-  <div class="en">The far off and almost <span class="voc"><span class="w">fabulous</span><span class="g"><i>adj.</i> /ˈfæbjələs/ 传说般的，难以置信的</span></span> Pacific rolls in grandeur at our feet. The <span class="voc"><span class="w">Celestial</span><span class="g"><i>adj.</i> /səˈlestʃəl/ 天朝的，天上的（Celestial Empire 指中国）</span></span> Empire, the mystery of ages, is being solved. The <span class="voc"><span class="w">fiat</span><span class="g"><i>n.</i> /ˈfiːæt/ 谕令，命令</span></span> of the Almighty, "Let there be Light," has not yet spent its force. No abuse, no outrage whether in taste, sport or avarice, can now hide itself from the <span class="voc"><span class="w">all-pervading</span><span class="g"><i>adj.</i> /ˌɔːl pərˈveɪdɪŋ/ 无孔不入的，遍及一切的</span></span> light. The iron shoe, and crippled foot of China must be seen, in contrast with nature. Africa must rise and put on her yet unwoven garment. "Ethiopia shall stretch out her hand unto God." In the fervent aspirations of William Lloyd Garrison, I say, and let every heart join in saying it:</div>
-  <div class="zh">遥远而几乎只存在于传说中的太平洋，在我们脚边浩浩荡荡地翻滚。天朝帝国——千古之谜——正在被解开。全能者那句「要有光」的谕令，尚未用尽它的力量。如今，任何弊端、任何暴行，无论在趣味、娱乐还是贪欲方面，都再也无法躲开那无所不在的光。中国那只铁铸的鞋与被摧折的脚，必须在与自然的对照中被看见。非洲必须站起来，穿上她那件尚未织成的衣裳。「古实人必向神举手。」我以威廉·劳埃德·加里森的炽热祈愿说出下面的话，愿每一颗心都一同说出：</div>
-</section>
-
-<section class="para">
-  <span class="no">79</span>
-  <div class="en"><span class="q">God speed the year of jubilee<br>The wide world o'er!<br>When from their <span class="voc"><span class="w">galling</span><span class="g"><i>adj.</i> /ˈɡɔːlɪŋ/ 磨人的，令人恼恨的</span></span> chains set free,<br>Th' oppress'd shall vilely bend the knee,<br>And wear the <span class="voc"><span class="w">yoke</span><span class="g"><i>n.</i> /joʊk/ 轭，枷锁</span></span> of tyranny<br>Like brutes no more.<br>That year will come, and freedom's reign,<br>To man his plundered rights again<br>Restore.<br><br>God speed the day when human blood<br>Shall cease to flow!<br>In every <span class="voc"><span class="w">clime</span><span class="g"><i>n.</i> /klaɪm/ 地域，风土</span></span> be understood,<br>The claims of human brotherhood,<br>And each return for evil, good,<br>Not blow for blow;<br>That day will come all <span class="voc"><span class="w">feuds</span><span class="g"><i>n.</i> /fjuːdz/ 世仇，宿怨</span></span> to end<br>And change into a faithful friend<br>Each foe.<br><br>God speed the hour, the glorious hour,<br>When none on earth<br>Shall exercise a lordly power,<br>Nor in a tyrant's presence <span class="voc"><span class="w">cower</span><span class="g"><i>v.</i> /ˈkaʊər/ 畏缩，蜷伏</span></span>;<br>But all to manhood's stature tower,<br>By equal birth!<br>That hour will come, to each, to all,<br>And from his prison-house, the <span class="voc"><span class="w">thrall</span><span class="g"><i>n.</i> /θrɔːl/ 奴隶，受奴役者</span></span><br>Go forth.<br><br>Until that year, day, hour, arrive,<br>With head, and heart, and hand I'll strive,<br>To break the rod, and rend the <span class="voc"><span class="w">gyve</span><span class="g"><i>n.</i> /dʒaɪv/ 镣铐，脚镣</span></span>,<br>The spoiler of his prey deprive—<br>So witness Heaven!<br>And never from my chosen post,<br>Whate'er the <span class="voc"><span class="w">peril</span><span class="g"><i>n.</i> /ˈperəl/ 危险，危难</span></span> or the cost,<br>Be driven.</span></div>
-  <div class="zh"><span class="q">愿禧年早日来临，<br>遍及广袤世界！<br>当被压迫者从磨人的锁链中获释，<br>他们将不再卑贱地屈膝，<br>不再像畜生一样<br>承受暴政的轭。<br>那一年必来，自由的统治<br>将把被掠夺的权利<br>重还于人。<br><br>愿那一天早日来临，人的血<br>不再流淌！<br>愿各地都明白<br>人类皆兄弟的诉求，<br>以善报恶，<br>而不以拳还拳；<br>那一天必来，终结一切仇怨，<br>把每一个仇敌<br>变成忠实的朋友。<br><br>愿那一刻、那光荣的一刻早日来临，<br>那时世上再无人<br>施行霸道的权力，<br>也无人再在暴君面前畏缩；<br>而众人都因生而平等，<br>挺立到人的身量！<br>那一刻必来，对每个人，对所有人，<br>那被奴役者将走出<br>他的牢房。<br><br>在那一年、那一天、那一刻到来之前，<br>我要以头脑、心灵与双手努力，<br>折断那刑杖，扯碎那镣铐，<br>夺去掠夺者的猎物——<br>愿上天为我作证！<br>无论有何危险、付出何代价，<br>我绝不从选定的岗位上<br>被赶走。</span></div>
-</section>
+### 01
+
+Mr. President, Friends and Fellow Citizens:\
+\
+He who could address this audience without a [[quailing|adj.|/ˈkweɪlɪŋ/|畏缩的，胆怯的]] sensation, has stronger nerves than I have. I do not remember ever to have appeared as a speaker before any assembly more [[shrinkingly|adv.|/ˈʃrɪŋkɪŋli/|畏缩地，退缩地]], nor with greater distrust of my ability, than I do this day. A feeling has crept over me, quite unfavorable to the exercise of my limited powers of speech. The task before me is one which requires much previous thought and study for its proper performance. I know that apologies of this sort are generally considered flat and unmeaning. I trust, however, that mine will not be so considered. Should I seem at ease, my appearance would much [[misrepresent|v.|/ˌmɪsˌreprɪˈzent/|错误地表现，给人以错误印象]] me. The little experience I have had in addressing public meetings, in country school houses, [[avails|v.|/əˈveɪlz/|有用，有助于]] me nothing on the present occasion.
+
+> 主席先生，朋友们，同胞们：\
+> \
+> 一个人若能在这样的听众面前讲话而毫不畏缩，他的神经必定比我坚强。我不记得自己曾以比今天更畏怯的姿态、更怀疑自己能力的心理，出现在任何集会面前。一种情绪悄悄攫住了我，它对我这点有限的说话本领极为不利。摆在我面前的任务，若要做得像样，需要事先大量的思考与钻研。我知道，这类道歉通常被视为空洞而无意义。但我相信，我的道歉不致如此看待。倘若我看上去从容自在，那副模样就大大地错写了我。我在乡间校舍里对着公众集会讲话的那点微薄经验，在今天的场合一无所用。
+
+### 02
+
+The papers and [[placards|n.|/ˈplækɑːrdz/|标语牌，招贴]] say, that I am to deliver a 4th July oration. This certainly, sounds large, and out of the common way, for it is true that I have often had the privilege to speak in this beautiful Hall, and to address many who now honor me with their presence. But neither their familiar faces, nor the perfect [[gage|n.|/ɡeɪdʒ/|尺度，估量（同 gauge）]] I think I have of Corinthian Hall, seems to free me from [[embarrassment|n.|/ɪmˈbærəsmənt/|窘迫，局促不安]].
+
+> 报纸和招贴上写着，我要作一篇七月四日演说。这听上去当然口气很大，也非同寻常；因为诚然，我常有机会在这座美丽的礼堂里讲话，也曾向如今莅临、给我以荣光的许多人致辞。然而，无论是这些熟悉的面孔，还是我自以为对科林斯礼堂的十足了解，似乎都不能使我摆脱窘迫。
+
+### 03
+
+The fact is, ladies and gentlemen, the distance between this platform and the slave plantation, from which I escaped, is considerable—and the difficulties to be overcome in getting from the latter to the former, are by no means slight. That I am here to-day is, to me, a matter of astonishment as well as of gratitude. You will not, therefore, be surprised, if in what I have to say, I [[evince|v.|/ɪˈvɪns/|表明，显出]] no elaborate preparation, nor grace my speech with any high sounding [[exordium|n.|/eɡˈzɔːrdiəm/|开场白，绪论]]. With little experience and with less learning, I have been able to throw my thoughts hastily and imperfectly together; and trusting to your patient and generous [[indulgence|n.|/ɪnˈdʌldʒəns/|宽容，包涵]], I will proceed to lay them before you.
+
+> 事实是，女士们先生们，这座讲台与我逃出来的那座奴隶种植园之间，距离相当遥远——而要从后者走到前者，需要克服的困难绝非轻微。今天我站在这里，对我自己而言，既是感激，也是惊愕。因此，倘若我在接下来的话里显不出什么精心准备，也不曾用任何冠冕堂皇的开场白来装点我的演说，诸位不必惊讶。经验既少，学问更浅，我只能把想法仓促而不完美地拼凑起来；如今就仰仗诸位耐心而宽厚的包涵，把它们一一陈于诸位面前。
+
+### 04
+
+This, for the purpose of this celebration, is the 4th of July. It is the birthday of your National Independence, and of your political freedom. This, to you, is what the [[Passover|n.|/ˈpæsoʊvər/|逾越节]] was to the emancipated people of God. It carries your minds back to the day, and to the act of your great [[deliverance|n.|/dɪˈlɪvərəns/|解救，拯救]]; and to the signs, and to the wonders, associated with that act, and that day. This celebration also marks the beginning of another year of your national life; and reminds you that the Republic of America is now 76 years old. I am glad, fellow-citizens, that your nation is so young. Seventy-six years, though a good old age for a man, is but a mere speck in the life of a nation. Three score years and ten is the [[allotted|adj.|/əˈlɑːtɪd/|分定的，规定的]] time for individual men; but nations number their years by thousands. According to this fact, you are, even now, only in the beginning of your national career, still lingering in the period of childhood. I repeat, I am glad this is so. There is hope in the thought, and hope is much needed, under the dark clouds which lower above the horizon. The eye of the reformer is met with angry flashes, [[portending|v.|/pɔːrˈtendɪŋ/|预示，预兆]] disastrous times; but his heart may well beat lighter at the thought that America is young, and that she is still in the [[impressible|adj.|/ɪmˈpresəbl/|易受影响的，可塑的]] stage of her existence. May he not hope that high lessons of wisdom, of justice and of truth, will yet give direction to her destiny? Were the nation older, the patriot's heart might be sadder, and the reformer's brow heavier. Its future might be shrouded in gloom, and the hope of its prophets go out in sorrow. There is consolation in the thought that America is young.—Great streams are not easily turned from channels, worn deep in the course of ages. They may sometimes rise in quiet and stately majesty, and [[inundate|v.|/ˈɪnʌndeɪt/|淹没，泛滥]] the land, refreshing and fertilizing the earth with their mysterious properties. They may also rise in wrath and fury, and bear away, on their angry waves, the accumulated wealth of years of toil and hardship. They, however, gradually flow back to the same old channel, and flow on as [[serenely|adv.|/səˈriːnli/|平静地，安详地]] as ever. But, while the river may not be turned aside, it may dry up, and leave nothing behind but the withered branch, and the unsightly rock, to howl in the abyss-sweeping wind, the sad tale of departed glory. As with rivers so with nations.
+
+> 就这场庆典而言，今天就是七月四日。它是你们国家独立的生日，也是你们政治自由的生日。这一天之于你们，正如逾越节之于被解救的上帝之民。它把你们的思绪带回那个日子，带回你们那场伟大解放的行动，也带回与那行动、那日子相连的种种神迹与奇事。这场庆典还标志着你们国族生命又一年的开始，并提醒你们：美利坚共和国如今已七十六岁。同胞们，我很高兴你们的国家如此年轻。七十六年，对一个人来说算是高龄，对一国生命而言却不过是微尘一点。人的寿数是七十岁；而国族是以千年来计年的。依此看来，你们此刻仍只处在国族生涯的开端，还逗留在童年时期。我再说一遍，我很高兴事情如此。这念头里有希望，而在低垂于地平线上的乌云之下，希望正是亟需之物。改革者的目光所遇，是预示灾难时世的愤怒闪光；但一想到美国还年轻、仍处在可塑的阶段，他的心便大可跳得轻快些。他岂不盼望智慧、正义与真理的崇高教训，终将为她的命运指引方向？倘若这国族更老一些，爱国者的心或许会更悲凉，改革者的眉头也会更沉重；它的前途可能笼罩在阴霾里，它的先知们的希望也会在悲哀中熄灭。想到美国还年轻，人便得到安慰。——大江大河不易偏离它们历经千百年冲刷而成的深水道。它们有时会以平静而庄严的威仪上涨，淹没大地，以其神秘的属性使土壤清新肥沃；它们有时也会在暴怒中上涨，以狂涛卷走多年辛劳与困苦积攒的财富。然而它们终究会渐渐退回原来那条旧河道，一如既往安详地流下去。可是，河流虽无法被扭转，却可能干涸，只留下枯枝与丑石，在席卷深渊的风中哀号，诉说那已逝荣光的悲惨故事。江河如此，国族亦然。
+
+### 05
+
+Fellow-citizens, I shall not [[presume|v.|/prɪˈzuːm/|冒昧，胆敢]] to dwell at length on the associations that cluster about this day. The simple story of it is that, 76 years ago, the people of this country were British subjects. The style and title of your "sovereign people" (in which you now glory) was not then born. You were under the British Crown. Your fathers esteemed the English Government as the home government; and England as the fatherland. This home government, you know, although a considerable distance from your home, did, in the exercise of its parental [[prerogatives|n.|/prɪˈrɑːɡətɪvz/|特权，君权]], impose upon its colonial children, such [[restraints|n.|/rɪˈstreɪnts/|约束，限制]], burdens and limitations, as, in its mature judgement, it deemed wise, right and proper.
+
+> 同胞们，我不打算絮絮长谈环绕这一天的种种联想。它的简单经过是：七十六年前，这个国家的人民还是英国臣民。你们如今引以为荣的「主权人民」这一名号与头衔，那时尚未诞生。你们处在英国王权之下。你们的父辈把英国政府视为本土政府，把英格兰视为祖国。你们知道，这个本土政府虽然离你们的家相当遥远，却以它身为父母的特权，把一些束缚、负担与限制加在它的殖民地子民身上——在它成熟的判断里，这些都是明智、正当而合宜的。
+
+### 06
+
+But, your fathers, who had not adopted the fashionable idea of this day, of the [[infallibility|n.|/ɪnˌfæləˈbɪləti/|绝无谬误，永不犯错]] of government, and the absolute character of its acts, presumed to differ from the home government in respect to the wisdom and the justice of some of those burdens and restraints. They went so far in their excitement as to pronounce the measures of government unjust, unreasonable, and oppressive, and altogether such as ought not to be quietly submitted to. I scarcely need say, fellow-citizens, that my opinion of those measures fully accords with that of your fathers. Such a declaration of agreement on my part would not be worth much to anybody. It would, certainly, prove nothing, as to what part I might have taken, had I lived during the great controversy of 1776. To say now that America was right, and England wrong, is exceedingly easy. Everybody can say it; the [[dastard|n.|/ˈdæstərd/|懦夫，卑怯之人]], not less than the noble brave, can [[flippantly|adv.|/ˈflɪpəntli/|轻率地，油滑地]] discant on the tyranny of England towards the American Colonies. It is fashionable to do so; but there was a time when to pronounce against England, and in favor of the cause of the colonies, tried men's souls. They who did so were accounted in their day, plotters of mischief, [[agitators|n.|/ˈædʒɪteɪtərz/|鼓动者，煽动者]] and rebels, dangerous men. To side with the right, against the wrong, with the weak against the strong, and with the oppressed against the oppressor! here lies the merit, and the one which, of all others, seems unfashionable in our day. The cause of liberty may be stabbed by the men who glory in the deeds of your fathers. But, to proceed.
+
+> 但是，你们的父辈并没有接受今天这套时髦观念——政府不会犯错、其行为具有绝对性质；他们竟敢就那些负担与限制中某些是否明智、是否公正，与本土政府持不同意见。他们激动之下甚至走得更远，宣称政府的那些措施不义、不合理、压迫人，总之是绝不应默默忍受的。同胞们，我几乎不必说：我对那些措施的看法，与你们的父辈完全一致。可我这样一句表示赞同的话，对谁都不值多少。它当然证明不了什么——证明不了倘若我活在 1776 年那场大争论之中，我会站在哪一边。如今说美国对、英国错，再容易不过。人人都说得出口；懦夫与高尚的勇者一样，都能油嘴滑舌地大谈英国对北美殖民地如何暴虐。这样说很时髦；可是曾有那么一个时候，站出来反对英国、拥护殖民地的事业，是要拷问人的灵魂的。当年这样做的人，被同代人视为捣乱分子、煽动者、叛党，是危险人物。站在对的一边反对错的，站在弱者一边反对强者，站在被压迫者一边反对压迫者！——价值正在这里，而这恰恰是今天最不时髦的一件事。自由的事业，也可能被那些以你们父辈功业为荣的人所刺穿。不过，且往下说。
+
+### 07
+
+Feeling themselves harshly and unjustly treated by the home government, your fathers, like men of honesty, and men of spirit, earnestly sought [[redress|n.|/rɪˈdres/|救济，补偿]]. They petitioned and [[remonstrated|v.|/rɪˈmɑːnstreɪtɪd/|抗议，谏诤]]; they did so in a [[decorous|adj.|/ˈdekərəs/|得体的，合乎礼数的]], respectful, and loyal manner. Their conduct was wholly [[unexceptionable|adj.|/ˌʌnɪkˈsepʃənəbl/|无可指摘的]]. This, however, did not answer the purpose. They saw themselves treated with sovereign indifference, coldness and scorn. Yet they persevered. They were not the men to look back.
+
+> 你们的父辈感到自己受到本土政府的苛刻与不公对待，于是像诚实而有志气的人那样，恳切地寻求救济。他们请愿、抗议，而方式得体、恭敬、忠诚。他们的行为完全无可指摘。然而，这并没有达到目的。他们看到自己得到的对待，是君王般的漠然、冷淡与轻蔑。可他们仍坚持不懈。他们不是会回头的人。
+
+### 08
+
+As the [[sheet anchor|phr.|/ˈʃiːt ˌæŋkər/|船首大锚，最后的依靠]] takes a firmer hold, when the ship is tossed by the storm, so did the cause of your fathers grow stronger, as it [[breasted|v.|/ˈbrestɪd/|迎击，顶住（breast 的过去式）]] the chilling blasts of kingly displeasure. The greatest and best of British statesmen admitted its justice, and the loftiest eloquence of the British Senate came to its support. But, with that blindness which seems to be the unvarying characteristic of tyrants, since Pharaoh and his hosts were drowned in the Red Sea, the British Government persisted in the [[exactions|n.|/ɪɡˈzækʃnz/|强索，勒索]] complained of.
+
+> 正如大船在风暴中颠簸时，船首大锚反而咬得更牢；你们父辈的事业在迎击王权不悦的凛冽狂风时，也愈发坚强。英国最伟大、最优秀的政治家承认它合乎正义，英国上议院最高超的雄辩也来支持它。然而，英国政府却怀着那种似乎是暴君一成不变的盲目——自从法老与他的大军淹没在红海之中便是如此——执意坚持那些被人控告的勒索。
+
+### 09
+
+The madness of this course, we believe, is admitted now, even by England; but we fear the lesson is wholly lost on our present rulers.
+
+> 这一做法的疯狂，我们相信如今连英格兰自己也承认了；但我们担心，这个教训对我们当今的统治者全然无用。
+
+### 10
+
+Oppression makes a wise man mad. Your fathers were wise men, and if they did not go mad, they became [[restive|adj.|/ˈrestɪv/|焦躁不安的，难以驾驭的]] under this treatment. They felt themselves the victims of [[grievous|adj.|/ˈɡriːvəs/|深重的，令人痛苦的]] wrongs, wholly incurable in their colonial capacity. With brave men there is always a remedy for oppression. Just here, the idea of a total separation of the colonies from the crown was born! It was a startling idea, much more so, than we, at this distance of time, regard it. The timid and the prudent (as has been [[intimated|v.|/ˈɪntɪmeɪtɪd/|暗示，示意]]) of that day, were, of course, shocked and alarmed by it.
+
+> 压迫使智者发狂。你们的父辈是智者；他们纵然没有发狂，也在这种对待之下变得躁动不安。他们感到自己是深重冤屈的受害者，而这样的冤屈在殖民地的身份之下全然无药可医。对于勇敢的人来说，压迫总有解救之道。正是在这里，殖民地与王权彻底分离的念头诞生了！这是一个惊人的念头，比我们在今天这个遥远的距离上看来要惊人得多。当年那些怯懦者与审慎者（如前所暗示）自然为此震惊、惊恐。
+
+### 11
+
+Such people lived then, had lived before, and will, probably, ever have a place on this planet; and their course, in respect to any great change, (no matter how great the good to be attained, or the wrong to be redressed by it,) may be calculated with as much [[precision|n.|/prɪˈsɪʒn/|精确，准确]] as can be the course of the stars. They hate all changes, but silver, gold and copper change! Of this sort of change they are always strongly in favor.
+
+> 这类人当年活着，此前也活着，大概将来也永远会在这个星球上占有一席之地；而他们面对任何重大变革时的行径（无论这变革能带来多大的善，或能纠正多大的恶），都可以像星辰的运行那样被精确推算。他们憎恨一切变化——除了银、金、铜的变化！对这一类变化，他们总是热烈赞成。
+
+### 12
+
+These people were called [[tories|n.|/ˈtɔːriz/|托利党人，亲英派]] in the days of your fathers; and the [[appellation|n.|/ˌæpəˈleɪʃn/|称呼，名号]], probably, conveyed the same idea that is meant by a more modern, though a somewhat less [[euphonious|adj.|/juːˈfoʊniəs/|悦耳的，好听的]] term, which we often find in our papers, applied to some of our old politicians.
+
+> 在你们父辈的时代，这些人被称为「托利党人」；这个称呼所传达的意思，大概与一个更晚近、却略欠悦耳的名词相同——我们在报纸上常见到那个名词，被用来指称某些老政客。
+
+### 13
+
+Their opposition to the then dangerous thought was earnest and powerful; but, amid all their terror and affrighted [[vociferations|n.|/voʊˌsɪfəˈreɪʃnz/|大声叫嚷，喧嚷]] against it, the alarming and revolutionary idea moved on, and the country with it.
+
+> 他们对当时那个危险念头的反对既认真又有力；然而，在他们一切的恐惧和反对它的惊惶叫嚣之中，那个令人惊骇的革命性念头依旧向前推进，国家也随之前行。
+
+### 14
+
+On the 2d of July, 1776, the old [[Continental Congress|n.|/ˌkɑːntɪˈnentl ˈkɑːŋɡrəs/|大陆会议]], to the dismay of the lovers of ease, and the worshipers of property, clothed that dreadful idea with all the authority of national [[sanction|n.|/ˈsæŋkʃn/|认可，批准]]. They did so in the form of a resolution; and as we seldom hit upon resolutions, drawn up in our day, whose [[transparency|n.|/trænsˈpærənsi/|明白透彻，一目了然]] is at all equal to this, it may refresh your minds and help my story if I read it.
+
+> 1776 年 7 月 2 日，旧日的大陆会议——令爱好安逸者与崇拜财产者大为惊慌——把那个可怖的念头披上了国家认可的全部权威。他们是以一项决议的形式这样做的；既然我们今天起草的决议很少能有哪一份在明白透彻上及得上它，那么我把它读出来，或许能刷新诸位的记忆，也有助于我的叙述。
+
+### 15
+
+:::quote
+
+"Resolved, That these united colonies are, and of right, ought to be, free and Independent States; that they are [[absolved|v.|/əbˈzɑːlvd/|解除，免除（责任、义务）]] from all [[allegiance|n.|/əˈliːdʒəns/|效忠，臣服]] to the British Crown; and that all political connection between them and the State of Great Britain is, and ought to be, [[dissolved|v.|/dɪˈzɑːlvd/|解除，终止]]."
+
+> 「决议：兹决议，这些联合殖民地是、并且依其权利理应是自由而独立的国家；它们已解除对英国王室的一切效忠；它们与大不列颠国之间的一切政治联系是、并且理应予以解除。」
+
+:::
+
+### 16
+
+Citizens, your fathers made good that resolution. They succeeded; and to-day you reap the fruits of their success. The freedom gained is yours; and you, therefore, may properly celebrate this anniversary. The 4th of July is the first great fact in your nation's history—the very [[ring-bolt|n.|/ˈrɪŋ boʊlt/|环栓，关键扣件]] in the chain of your yet undeveloped destiny.
+
+> 公民们，你们的父辈实现了那项决议。他们成功了；今天你们收获着他们成功的果实。赢得的自由是你们的；因此，你们理当庆祝这个周年。七月四日是你们国族历史上的第一个伟大事实——是你们那尚未展开的命运之链上最紧要的那个环栓。
+
+### 17
+
+Pride and patriotism, not less than gratitude, prompt you to celebrate and to hold it in [[perpetual|adj.|/pərˈpetʃuəl/|永久的，长存的]] remembrance. I have said that the Declaration of Independence is the ringbolt to the chain of your nation's destiny; so, indeed, I regard it. The principles contained in that [[instrument|n.|/ˈɪnstrəmənt/|文书，文献]] are [[saving|adj.|/ˈseɪvɪŋ/|能救人的，有救赎之功的]] principles. Stand by those principles, be true to them on all occasions, in all places, against all foes, and at whatever cost.
+
+> 骄傲与爱国心，不亚于感激之情，促使你们庆祝这一天，并把它永远铭记。我说过，《独立宣言》是你们国族命运之链上的环栓；我确实这样看待它。那份文献所包含的原则，是能救人救国的原则。坚守那些原则吧，在任何场合、任何地方，面对任何敌人，无论付出何等代价，都要忠于它们。
+
+### 18
+
+From the [[round top|n.|/ˈraʊnd tɑːp/|桅顶平台，桅盘]] of your ship of state, dark and threatening clouds may be seen. Heavy [[billows|n.|/ˈbɪloʊz/|巨浪，波涛]], like mountains in the distance, disclose to the [[leeward|adv.|/ˈliːwərd/|在下风方向]] huge forms of [[flinty|adj.|/ˈflɪnti/|坚硬的，燧石般的]] rocks! That bolt drawn, that chain broken, and all is lost. Cling to this day—cling to it, and to its principles, with the grasp of a storm-tossed [[mariner|n.|/ˈmærɪnər/|水手，航海者]] to a [[spar|n.|/spɑːr/|桅杆，圆材]] at midnight.
+
+> 从你们这艘国家之舟的桅顶望去，可以看到阴沉而险恶的乌云。沉重的巨浪，如远处的山峦，在下风方向显露出嶙峋礁岩的巨大形影！那根螺栓一旦拔出，那条锁链一旦断裂，一切便都完了。紧紧抓住这一天——抓住它，也抓住它的原则，就像风暴中颠簸的水手在午夜死死抓住一根桅杆那样。
+
+### 19
+
+The coming into being of a nation, in any circumstances, is an interesting event. But, besides general considerations, there were peculiar circumstances which make the [[advent|n.|/ˈædvent/|到来，问世]] of this republic an event of special attractiveness.
+
+> 一个国族的诞生，无论处于何种境况，都是引人注目的事件。但除了种种一般性的缘由之外，还有一些特殊情形，使这个共和国的问世成为一个格外富于吸引力的事件。
+
+### 20
+
+The whole scene, as I look back to it, was simple, dignified and [[sublime|adj.|/səˈblaɪm/|崇高的，庄严伟大的]].
+
+> 我回顾那整幅景象，它是朴素的、庄严的、崇高的。
+
+### 21
+
+The population of the country, at the time, stood at the insignificant number of three millions. The country was poor in the [[munitions|n.|/mjuˈnɪʃnz/|军火，军需品]] of war. The population was weak and scattered, and the country a wilderness [[unsubdued|adj.|/ˌʌnsəbˈduːd/|未被征服的，未被驯服的]]. There were then no means of [[concert|n.|/kənˈsɜːrt/|协同，一致行动]] and combination, such as exist now. Neither steam nor lightning had then been reduced to order and discipline. From the Potomac to the Delaware was a journey of many days. Under these, and innumerable other disadvantages, your fathers declared for liberty and independence and triumphed.
+
+> 当时全国人口只有微不足道的三百万。这个国家缺乏军火。人口孱弱而分散，国土是一片未被驯服的荒野。那时没有如今这样的协调与联合手段。蒸汽与闪电都还没有被纳入秩序与纪律。从波托马克河到特拉华河，是一段要走许多天的旅程。在这些以及无数其他不利条件之下，你们的父辈宣告了自由与独立，并且取得了胜利。
+
+### 22
+
+Fellow Citizens, I am not wanting in respect for the fathers of this republic. The signers of the Declaration of Independence were brave men. They were great men too—great enough to give fame to a great age. It does not often happen to a nation to raise, at one time, such a number of truly great men. The point from which I am compelled to view them is not, certainly, the most favorable; and yet I cannot [[contemplate|v.|/ˈkɑːntəmpleɪt/|凝望，沉思]] their great deeds with less than admiration. They were statesmen, patriots and heroes, and for the good they did, and the principles they [[contended|v.|/kənˈtendɪd/|力争，抗争]] for, I will unite with you to honor their memory.
+
+> 同胞们，我对这个共和国的国父们并不缺少敬意。《独立宣言》的签署者是勇敢的人。他们也是伟大的人——伟大到足以让一个伟大的时代享有声名。一个国家很少能在同一时间涌现出这么多真正伟大的人物。我被迫观察他们的立场，当然不是最有利的；然而我无法不以钦佩之心去凝望他们的伟业。他们是政治家、爱国者与英雄；为他们所做的善事、为他们所力争的原则，我愿与你们一同尊崇他们的遗名。
+
+### 23
+
+They loved their country better than their own private interests; and, though this is not the highest form of human excellence, all will [[concede|v.|/kənˈsiːd/|承认，让步]] that it is a rare virtue, and that when it is exhibited, it ought to command respect. He who will, intelligently, lay down his life for his country, is a man whom it is not in human nature to despise. Your fathers [[staked|v.|/steɪkt/|押上，以……为赌注]] their lives, their fortunes, and their sacred honor, on the cause of their country. In their admiration of liberty, they lost sight of all other interests.
+
+> 他们爱自己的国家胜过爱自己的私利；这虽然不是人类美德中最高的形态，但人人都会承认，这是一种罕见的德性，一旦显现，便理应赢得敬重。一个愿意明智地为国捐躯的人，人性本身不会去轻蔑他。你们的父辈把生命、财产与神圣的荣誉，全都押在祖国的事业上。在对自由的热爱之中，他们看不见其他一切利害。
+
+### 24
+
+They were peace men; but they preferred revolution to peaceful submission to [[bondage|n.|/ˈbɑːndɪdʒ/|奴役，束缚]]. They were quiet men; but they did not shrink from agitating against oppression. They showed [[forbearance|n.|/fɔːrˈberəns/|克制，忍耐]]; but that they knew its limits. They believed in order; but not in the order of [[tyranny|n.|/ˈtɪrəni/|暴政，专制]]. With them, nothing was "settled" that was not right. With them, justice, liberty and humanity were "final;" not slavery and oppression. You may well cherish the memory of such men. They were great in their day and generation. Their solid manhood stands out the more as we contrast it with these [[degenerate|adj.|/dɪˈdʒenərət/|衰败的，堕落的]] times.
+
+> 他们是爱好和平的人；但他们宁可革命，也不愿和平地屈从于奴役。他们是安静的人；但他们并不回避为反对压迫而鼓动。他们表现出克制；但他们知道克制的限度。他们信奉秩序；但不是暴政的秩序。在他们那里，凡不正当的，就没有什么是「已成定局」的。在他们那里，正义、自由与仁道是「终局」的，奴隶制与压迫不是。这样的人，你们理当珍视其记忆。他们在自己的时代与世代中是伟大的。当我们把这些与如今这衰败的时世相对照，他们那坚实的丈夫气概便格外凸显。
+
+### 25
+
+How [[circumspect|adj.|/ˈsɜːrkəmspekt/|审慎的，周密的]], exact and [[proportionate|adj.|/prəˈpɔːrʃənət/|合乎分寸的，相称的]] were all their movements! How unlike the politicians of an hour! Their [[statesmanship|n.|/ˈsteɪtsmənʃɪp/|政治家的才干与风范]] looked beyond the passing moment, and stretched away in strength into the distant future. They seized upon eternal principles, and set a glorious example in their defence. Mark them!
+
+> 他们的一切举动是何等审慎、精确而合乎分寸！与那些只图一时之利的政客何等不同！他们的政治家眼光越过了转瞬即逝的当下，凭着力量延伸到遥远的未来。他们抓住了永恒的原则，并为捍卫这些原则树立了光辉的榜样。仔细看看他们吧！
+
+### 26
+
+Fully appreciating the hardship to be encountered, firmly believing in the right of their cause, honorably inviting the [[scrutiny|n.|/ˈskruːtəni/|审视，细察]] of an on-looking world, reverently appealing to heaven to [[attest|v.|/əˈtest/|见证，证明]] their sincerity, soundly comprehending the solemn responsibility they were about to assume, wisely measuring the terrible [[odds|n.|/ɑːdz/|胜算，不利形势]] against them, your fathers, the fathers of this republic, did, most deliberately, under the inspiration of a glorious patriotism, and with a sublime faith in the great principles of justice and freedom, lay deep the corner-stone of the national [[superstructure|n.|/ˈsuːpərstrʌktʃər/|上层建筑，上部结构]], which has risen and still rises in grandeur around you.
+
+> 他们充分估量到将要遭遇的艰难，坚定地相信自己事业的正当，光明正大地请旁观的世人审视，虔诚地吁请上天见证他们的真诚，清醒地理解他们即将承担的庄严责任，明智地衡量那对他们极为不利的可怕形势；于是，你们的父辈、这个共和国的国父们，在一种光荣的爱国精神的感召之下，怀着对正义与自由这些伟大原则的崇高信念，极其审慎地为国家上层建筑奠下了深深的基石——这建筑已在你们周围巍然升起，且仍在不断升起。
+
+### 27
+
+Of this fundamental work, this day is the anniversary. Our eyes are met with demonstrations of joyous enthusiasm. Banners and pennants wave [[exultingly|adv.|/ɪɡˈzʌltɪŋli/|得意扬扬地，欢欣地]] on the breeze. The din of business, too, is hushed. Even [[mammon|n.|/ˈmæmən/|财神，财利]] seems to have quitted his grasp on this day. The ear-piercing [[fife|n.|/faɪf/|横笛，军笛]] and the stirring drum unite their accents with the ascending peal of a thousand church bells. Prayers are made, hymns are sung, and sermons are preached in honor of this day; while the quick martial tramp of a great and multitudinous nation, echoed back by all the hills, valleys and mountains of a vast continent, bespeak the occasion one of thrilling and universal interests—a nation's [[jubilee|n.|/ˈdʒuːbɪliː/|禧年，大赦欢庆之年]].
+
+> 这一天，正是那项根本工程的周年纪念。我们眼前满是欢欣热情的种种表现。旗帜与三角旗在微风中得意飘扬。市廛的喧嚣也静了下来。连财神在这一天似乎也松开了他的攫取之手。刺耳的军笛与振奋的鼓声，与上千座教堂钟楼升腾而起的钟鸣汇成一片。人们为尊崇这一天而祈祷、唱诗、讲道；而一个伟大而众多之国族急促的行军步伐，被这片广袤大陆的群山、峡谷与峰峦一一回荡，说明这一场合牵动着令人心潮激荡的、普遍的关切——一个国族的禧年。
+
+### 28
+
+Friends and citizens, I need not enter further into the causes which led to this anniversary. Many of you understand them better than I do. You could instruct me in regard to them. That is a branch of knowledge in which you feel, perhaps, a much deeper interest than your speaker. The causes which led to the separation of the colonies from the British crown have never lacked for a tongue. They have all been taught in your common schools, narrated at your [[firesides|n.|/ˈfaɪərsaɪdz/|炉边，家内]], unfolded from your [[pulpits|n.|/ˈpʊlpɪts/|讲道坛，布道台]], and thundered from your legislative halls, and are as familiar to you as household words. They form the [[staple|n.|/ˈsteɪpl/|主要成分，主要内容]] of your national poetry and eloquence.
+
+> 朋友们，公民们，我无须再深入探讨导致这个纪念日的种种缘由。你们中许多人对此比我懂得更多，尽可以来教导我。这也许是你们比演讲人兴趣更浓的一门学问。导致殖民地与英国王权分离的那些缘由，从来不缺人讲述。它们在你们的公立学校里被讲授，在你们的炉边被叙说，在你们的讲道坛上被阐发，在你们的议事厅里被高声宣扬，对你们来说熟悉得如同家常话语。它们构成了你们民族诗歌与雄辩的主要内容。
+
+### 29
+
+I remember, also, that, as a people, Americans are remarkably familiar with all facts which make in their own favor. This is [[esteemed|v.|/ɪˈstiːmd/|被视为，被认为]] by some as a national trait—perhaps a national weakness. It is a fact, that whatever makes for the wealth or for the reputation of Americans, and can be had cheap! will be found by Americans. I shall not be charged with [[slandering|v.|/ˈslændərɪŋ/|诽谤，诋毁]] Americans, if I say I think the American side of any question may be safely left in American hands.
+
+> 我还记得，作为一个民族，美国人对一切于己有利的事实都格外熟悉。有人把这一点视为一种民族特性——或许是一种民族弱点。事实是：凡能增进美国人的财富或声誉、又能便宜到手的东西，都会被美国人找到。倘若我说，任何问题的美国这一面，尽可放心交给美国人去处理，想来不致被指为诽谤美国人。
+
+### 30
+
+I leave, therefore, the great deeds of your fathers to other gentlemen whose claim to have been regularly [[descended|adj.|/dɪˈsendɪd/|出身（某世系）的，嫡传的]] will be less likely to be disputed than mine!
+
+> 因此，你们父辈的伟大功业，我就留给别的先生们去讲吧——他们自称是嫡传后裔，这一点比我更不容易被质疑！
+
+### 31
+
+My business, if I have any here to-day, is with the present. The accepted time with God and his cause is the ever-living now.
+
+> 倘若我今天在这里有什么正事要做，那便是与当下有关。在上帝及其事业那里，蒙悦纳的时刻，就是那永活的「现在」。
+
+### 32
+
+:::quote
+
+"Trust no future, however pleasant,\
+Let the dead past bury its dead;\
+Act, act in the living present,\
+Heart within, and God overhead."
+
+> 「莫信赖未来，无论它多令人愉悦，\
+> 让死去的过去埋葬它的死者；\
+> 行动吧，就在活生生的当下行动，\
+> 心怀在内，上帝在上。」
+
+:::
+
+### 33
+
+We have to do with the past only as we can make it useful to the present and to the future. To all inspiring motives, to noble deeds which can be gained from the past, we are welcome. But now is the time, the important time. Your fathers have lived, died, and have done their work, and have done much of it well. You live and must die, and you must do your work. You have no right to enjoy a child's share in the labor of your fathers, unless your children are to be blest by your labors. You have no right to wear out and waste the hard-earned fame of your fathers to cover your [[indolence|n.|/ˈɪndələns/|懒惰，怠惰]]. Sydney Smith tells us that men seldom [[eulogize|v.|/ˈjuːlədʒaɪz/|颂扬，称颂]] the wisdom and virtues of their fathers, but to excuse some [[folly|n.|/ˈfɑːli/|愚行，蠢事]] or wickedness of their own. This truth is not a doubtful one. There are illustrations of it near and remote, ancient and modern. It was fashionable, hundreds of years ago, for the children of Jacob to boast, we have "Abraham to our father," when they had long lost Abraham's faith and spirit. That people contented themselves under the shadow of Abraham's great name, while they [[repudiated|v.|/rɪˈpjuːdieɪtɪd/|否弃，拒不承认]] the deeds which made his name great. Need I remind you that a similar thing is being done all over this country to-day? Need I tell you that the Jews are not the only people who built the tombs of the prophets, and garnished the [[sepulchres|n.|/ˈseplkərz/|坟墓，墓室]] of the righteous? Washington could not die till he had broken the chains of his slaves. Yet his monument is built up by the price of human blood, and the traders in the bodies and souls of men, shout—"We have Washington to our father."—Alas! that it should be so; yet so it is.
+
+> 我们与过去打交道，只在能使它有益于现在与未来的时候。一切鼓舞人心的动机、一切能从过去取得的崇高事迹，我们都欢迎。但此刻才是时候，才是要紧的时候。你们的父辈活过、死去了，他们做完了他们的工作，而且多半做得很好。你们活着，也必死去，你们必须做你们的工作。除非你们的子女将因你们的劳作而蒙福，你们就无权在父辈的劳作中享受一份孩童式的份额。你们无权把父辈辛苦赢来的名声磨损、挥霍掉，用来掩盖自己的懒惰。悉尼·史密斯告诉我们：人们很少颂扬父辈的智慧与德行，除非是为了替自己的某种愚行或邪恶开脱。这个道理并不可疑。古往今来、远近各处，例证比比皆是。几百年前，雅各的子孙在早已丧失亚伯拉罕的信仰与精神之后，仍以「我们有亚伯拉罕作我们的父」自夸，这曾是一种时髦。那族人在亚伯拉罕伟大名号的荫庇下自我满足，却否弃了使那名号伟大的作为。我还需要提醒你们，同样的事如今正在这整个国家里发生吗？我还需要告诉你们，犹太人并不是唯一为先知筑坟、为义人修饰墓石的人吗？华盛顿直到打碎了他奴隶的锁链才肯死去。然而他的纪念碑是用人血的代价筑起的，而那些贩卖人的身体与灵魂的商人还在高喊——「我们有华盛顿作我们的父。」——唉！事情竟至于如此；然而事实就是如此。
+
+### 34
+
+:::quote
+
+"The evil that men do, lives after them,\
+The good is oft' [[interred|v.|/ɪnˈtɜːrd/|埋葬，入土]] with their bones."
+
+> 「人们所行的恶，会在他们身后长存，\
+> 他们的善，却往往随骸骨一同埋葬。」
+
+:::
+
+### 35
+
+Fellow-citizens, pardon me, allow me to ask, why am I called upon to speak here to-day? What have I, or those I represent, to do with your national independence? Are the great principles of political freedom and of natural justice, embodied in that Declaration of Independence, extended to us? and am I, therefore, called upon to bring our humble offering to the national [[altar|n.|/ˈɔːltər/|祭坛]], and to confess the benefits and express [[devout|adj.|/dɪˈvaʊt/|虔诚的，诚挚的]] gratitude for the blessings resulting from your independence to us?
+
+> 同胞们，恕我冒昧，请允许我问一句：今天为什么叫我来这里讲话？我，或者我所代表的人们，与你们的国家独立有什么相干？《独立宣言》所体现的政治自由与自然正义的伟大原则，是否也延伸到了我们身上？因此，我是否就被叫来向国家的祭坛献上我们卑微的供物，为你们的独立带给我们的福祉而承认其恩惠、表达虔诚的感激？
+
+### 36
+
+Would to God, both for your sakes and ours, that an affirmative answer could be truthfully returned to these questions! Then would my task be light, and my burden easy and delightful. For who is there so cold, that a nation's sympathy could not warm him? Who so [[obdurate|adj.|/ˈɑːbdərət/|顽固不化的，铁石心肠的]] and dead to the claims of gratitude, that would not thankfully acknowledge such priceless benefits? Who so [[stolid|adj.|/ˈstɑːlɪd/|麻木的，无动于衷的]] and selfish, that would not give his voice to swell the [[hallelujahs|n.|/ˌhæləˈluːjəz/|哈利路亚，赞美上帝的欢呼]] of a nation's jubilee, when the chains of servitude had been torn from his limbs? I am not that man. In a case like that, the dumb might eloquently speak, and the "lame man leap as an hart."
+
+> 但愿上帝成全——既为你们，也为我们——让这些问题能够真实地得到肯定的回答！那么我的任务便会轻松，我的担子便会轻省而愉快。因为，谁的心会冷到连一个民族的同情都暖不热他？谁会顽固到对感恩的诉求全无反应，竟不肯感激地承认这般无价的恩惠？谁会麻木自私到如此地步，在奴役的锁链已从他四肢上扯落之时，也不肯出声，汇入一个民族禧年的哈利路亚之中？我不是那样的人。在那样一种情形下，哑巴也能雄辩滔滔，「瘸子必跳跃如鹿」。
+
+### 37
+
+But, such is not the state of the case. I say it with a sad sense of the [[disparity|n.|/dɪˈspærəti/|悬殊，不相称]] between us. I am not included within the [[pale|n.|/peɪl/|界内，范围]] of this glorious anniversary! Your high independence only reveals the immeasurable distance between us. The blessings in which you, this day, rejoice, are not enjoyed in common.—The rich inheritance of justice, liberty, prosperity and independence, [[bequeathed|v.|/bɪˈkwiːðd/|遗赠，传下]] by your fathers, is shared by you, not by me. The sunlight that brought life and healing to you, has brought [[stripes|n.|/straɪps/|鞭痕，抽打的伤痕]] and death to me. This Fourth July is yours, not mine. You may rejoice, I must mourn. To drag a man in fetters into the grand illuminated temple of liberty, and call upon him to join you in joyous anthems, were inhuman mockery and [[sacrilegious|adj.|/ˌsækrəˈlɪdʒəs/|亵渎神明的]] irony. Do you mean, citizens, to mock me, by asking me to speak to-day? If so, there is a parallel to your conduct. And let me warn you that it is dangerous to copy the example of a nation whose crimes, towering up to heaven, were thrown down by the breath of the Almighty, burying that nation in irrecoverable ruin! I can to-day take up the [[plaintive|adj.|/ˈpleɪntɪv/|哀怨的，悲诉的]] lament of a peeled and [[woe-smitten|adj.|/ˈwoʊ ˌsmɪtn/|被灾祸击打的]] people!
+
+> 可是，情形并非如此。我说这话时，怀着一种对彼此之间巨大差距的悲哀意识。我并未被纳入这个光荣周年的界内！你们那崇高的独立，恰恰显露出我们之间无法丈量的距离。你们今天所欢庆的福祉，并不是共同享有的。——你们父辈遗下的那份由正义、自由、繁荣与独立构成的丰厚遗产，由你们分享，而非由我分享。那给你们带来生命与疗愈的阳光，给我带来的却是鞭痕与死亡。这个七月四日是你们的，不是我的。你们可以欢庆，我却必须哀悼。把一个人戴着镣铐拖进那座灯火辉煌的自由圣殿，还叫他与你们一同高唱欢乐的颂歌，那是非人的嘲弄、亵渎的讽刺。公民们，你们今天叫我来讲话，莫非是要嘲弄我？若果真如此，你们的行径是有先例可循的。让我警告你们：效法某个民族的先例是危险的——那个民族的罪恶高耸及天，被全能者的一口气息推倒，使那民族陷于无可挽回的毁灭之中！今天，我大可以接过一个被剥光、被灾祸击打之民族的哀歌！
+
+### 38
+
+:::quote
+
+"By the rivers of Babylon, there we sat down. Yea! we wept when we remembered Zion. We hanged our harps upon the willows in the midst thereof. For there, they that carried us away [[captive|adj.|/ˈkæptɪv/|被掳的，被俘的]], required of us a song; and they who wasted us required of us mirth, saying, Sing us one of the songs of Zion. How can we sing the Lord's song in a strange land? If I forget thee, O Jerusalem, let my right hand forget her [[cunning|n.|/ˈkʌnɪŋ/|技巧，灵巧]]. If I do not remember thee, let my tongue [[cleave|v.|/kliːv/|黏附，贴住]] to the roof of my mouth."
+
+> 「我们曾在巴比伦的河边坐下，一追想锡安就哭了。我们把琴挂在那里的柳树上。因为在那里，掳掠我们的要我们唱歌，抢夺我们的要我们作乐，说：给我们唱一首锡安歌吧。我们怎能在外邦唱耶和华的歌呢？耶路撒冷啊，我若忘记你，情愿我的右手忘记技巧。我若不记念你，情愿我的舌头贴于上膛。」
+
+:::
+
+### 39
+
+Fellow-citizens; above your national, [[tumultuous|adj.|/tuːˈmʌltʃuəs/|喧腾的，骚动的]] joy, I hear the mournful [[wail|n.|/weɪl/|哀号，恸哭]] of millions! whose chains, heavy and grievous yesterday, are, to-day, rendered more [[intolerable|adj.|/ɪnˈtɑːlərəbl/|难以忍受的]] by the jubilee shouts that reach them. If I do forget, if I do not faithfully remember those bleeding children of sorrow this day, "may my right hand forget her cunning, and may my tongue cleave to the roof of my mouth!" To forget them, to pass lightly over their wrongs, and to chime in with the popular theme, would be treason most scandalous and shocking, and would make me a reproach before God and the world. My subject, then, fellow-citizens, is American Slavery. I shall see, this day, and its popular characteristics, from the slave's point of view. Standing, there, identified with the American [[bondman|n.|/ˈbɑːndmən/|奴隶，被奴役者]], making his wrongs mine, I do not hesitate to declare, with all my soul, that the character and conduct of this nation never looked blacker to me than on this 4th of July! Whether we turn to the declarations of the past, or to the professions of the present, the conduct of the nation seems equally [[hideous|adj.|/ˈhɪdiəs/|可憎的，骇人的]] and revolting. America is false to the past, false to the present, and solemnly binds herself to be false to the future. Standing with God and the crushed and bleeding slave on this occasion, I will, in the name of humanity which is outraged, in the name of liberty which is fettered, in the name of the constitution and the Bible, which are disregarded and trampled upon, dare to call in question and to denounce, with all the emphasis I can command, everything that serves to [[perpetuate|v.|/pərˈpetʃueɪt/|使永存，使延续]] slavery—the great sin and shame of America! "I will not [[equivocate|v.|/ɪˈkwɪvəkeɪt/|含糊其辞，模棱两可]]; I will not excuse;" I will use the severest language I can command; and yet not one word shall escape me that any man, whose judgement is not blinded by prejudice, or who is not at heart a slaveholder, shall not confess to be right and just.
+
+> 同胞们；在你们举国欢腾的喧闹之上，我听见千百万人的哀号！他们的锁链昨天已够沉重、够痛苦，今天又被传到他们耳中的禧年欢呼声弄得更加难以忍受。倘若我忘记，倘若我今日不忠实地记念那些流着血的苦难儿女，「情愿我的右手忘记技巧，情愿我的舌头贴于上膛！」忘记他们，轻轻略过他们的冤屈，随声附和那流行的调子，那将是最可耻、最骇人的叛国，会使我在上帝与世界面前成为被唾弃之人。那么，同胞们，我的题目就是美国奴隶制。今天，我要从奴隶的立场来看待这一天以及它那些流行的特征。我站在那里，与美国黑奴认同，把他的冤屈当作我的冤屈；我要毫不犹豫地以我的全副心灵宣告：这个国家的品格与行为，在我看来从没有比在这个七月四日更黑暗过！无论我们去看过去的宣示，还是去看当下的表白，这个国家的行为都同样可憎、同样令人作呕。美国对过去是虚假的，对现在是虚假的，并且郑重地把自己许给对未来的虚假。在这一场合，我站在上帝与被碾碎、流着血的奴隶一边；以被凌辱的人道的名义，以被锁链束缚的自由的名义，以被漠视、被践踏的宪法与《圣经》的名义，我要斗胆质疑并谴责一切有助于让奴隶制永存的东西——那是美国的大罪与大耻！「我绝不模棱两可，我绝不宽宥；」我要用我能掌握的最严厉的语言；然而，凡是一个判断未被偏见蒙蔽、内心不是奴隶主的人，都不会不承认是正确而公道的字眼，我一个也不会放过。
+
+### 40
+
+But I fancy I hear some one of my audience say, it is just in this circumstance that you and your brother [[abolitionists|n.|/ˌæbəˈlɪʃənɪsts/|废奴主义者]] fail to make a favorable impression on the public mind. Would you argue more, and denounce less, would you persuade more, and [[rebuke|v.|/rɪˈbjuːk/|斥责，责难]] less, your cause would be much more likely to succeed. But, I submit, where all is plain there is nothing to be argued. What point in the anti-slavery [[creed|n.|/kriːd/|信条，教义]] would you have me argue? On what branch of the subject do the people of this country need light? Must I undertake to prove that the slave is a man? That point is conceded already. Nobody doubts it. The slaveholders themselves acknowledge it in the [[enactment|n.|/ɪˈnæktmənt/|制定，颁行]] of laws for their government. They acknowledge it when they punish disobedience on the part of the slave. There are seventy-two crimes in the State of Virginia, which, if committed by a black man, (no matter how ignorant he be,) subject him to the punishment of death; while only two of the same crimes will subject a white man to the like punishment.—What is this but the acknowledgement that the slave is a moral, intellectual and responsible being. The manhood of the slave is conceded. It is admitted in the fact that Southern [[statute books|n.|/ˈstætʃuːt bʊks/|法令汇编，成文法典]] are covered with enactments forbidding, under severe fines and penalties, the teaching of the slave to read or to write.—When you can point to any such laws, in reference to the beasts of the field, then I may consent to argue the manhood of the slave. When the dogs in your streets, when the fowls of the air, when the cattle on your hills, when the fish of the sea, and the reptiles that crawl, shall be unable to distinguish the slave from a [[brute|n.|/bruːt/|畜生，野兽]], then will I argue with you that the slave is a man!
+
+> 但我仿佛听见听众中有人说：正是在这一点上，你和你的废奴派同道们无法在公众心中留下好印象。倘若你们多讲道理、少加谴责，多去劝说、少加斥责，你们的事业就大有可能成功。可是，我认为，凡属一清二楚的事，就无须去论证。反奴隶制信条里，你要我论证哪一点？在这个题目上，这个国家的人民需要哪一分支的启发？莫非还要我来证明奴隶是人？这一点早已被承认了。没有人怀疑它。奴隶主自己在为管理他们而制定的法律中承认了它。他们在惩罚奴隶的不服从时承认了它。在弗吉尼亚州有七十二种罪行，若由黑人犯下（无论他多么无知），都会使他被处死刑；而同样的罪行中只有两种会使白人受到同样的惩罚。——这若不是承认奴隶是有道德、有智力、须负责的存在，又是什么？奴隶的人格是被承认了的。南方的法令汇编里满是严厉罚金与刑罚之下禁止教奴隶读写的规定，这一事实本身就承认了它。——等到你能指出针对田野牲畜的任何这类法律时，我才可能同意去论证奴隶的人格。等到你街上的狗、空中的飞鸟、你山上的牛群、海里的鱼，以及爬行的虫蛇，都无法把奴隶与畜生区分开来时，我才来与你论证奴隶是人！
+
+### 41
+
+For the present, it is enough to [[affirm|v.|/əˈfɜːrm/|断言，确认]] the equal manhood of the negro race. Is it not astonishing that, while we are ploughing, planting and reaping, using all kinds of mechanical tools, erecting houses, constructing bridges, building ships, working in metals of brass, iron, copper, silver and gold; that, while we are reading, writing and [[cyphering|v.|/ˈsaɪfərɪŋ/|计算，算术]], acting as clerks, merchants and secretaries, having among us lawyers, doctors, ministers, poets, authors, editors, orators and teachers; that, while we are engaged in all manner of enterprises common to other men, digging gold in California, capturing the whale in the Pacific, feeding sheep and cattle on the hill-side, living, moving, acting, thinking, planning, living in families as husbands, wives and children, and, above all, confessing and worshipping the Christian's God, and looking hopefully for life and [[immortality|n.|/ˌɪmɔːrˈtæləti/|不朽，永生]] beyond the grave, we are called upon to prove that we are men!
+
+> 就目前而言，确认黑人种族具有平等的人格，已经足够。难道不令人惊异吗：我们耕地、播种、收割，使用各种机械工具，盖房子、架桥梁、造船只，加工黄铜、铁、铜、银、金各种金属；我们读书、写字、算账，做办事员、商人、书记，我们中间有律师、医生、牧师、诗人、作家、编辑、演说家与教师；我们从事其他人所从事的一切事业，在加利福尼亚掘金，在太平洋捕鲸，在山坡上放牧牛羊，生活、行动、做事、思考、谋划，作为丈夫、妻子与子女生活在家庭之中，而且，最重要的是，信奉并敬拜基督徒的上帝，怀着希望仰望坟墓之外的生命与不朽——就在这样的时候，我们却被叫去证明我们是人！
+
+### 42
+
+Would you have me argue that man is [[entitled|adj.|/ɪnˈtaɪtld/|有权的，有资格的]] to liberty? that he is the rightful owner of his own body? You have already declared it. Must I argue the wrongfulness of slavery? Is that a question for Republicans? Is it to be settled by the rules of logic and [[argumentation|n.|/ˌɑːrɡjumənˈteɪʃn/|论证，论辩]], as a matter beset with great difficulty, involving a doubtful application of the principle of justice, hard to be understood? How should I look to-day, in the presence of Americans, dividing, and subdividing a discourse, to show that men have a natural right to freedom? speaking of it relatively, and positively, negatively, and affirmatively. To do so, would be to make myself ridiculous, and to offer an insult to your understanding.—There is not a man beneath the [[canopy|n.|/ˈkænəpi/|华盖，穹苍]] of heaven, that does not know that slavery is wrong for him.
+
+> 你要我论证人有权享有自由吗？论证他是自己身体的合法主人吗？这些你们早已宣告过了。还要我论证奴隶制的邪恶吗？这是共和党人要解决的问题吗？它是要靠逻辑与论辩的规则来裁定、作为一个困难重重、牵涉到正义原则如何可疑适用、难以理解的问题吗？今天，在美国人面前，我若把一篇讲话分割了又分割，只为说明人有一种天生的自由权利，说它相对的、绝对的、反面的、正面的——我该是什么样子？那样做只会使我显得可笑，也是对诸位理解力的侮辱。——普天之下没有一个人不知道：奴隶制对他自己来说是错的。
+
+### 43
+
+What, am I to argue that it is wrong to make men brutes, to rob them of their liberty, to work them without wages, to keep them ignorant of their relations to their fellow men, to beat them with sticks, to [[flay|v.|/fleɪ/|剥（皮），抽打得皮开肉绽]] their flesh with the [[lash|n.|/læʃ/|鞭子]], to load their limbs with irons, to hunt them with dogs, to sell them at [[auction|n.|/ˈɔːkʃn/|拍卖]], to [[sunder|v.|/ˈsʌndər/|拆散，使分离]] their families, to knock out their teeth, to burn their flesh, to starve them into obedience and submission to their masters? Must I argue that a system thus marked with blood, and stained with pollution, is wrong? No! I will not. I have better employment for my time and strength, than such arguments would imply.
+
+> 什么，还要我论证把人变成畜生是错的吗？剥夺他们的自由，不给工钱叫他们干活，让他们对自己的同胞一无所知，用棍棒打他们，用鞭子抽得他们皮开肉绽，给他们的四肢上镣铐，放狗追猎他们，把他们拉到拍卖场上卖掉，拆散他们的家庭，敲掉他们的牙齿，烧灼他们的皮肉，用饥饿逼他们服从、屈从于主人——这些是错的吗？还要我论证一个如此血迹斑斑、如此污秽不堪的制度是错的吗？不！我不会。我的时间和精力有更好的用处，不该用来做这类论证所意味的事。
+
+### 44
+
+What, then, remains to be argued? Is it that slavery is not [[divine|adj.|/dɪˈvaɪn/|神授的，神圣的]]; that God did not establish it; that our doctors of divinity are mistaken? There is [[blasphemy|n.|/ˈblæsfəmi/|亵渎神明]] in the thought. That which is inhuman, cannot be divine! Who can reason on such a [[proposition|n.|/ˌprɑːpəˈzɪʃn/|命题，主张]]? They that can, may; I cannot. The time for such argument is past.
+
+> 那么，还剩下什么可论证的呢？是说奴隶制并非神授？上帝并未设立它？我们的神学博士们搞错了？这念头里就含着亵渎。凡属非人的东西，就不可能是神授的！谁能就这样的命题讲道理？能的人尽管去讲；我不能。这类论证的时候已经过去了。
+
+### 45
+
+At a time like this, [[scorching|adj.|/ˈskɔːrtʃɪŋ/|灼人的，辛辣的]] [[irony|n.|/ˈaɪrəni/|讽刺，反讽]], not convincing argument, is needed. O! had I the ability, and could I reach the nation's ear, I would, to day, pour out a fiery stream of biting ridicule, blasting reproach, [[withering|adj.|/ˈwɪðərɪŋ/|令人枯萎的，摧折人的]] [[sarcasm|n.|/ˈsɑːrkæzəm/|讥讽，挖苦]], and stern rebuke. For it is not light that is needed, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake. The feeling of the nation must be quickened; the conscience of the nation must be roused; the propriety of the nation must be startled; the [[hypocrisy|n.|/hɪˈpɑːkrəsi/|伪善，虚伪]] of the nation must be exposed; and its crimes against God and man must be proclaimed and denounced.
+
+> 在这样的时刻，需要的是灼人的讽刺，而不是令人信服的论证。啊！倘若我有那份才能，倘若我能让全国都听见，我今天就要倾泻出滚滚烈流：尖刻的嘲弄、毁灭性的责难、令人枯萎的讥讽与严厉的斥责。因为需要的是火，不是光；是雷霆，不是细雨。我们需要风暴、旋风与地震。全国的情感必须被唤醒；全国的良知必须被激起；全国的体面必须被惊动；全国的伪善必须被揭穿；它对上帝与人类所犯的罪，必须被宣告、被谴责。
+
+### 46
+
+What, to the American slave, is your 4th of July? I answer: a day that reveals to him, more than all other days in the year, the gross injustice and cruelty to which he is the constant victim. To him, your celebration is a [[sham|n.|/ʃæm/|骗局，假象]]; your boasted liberty, an unholy [[license|n.|/ˈlaɪsns/|放纵，无法无天]]; your national greatness, swelling vanity; your sounds of rejoicing are empty and heartless; your denunciations of tyrants, brass fronted impudence; your shouts of liberty and equality, hollow mockery; your prayers and hymns, your sermons and thanksgivings, with all your religious parade, and solemnity, are, to him, mere [[bombast|n.|/ˈbɑːmbæst/|浮夸之辞，大话]], fraud, deception, [[impiety|n.|/ɪmˈpaɪəti/|不敬神，亵慢]], and hypocrisy—a thin veil to cover up crimes which would disgrace a nation of [[savages|n.|/ˈsævɪdʒɪz/|野蛮人，未开化者]]. There is not a nation on the earth guilty of practices, more shocking and bloody, than are the people of these United States, at this very hour.
+
+> 对美国的奴隶来说，你们的七月四日是什么？我回答：是一年之中最能向他揭示他时刻身受的滔天不义与残酷的一天。对他来说，你们的庆典是一场骗局；你们夸耀的自由，是一种不神圣的放纵；你们的国家伟大，是膨胀的虚荣；你们的欢庆之声空洞而冷酷；你们对暴君的谴责，是厚颜无耻；你们对自由与平等的呼喊，是空洞的嘲弄；你们的祈祷与赞美诗，你们的布道与感恩，连同你们全部的宗教排场与庄严，在他看来都只是浮夸、欺诈、蒙骗、不敬与伪善——一层薄薄的帷幕，遮掩着那些足以让野蛮民族蒙羞的罪行。地球上没有一个民族所犯的行径，比此刻这些合众国的人民更加骇人听闻、更加血腥。
+
+### 47
+
+Go where you may, search where you will, roam through all the [[monarchies|n.|/ˈmɑːnərkiz/|君主国]] and [[despotisms|n.|/ˈdespətɪzəmz/|专制国，暴政]] of the old world, travel through South America, search out every abuse, and when you have found the last, lay your facts by the side of the every day practices of this nation, and you will say with me, that, for [[revolting|adj.|/rɪˈvoʊltɪŋ/|令人作呕的，令人反感的]] [[barbarity|n.|/bɑːrˈbærəti/|野蛮，残暴]] and shameless hypocrisy, America reigns without a rival.
+
+> 随你走到哪里，随你搜寻何处，漫游旧世界一切君主国与专制国，走遍南美洲，把每一种弊端都找出来；等你找到最后一种，把你的事实与这个国家日常的行径并排放着，你就会与我一同说：论令人作呕的野蛮与无耻的伪善，美国称王，无有匹敌。
+
+### 48
+
+Take the American slave-trade, which, we are told by the papers, is especially prosperous just now. Ex-Senator Benton tells us that the price of men was never higher than now. He mentions the fact to show that slavery is in no danger. This trade is one of the peculiarities of American institutions. It is carried on in all the large towns and cities in one half of this confederacy; and millions are [[pocketed|v.|/ˈpɑːkɪtɪd/|装入私囊，中饱]] every year, by dealers in this horrid [[traffic|n.|/ˈtræfɪk/|买卖，交易（常指不正当的）]]. In several states, this trade is a chief source of wealth. It is called (in [[contradistinction|n.|/ˌkɑːntrədɪˈstɪŋkʃn/|对照之别，相对而言]] to the foreign slave-trade) "the internal slave trade." It is, probably, called so, too, in order to divert from it the horror with which the foreign slave-trade is contemplated. That trade has long since been denounced by this government, as [[piracy|n.|/ˈpaɪrəsi/|海盗行为]]. It has been denounced with burning words, from the high places of the nation, as an [[execrable|adj.|/ˈeksɪkrəbl/|可憎的，该受诅咒的]] traffic. To arrest it, to put an end to it, this nation keeps a squadron, at immense cost, on the coast of Africa. Everywhere, in this country, it is safe to speak of this foreign slave-trade, as a most inhuman traffic, opposed alike to the laws of God and of man. The duty to [[extirpate|v.|/ˈekstərpeɪt/|根除，铲除]] and destroy it, is admitted even by our Doctors of Divinity. In order to put an end to it, some of these last have consented that their colored brethren (nominally free) should leave this country, and establish themselves on the western coast of Africa! It is, however, a notable fact that, while so much [[execration|n.|/ˌeksɪˈkreɪʃn/|诅咒，憎恶]] is poured out by Americans upon those engaged in the foreign slave-trade, the men engaged in the slave-trade between the states pass without condemnation, and their business is deemed honorable.
+
+> 就拿美国的奴隶贸易来说吧——报纸告诉我们，它眼下特别兴旺。前参议员本顿告诉我们，人的价格从未像现在这样高。他提这件事，是为了说明奴隶制毫无危险。这门生意是美国制度的特点之一。它在这个联邦一半的大城镇里进行着；从事这桩可怕买卖的商人，每年把数以百万计的钱装进口袋。在好几个州，这门生意是财富的主要来源。它（与外洋奴隶贸易相对而言）被称为「国内奴隶贸易」。它大概也是因此得名，为的是把人们注视外洋奴隶贸易时怀有的那种恐惧从它身上引开。外洋奴隶贸易早已被这个政府谴责为海盗行径。它被全国的高位者用灼热的言辞斥为可憎的买卖。为了拦截它、终止它，这个国家不惜巨资，在非洲海岸常驻一支舰队。在这个国家，无论何处，把外洋奴隶贸易说成最不人道的买卖、说它同时违背上帝之法与人之法，都是安全的。就连我们的神学博士们也承认，有责任把它连根拔除、彻底消灭。为了终止它，这些博士中有些人竟同意让他们的有色弟兄（名义上是自由人）离开这个国家，到非洲西海岸去安身！然而，一个值得注意的事实是：美国人对从事外洋奴隶贸易者倾泻了如此多的诅咒，而从事州际奴隶贸易的人却不受谴责，他们的生意还被认为体面。
+
+### 49
+
+Behold the practical operation of this internal slave-trade, the American slave-trade, sustained by American politics and American religion. Here you will see men and women [[reared|v.|/rɪrd/|饲养，养育]] like swine for the market. You know what a swine-drover? I will show you a man-drover. They inhabit all our Southern States. They [[perambulate|v.|/pəˈræmbjuleɪt/|巡行，走遍]] the country, and crowd the highways of the nation, with [[droves|n.|/droʊvz/|畜群，成群的人]] of human stock. You will see one of these human flesh-jobbers, armed with pistol, whip and bowie-knife, driving a company of a hundred men, women, and children, from the Potomac to the slave market at New Orleans. These wretched people are to be sold singly, or in lots, to suit purchasers. They are food for the cotton-field, and the deadly sugar-mill. Mark the sad procession, as it moves wearily along, and the inhuman wretch who drives them. Hear his savage yells and his blood-chilling oaths, as he hurries on his affrighted captives! There, see the old man, with locks thinned and gray. Cast one glance, if you please, upon that young mother, whose shoulders are bare to the scorching sun, her [[briny|adj.|/ˈbraɪni/|咸的，含盐的]] tears falling on the brow of the babe in her arms. See, too, that girl of thirteen, weeping, yes! weeping, as she thinks of the mother from whom she has been torn! The drove moves [[tardily|adv.|/ˈtɑːrdɪli/|迟缓地，缓慢地]]. Heat and sorrow have nearly consumed their strength; suddenly you hear a quick snap, like the discharge of a rifle; the [[fetters|n.|/ˈfetərz/|脚镣，镣铐]] clank, and the chain rattles simultaneously; your ears are saluted with a scream, that seems to have torn its way to the centre of your soul! The crack you heard, was the sound of the slave-whip; the scream you heard, was from the woman you saw with the babe. Her speed had faltered under the weight of her child and her chains! that [[gash|n.|/ɡæʃ/|深长的伤口，砍痕]] on her shoulder tells her to move on. Follow this drove to New Orleans. Attend the auction; see men examined like horses; see the forms of women rudely and brutally exposed to the shocking gaze of American slave-buyers. See this drove sold and separated forever; and never forget the deep, sad sobs that arose from that scattered multitude. Tell me citizens, where, under the sun, you can witness a spectacle more fiendish and shocking. Yet this is but a glance at the American slave-trade, as it exists, at this moment, in the ruling part of the United States.
+
+> 且看这国内奴隶贸易——由美国政治与美国宗教支撑的美国奴隶贸易——的实际运作吧。在这里，你会看到男男女女像猪一样被养大，供市场之用。你知道什么是赶猪人吗？我要让你看看赶人的人。他们遍布我们南方各州。他们走遍全国，用一群群「人畜」塞满这个国家的通衢大道。你会看到这样一个人肉贩子，带着手枪、鞭子和猎刀，赶着一百名男女老幼，从波托马克河一路赶到新奥尔良的奴隶市场。这些可怜人将被单个或成批出售，以迎合买主。他们是棉田与那致命的榨糖厂的食料。请留意那支悲哀的队伍，疲惫地缓缓前行，还有那个驱赶他们的非人之徒。听他那野蛮的吆喝与他令人血冷的咒骂，催促着那些惊恐的俘虏！看那里，那位头发稀疏斑白的老者。倘若你愿意，请把目光投向那位年轻母亲：她的双肩赤裸地承受着灼人的烈日，她咸涩的泪水落进怀中婴儿的额头。再看那个十三岁的女孩，在哭泣——是的！哭泣，因为她想起了自己被夺走的母亲！队伍行进迟缓。炎热与悲伤几乎耗尽了他们的气力；忽然你听到一声清脆的断裂声，像步枪击发；镣铐哐当，铁链同时哗啦作响；你的耳中撞进一声尖叫，仿佛撕开了一条路，直抵你灵魂的中心！你听到的那一响，是奴隶鞭的声音；你听到的那一声尖叫，来自你看见的那位抱着婴儿的妇人。在孩子的重量与锁链的重量之下，她的脚步慢了下来！她肩上的那道血口子叫她往前走。跟着这支队伍到新奥尔良去。去旁观那场拍卖；看男人像马一样被检验；看女人的身体被粗野残暴地暴露在美国奴隶买主令人震惊的注视之下。看这支队伍被卖掉、永远分离；并且永远不要忘记从那散落的人群中升起的、深沉悲哀的抽泣。告诉我，公民们，在太阳底下，你还能在哪里看到更恶魔般、更骇人的景象。然而这不过是瞥一眼此刻正存在于合众国统治地区的那桩美国奴隶贸易而已。
+
+### 50
+
+I was born amid such sights and scenes. To me the American slave-trade is a terrible reality. When a child, my soul was often pierced with a sense of its horrors. I lived on Philpot Street, Fell's Point, Baltimore, and have watched from the [[wharves|n.|/wɔːrvz/|码头]], the slave ships in the Basin, anchored from the shore, with their cargoes of human flesh, waiting for favorable winds to [[waft|v.|/wɑːft/|吹送，飘送]] them down the Chesapeake. There was, at that time, a grand slave [[mart|n.|/mɑːrt/|市场，交易场]] kept at the head of Pratt Street, by Austin Woldfolk. His agents were sent into every town and county in Maryland, announcing their arrival, through the papers, and on flaming "hand-bills," headed cash for negroes. These men were generally well dressed men, and very [[captivating|adj.|/ˈkæptɪveɪtɪŋ/|迷人的，有魅力的]] in their manners. Ever ready to drink, to treat, and to gamble. The fate of many a slave has depended upon the turn of a single card; and many a child has been snatched from the arms of its mother by bargains arranged in a state of brutal drunkenness.
+
+> 我就是在这样的景象与场面中出生的。对我来说，美国奴隶贸易是一个可怕的现实。童年时，它的种种恐怖常常刺穿我的灵魂。我住在巴尔的摩费尔斯角的菲尔波特街，曾从码头望着内港里的奴隶船——它们离岸下锚，载着人肉货物，等着顺风把它们吹下切萨皮克湾。那时，普拉特街的街口有一处大奴隶市场，经营者是奥斯汀·沃尔德福克。他的代理人被派往马里兰的每一个城镇与县，通过报纸和醒目的「招贴」宣告他们的到来，招贴上写着「现金收购黑人」。这些人一般都衣着讲究，举止极为迷人。随时准备喝酒、请客、赌博。许多奴隶的命运，就取决于一张牌的翻转；许多孩子，就被人借着酒醉做出的交易，从母亲的怀里夺走。
+
+### 51
+
+The [[flesh-mongers|n.|/ˈfleʃ ˌmʌŋɡərz/|人肉贩子，肉体买卖者]] gather up their victims by dozens, and drive them, chained, to the general [[depot|n.|/ˈdiːpoʊ/|集中地，集散站]] at Baltimore. When a sufficient number have been collected here, a ship is [[chartered|v.|/ˈtʃɑːrtərd/|包租，租赁]], for the purpose of conveying the [[forlorn|adj.|/fərˈlɔːrn/|孤苦无告的，绝望的]] crew to Mobile, or to New Orleans. From the slave prison to the ship, they are usually driven in the darkness of night; for since the antislavery agitation, a certain caution is observed.
+
+> 人肉贩子把他们的受害者成打地收集起来，锁上铁链，驱赶到巴尔的摩的总集中地。等这里聚起足够的人数，就租一条船，把这群孤苦无告的人运往莫比尔或新奥尔良。从奴隶监狱到船上，他们通常是在夜色的黑暗中赶过去的；因为自从反奴隶制的鼓动兴起以来，人们总还要保持几分谨慎。
+
+### 52
+
+In the deep still darkness of midnight, I have been often aroused by the dead heavy footsteps, and the [[piteous|adj.|/ˈpɪtiəs/|凄厉的，令人怜悯的]] cries of the chained gangs that passed our door. The [[anguish|n.|/ˈæŋɡwɪʃ/|痛苦，苦闷]] of my boyish heart was intense; and I was often [[consoled|v.|/kənˈsoʊld/|安慰，宽慰]], when speaking to my mistress in the morning, to hear her say that the custom was very wicked; that she hated to hear the rattle of the chains, and the heart-rending cries. I was glad to find one who [[sympathised|v.|/ˈsɪmpəθaɪzd/|同情，同感]] with me in my horror.
+
+> 在午夜深沉寂静的黑暗里，我常被那死沉沉的重脚步声，以及从我们门前经过的、上了锁链的成群奴隶的凄厉哭喊惊醒。我少年之心的痛苦极为剧烈；而清晨与我的女主人说话时，听她说这风俗非常邪恶、说她讨厌听见铁链的哗啦声和撕心裂肺的哭喊，我往往得到安慰。我很高兴能找到一个与我同样感到恐惧的人。
+
+### 53
+
+Fellow-citizens, this murderous traffic is, to-day, in active operation in this boasted republic. In the solitude of my spirit, I see clouds of dust raised on the highways of the South; I see the bleeding footsteps; I hear the [[doleful|adj.|/ˈdoʊlfl/|悲恸的，哀伤的]] wail of [[fettered|adj.|/ˈfetərd/|被镣铐锁住的，受束缚的]] humanity, on the way to the slave-markets, where the victims are to be sold like horses, sheep, and swine, knocked off to the highest [[bidder|n.|/ˈbɪdər/|出价人，竞买者]]. There I see the tenderest ties ruthlessly broken, to gratify the lust, [[caprice|n.|/kəˈpriːs/|任性，反复无常]] and [[rapacity|n.|/rəˈpæsəti/|贪婪，攫取]] of the buyers and sellers of men. My soul sickens at the sight.
+
+> 同胞们，这桩杀人的买卖，今天仍在这个自我夸耀的共和国里活跃地进行着。在我灵魂的孤寂中，我看见南方大路上扬起的尘土；我看见带血的脚印；我听见被镣铐束缚的人性发出悲恸的哀号，他们正走在通往奴隶市场的路上，在那里，受害者要像马、像羊、像猪一样被卖掉，被拍给出价最高的人。在那里，我看见最温柔的纽带被无情扯断，只为满足人的买卖者的贪欲、任性与贪婪。我的灵魂见此情景便作呕。
+
+### 54
+
+:::quote
+
+"Is this the land your Fathers loved,\
+The freedom which they toiled to win?\
+In this the earth whereon they moved?\
+Are these the graves they slumber in?"
+
+> 「这就是你们父辈所爱之地，\
+> 他们辛劳争得的自由？\
+> 他们行走其上的就是这片土地？\
+> 他们长眠的就是这些坟茔？」
+
+:::
+
+### 55
+
+But a still more inhuman, disgraceful, and scandalous state of things remains to be presented.
+
+> 然而，还有一番更加不人道、更加可耻、更加丑恶的情形有待呈现。
+
+### 56
+
+By an act of the American Congress, not yet two years old, slavery has been nationalized in its most horrible and revolting form. By that act, Mason &amp; Dixon's line has been [[obliterated|v.|/əˈblɪtəreɪtɪd/|抹去，消除]]; New York has become as Virginia; and the power to hold, hunt, and sell men, women, and children as slaves remains no longer a mere state institution, but is now an institution of the whole United States. The power is [[co-extensive|adj.|/ˌkoʊ ɪkˈstensɪv/|同其广袤的，范围相同]] with the star-spangled banner and American Christianity. Where these go, may also go the merciless slave-hunter. Where these are, man is not sacred. He is a bird for the sportsman's gun. By that most foul and fiendish of all human decrees, the liberty and person of every man are put in peril. Your broad republican domain is hunting ground for men. Not for thieves and robbers, enemies of society, merely, but for men guilty of no crime. Your law-makers have commanded all good citizens to engage in this hellish sport. Your President, your Secretary of State, your lords, nobles, and [[ecclesiastics|n.|/ɪˌkliːziˈæstɪks/|教士，神职人员]], enforce, as a duty you owe to your free and glorious country, and to your God, that you do this [[accursed|adj.|/əˈkɜːrsɪd/|该受诅咒的，可憎的]] thing. Not fewer than forty Americans have, within the past two years, been hunted down and, without a moment's warning, hurried away in chains, and consigned to slavery and [[excruciating|adj.|/ɪkˈskruːʃieɪtɪŋ/|极痛苦的，折磨人的]] torture. Some of these have had wives and children, dependent on them for bread; but of this, no account was made. The right of the hunter to his prey stands superior to the right of marriage, and to all rights in this republic, the rights of God included! For black men there are neither law, justice, humanity, nor religion. The Fugitive Slave Law makes mercy to them, a crime; and bribes the judge who tries them. An American judge gets ten dollars for every victim he consigns to slavery, and five, when he fails to do so. The oath of any two villains is sufficient, under this hell-black enactment, to send the most pious and [[exemplary|adj.|/ɪɡˈzempləri/|堪为表率的，典范的]] black man into the [[remorseless|adj.|/rɪˈmɔːrsləs/|毫不留情的，无情的]] jaws of slavery! His own testimony is nothing. He can bring no witnesses for himself. The minister of American justice is bound by the law to hear but one side; and that side, is the side of the oppressor. Let this damning fact be perpetually told. Let it be thundered around the world, that, in tyrant-killing, king-hating, people-loving, democratic, Christian America, the seats of justice are filled with judges, who hold their offices under an open and [[palpable|adj.|/ˈpælpəbl/|明显的，显而易见的]] bribe, and are bound, in deciding in the case of a man's liberty, to hear only his accusers!
+
+> 凭借美国国会一项还不满两年的法案，奴隶制以其最可怕、最令人作呕的形式被全国化了。凭借那项法案，梅森—狄克逊线被抹去了；纽约变得和弗吉尼亚一样；持有、追猎并贩卖男女老幼为奴的权力，不再仅仅是某个州的制度，而如今成了整个合众国的制度。这项权力与星条旗和美国基督教同其广袤。它们所到之处，那毫不留情的猎奴者也随之而去。有它们在的地方，人便不再神圣。他是供猎人枪击的鸟。凭借人类一切法令中最卑劣、最恶魔般的那一条，每个人的自由与人身都陷入危险。你们那辽阔的共和疆域，成了猎人的猎场——猎的是人。不只是盗贼与强盗这些社会之敌，而是无罪之人。你们的立法者命令一切好公民都参与这场地狱般的狩猎。你们的总统、你们的国务卿、你们的贵人、显要与教士们，把做这件该受诅咒的事，当作你们对自己自由而光荣的祖国、对你们上帝所负的义务来强制执行。在过去两年里，不少于四十名美国人被追猎，未经片刻警告就被锁链拖走，被投入奴役与酷刑之中。其中一些人还有妻子儿女，靠他们挣面包；但对此，无人加以考虑。猎人对猎物的权利，高踞于婚姻的权利之上，高踞于这个共和国的一切权利之上，连上帝的权利也包括在内！对黑人来说，既没有法律，也没有正义，没有人道，也没有宗教。《逃奴法》把怜悯他们变成一种罪，还贿赂审判他们的法官。一名美国法官，每把一个人判入奴役就得十美元，判不成则得五美元。在这条地狱般黑暗的法令之下，任何两个恶棍的宣誓，就足以把最虔诚、最堪为表率的黑人送进奴隶制那毫不留情的血盆大口！他自己的证词等于无物。他不能为自己带来任何证人。美国司法的执事者依法只能听一面之词；而那一面，就是压迫者的一面。让这个该受诅咒的事实被永远讲述下去吧。让它在全世界被高声传扬：在弑君、仇王、爱民、民主、基督教的美国，司法席位上坐满了法官，他们凭着一笔公开而明显的贿赂而任职，在裁定一个人的人身自由时，依法只能听取控告者的说法！
+
+### 57
+
+In [[glaring|adj.|/ˈɡlerɪŋ/|公然的，昭彰的]] violation of justice, in shameless disregard of the forms of administering law, in cunning arrangement to [[entrap|v.|/ɪnˈtræp/|诱捕，设局陷害]] the defenceless, and in [[diabolical|adj.|/ˌdaɪəˈbɑːlɪkl/|魔鬼般的，凶残的]] intent, this Fugitive Slave Law stands alone in the [[annals|n.|/ˈænlz/|编年史，纪年录]] of tyrannical legislation. I doubt if there be another nation on the globe, having the [[brass|n.|/bræs/|厚颜无耻，无耻的胆量]] and the baseness to put such a law on the statute-book. If any man in this assembly thinks differently from me in this matter, and feels able to disprove my statements, I will gladly confront him at any suitable time and place he may select.
+
+> 在公然违背正义、无耻无视司法程序的形式、狡诈地设局陷害无力自卫者、以及魔鬼般的意图这几方面，这部《逃奴法》在暴虐立法的编年史上都独一份。我怀疑地球上是否还有另一个国家，有那样的厚颜与卑劣，把这样一条法律列入法典。倘若在座有人对此与我所见不同，并且觉得能够驳倒我的陈述，我乐意在他选定的任何合适时间与地点与他对质。
+
+### 58
+
+I take this law to be one of the [[grossest|adj.|/ˈɡroʊsɪst/|最粗暴的，最严重的]] [[infringements|n.|/ɪnˈfrɪndʒmənts/|侵犯，侵害]] of Christian Liberty, and, if the churches and ministers of our country were not stupidly blind, or most wickedly indifferent, they, too, would so regard it.
+
+> 我认为这部法律是对基督徒自由最粗暴的侵犯之一；倘若我们国家的各教会与牧师们不是愚钝地盲目，或极其邪恶地漠不关心，他们也定会这样看待它。
+
+### 59
+
+At the very moment that they are thanking God for the enjoyment of civil and religious liberty, and for the right to worship God according to the dictates of their own consciences, they are utterly silent in respect to a law which robs religion of its chief significance, and makes it utterly worthless to a world lying in wickedness. Did this law concern the "mint, anise and cummin"—[[abridge|v.|/əˈbrɪdʒ/|削减，剥夺]] the right to sing psalms, to partake of the [[sacrament|n.|/ˈsækrəmənt/|圣餐，圣礼]], or to engage in any of the ceremonies of religion, it would be smitten by the thunder of a thousand pulpits. A general shout would go up from the church, demanding [[repeal|n.|/rɪˈpiːl/|废止，撤销]], repeal, instant repeal!—And it would go hard with that politician who presumed to solicit the votes of the people without inscribing this motto on his banner. Further, if this demand were not complied with, another Scotland would be added to the history of religious liberty, and the stern old [[covenanters|n.|/ˌkʌvəˈnæntərz/|誓约派（苏格兰长老会历史派别）]] would be thrown into the shade. A John Knox would be seen at every church door, and heard from every pulpit, and Fillmore would have no more [[quarter|n.|/ˈkwɔːrtər/|宽待，饶恕]] than was shown by Knox, to the beautiful, but treacherous queen Mary of Scotland.—The fact that the church of our country, (with fractional exceptions,) does not esteem "the Fugitive Slave Law" as a declaration of war against religious liberty, implies that that church regards religion simply as a form of worship, an empty ceremony, and not a vital principle, requiring active [[benevolence|n.|/bəˈnevələns/|仁爱，善行]], justice, love and good will towards man. It esteems sacrifice above mercy; psalm-singing above right doing; solemn meetings above practical [[righteousness|n.|/ˈraɪtʃəsnəs/|义，正直]]. A worship that can be conducted by persons who refuse to give shelter to the houseless, to give bread to the hungry, clothing to the naked, and who enjoin obedience to a law forbidding these acts of mercy, is a curse, not a blessing to mankind. The Bible addresses all such persons as "scribes, pharisees, [[hypocrites|n.|/ˈhɪpəkrɪts/|假冒为善者，伪君子]], who pay [[tithe|n.|/taɪð/|什一奉献，十分之一]] of mint, anise, and cummin, and have omitted the weightier matters of the law, judgement, mercy and faith."
+
+> 就在他们为享有公民自由与宗教自由、为有权按自己良心的指引敬拜上帝而感谢神的那一刻，他们对一部剥夺了宗教主要意义、使宗教对一个沉沦于邪恶的世界变得全然无用的法律，却完全沉默。倘若这部法律涉及的是「薄荷、茴香、芹菜」——剥夺人唱诗篇的权利、领圣餐的权利，或参与任何宗教仪式的权利——它早就会被上千座讲道坛的雷霆击碎了。教会里会响起一片呼声，要求废止、废止、立即废止！——而那个胆敢不把这句口号写在自己旗号上就去拉选票的政客，日子也会很不好过。再者，倘若这一要求得不到满足，宗教自由史上就会再添一个苏格兰，那些严峻的老誓约派也会相形失色。每一座教堂门口都会出现一位约翰·诺克斯，每一座讲道坛上都会听见他的声音，而菲尔莫尔所得的宽待，不会比诺克斯当年给予那位美丽却背信的苏格兰女王玛丽更多。——我们国家的教会（只有零星例外）不把《逃奴法》视为对宗教自由的宣战，这一事实意味着：那教会把宗教仅仅看作一种崇拜形式、一种空洞的仪式，而不是一种活的根本原则——它要求的是积极的仁爱、正义、爱以及对人人的善意。它把献祭看得高于怜悯；把唱诗篇看得高于行正事；把庄重的集会看得高于实际的义行。一种崇拜，若可以由那些拒绝给无家可归者庇护、拒绝给饥饿者面包、拒绝给赤身者衣穿、并且吩咐人服从一部禁止这类怜悯之举的法律的人来主持，那对人类就是咒诅，而不是祝福。《圣经》把所有这类人称为「文士、法利赛人、假冒为善的人，你们将薄荷、茴香、芹菜献上十分之一，那律法上更重的事，就是公义、怜悯、信实，反倒不行了」。
+
+### 60
+
+But the church of this country is not only indifferent to the wrongs of the slave, it actually takes sides with the oppressors. It has made itself the [[bulwark|n.|/ˈbʊlwɜːrk/|堡垒，屏障]] of American slavery, and the shield of American slave-hunters. Many of its most eloquent [[Divines|n.|/dɪˈvaɪnz/|神学家，牧师]], who stand as the very lights of the church, have shamelessly given the sanction of religion and the Bible to the whole slave system.—They have taught that man may, properly, be a slave; that the relation of master and slave is [[ordained|v.|/ɔːrˈdeɪnd/|命定，规定]] of God; that to send back an escaped bondman to his master is clearly the duty of all the followers of the Lord Jesus Christ; and this horrible blasphemy is [[palmed off|phr.|/pɑːmd ɔːf/|冒充兜售，蒙混推销]] upon the world for Christianity.
+
+> 然而，这个国家的教会不仅对奴隶的冤屈漠不关心，它实际上还站到了压迫者一边。它把自己变成了美国奴隶制的堡垒、美国猎奴者的盾牌。它许多最有口才的神学家——那些教会中堪称明灯的人——无耻地以宗教与《圣经》的名义，为整个奴隶制度背书。——他们教导说：人可以正当地成为奴隶；主奴关系是上帝所命定的；把一个逃走的奴隶送回主人那里，显然是所有跟随主耶稣基督之人的责任；而这可怕亵渎，竟被当作基督教兜售给世界。
+
+### 61
+
+For my part, I would say, welcome [[infidelity|n.|/ɪnˈfɪdələti/|不信神，怀疑论]]! welcome [[atheism|n.|/ˈeɪθiɪzəm/|无神论]]! welcome anything! in preference to the gospel, as preached by those Divines! They convert the very name of religion into an engine of tyranny, and barbarous cruelty, and serve to confirm more [[infidels|n.|/ˈɪnfɪdəlz/|不信教者，怀疑论者]], in this age, than all the infidel writings of Thomas Paine, Voltaire, and Bolingbroke, put together, have done! These ministers make religion a cold and flinty-hearted thing, having neither principles of right action, nor bowels of compassion. They strip the love of God of its beauty, and leave the throne of religion a huge, horrible, repulsive form. It is a religion for oppressors, tyrants, man-stealers, and thugs. It is not that "pure and [[undefiled|adj.|/ˌʌndɪˈfaɪld/|没有玷污的，纯洁的]] religion" which is from above, and which is "first pure, then peaceable, easy to be [[entreated|v.|/ɪnˈtriːtɪd/|恳求，劝解（easy to be entreated 意为温良柔顺）]], full of mercy and good fruits, without [[partiality|n.|/ˌpɑːrʃiˈæləti/|偏心，偏袒]], and without hypocrisy." But a religion which favors the rich against the poor; which [[exalts|v.|/ɪɡˈzɔːlts/|抬举，抬高]] the proud above the humble; which divides mankind into two classes, tyrants and slaves; which says to the man in chains, stay there; and to the oppressor, oppress on; it is a religion which may be professed and enjoyed by all the robbers and enslavers of mankind; it makes God a respecter of persons, denies his fatherhood of the race, and tramples in the dust the great truth of the brotherhood of man. All this we affirm to be true of the popular church, and the popular worship of our land and nation—a religion, a church, and a worship which, on the authority of inspired wisdom, we pronounce to be an [[abomination|n.|/əˌbɑːmɪˈneɪʃn/|可憎之物，令人厌恶之事]] in the sight of God. In the language of Isaiah, the American church might be well addressed, "Bring no more vain [[oblations|n.|/əˈbleɪʃnz/|供物，祭品]]; [[incense|n.|/ˈɪnsens/|香品，熏香]] is an abomination unto me: the new moons and Sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting. Your new moons and your appointed feasts my soul hateth. They are a trouble to me, I am weary to bear them; and when ye spread forth your hands I will hide mine eyes from you. Yea! when ye make many prayers, I will not hear. YOUR HANDS ARE FULL OF BLOOD; cease to do evil, learn to do well; seek judgement; relieve the oppressed; judge for the fatherless; plead for the widow."
+
+> 至于我，我要说：欢迎不信！欢迎无神论！什么都欢迎！——只要不是那些神学家所宣讲的福音！他们把宗教之名本身变成暴政与野蛮残酷的引擎，在这个时代所造成的怀疑论者，比托马斯·潘恩、伏尔泰和博林布鲁克所有不信之作加在一起所造就的还要多！这些牧师把宗教弄成一件冰冷坚硬的东西，既无正当行动的原则，也无慈悲的心肠。他们剥去了上帝之爱的美，只把宗教的宝座留下，成为一个巨大、可怖、令人厌恶的形影。这是一种供压迫者、暴君、贩人者和凶手信奉的宗教。它不是那种「清洁没有玷污的虔诚」——那是从上头来的，「先是清洁，后是和平，温良柔顺，满有怜悯，多结善果，没有偏见，没有假冒」。它反而是这样一种宗教：偏袒富人、压制穷人；抬举骄傲者、贬抑谦卑者；把人类分成两个阶级——暴君与奴隶；对锁链中的人说「待着吧」，对压迫者说「继续压迫吧」。这是一种一切强盗与奴役人类者都能信奉、都能享受的宗教；它使上帝成为看人下菜碟的神，否认他对全族的父职，把人类皆兄弟这一伟大真理踏进尘土。这一切，我们都断定是我国与民族的流行教会与流行崇拜的真实情形——这样一种宗教、教会与崇拜，我们凭受神启示的智慧之权威，宣告它是上帝眼中可憎之物。用《以赛亚书》的话来说，对美国教会正可以这样说：「你们不要再献虚浮的供物；香品是我所憎恶的；月朔和安息日，并宣召的大会，也是我所憎恶的；作罪孽，又守严肃会，我也不能容忍。你们的月朔和节期，我心里恨恶；我都以为麻烦；我担当便不耐烦。你们举手祷告，我必遮眼不看。就是你们多多地祈祷，我也不听。你们的手都满了杀人的血。你们要洗濯、自洁，从我眼前除掉你们的恶行；要止住作恶，学习行善，寻求公平，解救受欺压的，给孤儿伸冤，为寡妇辨屈。」
+
+### 62
+
+The American church is guilty, when viewed in connection with what it is doing to uphold slavery; but it is [[superlatively|adv.|/suːˈpɜːrlətɪvli/|无以复加地，最高程度地]] guilty when viewed in connection with its ability to abolish slavery.
+
+> 就美国教会为维系奴隶制所做的一切来看，它是有罪的；但若就它本有能力废除奴隶制这一点来看，它的罪就无以复加了。
+
+### 63
+
+The sin of which it is guilty is one of [[omission|n.|/əˈmɪʃn/|不作为，疏漏]] as well as of [[commission|n.|/kəˈmɪʃn/|作为，实行（犯罪）]]. Albert Barnes but uttered what the common sense of every man at all [[observant|adj.|/əbˈzɜːrvənt/|留意的，善于观察的]] of the actual state of the case will receive as truth, when he declared that "There is no power out of the church that could sustain slavery an hour, if it were not sustained in it."
+
+> 它所犯的罪，既是作为之罪，也是不作为之罪。阿尔伯特·巴恩斯不过是说出了每个稍加留意实际情况的人凭常识都会当作真理接受的话：「若奴隶制不是靠教会支撑，教会之外的任何力量都撑不了它一个小时。」
+
+### 64
+
+Let the religious press, the pulpit, the Sunday school, the conference meeting, the great ecclesiastical, missionary, Bible and [[tract|n.|/trækt/|传单，小册子]] associations of the land [[array|v.|/əˈreɪ/|列阵，部署]] their immense powers against slavery and slave-holding; and the whole system of crime and blood would be scattered to the winds; and that they do not do this involves them in the most awful responsibility of which the mind can [[conceive|v.|/kənˈsiːv/|设想，构想]].
+
+> 倘若宗教报刊、讲道坛、主日学、聚会，以及全国那些庞大的教会、差传、《圣经》与传单协会，把它们的巨大力量列阵对抗奴隶制与蓄奴；那么整个由罪与血构成的制度就会被驱散得无影无踪；而他们不这样做，就使他们陷于人心所能设想的最可怕的责任之中。
+
+### 65
+
+In [[prosecuting|v.|/ˈprɑːsɪkjuːtɪŋ/|推进，从事]] the anti-slavery enterprise, we have been asked to spare the church, to spare the ministry; but how, we ask, could such a thing be done? We are met on the [[threshold|n.|/ˈθreʃhoʊld/|门槛，入口]] of our efforts for the [[redemption|n.|/rɪˈdempʃn/|赎回，解救]] of the slave, by the church and ministry of the country, in battle arrayed against us; and we are compelled to fight or flee. From what quarter, I beg to know, has proceeded a fire so deadly upon our ranks, during the last two years, as from the Northern pulpit? As the [[champions|n.|/ˈtʃæmpiənz/|拥护者，卫道士]] of oppressors, the chosen men of American theology have appeared—men, honored for their so-called [[piety|n.|/ˈpaɪəti/|虔诚]], and their real learning. The Lords of Buffalo, the Springs of New York, the Lathorps of Auburn, the Coxes and Spencers of Brooklyn, the Gannetts and Sharps of Boston, the Deweys of Washington, and other great religious lights of the land, have, in utter denial of the authority of Him, by whom they professed to be called to the ministry, deliberately taught us, against the example of the Hebrews and against the [[remonstrance|n.|/rɪˈmɑːnstrəns/|劝诫，抗议]] of the Apostles, they teach "that we ought to obey man's law before the law of God."
+
+> 在推进反奴隶制事业时，有人要求我们放过教会、放过教士；可是我们问，这种事怎么办得到？我们在为赎回奴隶而努力的门口，就遇上这个国家的教会与教士列阵与我们为敌；我们被迫要么战斗，要么逃走。请问，在过去两年里，向我们队伍射来的致命火力，有哪一处比北方讲道坛更猛？美国神学界的精选之士，是以压迫者的卫道士面目出现的——那些人因其所谓的虔诚与真实的学问而受人尊敬。布法罗的洛兹们、纽约的斯普林斯们、奥本的莱索普们、布鲁克林的考克斯们与斯宾塞们、波士顿的甘尼特们与夏普们、华盛顿的杜威们，以及这片土地上其他宗教明灯，全然否认那位他们自称受召为其执事的上帝的权威，刻意教导我们——违背希伯来人的榜样、违背使徒们的劝诫——他们教导「我们应当遵守人的律法先于上帝的律法」。
+
+### 66
+
+My spirit [[wearies|v.|/ˈwɪriz/|使厌倦，使疲乏]] of such blasphemy; and how such men can be supported, as the "standing types and representatives of Jesus Christ," is a mystery which I leave others to [[penetrate|v.|/ˈpenətreɪt/|参透，看穿]]. In speaking of the American church, however, let it be distinctly understood that I mean the great mass of the religious organizations of our land. There are exceptions, and I thank God that there are. Noble men may be found, scattered all over these Northern States, of whom Henry Ward Beecher of Brooklyn, Samuel J. May of Syracuse, and my esteemed friend on the platform, are shining examples; and let me say further, that upon these men lies the duty to inspire our ranks with high religious faith and [[zeal|n.|/ziːl/|热忱，热心]], and to cheer us on in the great mission of the slave's redemption from his chains.
+
+> 我的心灵厌倦了这样的亵渎；这样的人竟能作为「耶稣基督的常设典范与代表」而得到供养，这其中的奥秘我留待别人去参透。不过，在谈到美国教会时，必须明确：我指的是我们这片土地上宗教组织中的绝大多数。例外是有的，我感谢上帝，例外确实存在。在这些北方各州，散落着一些高尚的人，布鲁克林的亨利·沃德·比彻、锡拉丘兹的塞缪尔·J. 梅，以及讲台上我敬重的朋友，都是光辉的例子；我还要说，让我们的队伍充满崇高的宗教信仰与热忱、在把奴隶从锁链中赎回这一伟大使命中为我们鼓劲，正是这些人所肩负的责任。
+
+### 67
+
+One is struck with the difference between the attitude of the American church towards the anti-slavery movement, and that occupied by the churches in England towards a similar movement in that country. There, the church, true to its mission of [[ameliorating|v.|/əˈmiːliəreɪtɪŋ/|改善，改良]], [[elevating|v.|/ˈelɪveɪtɪŋ/|提升，提高]], and improving the condition of mankind, came forward promptly, bound up the wounds of the West Indian slave, and restored him to his liberty. There, the question of [[emancipation|n.|/ɪˌmænsɪˈpeɪʃn/|解放，释放]] was a high religious question. It was demanded, in the name of humanity, and according to the law of the living God. The Sharps, the Clarksons, the Wilberforces, the Buxtons, the Burchells and the Knibbs, were alike famous for their piety, and for their [[philanthropy|n.|/fɪˈlænθrəpi/|博爱，慈善]]. The anti-slavery movement there was not an anti-church movement, for the reason that the church took its full share in prosecuting that movement: and the anti-slavery movement in this country will cease to be an anti-church movement, when the church of this country shall assume a favorable, instead of a [[hostile|adj.|/ˈhɑːstl/|敌对的，敌意的]] position towards that movement.
+
+> 人们会注意到，美国教会对反奴隶制运动的态度，与英格兰各教会对该国同类运动的态度，形成了鲜明对照。在那里，教会忠于其改善、提升、改良人类处境的使命，迅速站了出来，为西印度奴隶包扎伤口，还他自由。在那里，解放是一个崇高的宗教问题。它是凭人道的名义、依照永生上帝的律法被要求的。夏普们、克拉克森们、威尔伯福斯们、巴克斯顿们、伯切尔们与尼布们，都同样以虔诚与博爱闻名。那里的反奴隶制运动不是一场反教会的运动，因为教会充分分担了推进那场运动的责任；而在这个国家，当这里的教会对这一运动采取支持而非敌对的立场时，反奴隶制运动也将不再是一场反教会的运动。
+
+### 68
+
+Americans! your republican politics, not less than your republican religion, are [[flagrantly|adv.|/ˈfleɪɡrəntli/|公然地，明目张胆地]] inconsistent. You boast of your love of liberty, your superior civilization, and your pure Christianity, while the whole political power of the nation (as embodied in the two great political parties), is solemnly pledged to support and perpetuate the enslavement of three millions of your countrymen. You hurl your [[anathemas|n.|/əˈnæθəməz/|诅咒，革出教门之罚]] at the crowned headed tyrants of Russia and Austria, and pride yourselves on your Democratic institutions, while you yourselves consent to be the mere tools and body-guards of the tyrants of Virginia and Carolina. You invite to your shores fugitives of oppression from abroad, honor them with banquets, greet them with [[ovations|n.|/oʊˈveɪʃnz/|热烈欢迎，欢呼]], cheer them, toast them, salute them, protect them, and pour out your money to them like water; but the fugitives from your own land you advertise, hunt, arrest, shoot and kill. You glory in your [[refinement|n.|/rɪˈfaɪnmənt/|文雅，教养]] and your universal education; yet you maintain a system as barbarous and dreadful as ever stained the character of a nation—a system begun in [[avarice|n.|/ˈævərɪs/|贪婪，贪财]], supported in pride, and perpetuated in cruelty. You shed tears over fallen Hungary, and make the sad story of her wrongs the theme of your poets, statesmen and orators, till your gallant sons are ready to fly to arms to [[vindicate|v.|/ˈvɪndɪkeɪt/|为……辩护，讨回公道]] her cause against her oppressors; but, in regard to the ten thousand wrongs of the American slave, you would enforce the strictest silence, and would hail him as an enemy of the nation who dares to make those wrongs the subject of public discourse! You are all on fire at the mention of liberty for France or for Ireland; but are as cold as an iceberg at the thought of liberty for the enslaved of America.—You discourse eloquently on the dignity of labor; yet, you sustain a system which, in its very essence, casts a stigma upon labor. You can bare your bosom to the storm of British artillery to throw off a threepenny tax on tea; and yet wring the last hard-earned [[farthing|n.|/ˈfɑːrðɪŋ/|法新（英国旧时最小铜币）]] from the grasp of the black laborers of your country. You profess to believe "that, of one blood, God made all nations of men to dwell on the face of all the earth," and hath commanded all men, everywhere to love one another; yet you [[notoriously|adv.|/noʊˈtɔːriəsli/|众所周知地，臭名昭著地]] hate, (and glory in your hatred,) all men whose skins are not colored like your own. You declare, before the world, and are understood by the world to declare, that you "hold these truths to be self evident, that all men are created equal; and are endowed by their Creator with certain [[inalienable|adj.|/ɪnˈeɪliənəbl/|不可让与的]] rights; and that, among these are, life, liberty, and the pursuit of happiness;" and yet, you hold securely, in a bondage which, according to your own Thomas Jefferson, "is worse than ages of that which your fathers rose in rebellion to oppose," a seventh part of the inhabitants of your country.
+
+> 美国人！你们共和派的政治，不亚于你们共和派的宗教，都是公然自相矛盾的。你们夸耀自己爱自由、夸耀自己优越的文明与纯正的基督教，而全国的政治力量（体现于两大政党之中）却郑重承诺支持并延续对你们三百万同胞的奴役。你们对俄国和奥地利那些头戴王冠的暴君抛出诅咒，为你们的民主制度自豪，而你们自己却甘心充当弗吉尼亚与卡罗来纳暴君的工具与保镖。你们把国外受压迫的逃亡者请到自己的海岸，用宴席款待他们，用欢呼迎接他们，为他们喝彩、祝酒、致敬、保护他们，把钱像水一样倒给他们；可是从你们自己国土上逃出的人，你们却张贴告示、追捕、逮捕、枪击、杀害。你们为自己的文雅与普及教育而得意；却维持着一套野蛮可怕的制度，其恶劣程度前所未有地玷污过一个国家的品格——这制度起于贪婪，靠骄傲支撑，以残酷延续。你们为陷落的匈牙利洒泪，把她冤屈的悲惨故事变成你们诗人、政治家与演说家的题目，直到你们英勇的子弟准备拿起武器，为她的事业向压迫者讨回公道；可是对于美国奴隶的万千冤屈，你们却要施行最严格的沉默，谁敢把这些冤屈作为公开议论的题目，你们就要把他当作国家的敌人。一提到法国或爱尔兰的自由，你们就热血沸腾；一想到美国被奴役者的自由，你们却冷得像冰山。——你们雄辩地谈论劳动的尊严；却维持着一套本质上给劳动打上耻辱烙印的制度。为了摆脱三便士的茶税，你们能袒胸迎向英国炮火的暴风；却要从你们国家黑人劳动者的手里，榨出最后一枚辛苦挣来的法新。你们自称相信「上帝从一本造出万族的人，住在全地上」，并吩咐各处的人彼此相爱；可是对于那些肤色与你们不同的人，你们却众所周知地恨他们（还以自己的恨为荣）。你们在全世界面前宣告，而且全世界也明白你们是在宣告：「我们认为下列真理是不言而喻的：人人生而平等；造物主赋予他们若干不可让与的权利；其中包括生命、自由和追求幸福」；然而，你们却用一道枷锁——按你们自己的托马斯·杰斐逊的说法，它「比你们父辈起而反抗的那种奴役还要坏上许多世代」——牢牢地拘禁着你们国家七分之一的人口。
+
+### 69
+
+Fellow-citizens! I will not enlarge further on your national inconsistencies. The existence of slavery in this country [[brands|v.|/brændz/|打上烙印，标明为]] your republicanism as a sham, your humanity as a base pretence, and your Christianity as a lie. It destroys your moral power abroad; it corrupts your politicians at home. It [[saps|v.|/sæps/|蛀空，逐渐削弱]] the foundation of religion; it makes your name a hissing, and a by word to a mocking earth. It is the [[antagonistic|adj.|/ænˌtæɡəˈnɪstɪk/|对抗的，敌对的]] force in your government, the only thing that seriously disturbs and endangers your Union. It fetters your progress; it is the enemy of improvement, the deadly foe of education; it [[fosters|v.|/ˈfɔːstərz/|助长，培养]] pride; it breeds [[insolence|n.|/ˈɪnsələns/|蛮横，傲慢无礼]]; it promotes vice; it shelters crime; it is a curse to the earth that supports it; and yet, you cling to it, as if it were the sheet anchor of all your hopes. Oh! be warned! be warned! a horrible [[reptile|n.|/ˈreptaɪl/|爬虫，爬行动物]] is coiled up in your nation's bosom; the [[venomous|adj.|/ˈvenəməs/|有毒的]] creature is nursing at the tender breast of your youthful republic; for the love of God, tear away, and fling from you the hideous monster, and let the weight of twenty millions crush and destroy it forever!
+
+> 同胞们！我不再就你们国家的种种自相矛盾多作铺陈了。这个国家存在奴隶制，就把你们的共和主义烙成一场骗局，把你们的人道烙成卑劣的伪装，把你们的基督教烙成一个谎言。它毁掉你们在国外的道德力量；它腐蚀你们国内的政客。它蛀空宗教的根基；它使你们的名字在讥笑你们的世上成为嗤笑与话柄。它是你们政府中的对抗力量，是唯一严重搅扰并危及你们联邦的东西。它束缚你们的进步；它是改良的敌人，是教育的死敌；它助长骄傲；它滋生蛮横；它鼓励恶行；它庇护犯罪；它是对承载它的那片土地的咒诅；然而你们却紧抱不放，仿佛它是你们全部希望的船首大锚。啊！要警惕！要警惕！一条可怕的爬虫正蜷伏在你们国家的怀抱里；那有毒的东西正吮吸着你们年轻共和国柔嫩的胸膛；看在上帝之爱的份上，把它扯开，把这可憎的怪物从你们身上扔掉，让两千万人的重量把它永远碾碎、消灭！
+
+### 70
+
+But it is answered in reply to all this, that precisely what I have now denounced is, in fact, guaranteed and sanctioned by the Constitution of the United States; that the right to hold and to hunt slaves is a part of that Constitution framed by the [[illustrious|adj.|/ɪˈlʌstriəs/|杰出的，显赫的]] Fathers of this Republic.
+
+> 但对这一切，有人会回答说：我刚才所谴责的东西，实际上正是由《美国宪法》所保障与认可的；持有并追猎奴隶的权利，正是这个共和国那些杰出国父们所制定的宪法的一部分。
+
+### 71
+
+Then, I dare to affirm notwithstanding all I have said before, your fathers [[stooped|v.|/stuːpt/|屈身，降格]], [[basely|adv.|/ˈbeɪsli/|卑劣地，下贱地]] stooped.
+
+> 那么，尽管我先前说了那一切，我仍要斗胆断言：你们的父辈弯下了腰，卑劣地弯下了腰。
+
+### 72
+
+:::quote
+
+"To [[palter|v.|/ˈpɔːltər/|闪烁其词，玩弄文字]] with us in a double sense:\
+And keep the word of the promise to the ear\
+But break it to the heart."
+
+> 「用双重的含义同我们玩弄文字：\
+> 把诺言留在我们耳边，\
+> 却让它在心里破碎。」
+
+:::
+
+### 73
+
+And instead of being the honest men I have before declared them to be, they were the [[veriest|adj.|/ˈveriɪst/|最十足的，地道的]] [[imposters|n.|/ɪmˈpɑːstərz/|骗子，冒名者]] that ever practised on mankind. This is the inevitable conclusion, and from it there is no escape. But I differ from those who charge this baseness on the [[framers|n.|/ˈfreɪmərz/|制定者，起草人]] of the Constitution of the United States. It is a [[slander|n.|/ˈslændər/|诽谤，中伤]] upon their memory, at least, so I believe. There is not time now to argue the constitutional question at length; nor have I the ability to discuss it as it ought to be discussed. The subject has been handled with masterly power by Lysander Spooner, Esq., by William Goodell, by Samuel E. Sewall, Esq., and last, though not least, by Gerritt Smith, Esq. These gentlemen have, as I think, fully and clearly vindicated the Constitution from any design to support slavery for an hour.
+
+> 那么，他们就不是我先前所宣称的那种诚实之人，而是世上最地道的骗子。这是不可避免的结论，无从逃避。可是，我与那些把这种卑劣归咎于《美国宪法》制定者的人不同。那是对他们名声的诽谤——至少我相信如此。现在没有时间详细论证这个宪法问题；我也没有能力按应有的方式来讨论它。这个问题已由莱桑德·斯普纳先生、威廉·古德尔、塞缪尔·E. 休厄尔先生，以及最后一位但同样重要的格里特·史密斯先生，以精湛的功力处理过了。在我看来，这些先生已经充分而清楚地证明：《宪法》绝无支持奴隶制哪怕一个小时的意图。
+
+### 74
+
+Fellow-citizens! there is no matter in respect to which, the people of the North have allowed themselves to be so ruinously imposed upon, as that of the pro-slavery character of the Constitution. In that instrument I hold there is neither warrant, license, nor sanction of the hateful thing; but, interpreted as it ought to be interpreted, the Constitution is a Glorious Liberty Document. Read its [[preamble|n.|/ˈpriːæmbl/|序言，前言]], consider its purposes. Is slavery among them? Is it at the gateway? or is it in the temple? it is neither. While I do not intend to argue this question on the present occasion, let me ask, if it be not somewhat [[singular|adj.|/ˈsɪŋɡjələr/|奇特的，不寻常的]] that, if the Constitution were intended to be, by its framers and adopters, a slave-holding instrument, why neither slavery, slaveholding, nor slave can anywhere be found in it. What would be thought of an instrument, drawn up, legally drawn up, for the purpose of entitling the city of Rochester to a [[tract|n.|/trækt/|地块，一片土地]] of land, in which no mention of land was made? Now, there are certain rules of interpretation, for the proper understanding of all legal instruments. These rules are well established. They are plain, common-sense rules, such as you and I, and all of us, can understand and apply, without having passed years in the study of law. I [[scout|v.|/skaʊt/|鄙视，嗤为无稽]] the idea that the question of the constitutionality or unconstitutionality of slavery is not a question for the people. I hold that every American citizen has a right to form an opinion of the constitution, and to [[propagate|v.|/ˈprɑːpəɡeɪt/|传播，宣扬]] that opinion, and to use all honorable means to make his opinion the prevailing one. Without this right, the liberty of an American citizen would be as insecure as that of a Frenchman. Ex-Vice-President Dallas tells us that the constitution is an object to which no American mind can be too attentive, and no American heart too [[devoted|adj.|/dɪˈvoʊtɪd/|忠诚的，专注的]]. He further says, the constitution, in its words, is plain and intelligible, and is meant for the home-bred, [[unsophisticated|adj.|/ˌʌnsəˈfɪstɪkeɪtɪd/|质朴的，不矫饰的]] understandings of our fellow-citizens. Senator Berrien tell us that the Constitution is the fundamental law, that which controls all others. The [[charter|n.|/ˈtʃɑːrtər/|宪章，特许状]] of our liberties, which every citizen has a personal interest in understanding thoroughly. The [[testimony|n.|/ˈtestɪmoʊni/|证言，陈述]] of Senator Breese, Lewis Cass, and many others that might be named, who are everywhere esteemed as sound lawyers, so regard the constitution. I take it, therefore, that it is not [[presumption|n.|/prɪˈzʌmpʃn/|僭妄，放肆]] in a private citizen to form an opinion of that instrument.
+
+> 同胞们！北方人民在没有任何一件事上像在「宪法支持奴隶制」这一点上那样，让自己被如此毁灭性地欺骗。我认为，在那份文献里，既没有对这可恨之物的授权、许可，也没有它的认可；而按它应当被解释的方式去解释，《宪法》是一份光荣的自由文献。读读它的序言，想想它的宗旨。奴隶制在其中吗？是在门口，还是在殿内？两者都不是。虽然我不打算在此时论证这个问题，但请允许我问一句：倘若《宪法》的制定者与采纳者有意把它制成一份蓄奴的文书，那么为什么在它里面哪儿也找不到「奴隶制」「蓄奴」或「奴隶」这些词？倘若有一份文书，为把罗切斯特市对某片土地的权利依法订立而成，通篇却一次也没提到土地，人们会怎么想？如今，为了正确理解一切法律文书，存在某些解释规则。这些规则早已确立。它们是些明白的常识规则，你、我，我们所有人，无须研习法律多年，都能理解并运用。我鄙视那种认为奴隶制合宪或违宪不是人民的问题的说法。我认为，每一个美国公民都有权对宪法形成自己的看法、传播这一看法，并用一切正当手段使自己的看法成为主流。没有这项权利，一个美国公民的自由就会同一个法国人一样没有保障。前副总统达拉斯告诉我们：宪法是这样一件东西，美国人的心智对它怎样专注都不为过，美国人的心对它怎样忠诚都不为过。他还说，宪法在文字上明白易懂，是为我们同胞中那些土生土长、未受矫饰的理解力而设的。参议员贝里恩告诉我们，《宪法》是根本法，是支配其他一切法律的法律；是我们各项自由的宪章，每个公民都切身关心要彻底理解它。参议员布里斯、刘易斯·卡斯，以及其他许多可以举出的、到处被尊为严谨法学家的人，也都这样看待宪法。因此我认为，一个普通公民对那份文献形成看法，并不是僭妄。
+
+### 75
+
+Now, take the constitution according to its plain reading, and I [[defy|v.|/dɪˈfaɪ/|公然挑战，不服]] the presentation of a single pro-slavery [[clause|n.|/klɔːz/|条款]] in it. On the other hand it will be found to contain principles and purposes, entirely hostile to the existence of slavery.
+
+> 现在，请按字面平实地读宪法，我敢说，你找不出其中哪怕一条支持奴隶制的条款。反过来说，你会发现它所包含的原则与宗旨，与奴隶制的存在完全敌对。
+
+### 76
+
+I have [[detained|v.|/dɪˈteɪnd/|使滞留，耽搁]] my audience entirely too long already. At some future period I will gladly [[avail|v.|/əˈveɪl/|利用（avail oneself of 抓住机会）]] myself of an opportunity to give this subject a full and fair discussion.
+
+> 我已经让听众留得太久了。将来某个时候，我会乐于抓住机会，对这个题目作一次充分而公正的讨论。
+
+### 77
+
+Allow me to say, in conclusion, notwithstanding the dark picture I have this day presented of the state of the nation, I do not [[despair|v.|/dɪˈsper/|绝望，失去希望]] of this country. There are forces in operation, which must [[inevitably|adv.|/ɪnˈevɪtəbli/|不可避免地，必然]] work The downfall of slavery. "The arm of the Lord is not shortened," and the [[doom|n.|/duːm/|厄运，终局]] of slavery is certain. I, therefore, leave off where I began, with hope. While drawing encouragement from "the Declaration of Independence," the great principles it contains, and the genius of American Institutions, my spirit is also cheered by the obvious tendencies of the age. Nations do not now stand in the same relation to each other that they did ages ago. No nation can now shut itself up from the surrounding world, and trot round in the same old path of its fathers without interference. The time was when such could be done. Long established customs of hurtful character could formerly fence themselves in, and do their evil work with social [[impunity|n.|/ɪmˈpjuːnəti/|不受惩罚，免于追究]]. Knowledge was then confined and enjoyed by the privileged few, and the [[multitude|n.|/ˈmʌltɪtuːd/|大众，民众]] walked on in mental darkness. But a change has now come over the affairs of mankind. Walled cities and empires have become unfashionable. The arm of [[commerce|n.|/ˈkɑːmɜːrs/|商业，贸易]] has borne away the gates of the strong city. Intelligence is penetrating the darkest corners of the globe. It makes its pathway over and under the sea, as well as on the earth. Wind, steam, and lightning are its chartered agents. Oceans no longer divide, but link nations together. From Boston to London is now a holiday excursion. Space is comparatively [[annihilated|v.|/əˈnaɪəleɪtɪd/|消灭，化为乌有]].—Thoughts expressed on one side of the Atlantic are, distinctly heard on the other.
+
+> 请允许我在结尾时说一句：尽管我今天描绘了国家现状这样一幅黑暗的图景，我并未对这个国家绝望。有种种力量正在运作，它们必将促成奴隶制的倾覆。「耶和华的膀臂并非缩短」，奴隶制的末日是确定的。因此，我在开始的地方收尾——怀着希望。当我从《独立宣言》、它所包含的伟大原则以及美国制度的精髓中汲取鼓舞时，我的心灵也为这个时代显而易见的趋向而振奋。如今各国之间的关系，已不同于往昔。没有任何国家还能把自己同周围世界封闭起来，沿着父辈那条旧路打转而不受干扰。曾经有过可以那样做的时代。有害性质的古老习俗从前能把自己围起来，在社会不受追究的情况下行其恶事。那时知识被少数特权者所独占、所享用，大众则在精神的黑暗中行走。但人类事务如今已发生了一场变化。有墙的城市与帝国已经不合时宜。商业的手臂已经搬走了坚固城池的门闩。智识正渗入地球最黑暗的角落。它的通路既在陆上，也在海面与海下。风、蒸汽与闪电都是它领有执照的代理人。海洋不再分隔各国，而是把各国联结起来。从波士顿到伦敦如今不过是一次假日远游。空间在相当程度上已被消灭。——大西洋一岸表达的思想，在另一岸能清晰地听见。
+
+### 78
+
+The far off and almost [[fabulous|adj.|/ˈfæbjələs/|传说般的，难以置信的]] Pacific rolls in grandeur at our feet. The [[Celestial|adj.|/səˈlestʃəl/|天朝的，天上的（Celestial Empire 指中国）]] Empire, the mystery of ages, is being solved. The [[fiat|n.|/ˈfiːæt/|谕令，命令]] of the Almighty, "Let there be Light," has not yet spent its force. No abuse, no outrage whether in taste, sport or avarice, can now hide itself from the [[all-pervading|adj.|/ˌɔːl pərˈveɪdɪŋ/|无孔不入的，遍及一切的]] light. The iron shoe, and crippled foot of China must be seen, in contrast with nature. Africa must rise and put on her yet unwoven garment. "Ethiopia shall stretch out her hand unto God." In the fervent aspirations of William Lloyd Garrison, I say, and let every heart join in saying it:
+
+> 遥远而几乎只存在于传说中的太平洋，在我们脚边浩浩荡荡地翻滚。天朝帝国——千古之谜——正在被解开。全能者那句「要有光」的谕令，尚未用尽它的力量。如今，任何弊端、任何暴行，无论在趣味、娱乐还是贪欲方面，都再也无法躲开那无所不在的光。中国那只铁铸的鞋与被摧折的脚，必须在与自然的对照中被看见。非洲必须站起来，穿上她那件尚未织成的衣裳。「古实人必向神举手。」我以威廉·劳埃德·加里森的炽热祈愿说出下面的话，愿每一颗心都一同说出：
+
+### 79
+
+:::quote
+
+God speed the year of jubilee\
+The wide world o'er!\
+When from their [[galling|adj.|/ˈɡɔːlɪŋ/|磨人的，令人恼恨的]] chains set free,\
+Th' oppress'd shall vilely bend the knee,\
+And wear the [[yoke|n.|/joʊk/|轭，枷锁]] of tyranny\
+Like brutes no more.\
+That year will come, and freedom's reign,\
+To man his plundered rights again\
+Restore.\
+\
+God speed the day when human blood\
+Shall cease to flow!\
+In every [[clime|n.|/klaɪm/|地域，风土]] be understood,\
+The claims of human brotherhood,\
+And each return for evil, good,\
+Not blow for blow;\
+That day will come all [[feuds|n.|/fjuːdz/|世仇，宿怨]] to end\
+And change into a faithful friend\
+Each foe.\
+\
+God speed the hour, the glorious hour,\
+When none on earth\
+Shall exercise a lordly power,\
+Nor in a tyrant's presence [[cower|v.|/ˈkaʊər/|畏缩，蜷伏]];\
+But all to manhood's stature tower,\
+By equal birth!\
+That hour will come, to each, to all,\
+And from his prison-house, the [[thrall|n.|/θrɔːl/|奴隶，受奴役者]]\
+Go forth.\
+\
+Until that year, day, hour, arrive,\
+With head, and heart, and hand I'll strive,\
+To break the rod, and rend the [[gyve|n.|/dʒaɪv/|镣铐，脚镣]],\
+The spoiler of his prey deprive—\
+So witness Heaven!\
+And never from my chosen post,\
+Whate'er the [[peril|n.|/ˈperəl/|危险，危难]] or the cost,\
+Be driven.
+
+> 愿禧年早日来临，\
+> 遍及广袤世界！\
+> 当被压迫者从磨人的锁链中获释，\
+> 他们将不再卑贱地屈膝，\
+> 不再像畜生一样\
+> 承受暴政的轭。\
+> 那一年必来，自由的统治\
+> 将把被掠夺的权利\
+> 重还于人。\
+> \
+> 愿那一天早日来临，人的血\
+> 不再流淌！\
+> 愿各地都明白\
+> 人类皆兄弟的诉求，\
+> 以善报恶，\
+> 而不以拳还拳；\
+> 那一天必来，终结一切仇怨，\
+> 把每一个仇敌\
+> 变成忠实的朋友。\
+> \
+> 愿那一刻、那光荣的一刻早日来临，\
+> 那时世上再无人\
+> 施行霸道的权力，\
+> 也无人再在暴君面前畏缩；\
+> 而众人都因生而平等，\
+> 挺立到人的身量！\
+> 那一刻必来，对每个人，对所有人，\
+> 那被奴役者将走出\
+> 他的牢房。\
+> \
+> 在那一年、那一天、那一刻到来之前，\
+> 我要以头脑、心灵与双手努力，\
+> 折断那刑杖，扯碎那镣铐，\
+> 夺去掠夺者的猎物——\
+> 愿上天为我作证！\
+> 无论有何危险、付出何代价，\
+> 我绝不从选定的岗位上\
+> 被赶走。
+
+:::

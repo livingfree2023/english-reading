@@ -21,4 +21,26 @@ video: {"url": "https://www.youtube-nocookie.com/embed/_fMNIofUw2I?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">There is not a liberal America and a conservative America; there is the United States of America. There is not a black America and white America and Latino America and Asian America; there's the United States of America.</div><div class="zh">不存在一个自由派美国和一个保守派美国；存在的是美利坚合众国。不存在一个黑人美国、白人美国、拉丁裔美国和亚裔美国；存在的是美利坚合众国。</div></section><section class="para"><span class="no">02</span><div class="en">The pundits like to slice-and-dice our country into Red States and Blue States. But I've got news for them, too. We worship an awesome God in the Blue States, and we don't like federal agents poking around in our libraries in the Red States.</div><div class="zh">评论家喜欢把我们的国家切分成红州和蓝州。但我也有消息要告诉他们：蓝州的人敬拜伟大的上帝，红州的人也不喜欢联邦探员在自己的图书馆里窥探。</div></section><section class="para"><span class="no">03</span><div class="en">We are one people, all of us pledging allegiance to the stars and stripes, all of us defending the United States of America.</div><div class="zh">我们是一个民族；我们都向星条旗宣誓效忠，我们都在捍卫美利坚合众国。</div></section><section class="para"><span class="no">04</span><div class="en">Hope in the face of difficulty. Hope in the face of uncertainty. The audacity of hope! In the end, that's God's greatest gift to us, the bedrock of this nation.</div><div class="zh">在困难面前仍然怀抱希望，在不确定面前仍然怀抱希望——这就是无畏的希望！归根结底，希望是上帝赐给我们最伟大的礼物，是这个国家的基石。</div></section>
+### 01
+
+There is not a liberal America and a conservative America; there is the United States of America. There is not a black America and white America and Latino America and Asian America; there's the United States of America.
+
+> 不存在一个自由派美国和一个保守派美国；存在的是美利坚合众国。不存在一个黑人美国、白人美国、拉丁裔美国和亚裔美国；存在的是美利坚合众国。
+
+### 02
+
+The pundits like to slice-and-dice our country into Red States and Blue States. But I've got news for them, too. We worship an awesome God in the Blue States, and we don't like federal agents poking around in our libraries in the Red States.
+
+> 评论家喜欢把我们的国家切分成红州和蓝州。但我也有消息要告诉他们：蓝州的人敬拜伟大的上帝，红州的人也不喜欢联邦探员在自己的图书馆里窥探。
+
+### 03
+
+We are one people, all of us pledging allegiance to the stars and stripes, all of us defending the United States of America.
+
+> 我们是一个民族；我们都向星条旗宣誓效忠，我们都在捍卫美利坚合众国。
+
+### 04
+
+Hope in the face of difficulty. Hope in the face of uncertainty. The audacity of hope! In the end, that's God's greatest gift to us, the bedrock of this nation.
+
+> 在困难面前仍然怀抱希望，在不确定面前仍然怀抱希望——这就是无畏的希望！归根结底，希望是上帝赐给我们最伟大的礼物，是这个国家的基石。

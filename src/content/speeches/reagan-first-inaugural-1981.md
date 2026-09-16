@@ -21,40 +21,224 @@ video: {"url": "https://www.youtube-nocookie.com/embed/zEqVnU-m9dE?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens:</div><div class="zh">哈特菲尔德参议员、首席大法官先生、总统先生、副总统布什、副总统蒙代尔、贝克参议员、奥尼尔议长、穆莫牧师，以及我的同胞们：</div></section>
-<section class="para"><span class="no">02</span><div class="en">To a few of us here today this is a solemn and most <span class="voc"><span class="w">momentous</span><span class="g"><i>adj.</i> /moʊˈmentəs/ 极其重要的</span></span> occasion, and yet in the history of our nation it is a commonplace occurrence. The orderly transfer of authority as called for in the Constitution routinely takes place, as it has for almost two centuries, and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.</div><div class="zh">对今天在场的少数人来说，这是庄严而极其重大的时刻；然而在我国历史上，它又是一次寻常的事件。宪法所要求的权力有序交接，近两个世纪以来一直例行发生，我们很少停下来想想，这种制度实际上多么独特。在世界许多人眼中，我们视为正常的四年一次的仪式，简直就是奇迹。</div></section>
-<section class="para"><span class="no">03</span><div class="en">Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other, and I thank you and your people for all your help in maintaining the <span class="voc"><span class="w">continuity</span><span class="g"><i>n.</i> /ˌkɑːntəˈnuːəti/ 连续性；延续</span></span> which is the <span class="voc"><span class="w">bulwark</span><span class="g"><i>n.</i> /ˈbʊlwərk/ 堡垒；防护</span></span> of our Republic.</div><div class="zh">总统先生，我希望我们的同胞知道，您为延续这一传统做了多少工作。您在交接过程中的慷慨合作向全世界表明：我们是一个团结的民族，致力于维护一个比其他任何制度都更能保障个人自由的政治体系。我要感谢您和您的同僚为维护这种连续性所提供的一切帮助，而连续性正是我们共和国的堡垒。</div></section>
-<section class="para"><span class="no">04</span><div class="en">The business of our nation goes forward. These United States are confronted with an <span class="voc"><span class="w">economic affliction</span><span class="g"><i>n.</i> /ˌiːkəˈnɑːmɪk əˈflɪkʃn/ 经济困境</span></span> of great proportions. We suffer from the longest and one of the worst sustained inflations in our national history. It distorts our economic decisions, penalizes thrift, and crushes the struggling young and the fixed-income elderly alike. It threatens to shatter the lives of millions of our people.</div><div class="zh">我们国家的事业仍在向前推进。美利坚合众国正面临规模巨大的经济困境。我们正承受国家历史上持续时间最长、也是最严重的通货膨胀之一。它扭曲我们的经济决策，惩罚节俭，也同样压垮正在挣扎的年轻人和靠固定收入生活的老年人。它威胁着要击碎数百万同胞的生活。</div></section>
-<section class="para"><span class="no">05</span><div class="en">Idle industries have cast workers into unemployment, human misery, and personal <span class="voc"><span class="w">indignity</span><span class="g"><i>n.</i> /ɪnˈdɪɡnəti/ 尊严受损；屈辱</span></span>. Those who do work are denied a fair return for their labor by a tax system which penalizes successful achievement and keeps us from maintaining full productivity.</div><div class="zh">停摆的产业把工人推入失业、人的苦难和个人尊严受损的境地。那些仍在工作的人，也被一种惩罚成功、使我们无法保持充分生产力的税收制度剥夺了劳动应得的公平回报。</div></section>
-<section class="para"><span class="no">06</span><div class="en">But great as our tax burden is, it has not kept pace with public spending. For decades we have piled deficit upon deficit, <span class="voc"><span class="w">mortgaging</span><span class="g"><i>v.</i> /ˈmɔːrɡɪdʒɪŋ/ 抵押；以未来作代价</span></span> our future and our children's future for the temporary convenience of the present. To continue this long trend is to guarantee tremendous social, cultural, political, and economic <span class="voc"><span class="w">upheavals</span><span class="g"><i>n.</i> /ʌpˈhiːvəlz/ 剧变；动荡</span></span>.</div><div class="zh">然而，尽管我们的税负沉重，它仍未赶上公共支出的增长。几十年来，我们一个接一个地累积赤字，为眼前暂时的便利抵押自己和子孙的未来。继续这种长期趋势，必将带来巨大的社会、文化、政治和经济动荡。</div></section>
-<section class="para"><span class="no">07</span><div class="en">You and I, as individuals, can, by borrowing, live beyond our means, but for only a limited period of time. Why, then, should we think that <span class="voc"><span class="w">collectively</span><span class="g"><i>adv.</i> /kəˈlektɪvli/ 集体地；共同地</span></span>, as a nation, we're not bound by that same limitation? We must act today in order to preserve tomorrow. And let there be no misunderstanding: We are going to begin to act, beginning today.</div><div class="zh">你我作为个人，可以靠借债过超出自身能力的生活，但只能维持有限的一段时间。那么，作为一个国家，我们为什么要以为集体就不受同样限制？我们必须今天行动，才能保全明天。不要有任何误解：我们要开始行动，就从今天开始。</div></section>
-<section class="para"><span class="no">08</span><div class="en">The economic ills we suffer have come upon us over several decades. They will not go away in days, weeks, or months, but they will go away. They will go away because we as Americans have the capacity now, as we've had in the past, to do whatever needs to be done to preserve this last and greatest <span class="voc"><span class="w">bastion</span><span class="g"><i>n.</i> /ˈbæstiən/ 堡垒；坚固据点</span></span> of freedom.</div><div class="zh">我们遭受的经济弊病，是数十年间逐渐降临的。它们不会在几天、几周或几个月内消失，但终会消失。它们会消失，因为我们美国人如今拥有、过去也一直拥有这样的能力：为保卫这最后也是最伟大的自由堡垒，做一切必须做的事。</div></section>
-<section class="para"><span class="no">09</span><div class="en">In this present crisis, government is not the solution to our problem; government is the problem. From time to time we've been tempted to believe that society has become too complex to be managed by <span class="voc"><span class="w">self-rule</span><span class="g"><i>n.</i> /ˌself ˈruːl/ 自治；自我治理</span></span>, that government by an elite group is superior to government for, by, and of the people. Well, if no one among us is capable of governing himself, then who among us has the capacity to govern someone else? All of us together, in and out of government, must bear the burden. The solutions we seek must be <span class="voc"><span class="w">equitable</span><span class="g"><i>adj.</i> /ˈekwɪtəbəl/ 公平的；公正的</span></span>, with no one group singled out to pay a higher price.</div><div class="zh">在当前危机中，政府不是我们问题的答案；政府本身就是问题。我们时不时会受到诱惑，以为社会已经复杂到不能靠自治来管理，以为由精英团体治理优于由人民组成、为人民服务、属于人民的政府。那么，如果我们当中没有人能够管理好自己，我们当中又有谁有能力管理别人？政府内外的我们所有人必须共同承担负担。我们寻求的解决方案必须公平，不能单独挑出任何一个群体来付出更高代价。</div></section>
-<section class="para"><span class="no">10</span><div class="en">We hear much of special interest groups. Well, our concern must be for a special interest group that has been too long neglected. It knows no sectional boundaries or ethnic and racial divisions, and it crosses political party lines. It is made up of men and women who raise our food, patrol our streets, man our mines and factories, teach our children, keep our homes, and heal us when we're sick -- professionals, industrialists, shopkeepers, clerks, cabbies, and truckdrivers. They are, in short, ''We the people,'' this breed called Americans.</div><div class="zh">我们常听到人们谈论特殊利益集团。但我们真正关心的，必须是一个长期被忽视的特殊利益集团。它不受地区边界、族裔和种族分歧限制，也跨越政党界线。它由种植粮食、巡逻街道、在矿井和工厂工作、教育孩子、维持家庭并在我们生病时救治我们的男女组成——专业人士、工厂主、店主、职员、出租车司机和卡车司机。简而言之，他们就是“我们人民”，就是被称为美国人的这一族群。</div></section>
-<section class="para"><span class="no">11</span><div class="en">Well, this administration's objective will be a healthy, vigorous, growing economy that provides equal opportunities for all Americans with no barriers born of <span class="voc"><span class="w">bigotry</span><span class="g"><i>n.</i> /ˈbɪɡətri/ 偏执；顽固的偏见</span></span> or discrimination. Putting America back to work means putting all Americans back to work. Ending inflation means freeing all Americans from the terror of runaway living costs. All must share in the productive work of this ''new beginning,'' and all must share in the <span class="voc"><span class="w">bounty</span><span class="g"><i>n.</i> /ˈbaʊnti/ 丰硕成果；丰富回报</span></span> of a revived economy. With the idealism and fair play which are the core of our system and our strength, we can have a strong and prosperous America, at peace with itself and the world.</div><div class="zh">本届政府的目标，将是建立一个健康、有活力、不断增长的经济，为所有美国人提供平等机会，不让偏见或歧视制造任何障碍。让美国重新就业，意味着让所有美国人重新就业。结束通胀，意味着把所有美国人从生活成本失控的恐惧中解放出来。所有人都必须参与这个“新开端”的生产性工作，也都必须分享复苏经济的丰硕成果。凭借理想主义和公平竞争——它们是我们制度和力量的核心——我们可以拥有一个强大、繁荣、与自身及世界和平相处的美国。</div></section>
-<section class="para"><span class="no">12</span><div class="en">So, as we begin, let us take inventory. We are a nation that has a government -- not the other way around. And this makes us special among the nations of the Earth. Our government has no power except that granted it by the people. It is time to check and reverse the growth of government, which shows signs of having grown beyond the <span class="voc"><span class="w">consent</span><span class="g"><i>n.</i> /kənˈsent/ 同意；授权</span></span> of the governed.</div><div class="zh">因此，在我们开始之际，让我们盘点一番。我们是一个拥有政府的国家——而不是反过来。正因如此，我们在地球上的各国中独具特色。我们的政府除了人民授予的权力之外别无权力。现在是遏制并扭转政府扩张的时候了；政府已经显露出超越被统治者同意的迹象。</div></section>
-<section class="para"><span class="no">13</span><div class="en">It is my intention to curb the size and influence of the Federal establishment and to demand recognition of the distinction between the powers granted to the Federal Government and those reserved to the States or to the people. All of us need to be reminded that the Federal Government did not create the States; the States created the Federal Government.</div><div class="zh">我打算遏制联邦机构的规模与影响力，并要求人们承认：授予联邦政府的权力，与保留给各州或人民的权力之间存在区别。我们都需要提醒自己，联邦政府并没有创造各州；是各州创造了联邦政府。</div></section>
-<section class="para"><span class="no">14</span><div class="en">Now, so there will be no misunderstanding, it's not my intention to do away with government. It is rather to make it work -- work with us, not over us; to stand by our side, not ride on our back. Government can and must provide opportunity, not smother it; foster productivity, not stifle it.</div><div class="zh">现在，为免产生误解，我无意取消政府。我的意图是让政府发挥作用——与我们一起工作，而不是凌驾于我们之上；站在我们身旁，而不是骑在我们背上。政府能够也必须提供机会，而不是扼杀机会；必须促进生产力，而不是压制生产力。</div></section>
-<section class="para"><span class="no">15</span><div class="en">If we look to the answer as to why for so many years we achieved so much, prospered as no other people on Earth, it was because here in this land we unleashed the energy and individual genius of man to a greater extent than has ever been done. Freedom and the dignity of the individual have been more available and assured here than in any other place on Earth. The price for this freedom at times has been high, but we have never been unwilling to pay that price.</div><div class="zh">如果我们追问，为什么这么多年来我们取得如此多成就，繁荣程度超过地球上的其他民族，答案在于：在这片土地上，我们释放人的能量与个人才智，其程度前所未有。自由与个人尊严在这里比地球上任何其他地方都更易获得、更有保障。这种自由有时价格高昂，但我们从未不愿支付这个代价。</div></section>
-<section class="para"><span class="no">16</span><div class="en">It is no coincidence that our present troubles parallel and are proportionate to the intervention and intrusion in our lives that result from unnecessary and excessive growth of government. It is time for us to realize that we're too great a nation to limit ourselves to small dreams. We're not, as some would have us believe, doomed to an inevitable decline. I do not believe in a fate that will fall on us no matter what we do. I do believe in a fate that will fall on us if we do nothing. So, with all the creative energy at our command, let us begin an era of national <span class="voc"><span class="w">renewal</span><span class="g"><i>n.</i> /rɪˈnuːəl/ 更新；复兴</span></span>. Let us renew our determination, our courage, and our strength. And let us renew our faith and our hope.</div><div class="zh">我们当前的麻烦与政府不必要且过度扩张所带来的干预和侵入相伴而生，并与之相称，这绝非巧合。我们该意识到，作为一个伟大的国家，我们不应把自己局限于渺小的梦想。我们并没有像某些人希望我们相信的那样，注定不可避免地衰落。我不相信无论我们做什么，命运都会将衰败降临于我们。我相信的是：如果我们什么都不做，命运就会降临。因此，让我们运用手中全部创造性能量，开启民族复兴的时代。让我们更新决心、勇气和力量，也让我们更新信念与希望。</div></section>
-<section class="para"><span class="no">17</span><div class="en">We have every right to dream heroic dreams. Those who say that we're in a time when there are not heroes, they just don't know where to look. You can see heroes every day going in and out of factory gates. Others, a handful in number, produce enough food to feed all of us and then the world beyond. You meet heroes across a counter, and they're on both sides of that counter. There are entrepreneurs with faith in themselves and faith in an idea who create new jobs, new wealth and opportunity. They're individuals and families whose taxes support the government and whose voluntary gifts support church, charity, culture, art, and education. Their patriotism is quiet, but deep. Their values sustain our national life.</div><div class="zh">我们完全有权梦想英雄般的梦想。那些说我们身处一个没有英雄的时代的人，只是不知道该到哪里寻找。你每天都能在工厂大门进出的人群中看到英雄。有些人数量虽少，却生产出足以养活我们所有人乃至全世界的食物。你在柜台两边都能遇到英雄。有些企业家相信自己，也相信某个创意，他们创造新的工作、新的财富和机会。他们是靠税收支持政府、靠自愿捐赠支持教会、慈善、文化、艺术和教育的个人与家庭。他们的爱国主义安静，却深沉；他们的价值观支撑着我们的国家生活。</div></section>
-<section class="para"><span class="no">18</span><div class="en">Now, I have used the words ''they'' and ''their'' in speaking of these heroes. I could say ''you'' and ''your,'' because I'm addressing the heroes of whom I speak -- you, the citizens of this blessed land. Your dreams, your hopes, your goals are going to be the dreams, the hopes, and the goals of this administration, so help me God.</div><div class="zh">刚才谈到这些英雄时，我用了“他们”和“他们的”。我也可以说“你”和“你的”，因为我所谈的英雄正是我正在面对的你们——这片受祝福土地上的公民。你们的梦想、希望和目标，将成为本届政府的梦想、希望和目标。上帝助我。</div></section>
-<section class="para"><span class="no">19</span><div class="en">We shall reflect the compassion that is so much a part of your makeup. How can we love our country and not love our countrymen; and loving them, reach out a hand when they fall, heal them when they're sick, and provide opportunity to make them self-sufficient so they will be equal in fact and not just in theory?</div><div class="zh">我们将体现深深融入你们性格的同情心。我们怎能热爱祖国，却不热爱同胞？既然爱他们，就应在他们跌倒时伸出手，在他们生病时治愈他们，并提供机会让他们自食其力，使他们不仅在理论上、而且在事实上平等？</div></section>
-<section class="para"><span class="no">20</span><div class="en">Can we solve the problems confronting us? Well, the answer is an unequivocal and emphatic ''yes.'' To paraphrase Winston Churchill, I did not take the oath I've just taken with the intention of presiding over the dissolution of the world's strongest economy.</div><div class="zh">我们能解决摆在面前的问题吗？答案是毫不含糊、斩钉截铁的“能”。借用温斯顿·丘吉尔的话说，我刚刚宣誓就职，并不是为了主持世界最强大经济体的解体。</div></section>
-<section class="para"><span class="no">21</span><div class="en">In the days ahead I will propose removing the roadblocks that have slowed our economy and reduced productivity. Steps will be taken aimed at restoring the balance between the various levels of government. Progress may be slow, measured in inches and feet, not miles, but we will progress. It is time to reawaken this industrial giant, to get government back within its means, and to lighten our punitive tax burden. And these will be our first priorities, and on these principles there will be no compromise.</div><div class="zh">在未来的日子里，我将提出清除拖慢经济、降低生产力的障碍。我们将采取措施，恢复各级政府之间的平衡。进展或许缓慢，以英寸和英尺而非英里衡量，但我们会前进。现在是唤醒这个工业巨人的时候了，让政府回到自身能力范围内，并减轻惩罚性的税负。这些将是我们的首要任务，在这些原则上不会妥协。</div></section>
-<section class="para"><span class="no">22</span><div class="en">On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren, president of the Massachusetts Congress, said to his fellow Americans, "Our country is in danger, but not to be despaired of . . . . On you depend the fortunes of America. You are to decide the important questions upon which rests the happiness and the liberty of millions yet unborn. Act worthy of yourselves."</div><div class="zh">在独立斗争前夕，马萨诸塞州议会主席、或许是最伟大的建国先贤之一的约瑟夫·沃伦博士对美国同胞说：“我们的国家处于危险之中，但并非到了绝望的地步……美国的命运取决于你们。你们将决定那些关系到尚未出生的数百万人的幸福与自由的重要问题。要做配得上自己的行动。”</div></section>
-<section class="para"><span class="no">23</span><div class="en">Well, I believe we, the Americans of today, are ready to act worthy of ourselves, ready to do what must be done to ensure happiness and liberty for ourselves, our children, and our children's children. And as we renew ourselves here in our own land, we will be seen as having greater strength throughout the world. We will again be the exemplar of freedom and a beacon of hope for those who do not now have freedom.</div><div class="zh">我相信，我们今天的美国人已经准备好做配得上自己的事，准备好为自己、我们的孩子和子孙后代确保幸福与自由。随着我们在自己的土地上自我更新，全世界都会看到我们拥有更大的力量。我们将再次成为自由的典范，成为那些尚未拥有自由者的希望灯塔。</div></section>
-<section class="para"><span class="no">24</span><div class="en">To those neighbors and allies who share our freedom, we will strengthen our historic ties and assure them of our support and firm commitment. We will match loyalty with loyalty. We will strive for mutually beneficial relations. We will not use our friendship to impose on their sovereignty, for our own sovereignty is not for sale.</div><div class="zh">对于与我们共享自由的邻国和盟友，我们将加强历史联系，并向他们保证我们的支持与坚定承诺。我们将以忠诚回报忠诚。我们将努力建立互惠关系。我们不会利用友谊侵犯他们的主权，因为我们自己的主权也不出售。</div></section>
-<section class="para"><span class="no">25</span><div class="en">As for the enemies of freedom, those who are potential adversaries, they will be reminded that peace is the highest aspiration of the American people. We will negotiate for it, sacrifice for it; we will not surrender for it, now or ever.</div><div class="zh">至于自由的敌人、那些潜在的对手，他们将被提醒：和平是美国人民最高的愿望。我们将为和平谈判、为和平牺牲，但现在和永远都不会为了和平投降。</div></section>
-<section class="para"><span class="no">26</span><div class="en">Our forbearance should never be misunderstood. Our reluctance for conflict should not be misjudged as a failure of will. When action is required to preserve our national security, we will act. We will maintain sufficient strength to prevail if need be, knowing that if we do so we have the best chance of never having to use that strength.</div><div class="zh">我们的克制绝不应被误解。我们不愿冲突，不应被错误判断为意志软弱。当维护国家安全需要行动时，我们会行动。我们将保持足够的力量以在必要时取胜，同时知道，拥有这种力量，才最有可能永远不必使用它。</div></section>
-<section class="para"><span class="no">27</span><div class="en">Above all, we must realize that no arsenal or no weapon in the arsenals of the world is so formidable as the will and moral courage of free men and women. It is a weapon our adversaries in today's world do not have. It is a weapon that we as Americans do have. Let that be understood by those who practice terrorism and prey upon their neighbors.</div><div class="zh">最重要的是，我们必须认识到，世界上任何军火库、任何武器，都没有自由男女的意志和道德勇气那样强大。这是当今世界的对手所没有的武器，也是我们美国人拥有的武器。让那些实施恐怖主义、侵害邻国的人明白这一点。</div></section>
-<section class="para"><span class="no">28</span><div class="en">I'm told that tens of thousands of prayer meetings are being held on this day, and for that I'm deeply grateful. We are a nation under God, and I believe God intended for us to be free. It would be fitting and good, I think, if on each Inaugural Day in future years it should be declared a day of prayer.</div><div class="zh">我听说今天有数万场祈祷会正在举行，对此我深深感激。我们是上帝庇佑下的国家，我相信上帝的意旨是让我们获得自由。我认为，今后的每个就职日都被宣布为祈祷日，将是恰当而美好的。</div></section>
-<section class="para"><span class="no">29</span><div class="en">This is the first time in our history that this ceremony has been held, as you've been told, on this West Front of the Capitol. Standing here, one faces a magnificent vista, opening up on this city's special beauty and history. At the end of this open mall are those shrines to the giants on whose shoulders we stand.</div><div class="zh">如你们已经听说的，这是我国历史上第一次在国会大厦西侧正面举行这一仪式。站在这里，面对的是一幅壮丽景色，展现出这座城市独特的美与历史。在这片开阔大道的尽头，是那些伟人的圣殿；我们正站在他们的肩膀上。</div></section>
-<section class="para"><span class="no">30</span><div class="en">Directly in front of me, the monument to a monumental man, George Washington, father of our country. A man of humility who came to greatness reluctantly. He led America out of revolutionary victory into infant nationhood. Off to one side, the stately memorial to Thomas Jefferson. The Declaration of Independence flames with his eloquence. And then, beyond the Reflecting Pool, the dignified columns of the Lincoln Memorial. Whoever would understand in his heart the meaning of America will find it in the life of Abraham Lincoln.</div><div class="zh">就在我正前方，是一位伟人的纪念碑——我们国家之父乔治·华盛顿。他谦逊，却不情愿地走向伟大。他带领美国从革命胜利走向初生的国家形态。一旁是庄严的托马斯·杰斐逊纪念堂。《独立宣言》因他的雄辩而熠熠生辉。再往前，越过倒影池，是林肯纪念堂庄重的柱廊。任何想在心中理解美国意义的人，都能在亚伯拉罕·林肯的一生中找到答案。</div></section>
-<section class="para"><span class="no">31</span><div class="en">Beyond those monuments to heroism is the Potomac River, and on the far shore the sloping hills of Arlington National Cemetery, with its row upon row of simple white markers bearing crosses or Stars of David. They add up to only a tiny fraction of the price that has been paid for our freedom.</div><div class="zh">在那些英雄纪念碑之外，是波托马克河；在遥远的河岸上，是阿灵顿国家公墓起伏的山丘，一排又一排朴素的白色墓碑上刻着十字架或大卫之星。它们加在一起，也只是我们为自由付出的代价中极小的一部分。</div></section>
-<section class="para"><span class="no">32</span><div class="en">Each one of those markers is a monument to the kind of hero I spoke of earlier. Their lives ended in places called Belleau Wood, The Argonne, Omaha Beach, Salerno, and halfway around the world on Guadalcanal, Tarawa, Pork Chop Hill, the Chosin Reservoir, and in a hundred rice paddies and jungles of a place called Vietnam.</div><div class="zh">每一块墓碑，都是我前面所说的那类英雄的纪念碑。他们的生命终结在贝洛森林、阿尔贡、奥马哈海滩、萨勒诺，也终结在地球另一端的瓜达尔卡纳尔、塔拉瓦、猪排山、长津水库，以及一个名叫越南的地方无数片稻田和丛林中。</div></section>
-<section class="para"><span class="no">33</span><div class="en">Under one such marker lies a young man, Martin Treptow, who left his job in a small town barbershop in 1917 to go to France with the famed Rainbow Division. There, on the western front, he was killed trying to carry a message between battalions under heavy artillery fire.</div><div class="zh">一块这样的墓碑下，长眠着一位名叫马丁·特雷普托的年轻人。1917 年，他离开小镇理发店的工作，随著名的彩虹师前往法国。在西线，他试图在猛烈炮火下向两个营之间传递消息，因而牺牲。</div></section>
-<section class="para"><span class="no">34</span><div class="en">We're told that on his body was found a diary. On the flyleaf under the heading, ''My Pledge,'' he had written these words: ''America must win this war. Therefore I will work, I will save, I will sacrifice, I will endure, I will fight cheerfully and do my utmost, as if the issue of the whole struggle depended on me alone.''</div><div class="zh">据说，人们在他的身上发现了一本日记。在扉页“我的誓言”标题下，他写道：“美国必须赢得这场战争。因此我将工作、节省、牺牲、忍耐；我将愉快地战斗并竭尽全力，仿佛整个斗争的结果只取决于我一人。”</div></section>
-<section class="para"><span class="no">35</span><div class="en">The crisis we are facing today does not require of us the kind of sacrifice that Martin Treptow and so many thousands of others were called upon to make. It does require, however, our best effort and our willingness to believe in ourselves and to believe in our capacity to perform great deeds, to believe that together with God's help we can and will resolve the problems which now confront us.</div><div class="zh">我们今天面对的危机，并不要求我们作出马丁·特雷普托和成千上万其他人曾被要求作出的那种牺牲。不过，它确实要求我们拿出最大努力，愿意相信自己，相信自己完成伟大事业的能力，相信在上帝帮助下，我们能够也必将解决当前摆在面前的问题。</div></section>
-<section class="para"><span class="no">36</span><div class="en">And after all, why shouldn't we believe that? We are Americans.</div><div class="zh">说到底，我们为什么不该相信这一点？我们是美国人。</div></section>
-<section class="para"><span class="no">37</span><div class="en">God bless you, and thank you.</div><div class="zh">愿上帝保佑你们，谢谢。</div></section>
+### 01
+
+Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens:
+
+> 哈特菲尔德参议员、首席大法官先生、总统先生、副总统布什、副总统蒙代尔、贝克参议员、奥尼尔议长、穆莫牧师，以及我的同胞们：
+
+### 02
+
+To a few of us here today this is a solemn and most [[momentous|adj.|/moʊˈmentəs/|极其重要的]] occasion, and yet in the history of our nation it is a commonplace occurrence. The orderly transfer of authority as called for in the Constitution routinely takes place, as it has for almost two centuries, and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.
+
+> 对今天在场的少数人来说，这是庄严而极其重大的时刻；然而在我国历史上，它又是一次寻常的事件。宪法所要求的权力有序交接，近两个世纪以来一直例行发生，我们很少停下来想想，这种制度实际上多么独特。在世界许多人眼中，我们视为正常的四年一次的仪式，简直就是奇迹。
+
+### 03
+
+Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other, and I thank you and your people for all your help in maintaining the [[continuity|n.|/ˌkɑːntəˈnuːəti/|连续性；延续]] which is the [[bulwark|n.|/ˈbʊlwərk/|堡垒；防护]] of our Republic.
+
+> 总统先生，我希望我们的同胞知道，您为延续这一传统做了多少工作。您在交接过程中的慷慨合作向全世界表明：我们是一个团结的民族，致力于维护一个比其他任何制度都更能保障个人自由的政治体系。我要感谢您和您的同僚为维护这种连续性所提供的一切帮助，而连续性正是我们共和国的堡垒。
+
+### 04
+
+The business of our nation goes forward. These United States are confronted with an [[economic affliction|n.|/ˌiːkəˈnɑːmɪk əˈflɪkʃn/|经济困境]] of great proportions. We suffer from the longest and one of the worst sustained inflations in our national history. It distorts our economic decisions, penalizes thrift, and crushes the struggling young and the fixed-income elderly alike. It threatens to shatter the lives of millions of our people.
+
+> 我们国家的事业仍在向前推进。美利坚合众国正面临规模巨大的经济困境。我们正承受国家历史上持续时间最长、也是最严重的通货膨胀之一。它扭曲我们的经济决策，惩罚节俭，也同样压垮正在挣扎的年轻人和靠固定收入生活的老年人。它威胁着要击碎数百万同胞的生活。
+
+### 05
+
+Idle industries have cast workers into unemployment, human misery, and personal [[indignity|n.|/ɪnˈdɪɡnəti/|尊严受损；屈辱]]. Those who do work are denied a fair return for their labor by a tax system which penalizes successful achievement and keeps us from maintaining full productivity.
+
+> 停摆的产业把工人推入失业、人的苦难和个人尊严受损的境地。那些仍在工作的人，也被一种惩罚成功、使我们无法保持充分生产力的税收制度剥夺了劳动应得的公平回报。
+
+### 06
+
+But great as our tax burden is, it has not kept pace with public spending. For decades we have piled deficit upon deficit, [[mortgaging|v.|/ˈmɔːrɡɪdʒɪŋ/|抵押；以未来作代价]] our future and our children's future for the temporary convenience of the present. To continue this long trend is to guarantee tremendous social, cultural, political, and economic [[upheavals|n.|/ʌpˈhiːvəlz/|剧变；动荡]].
+
+> 然而，尽管我们的税负沉重，它仍未赶上公共支出的增长。几十年来，我们一个接一个地累积赤字，为眼前暂时的便利抵押自己和子孙的未来。继续这种长期趋势，必将带来巨大的社会、文化、政治和经济动荡。
+
+### 07
+
+You and I, as individuals, can, by borrowing, live beyond our means, but for only a limited period of time. Why, then, should we think that [[collectively|adv.|/kəˈlektɪvli/|集体地；共同地]], as a nation, we're not bound by that same limitation? We must act today in order to preserve tomorrow. And let there be no misunderstanding: We are going to begin to act, beginning today.
+
+> 你我作为个人，可以靠借债过超出自身能力的生活，但只能维持有限的一段时间。那么，作为一个国家，我们为什么要以为集体就不受同样限制？我们必须今天行动，才能保全明天。不要有任何误解：我们要开始行动，就从今天开始。
+
+### 08
+
+The economic ills we suffer have come upon us over several decades. They will not go away in days, weeks, or months, but they will go away. They will go away because we as Americans have the capacity now, as we've had in the past, to do whatever needs to be done to preserve this last and greatest [[bastion|n.|/ˈbæstiən/|堡垒；坚固据点]] of freedom.
+
+> 我们遭受的经济弊病，是数十年间逐渐降临的。它们不会在几天、几周或几个月内消失，但终会消失。它们会消失，因为我们美国人如今拥有、过去也一直拥有这样的能力：为保卫这最后也是最伟大的自由堡垒，做一切必须做的事。
+
+### 09
+
+In this present crisis, government is not the solution to our problem; government is the problem. From time to time we've been tempted to believe that society has become too complex to be managed by [[self-rule|n.|/ˌself ˈruːl/|自治；自我治理]], that government by an elite group is superior to government for, by, and of the people. Well, if no one among us is capable of governing himself, then who among us has the capacity to govern someone else? All of us together, in and out of government, must bear the burden. The solutions we seek must be [[equitable|adj.|/ˈekwɪtəbəl/|公平的；公正的]], with no one group singled out to pay a higher price.
+
+> 在当前危机中，政府不是我们问题的答案；政府本身就是问题。我们时不时会受到诱惑，以为社会已经复杂到不能靠自治来管理，以为由精英团体治理优于由人民组成、为人民服务、属于人民的政府。那么，如果我们当中没有人能够管理好自己，我们当中又有谁有能力管理别人？政府内外的我们所有人必须共同承担负担。我们寻求的解决方案必须公平，不能单独挑出任何一个群体来付出更高代价。
+
+### 10
+
+We hear much of special interest groups. Well, our concern must be for a special interest group that has been too long neglected. It knows no sectional boundaries or ethnic and racial divisions, and it crosses political party lines. It is made up of men and women who raise our food, patrol our streets, man our mines and factories, teach our children, keep our homes, and heal us when we're sick -- professionals, industrialists, shopkeepers, clerks, cabbies, and truckdrivers. They are, in short, ''We the people,'' this breed called Americans.
+
+> 我们常听到人们谈论特殊利益集团。但我们真正关心的，必须是一个长期被忽视的特殊利益集团。它不受地区边界、族裔和种族分歧限制，也跨越政党界线。它由种植粮食、巡逻街道、在矿井和工厂工作、教育孩子、维持家庭并在我们生病时救治我们的男女组成——专业人士、工厂主、店主、职员、出租车司机和卡车司机。简而言之，他们就是“我们人民”，就是被称为美国人的这一族群。
+
+### 11
+
+Well, this administration's objective will be a healthy, vigorous, growing economy that provides equal opportunities for all Americans with no barriers born of [[bigotry|n.|/ˈbɪɡətri/|偏执；顽固的偏见]] or discrimination. Putting America back to work means putting all Americans back to work. Ending inflation means freeing all Americans from the terror of runaway living costs. All must share in the productive work of this ''new beginning,'' and all must share in the [[bounty|n.|/ˈbaʊnti/|丰硕成果；丰富回报]] of a revived economy. With the idealism and fair play which are the core of our system and our strength, we can have a strong and prosperous America, at peace with itself and the world.
+
+> 本届政府的目标，将是建立一个健康、有活力、不断增长的经济，为所有美国人提供平等机会，不让偏见或歧视制造任何障碍。让美国重新就业，意味着让所有美国人重新就业。结束通胀，意味着把所有美国人从生活成本失控的恐惧中解放出来。所有人都必须参与这个“新开端”的生产性工作，也都必须分享复苏经济的丰硕成果。凭借理想主义和公平竞争——它们是我们制度和力量的核心——我们可以拥有一个强大、繁荣、与自身及世界和平相处的美国。
+
+### 12
+
+So, as we begin, let us take inventory. We are a nation that has a government -- not the other way around. And this makes us special among the nations of the Earth. Our government has no power except that granted it by the people. It is time to check and reverse the growth of government, which shows signs of having grown beyond the [[consent|n.|/kənˈsent/|同意；授权]] of the governed.
+
+> 因此，在我们开始之际，让我们盘点一番。我们是一个拥有政府的国家——而不是反过来。正因如此，我们在地球上的各国中独具特色。我们的政府除了人民授予的权力之外别无权力。现在是遏制并扭转政府扩张的时候了；政府已经显露出超越被统治者同意的迹象。
+
+### 13
+
+It is my intention to curb the size and influence of the Federal establishment and to demand recognition of the distinction between the powers granted to the Federal Government and those reserved to the States or to the people. All of us need to be reminded that the Federal Government did not create the States; the States created the Federal Government.
+
+> 我打算遏制联邦机构的规模与影响力，并要求人们承认：授予联邦政府的权力，与保留给各州或人民的权力之间存在区别。我们都需要提醒自己，联邦政府并没有创造各州；是各州创造了联邦政府。
+
+### 14
+
+Now, so there will be no misunderstanding, it's not my intention to do away with government. It is rather to make it work -- work with us, not over us; to stand by our side, not ride on our back. Government can and must provide opportunity, not smother it; foster productivity, not stifle it.
+
+> 现在，为免产生误解，我无意取消政府。我的意图是让政府发挥作用——与我们一起工作，而不是凌驾于我们之上；站在我们身旁，而不是骑在我们背上。政府能够也必须提供机会，而不是扼杀机会；必须促进生产力，而不是压制生产力。
+
+### 15
+
+If we look to the answer as to why for so many years we achieved so much, prospered as no other people on Earth, it was because here in this land we unleashed the energy and individual genius of man to a greater extent than has ever been done. Freedom and the dignity of the individual have been more available and assured here than in any other place on Earth. The price for this freedom at times has been high, but we have never been unwilling to pay that price.
+
+> 如果我们追问，为什么这么多年来我们取得如此多成就，繁荣程度超过地球上的其他民族，答案在于：在这片土地上，我们释放人的能量与个人才智，其程度前所未有。自由与个人尊严在这里比地球上任何其他地方都更易获得、更有保障。这种自由有时价格高昂，但我们从未不愿支付这个代价。
+
+### 16
+
+It is no coincidence that our present troubles parallel and are proportionate to the intervention and intrusion in our lives that result from unnecessary and excessive growth of government. It is time for us to realize that we're too great a nation to limit ourselves to small dreams. We're not, as some would have us believe, doomed to an inevitable decline. I do not believe in a fate that will fall on us no matter what we do. I do believe in a fate that will fall on us if we do nothing. So, with all the creative energy at our command, let us begin an era of national [[renewal|n.|/rɪˈnuːəl/|更新；复兴]]. Let us renew our determination, our courage, and our strength. And let us renew our faith and our hope.
+
+> 我们当前的麻烦与政府不必要且过度扩张所带来的干预和侵入相伴而生，并与之相称，这绝非巧合。我们该意识到，作为一个伟大的国家，我们不应把自己局限于渺小的梦想。我们并没有像某些人希望我们相信的那样，注定不可避免地衰落。我不相信无论我们做什么，命运都会将衰败降临于我们。我相信的是：如果我们什么都不做，命运就会降临。因此，让我们运用手中全部创造性能量，开启民族复兴的时代。让我们更新决心、勇气和力量，也让我们更新信念与希望。
+
+### 17
+
+We have every right to dream heroic dreams. Those who say that we're in a time when there are not heroes, they just don't know where to look. You can see heroes every day going in and out of factory gates. Others, a handful in number, produce enough food to feed all of us and then the world beyond. You meet heroes across a counter, and they're on both sides of that counter. There are entrepreneurs with faith in themselves and faith in an idea who create new jobs, new wealth and opportunity. They're individuals and families whose taxes support the government and whose voluntary gifts support church, charity, culture, art, and education. Their patriotism is quiet, but deep. Their values sustain our national life.
+
+> 我们完全有权梦想英雄般的梦想。那些说我们身处一个没有英雄的时代的人，只是不知道该到哪里寻找。你每天都能在工厂大门进出的人群中看到英雄。有些人数量虽少，却生产出足以养活我们所有人乃至全世界的食物。你在柜台两边都能遇到英雄。有些企业家相信自己，也相信某个创意，他们创造新的工作、新的财富和机会。他们是靠税收支持政府、靠自愿捐赠支持教会、慈善、文化、艺术和教育的个人与家庭。他们的爱国主义安静，却深沉；他们的价值观支撑着我们的国家生活。
+
+### 18
+
+Now, I have used the words ''they'' and ''their'' in speaking of these heroes. I could say ''you'' and ''your,'' because I'm addressing the heroes of whom I speak -- you, the citizens of this blessed land. Your dreams, your hopes, your goals are going to be the dreams, the hopes, and the goals of this administration, so help me God.
+
+> 刚才谈到这些英雄时，我用了“他们”和“他们的”。我也可以说“你”和“你的”，因为我所谈的英雄正是我正在面对的你们——这片受祝福土地上的公民。你们的梦想、希望和目标，将成为本届政府的梦想、希望和目标。上帝助我。
+
+### 19
+
+We shall reflect the compassion that is so much a part of your makeup. How can we love our country and not love our countrymen; and loving them, reach out a hand when they fall, heal them when they're sick, and provide opportunity to make them self-sufficient so they will be equal in fact and not just in theory?
+
+> 我们将体现深深融入你们性格的同情心。我们怎能热爱祖国，却不热爱同胞？既然爱他们，就应在他们跌倒时伸出手，在他们生病时治愈他们，并提供机会让他们自食其力，使他们不仅在理论上、而且在事实上平等？
+
+### 20
+
+Can we solve the problems confronting us? Well, the answer is an unequivocal and emphatic ''yes.'' To paraphrase Winston Churchill, I did not take the oath I've just taken with the intention of presiding over the dissolution of the world's strongest economy.
+
+> 我们能解决摆在面前的问题吗？答案是毫不含糊、斩钉截铁的“能”。借用温斯顿·丘吉尔的话说，我刚刚宣誓就职，并不是为了主持世界最强大经济体的解体。
+
+### 21
+
+In the days ahead I will propose removing the roadblocks that have slowed our economy and reduced productivity. Steps will be taken aimed at restoring the balance between the various levels of government. Progress may be slow, measured in inches and feet, not miles, but we will progress. It is time to reawaken this industrial giant, to get government back within its means, and to lighten our punitive tax burden. And these will be our first priorities, and on these principles there will be no compromise.
+
+> 在未来的日子里，我将提出清除拖慢经济、降低生产力的障碍。我们将采取措施，恢复各级政府之间的平衡。进展或许缓慢，以英寸和英尺而非英里衡量，但我们会前进。现在是唤醒这个工业巨人的时候了，让政府回到自身能力范围内，并减轻惩罚性的税负。这些将是我们的首要任务，在这些原则上不会妥协。
+
+### 22
+
+On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren, president of the Massachusetts Congress, said to his fellow Americans, "Our country is in danger, but not to be despaired of . . . . On you depend the fortunes of America. You are to decide the important questions upon which rests the happiness and the liberty of millions yet unborn. Act worthy of yourselves."
+
+> 在独立斗争前夕，马萨诸塞州议会主席、或许是最伟大的建国先贤之一的约瑟夫·沃伦博士对美国同胞说：“我们的国家处于危险之中，但并非到了绝望的地步……美国的命运取决于你们。你们将决定那些关系到尚未出生的数百万人的幸福与自由的重要问题。要做配得上自己的行动。”
+
+### 23
+
+Well, I believe we, the Americans of today, are ready to act worthy of ourselves, ready to do what must be done to ensure happiness and liberty for ourselves, our children, and our children's children. And as we renew ourselves here in our own land, we will be seen as having greater strength throughout the world. We will again be the exemplar of freedom and a beacon of hope for those who do not now have freedom.
+
+> 我相信，我们今天的美国人已经准备好做配得上自己的事，准备好为自己、我们的孩子和子孙后代确保幸福与自由。随着我们在自己的土地上自我更新，全世界都会看到我们拥有更大的力量。我们将再次成为自由的典范，成为那些尚未拥有自由者的希望灯塔。
+
+### 24
+
+To those neighbors and allies who share our freedom, we will strengthen our historic ties and assure them of our support and firm commitment. We will match loyalty with loyalty. We will strive for mutually beneficial relations. We will not use our friendship to impose on their sovereignty, for our own sovereignty is not for sale.
+
+> 对于与我们共享自由的邻国和盟友，我们将加强历史联系，并向他们保证我们的支持与坚定承诺。我们将以忠诚回报忠诚。我们将努力建立互惠关系。我们不会利用友谊侵犯他们的主权，因为我们自己的主权也不出售。
+
+### 25
+
+As for the enemies of freedom, those who are potential adversaries, they will be reminded that peace is the highest aspiration of the American people. We will negotiate for it, sacrifice for it; we will not surrender for it, now or ever.
+
+> 至于自由的敌人、那些潜在的对手，他们将被提醒：和平是美国人民最高的愿望。我们将为和平谈判、为和平牺牲，但现在和永远都不会为了和平投降。
+
+### 26
+
+Our forbearance should never be misunderstood. Our reluctance for conflict should not be misjudged as a failure of will. When action is required to preserve our national security, we will act. We will maintain sufficient strength to prevail if need be, knowing that if we do so we have the best chance of never having to use that strength.
+
+> 我们的克制绝不应被误解。我们不愿冲突，不应被错误判断为意志软弱。当维护国家安全需要行动时，我们会行动。我们将保持足够的力量以在必要时取胜，同时知道，拥有这种力量，才最有可能永远不必使用它。
+
+### 27
+
+Above all, we must realize that no arsenal or no weapon in the arsenals of the world is so formidable as the will and moral courage of free men and women. It is a weapon our adversaries in today's world do not have. It is a weapon that we as Americans do have. Let that be understood by those who practice terrorism and prey upon their neighbors.
+
+> 最重要的是，我们必须认识到，世界上任何军火库、任何武器，都没有自由男女的意志和道德勇气那样强大。这是当今世界的对手所没有的武器，也是我们美国人拥有的武器。让那些实施恐怖主义、侵害邻国的人明白这一点。
+
+### 28
+
+I'm told that tens of thousands of prayer meetings are being held on this day, and for that I'm deeply grateful. We are a nation under God, and I believe God intended for us to be free. It would be fitting and good, I think, if on each Inaugural Day in future years it should be declared a day of prayer.
+
+> 我听说今天有数万场祈祷会正在举行，对此我深深感激。我们是上帝庇佑下的国家，我相信上帝的意旨是让我们获得自由。我认为，今后的每个就职日都被宣布为祈祷日，将是恰当而美好的。
+
+### 29
+
+This is the first time in our history that this ceremony has been held, as you've been told, on this West Front of the Capitol. Standing here, one faces a magnificent vista, opening up on this city's special beauty and history. At the end of this open mall are those shrines to the giants on whose shoulders we stand.
+
+> 如你们已经听说的，这是我国历史上第一次在国会大厦西侧正面举行这一仪式。站在这里，面对的是一幅壮丽景色，展现出这座城市独特的美与历史。在这片开阔大道的尽头，是那些伟人的圣殿；我们正站在他们的肩膀上。
+
+### 30
+
+Directly in front of me, the monument to a monumental man, George Washington, father of our country. A man of humility who came to greatness reluctantly. He led America out of revolutionary victory into infant nationhood. Off to one side, the stately memorial to Thomas Jefferson. The Declaration of Independence flames with his eloquence. And then, beyond the Reflecting Pool, the dignified columns of the Lincoln Memorial. Whoever would understand in his heart the meaning of America will find it in the life of Abraham Lincoln.
+
+> 就在我正前方，是一位伟人的纪念碑——我们国家之父乔治·华盛顿。他谦逊，却不情愿地走向伟大。他带领美国从革命胜利走向初生的国家形态。一旁是庄严的托马斯·杰斐逊纪念堂。《独立宣言》因他的雄辩而熠熠生辉。再往前，越过倒影池，是林肯纪念堂庄重的柱廊。任何想在心中理解美国意义的人，都能在亚伯拉罕·林肯的一生中找到答案。
+
+### 31
+
+Beyond those monuments to heroism is the Potomac River, and on the far shore the sloping hills of Arlington National Cemetery, with its row upon row of simple white markers bearing crosses or Stars of David. They add up to only a tiny fraction of the price that has been paid for our freedom.
+
+> 在那些英雄纪念碑之外，是波托马克河；在遥远的河岸上，是阿灵顿国家公墓起伏的山丘，一排又一排朴素的白色墓碑上刻着十字架或大卫之星。它们加在一起，也只是我们为自由付出的代价中极小的一部分。
+
+### 32
+
+Each one of those markers is a monument to the kind of hero I spoke of earlier. Their lives ended in places called Belleau Wood, The Argonne, Omaha Beach, Salerno, and halfway around the world on Guadalcanal, Tarawa, Pork Chop Hill, the Chosin Reservoir, and in a hundred rice paddies and jungles of a place called Vietnam.
+
+> 每一块墓碑，都是我前面所说的那类英雄的纪念碑。他们的生命终结在贝洛森林、阿尔贡、奥马哈海滩、萨勒诺，也终结在地球另一端的瓜达尔卡纳尔、塔拉瓦、猪排山、长津水库，以及一个名叫越南的地方无数片稻田和丛林中。
+
+### 33
+
+Under one such marker lies a young man, Martin Treptow, who left his job in a small town barbershop in 1917 to go to France with the famed Rainbow Division. There, on the western front, he was killed trying to carry a message between battalions under heavy artillery fire.
+
+> 一块这样的墓碑下，长眠着一位名叫马丁·特雷普托的年轻人。1917 年，他离开小镇理发店的工作，随著名的彩虹师前往法国。在西线，他试图在猛烈炮火下向两个营之间传递消息，因而牺牲。
+
+### 34
+
+We're told that on his body was found a diary. On the flyleaf under the heading, ''My Pledge,'' he had written these words: ''America must win this war. Therefore I will work, I will save, I will sacrifice, I will endure, I will fight cheerfully and do my utmost, as if the issue of the whole struggle depended on me alone.''
+
+> 据说，人们在他的身上发现了一本日记。在扉页“我的誓言”标题下，他写道：“美国必须赢得这场战争。因此我将工作、节省、牺牲、忍耐；我将愉快地战斗并竭尽全力，仿佛整个斗争的结果只取决于我一人。”
+
+### 35
+
+The crisis we are facing today does not require of us the kind of sacrifice that Martin Treptow and so many thousands of others were called upon to make. It does require, however, our best effort and our willingness to believe in ourselves and to believe in our capacity to perform great deeds, to believe that together with God's help we can and will resolve the problems which now confront us.
+
+> 我们今天面对的危机，并不要求我们作出马丁·特雷普托和成千上万其他人曾被要求作出的那种牺牲。不过，它确实要求我们拿出最大努力，愿意相信自己，相信自己完成伟大事业的能力，相信在上帝帮助下，我们能够也必将解决当前摆在面前的问题。
+
+### 36
+
+And after all, why shouldn't we believe that? We are Americans.
+
+> 说到底，我们为什么不该相信这一点？我们是美国人。
+
+### 37
+
+God bless you, and thank you.
+
+> 愿上帝保佑你们，谢谢。

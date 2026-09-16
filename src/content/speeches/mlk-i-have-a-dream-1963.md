@@ -21,4 +21,26 @@ video: {"url": "https://www.youtube-nocookie.com/embed/PbUtL_0vAJk?rel=0", "sour
 related: []
 ---
 
-<section class="para"><span class="no">01</span><div class="en">Now is the time to make real the promises of democracy. Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice.</div><div class="zh">现在正是让民主的承诺成为现实的时候。现在正是从种族隔离阴暗荒凉的山谷，走向种族正义阳光大道的时候。</div></section><section class="para"><span class="no">02</span><div class="en">We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality. We cannot be satisfied as long as our children are stripped of their selfhood and robbed of their dignity.</div><div class="zh">只要黑人仍是警察暴行那不可言说的恐怖的受害者，我们就绝不会满足。只要我们的孩子被剥夺自我、被夺走尊严，我们就不能满足。</div></section><section class="para"><span class="no">03</span><div class="en">I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.</div><div class="zh">我有一个梦想：有一天，这个国家会站起来，实现其信条的真正含义——我们认为这些真理是不言而喻的：人人生而平等。</div></section><section class="para"><span class="no">04</span><div class="en">Let freedom ring from every hill and molehill of Mississippi. Let freedom ring from every mountainside. Let freedom ring.</div><div class="zh">让自由之声从密西西比州的每一座山丘、每一处土岗响起；让自由之声从每一座山坡响起。让自由之声响起。</div></section>
+### 01
+
+Now is the time to make real the promises of democracy. Now is the time to rise from the dark and desolate valley of segregation to the sunlit path of racial justice.
+
+> 现在正是让民主的承诺成为现实的时候。现在正是从种族隔离阴暗荒凉的山谷，走向种族正义阳光大道的时候。
+
+### 02
+
+We can never be satisfied as long as the Negro is the victim of the unspeakable horrors of police brutality. We cannot be satisfied as long as our children are stripped of their selfhood and robbed of their dignity.
+
+> 只要黑人仍是警察暴行那不可言说的恐怖的受害者，我们就绝不会满足。只要我们的孩子被剥夺自我、被夺走尊严，我们就不能满足。
+
+### 03
+
+I have a dream that one day this nation will rise up and live out the true meaning of its creed: We hold these truths to be self-evident, that all men are created equal.
+
+> 我有一个梦想：有一天，这个国家会站起来，实现其信条的真正含义——我们认为这些真理是不言而喻的：人人生而平等。
+
+### 04
+
+Let freedom ring from every hill and molehill of Mississippi. Let freedom ring from every mountainside. Let freedom ring.
+
+> 让自由之声从密西西比州的每一座山丘、每一处土岗响起；让自由之声从每一座山坡响起。让自由之声响起。
