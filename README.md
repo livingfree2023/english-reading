@@ -6,11 +6,12 @@
 
 | 文件 | 内容 |
 | --- | --- |
-| `index.html` | 首页。时间轴目录，每张卡片含日期、场合与 200–300 字历史政治背景。 |
-| `gettysburg-bilingual.html` | 林肯 1863 年葛底斯堡演说（Bliss 抄本）：3 段英文原文 + 逐段中文对照；24 处生词标注；页尾附词汇总表。 |
-| `obama-inaugural-bilingual.html` | 奥巴马 2009 年首次就职演说：34 段英文原文 + 逐段中文对照；生词带金色虚线下划线，悬停或单击弹出浮层显示词性、美式音标与中文释义；页尾附词汇总表。 |
+| `src/content/speeches/*.md` | 28 篇演说的 Markdown 正文与结构化 frontmatter，作为唯一内容源。 |
+| `src/layouts/`、`src/components/` | 统一文章模板、时间轴卡片、媒体面板与词汇浮层。 |
+| `src/pages/` | Astro 生成首页、原有 `.html` 文章 URL、sitemap 与 robots.txt。 |
+| `RIGHTS.md` | 文本、音视频来源与美国版权状态说明。 |
 
-浏览器直接打开 HTML 即可，无依赖。
+开发环境需要 Node.js 20+；运行 `npm install` 安装依赖，`npm run dev` 本地预览，`npm run check` 校验内容，`npm run build` 生成 `dist/`。
 
 ## 音频与视频
 
@@ -25,13 +26,13 @@
 
 ## 新增一篇
 
-1. 先确认**文本版权**（全文页只做公有领域文本；版权受限的改做节选页）。
-2. 把做好的 `.html` 放进仓库根目录。
-3. 在 `index.html` 的 `<ol class="tl">` 里按年份顺序插入一段 `<li class="tl-item">…</li>`（文件内有注释模板）。
-4. 更新页脚「共 N 篇」。
+1. 先确认**文本版权**（全文页只做已核实的美国公有领域文本；版权受限的改做节选页）。
+2. 在 `src/content/speeches/` 新建 Markdown 文件，填写完整 frontmatter 和英中对照正文。
+3. 添加词汇标注、来源、版权说明和可用媒体；不要下载外部媒体。
+4. 运行 `npm run check && npm run build`，确认 URL、sitemap 和媒体状态。
 
 ## 部署
 
 静态站点，无构建步骤。部署在 **Cloudflare Pages**，域名 **www.booknim.com**。
-构建配置留空（无 build command），输出目录为仓库根目录；`index.html` 即首页。
+构建命令为 `npm run build`，输出目录为 `dist`；Astro 生成的 `dist/index.html` 为首页。
 仓库已删除 `vercel.json`（Cloudflare Pages 不读取它）。

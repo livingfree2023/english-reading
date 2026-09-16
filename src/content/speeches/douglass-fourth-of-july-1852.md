@@ -1,10 +1,10 @@
 ---
 titleZh: "道格拉斯「七月四日对奴隶意味着什么」"
 titleEn: "What to the Slave Is the Fourth of July? — Frederick Douglass · 弗雷德里克·道格拉斯"
-speaker: "Frederick Douglass · 弗雷德里克·道格拉斯"
+speaker: "Frederick Douglass"
 year: 1852
-date: "Rochester, NY · July 5, 1852"
-location: "Rochester, NY · July 5, 1852"
+date: "1852 年 7 月 5 日"
+location: "纽约州罗切斯特"
 era: "奴隶制、分裂与内战"
 kind: "公开演说"
 status: "full"

@@ -4,7 +4,7 @@
 
 - **站点**: https://www.booknim.com
 - **仓库**: `livingfree2023/english-reading`（公开），分支 `main`
-- **部署**: Cloudflare Pages，自动从 `main` 构建（无构建步骤，纯静态 HTML）
+- **部署**: Cloudflare Pages，自动从 `main` 执行 `npm run build`，发布 `dist/`
 - **本地克隆**: `<workspace>/english-reading/`
 
 ## 生产技能
@@ -22,7 +22,7 @@
 
 ## 内容计划: 28 篇总计
 
-完整清单与每篇的版权依据见 `CONTENT.md`。
+完整清单与每篇的版权依据见 `CONTENT.md`；结构化来源与媒体字段位于 `src/content/speeches/*.md`，总政策见 `RIGHTS.md`。
 
 ### 已发布（28 篇）
 

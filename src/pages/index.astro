@@ -9,7 +9,7 @@ const speeches = (await getCollection('speeches')).sort((a, b) => a.data.year - 
 const eras = [...new Set(speeches.map((speech) => speech.data.era))];
 ---
 
-<BaseLayout title="双语精读 · 用演讲串起的美国史" description="以演讲为线索的中英双语历史精读，按时间轴排列。">
+<BaseLayout title="双语精读 · 用演讲串起的美国史" description="以演讲为线索的中英双语历史精读，按时间轴排列。" canonical="https://www.booknim.com/">
   <div class="home-wrap">
     <header class="home-header"><p class="kicker">A History of the United States in Speeches</p><h1>用演讲串起的美国史<small>英文原文 + 逐段中文对照 + 生词浮层注音</small></h1><p class="home-intro">{speeches.length} 篇双语精读材料，按时间顺序阅读美国历史中的公共语言。</p></header>
     <div class="filters" aria-label="Speech filters">

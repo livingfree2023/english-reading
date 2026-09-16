@@ -1,10 +1,10 @@
 ---
 titleZh: "华盛顿首次就职演说"
 titleEn: "First Inaugural Address — George Washington · 乔治·华盛顿"
-speaker: "George Washington · 乔治·华盛顿"
+speaker: "George Washington"
 year: 1789
-date: "Federal Hall · New York City · April 30, 1789"
-location: "Federal Hall · New York City · April 30, 1789"
+date: "1789 年 4 月 30 日"
+location: "纽约联邦厅"
 era: "建国与早期共和国"
 kind: "就职演说"
 status: "full"

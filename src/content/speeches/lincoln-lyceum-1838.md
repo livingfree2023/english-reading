@@ -1,10 +1,10 @@
 ---
 titleZh: "林肯青年学会演说"
 titleEn: "The Perpetuation of Our Political Institutions — Abraham Lincoln · 亚伯拉罕·林肯"
-speaker: "Abraham Lincoln · 亚伯拉罕·林肯"
+speaker: "Abraham Lincoln"
 year: 1838
-date: "Springfield, Illinois · January 27, 1838"
-location: "Springfield, Illinois · January 27, 1838"
+date: "1838 年 1 月 27 日"
+location: "斯普林菲尔德"
 era: "奴隶制、分裂与内战"
 kind: "公开演说"
 status: "excerpt"

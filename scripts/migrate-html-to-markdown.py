@@ -128,13 +128,16 @@ def main() -> None:
         voc_count = page.count('class="voc"')
         status = 'excerpt' if card.get('kind') == '节选' or '节选' in page[:1200] else 'full'
         copyright_status = 'copyrighted-excerpt' if any(marker in source_html for marker in ('受版权保护', '版权归相关权利人', '非联邦职务演说')) else ('us-government-work' if '联邦职务作品' in source_html or '联邦职务演说' in source_html else 'historical-public-domain')
+        meta = card.get('meta', '')
+        date, location = (meta.split(' · ', 1) + [''])[:2] if meta else (kicker_text, kicker_text)
+        speaker = title_en.split('—', 1)[-1].split('·', 1)[0].strip() if '—' in title_en else '待复核'
         metadata = {
             'titleZh': card.get('titleZh', page_path.stem),
             'titleEn': title_en,
-            'speaker': title_en.split('—')[-1].strip() if '—' in title_en else '待复核',
+            'speaker': speaker,
             'year': card.get('year', 0),
-            'date': kicker_text,
-            'location': kicker_text,
+            'date': date.strip(),
+            'location': location.strip(),
             'era': era_for(card.get('year', 0)),
             'kind': card.get('kind', '公开演说'),
             'status': status,

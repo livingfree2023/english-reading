@@ -1,10 +1,10 @@
 ---
 titleZh: "葛底斯堡演说"
 titleEn: "Gettysburg Address — Abraham Lincoln · 亚伯拉罕·林肯"
-speaker: "Abraham Lincoln · 亚伯拉罕·林肯"
+speaker: "Abraham Lincoln"
 year: 1863
-date: "Soldiers’ National Cemetery · Gettysburg · November 19, 1863"
-location: "Soldiers’ National Cemetery · Gettysburg · November 19, 1863"
+date: "1863 年 11 月 19 日"
+location: "宾夕法尼亚州葛底斯堡军人公墓"
 era: "奴隶制、分裂与内战"
 kind: "公开演说"
 status: "full"

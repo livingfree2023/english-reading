@@ -1,10 +1,10 @@
 ---
 titleZh: "韦伯斯特「自由与联邦」"
 titleEn: "Second Reply to Hayne — Daniel Webster · 丹尼尔·韦伯斯特"
-speaker: "Daniel Webster · 丹尼尔·韦伯斯特"
+speaker: "Daniel Webster"
 year: 1830
-date: "U.S. Senate · Washington, D.C. · January 26–27, 1830"
-location: "U.S. Senate · Washington, D.C. · January 26–27, 1830"
+date: "1830 年 1 月 27 日"
+location: "参议院"
 era: "建国与早期共和国"
 kind: "国会演说"
 status: "excerpt"

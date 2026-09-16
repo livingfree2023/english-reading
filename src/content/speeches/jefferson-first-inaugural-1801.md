@@ -1,10 +1,10 @@
 ---
 titleZh: "杰斐逊首次就职演说"
 titleEn: "First Inaugural Address — Thomas Jefferson · 托马斯·杰斐逊"
-speaker: "Thomas Jefferson · 托马斯·杰斐逊"
+speaker: "Thomas Jefferson"
 year: 1801
-date: "Senate Chamber · United States Capitol · Washington, D.C. · March 4, 1801"
-location: "Senate Chamber · United States Capitol · Washington, D.C. · March 4, 1801"
+date: "1801 年 3 月 4 日"
+location: "华盛顿"
 era: "建国与早期共和国"
 kind: "就职演说"
 status: "full"

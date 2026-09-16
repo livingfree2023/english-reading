@@ -1,10 +1,10 @@
 ---
 titleZh: "华盛顿告别演说"
 titleEn: "Farewell Address — George Washington · 乔治·华盛顿"
-speaker: "George Washington · 乔治·华盛顿"
+speaker: "George Washington"
 year: 1796
-date: "Philadelphia · Claypoole’s American Daily Advertiser · September 19, 1796"
-location: "Philadelphia · Claypoole’s American Daily Advertiser · September 19, 1796"
+date: "1796 年 9 月 19 日"
+location: "费城"
 era: "建国与早期共和国"
 kind: "卸任文告"
 status: "full"
