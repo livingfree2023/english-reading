@@ -35,7 +35,25 @@
   }
 
   /* 时间轴 */
-  .tl{list-style:none;margin:22px 0 0;padding:0;position:relative}
+  /* 时代分组 */
+  .era{margin-top:28px}
+  .era:first-child{margin-top:0}
+  .era:not(:has(.tl-item)){display:none}
+  .era-h{
+    display:flex;align-items:baseline;gap:12px;
+    margin:0;padding:0 0 7px;border-bottom:1px solid var(--rule);
+  }
+  .era-t{
+    font-family:Georgia,"Times New Roman",serif;
+    font-size:15px;font-weight:600;color:var(--ink);letter-spacing:.02em;
+  }
+  .era-y{
+    margin-left:auto;font-family:Georgia,"Times New Roman",serif;
+    font-size:11.5px;letter-spacing:.1em;color:var(--gold);
+  }
+
+  /* 时间轴 */
+  .tl{list-style:none;margin:14px 0 0;padding:0;position:relative}
   .tl::before{
     content:"";position:absolute;left:74px;top:6px;bottom:6px;
     width:1px;background:var(--rule);
@@ -109,12 +127,20 @@
   </h1>
 </header>
 
-<ol class="tl">
+<div class="eras">
 
-  <li class="tl-item">
+<section class="era" data-from="1789" data-to="1830">
+  <h2 class="era-h"><span class="era-t">建国与早期共和国</span><span class="era-y">1789–1830</span></h2>
+  <ol class="tl"></ol>
+</section>
+
+<section class="era" data-from="1838" data-to="1865">
+  <h2 class="era-h"><span class="era-t">奴隶制、分裂与内战</span><span class="era-y">1838–1865</span></h2>
+  <ol class="tl">
+<li class="tl-item">
     <div class="tl-year"><span class="dot"></span><span class="yr">1863</span></div>
     <a class="card" href="gettysburg-bilingual.html">
-      <span class="top"><span class="idx">01</span><span class="kind">公墓落成演说</span><span class="go">阅读 →</span></span>
+      <span class="top"><span class="idx">01</span><span class="kind">公开演说</span><span class="go">阅读 →</span></span>
       <h2>葛底斯堡演说</h2>
       <p class="orig">Gettysburg Address — Abraham Lincoln</p>
       <p class="meta">1863 年 11 月 19 日 · 宾夕法尼亚州葛底斯堡军人公墓</p>
@@ -122,8 +148,28 @@
       <p class="tags"><span>内战</span><span>林肯</span><span>立国文献</span><span>含音频</span></p>
     </a>
   </li>
+  </ol>
+</section>
 
-  <li class="tl-item">
+<section class="era" data-from="1895" data-to="1918">
+  <h2 class="era-h"><span class="era-t">镀金时代与进步时代</span><span class="era-y">1895–1918</span></h2>
+  <ol class="tl"></ol>
+</section>
+
+<section class="era" data-from="1933" data-to="1945">
+  <h2 class="era-h"><span class="era-t">大萧条与第二次世界大战</span><span class="era-y">1933–1945</span></h2>
+  <ol class="tl"></ol>
+</section>
+
+<section class="era" data-from="1946" data-to="1962">
+  <h2 class="era-h"><span class="era-t">冷战初期</span><span class="era-y">1946–1962</span></h2>
+  <ol class="tl"></ol>
+</section>
+
+<section class="era" data-from="1963" data-to="2009">
+  <h2 class="era-h"><span class="era-t">民权与当代</span><span class="era-y">1963–2009</span></h2>
+  <ol class="tl">
+<li class="tl-item">
     <div class="tl-year"><span class="dot"></span><span class="yr">2009</span></div>
     <a class="card" href="obama-inaugural-bilingual.html">
       <span class="top"><span class="idx">02</span><span class="kind">就职演说</span><span class="go">阅读 →</span></span>
@@ -134,25 +180,27 @@
       <p class="tags"><span>演讲</span><span>政治</span><span>美式发音</span><span>含音频</span></p>
     </a>
   </li>
+  </ol>
+</section>
 
   <!--
-  新增一篇时复制下面这段 <li>…</li>：年份写进 .yr，日期与场合写进 .meta，
-  .intro 写 200–300 字的历史政治背景（不写篇幅统计），然后按年份插到正确位置。
+  新增一篇：推荐用 scripts/add_to_index.py 插入，它会自动选时代、按年份排序、重排编号、更新「共 N 篇」。
+  手工插入时复制下面这段 <li>…</li>，放进对应时代的 <ol class="tl">（时代区间见各 section 的 data-from / data-to）。
 
   <li class="tl-item">
-    <div class="tl-year"><span class="dot"></span><span class="yr">1863</span></div>
+    <div class="tl-year"><span class="dot"></span><span class="yr">1789</span></div>
     <a class="card" href="文件名.html">
-      <span class="top"><span class="idx">02</span><span class="kind">演说类型</span><span class="go">阅读 →</span></span>
+      <span class="top"><span class="idx">01</span><span class="kind">演说类型</span><span class="go">阅读 →</span></span>
       <h2>中文标题</h2>
       <p class="orig">English Title — Author</p>
-      <p class="meta">1863 年 11 月 19 日 · 地点与场合</p>
-      <p class="intro">200–300 字历史政治背景</p>
+      <p class="meta">1789 年 4 月 30 日 · 地点与场合</p>
+      <p class="intro">200–300 字历史政治背景（不写篇幅统计）</p>
       <p class="tags"><span>标签</span><span>标签</span></p>
     </a>
   </li>
   -->
 
-</ol>
+</div>
 
 <footer class="ft">
   共 2 篇 · 按时间先后排列 · 浏览器直接打开，无依赖。
