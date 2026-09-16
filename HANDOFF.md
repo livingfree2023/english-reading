@@ -1,0 +1,145 @@
+# HANDOFF.md
+
+## 项目: 用演讲串起的美国史
+
+- **站点**: https://www.booknim.com
+- **仓库**: `livingfree2023/english-reading`（公开），分支 `main`
+- **部署**: Cloudflare Pages，自动从 `main` 构建（无构建步骤，纯静态 HTML）
+- **本地克隆**: `<workspace>/english-reading/`
+
+## 生产技能
+
+`bilingual-reading-page` skill（用户级，`~/.workbuddy-ai/skills/bilingual-reading-page/`）：
+
+| 文件 | 用途 |
+|------|------|
+| `SKILL.md` | 生产流程、版权/媒体规则、体例 |
+| `assets/page-template.html` | 文章页骨架（CSS + JS + 占位符） |
+| `assets/index-template.html` | 时间轴首页骨架（六个时代分区） |
+| `scripts/add_to_index.py` | 按年份插入卡片到首页，自动选时代、重排编号、更新「共 N 篇」 |
+
+**如果新机器上没有这个 skill**：任何一个已发布页面（如 `washington-first-inaugural-1789.html`）都是完整的 HTML 参考——结构、CSS、JS 可直接复制。`add_to_index.py` 的用法见下文「每篇流程」第 6 步。
+
+## 内容计划: 28 篇总计
+
+完整清单与每篇的版权依据见 `CONTENT.md`。
+
+### 已发布（3 篇）
+
+| 文件 | 年份 | 标题 |
+|------|------|------|
+| washington-first-inaugural-1789.html | 1789 | 华盛顿首次就职演说 |
+| gettysburg-bilingual.html | 1863 | 葛底斯堡演说 (Bliss 抄本) |
+| obama-inaugural-bilingual.html | 2009 | 奥巴马首次就职演说 |
+
+### 待验证草稿（2 篇，已提交到 repo 但未入索引）
+
+由 sub-agent 生成，未人工审核。需检查：结构完整性（back-link、canonical、OG 标签、词汇 span、闭合标签）、正文内容、翻译质量、版权依据、`data-page-node-id` 清理。验证后用 `add_to_index.py` 注册到首页。
+
+| 文件 | 年份 | 标题 | 形式 |
+|------|------|------|------|
+| jefferson-first-inaugural-1801.html | 1801 | 杰斐逊首次就职演说 | 全文 |
+| washington-farewell-1796.html | 1796 | 华盛顿告别演说 | 节选 |
+
+### 待做（23 篇）
+
+按年代顺序，下一批：
+1. 1830 韦伯斯特「Liberty and Union」（节选）
+2. 1838 林肯青年学会演说（节选）
+3. 1852 道格拉斯「What to the Slave Is the Fourth of July?」（全文）
+
+完整清单见 `CONTENT.md`。
+
+## 首页时代分区
+
+| 时代 | 年份 | 标题 |
+|------|------|------|
+| 1 | 1789–1830 | 建国与早期共和国 |
+| 2 | 1838–1865 | 奴隶制、分裂与内战 |
+| 3 | 1895–1918 | 镀金时代与进步时代 |
+| 4 | 1933–1945 | 大萧条与第二次世界大战 |
+| 5 | 1946–1962 | 冷战初期 |
+| 6 | 1963–2009 | 民权与当代 |
+
+空时代用 CSS `.era:not(:has(.tl-item)){display:none}` 隐藏。
+
+## 每篇流程
+
+1. **取原文**：Wikisource / Yale Avalon Project / Library of Congress 等权威来源，逐字核对。
+2. **套模板**：读 `assets/page-template.html`，替换占位符（`{{FILE_SLUG}}`、`{{AUDIO_SRC}}` 等），填入英中对照段落 + 词汇注释。
+3. **词汇注释**：`<span class="voc"><span class="w">word</span><span class="g"><i>词性</i> /IPA/ 中文释义</span></span>`。JS 自动解析 `.g` 为 data 属性，页尾生成去重词汇总表。
+4. **媒体**：音频取 Wikimedia Commons MP3 转码；视频走 YouTube `youtube-nocookie` 懒加载（点击才插入 iframe）。1877 年前的演说无原声音频；可附现代朗诵但须注明「非历史原声」。无媒体时整块 `.media` 不出现（模板 JS 自隐藏）。
+5. **页脚**：注明来源 URL、版权依据、历史背景说明。
+6. **注册首页**：
+   ```bash
+   python3 ~/.workbuddy-ai/skills/bilingual-reading-page/scripts/add_to_index.py <repo_dir> \
+     --file <filename>.html --year <YYYY> \
+     --date "YYYY 年 M 月 D 日 · 地点" --kind "就职演说" \
+     --zh "中文标题" --en "English Title — Author" \
+     --tags "标签1,标签2" --intro "200–300 字历史政治背景"
+   ```
+7. **清理 `data-page-node-id`**：编辑器会在每个 HTML 元素上注入此属性。提交前必须清除：
+   ```bash
+   git checkout -- index.html   # 若只是被重新注入
+   # 或用正则: \s+data-page-node-id="[A-Za-z0-9_-]+"
+   ```
+8. **提交推送**：`git add <file> index.html CONTENT.md && git commit && git push origin main`
+
+## 版权规则（硬约束）
+
+- **全文（安全）**：美国联邦官员职务作品（17 U.S.C. §105——总统就职、国情咨文、国会记录）；1930 年前出版作品；明确标注 CC/PD 的文本。
+- **只能节选**：私人身份的近现代演讲（马丁·路德·金、乔布斯、TED 等）。判例：*Estate of King v. CBS*, 194 F.3d 1211 (11th Cir. 1999)——「performance」非「general publication」，遗产管理机构持有著作权。
+- **FDR 1933 首次就职演说**：Public Papers 系列无 FDR 卷（NARA/GovInfo 确认），PD 依据待定，可能降为节选页。
+
+## 媒体规则（硬约束）
+
+- 音频视频一律外链嵌入，绝不下载进仓库。
+- 音频先确认是否本人原声（录音技术 1877 年才出现），不是就注明「现代朗诵，非历史原声」。
+- 找不到媒体就把该行隐藏（模板已实现）；整块无内容时 `.media` 不出现。
+
+## 卡片体例
+
+- 卡片写 200–300 字历史政治背景，不写篇幅统计（段数/标注数）。
+- `kind` 取值：就职演说 / 国情咨文 / 国会演说 / 卸任文告 / 竞选演说 / 公开演说 / 节选。
+- 标签用逗号分隔。
+
+## 透明度方案（本会话商定）
+
+1. **任务列表**：每篇拆 4 个 TaskCreate 节点（验证 → 注册 → 更新状态 → 提交），spinner 实时显示当前步骤。
+2. **CONTENT.md 看板**：状态四档——`待做` / `进行中` / `待验证` / `已发布`。每步变更写回并提交，repo 随时可查。
+3. **并行 sub-agent**：新页面用后台 agent 并行生成；主线程同时验证已完成文件。agent 返回后立即验证并更新状态。
+4. **独立操作合并**：互不依赖的检查放在一条消息里并发调用，减少往返等待。
+
+## 已知问题
+
+- `data-page-node-id`：WorkBuddy 编辑器在每个 HTML 元素上注入此属性。提交前必须清除。快速修复：`git checkout -- <file>`（若只是被重新注入）。
+- 仓库 git 历史中仍有 24.6 MB `media/obama-inaugural-2009.mp3` blob（已从工作区删除但历史未重写）。彻底清除需 `git filter-repo` + 强推（破坏性操作，需用户同意）。
+- `sitemap.xml` 尚未生成。
+- FDR 1933 首次就职演说 PD 依据未定。
+
+## 快速恢复
+
+```bash
+# 克隆或拉取
+git clone git@github.com:livingfree2023/english-reading.git
+# 或: cd <existing clone> && git pull origin main
+
+# 查看当前状态
+cat CONTENT.md           # 状态看板
+git log --oneline -5      # 最近提交
+
+# 确认 skill 存在
+ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
+
+# 下一步：验证 2 篇待验证草稿
+# 1. 读 jefferson-first-inaugural-1801.html — 检查结构、内容、版权
+# 2. 读 washington-farewell-1796.html — 同上
+# 3. 用 add_to_index.py 注册到首页
+# 4. 更新 CONTENT.md 状态为「已发布」
+# 5. 提交推送
+
+# 然后：创建新页面（Webster 1830、Lincoln 1838、Douglass 1852）
+# - 用 bilingual-reading-page skill 获取模板和规则
+# - 可启动后台 agent 并行生成
+# - 按上述「每篇流程」执行
+```

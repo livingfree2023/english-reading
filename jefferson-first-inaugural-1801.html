@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>杰斐逊首次就职演说 · 中英双语精注版</title>
+<meta name="description" content="杰斐逊首次就职演说：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<link rel="canonical" href="https://www.booknim.com/jefferson-first-inaugural-1801.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.booknim.com/jefferson-first-inaugural-1801.html">
+<meta property="og:title" content="杰斐逊首次就职演说 · 中英双语精注版">
+<meta property="og:description" content="杰斐逊首次就职演说：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<meta property="og:site_name" content="双语精读 · 用演讲串起的美国史">
+<style>
+  :root{
+    --bg:#fbfaf7;
+    --paper:#ffffff;
+    --ink:#1c1b19;
+    --ink-soft:#4a4744;
+    --zh:#2f4f6f;
+    --accent:#8b1e1e;
+    --gold:#a8842c;
+    --rule:#e6e1d8;
+    --chip:#f4f1ea;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Georgia","Times New Roman",-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",serif;
+    line-height:1.75;
+  }
+  .wrap{max-width:780px;margin:0 auto;padding:0 24px 60px}
+
+  .back{
+    display:inline-block;margin:20px 0 0;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12px;letter-spacing:.04em;color:var(--gold);text-decoration:none;
+  }
+  .back:hover{color:var(--accent)}
+  .back + header.hd{padding-top:12px}
+  header.hd{padding:38px 0 18px;border-bottom:3px double var(--rule);margin-bottom:4px}
+  .kicker{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--gold);margin:0 0 8px;
+  }
+  h1{font-size:25px;line-height:1.3;margin:0 0 6px;font-weight:600;letter-spacing:.01em}
+  h1 small{display:block;font-size:13.5px;font-weight:400;color:var(--ink-soft);margin-top:6px;letter-spacing:.04em}
+
+  /* 音视频 */
+  .media{
+    margin:14px 0 2px;padding:10px 13px 11px;
+    background:var(--paper);border:1px solid var(--rule);border-radius:9px;
+  }
+  .media[hidden],.mrow[hidden]{display:none}
+  .mrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .mrow.sep{margin-top:8px;padding-top:8px;border-top:1px dashed #eee8dc}
+  .mlbl{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.14em;color:var(--gold);flex:none;
+  }
+  .aud{flex:1 1 240px;min-width:200px;height:32px;display:block}
+  .mn{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:11.5px;color:#8d887e;line-height:1.5}
+  .mn a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+  .mn a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+  .vidbtn{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12.5px;cursor:pointer;padding:5px 12px;border-radius:999px;
+    border:1px solid var(--rule);background:var(--paper);color:var(--ink-soft);transition:.15s;
+  }
+  .vidbtn:hover{border-color:var(--gold);color:var(--ink)}
+  .vidwrap{margin-top:10px}
+  .vidwrap[hidden]{display:none}
+  .vidwrap iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:6px;background:#000}
+
+  /* 设置：默认隐藏，点右下角按钮展开 */
+  .fab{
+    position:fixed;right:16px;bottom:16px;z-index:310;
+    width:38px;height:38px;border-radius:50%;
+    border:1px solid var(--rule);background:rgba(255,255,255,.92);
+    color:var(--ink-soft);cursor:pointer;
+    box-shadow:0 2px 10px rgba(40,32,18,.10);
+    display:flex;align-items:center;justify-content:center;
+    font-size:16px;line-height:1;padding:0;
+    backdrop-filter:blur(6px);transition:.15s;
+  }
+  .fab:hover{color:var(--ink);border-color:var(--gold)}
+  .panel{
+    position:fixed;right:16px;bottom:62px;z-index:310;
+    min-width:186px;padding:8px 12px 10px;
+    background:#fff;border:1px solid #e6dfd0;border-radius:10px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:13px;color:var(--ink-soft);
+  }
+  .panel[hidden]{display:none}
+  .panel .row{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:5px 0;white-space:nowrap}
+  .panel .row + .row{border-top:1px dashed #eee8dc}
+  .panel .info{padding-top:7px;margin-top:2px;border-top:1px solid #eee8dc;font-size:11.5px;color:#8d887e}
+  .sw{
+    position:relative;width:34px;height:19px;flex:none;
+    border:none;border-radius:999px;background:#dcd6ca;cursor:pointer;padding:0;transition:background .15s;
+  }
+  .sw::after{
+    content:"";position:absolute;top:2px;left:2px;
+    width:15px;height:15px;border-radius:50%;background:#fff;
+    box-shadow:0 1px 2px rgba(0,0,0,.22);transition:left .15s;
+  }
+  .sw[aria-pressed="true"]{background:var(--accent)}
+  .sw[aria-pressed="true"]::after{left:17px}
+
+  .para{padding:13px 0;border-bottom:1px solid var(--rule)}
+  .para:first-of-type{padding-top:4px}
+  .para .no{
+    display:inline-block;font-size:10px;letter-spacing:.14em;color:var(--gold);
+    font-family:-apple-system,sans-serif;margin-bottom:4px;
+  }
+  .en{font-size:17px;line-height:1.62;color:var(--ink);text-align:justify;hyphens:auto;margin:0}
+  .en p{margin:0 0 6px}
+  .zh{
+    margin-top:7px;padding-left:13px;
+    border-left:3px solid #dfe7ee;
+    font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:14px;line-height:1.7;color:var(--zh);
+  }
+  .en .q{display:block;margin:10px 0 2px 22px;font-style:italic;color:var(--ink-soft)}
+  .zh .q{display:block;margin:7px 0 2px 8px;color:var(--zh)}
+
+  /* 词汇：原文只留虚线下划线，释义隐藏在 .g 中，由浮层读取 */
+  .voc{display:inline;cursor:help;position:relative}
+  .voc .w{
+    text-decoration:underline dotted var(--gold) 1.5px;
+    text-underline-offset:4px;font-weight:600;transition:background .12s;
+  }
+  .voc .w:hover,.voc.on .w{background:linear-gradient(transparent 62%,#f6e8c8 62%)}
+  .voc .g{display:none}
+
+  .vpop{
+    position:fixed;left:0;top:0;z-index:200;
+    min-width:150px;max-width:300px;padding:10px 13px 11px;
+    background:#fff;color:var(--ink);
+    border:1px solid #e6dfd0;border-radius:9px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    pointer-events:none;opacity:0;transform:translateY(4px);
+    transition:opacity .13s ease,transform .13s ease;
+  }
+  .vpop.show{opacity:1;transform:translateY(0)}
+  .vpop[hidden]{display:none}
+  .vpop .pw{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:600;color:var(--ink);line-height:1.35;margin-bottom:5px}
+  .vpop .pm{font-size:13px;line-height:1.5;margin-bottom:4px;display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
+  .vpop .pos{color:var(--gold);font-style:italic;flex:none}
+  .vpop .ipa{color:var(--accent);font-family:"Times New Roman",Times,serif;font-size:15px}
+  .vpop .pd{font-size:13.5px;line-height:1.55;color:var(--ink-soft);padding-top:6px;border-top:1px dashed #ede7da}
+  .vpop .ar{position:absolute;width:10px;height:10px;background:#fff;border:1px solid #e6dfd0;transform:rotate(45deg)}
+  .vpop:not(.below) .ar{bottom:-6px;border-top:none;border-left:none}
+  .vpop.below .ar{top:-6px;border-bottom:none;border-right:none}
+  .vpop.pinned .pw::after{
+    content:"已固定";float:right;margin-left:10px;
+    font-family:-apple-system,"PingFang SC",sans-serif;
+    font-size:10px;font-weight:400;color:var(--gold);
+    border:1px solid var(--gold);border-radius:3px;padding:1px 4px;letter-spacing:.05em;
+  }
+
+  body.no-gloss .voc{cursor:default}
+  body.no-gloss .voc .w{text-decoration:none;font-weight:400;background:none !important}
+  body.no-zh .zh{display:none}
+
+  .gloss{margin-top:36px;padding-top:20px;border-top:3px double var(--rule)}
+  .gloss h2{font-size:17px;margin:0 0 4px;font-weight:600}
+  .gloss .sub{font-size:12px;color:var(--ink-soft);margin:0 0 12px;font-family:-apple-system,sans-serif}
+  table.gt{width:100%;border-collapse:collapse;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:12.5px}
+  table.gt th,table.gt td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+  table.gt th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);border-bottom:2px solid var(--rule);font-weight:600}
+  table.gt td.wd{font-family:Georgia,serif;font-weight:600;width:20%}
+  table.gt td.ps{color:var(--gold);width:11%;font-variant:italic}
+  table.gt td.ip{font-family:"Times New Roman",serif;color:var(--accent);width:24%}
+  table.gt tr:hover td{background:var(--chip)}
+
+  footer.ft{
+    margin-top:32px;font-size:11.5px;color:var(--ink-soft);line-height:1.75;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  }
+  footer.ft[hidden]{display:none}
+
+  @media (max-width:640px){
+    .wrap{padding:0 15px 56px}
+    h1{font-size:21px}
+    .en{font-size:16px;line-height:1.72}
+    .zh{font-size:13.5px;line-height:1.72}
+    .gloss table.gt td.ip{width:auto}
+    .fab{right:12px;bottom:12px;width:34px;height:34px;font-size:14px}
+    .panel{right:12px;bottom:54px}
+  }
+  @media print{
+    .fab,.panel,.media{display:none !important}
+    body{background:#fff}
+    .para{page-break-inside:avoid}
+    .gloss{page-break-before:always}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<a class="back" href="index.html">← 返回时间轴</a>
+
+<header class="hd">
+  <p class="kicker">Senate Chamber · United States Capitol · Washington, D.C. · March 4, 1801</p>
+  <h1>杰斐逊首次就职演说
+    <small>First Inaugural Address — Thomas Jefferson · 托马斯·杰斐逊</small>
+  </h1>
+</header>
+
+<section class="media" id="media" hidden>
+  <div class="mrow" data-media="audio">
+    <span class="mlbl">音频</span>
+    <audio class="aud" controls preload="none" src=""></audio>
+    <span class="mn"></span>
+  </div>
+</section>
+
+<main id="body">
+<section class="para">
+  <span class="no">01</span>
+  <div class="en">FRIENDS AND FELLOW-CITIZENS,<br><br>Called upon to undertake the duties of the first executive office of our country, I <span class="voc"><span class="w">avail myself of</span><span class="g"><i>phr.</i> /əˈveɪl maɪˈself əv/ 利用，借……之便</span></span> the presence of that portion of my fellow-citizens which is here assembled to express my grateful thanks for the favor with which they have been pleased to look toward me, to declare a sincere consciousness that the task is above my talents, and that I approach it with those anxious and awful <span class="voc"><span class="w">presentiments</span><span class="g"><i>n.</i> /prɪˈzentɪmənts/ 预感（多指不祥的）</span></span> which the greatness of the charge and the weakness of my powers so justly inspire. A rising nation, spread over a wide and fruitful land, traversing all the seas with the rich productions of their industry, engaged in commerce with nations who feel power and forget right, advancing rapidly to destinies beyond the reach of mortal eye -- when I <span class="voc"><span class="w">contemplate</span><span class="g"><i>v.</i> /ˈkɑːntəmpleɪt/ 凝视，思量</span></span> these <span class="voc"><span class="w">transcendent</span><span class="g"><i>adj.</i> /trænˈsendənt/ 卓越的，超凡的</span></span> objects, and see the honor, the happiness, and the hopes of this beloved country committed to the issue and the <span class="voc"><span class="w">auspices</span><span class="g"><i>n.</i> /ˈɔːspɪsɪz/ 吉兆；庇护与主持</span></span> of this day, I shrink from the contemplation, and humble myself before the <span class="voc"><span class="w">magnitude</span><span class="g"><i>n.</i> /ˈmæɡnɪtuːd/ 重大，宏大</span></span> of the undertaking. Utterly, indeed, should I despair did not the presence of many whom I here see remind me that in the other high authorities provided by our Constitution I shall find resources of wisdom, of virtue, and of zeal on which to rely under all difficulties. To you, then, gentlemen, who are charged with the sovereign functions of legislation, and to those associated with you, I look with encouragement for that guidance and support which may enable us to <span class="voc"><span class="w">steer</span><span class="g"><i>v.</i> /stɪr/ 掌舵，驾驭</span></span> with safety the vessel in which we are all <span class="voc"><span class="w">embarked</span><span class="g"><i>v.</i> /ɪmˈbɑːrkt/ 登船，共济（embark 的过去分词）</span></span> amidst the conflicting elements of a troubled world.</div>
+  <div class="zh">朋友们、同胞们：<br><br>受召承担我国最高行政职务，我借此机会，借眼前齐聚于此的那一部分同胞，谨致谢忱，感谢诸位垂青于我；同时坦率承认，此任超出我的才具，我是怀着焦虑而敬畏的预感走近它的——职任之重大与我能力之薄弱，理当令我生出这样的预感。一个正在崛起的民族，遍布广阔而丰饶的土地，以其勤劳的丰盛物产穿越所有海洋，与那些只知权势、忘却公理的国家通商，正迅速走向凡人之目所不能及的命运——当我凝望这些超凡的景象，又看到这个可爱国家的荣誉、幸福与希望，都托付给今日之事与今日之征兆，我便从这凝望中退缩，在重任的宏大面前自感卑微。若不是眼前在座的诸位提醒我：在宪法所规定的其他崇高权柄中，我必能找到智慧、德行与热忱的资源，可在一切艰难中倚仗，我真是要全然绝望了。那么，诸位先生——你们受托执掌立法这一主权职能——以及你们的同僚，我怀着鼓舞向你们瞩望，期待得到指引与支持，使我们得以在动荡世界的冲突激流中，安然驾驭这艘我们同舟共济的航船。</div>
+</section>
+
+<section class="para">
+  <span class="no">02</span>
+  <div class="en">During the <span class="voc"><span class="w">contest</span><span class="g"><i>n.</i> /ˈkɑːntest/ 争论，较量</span></span> of opinion through which we have passed the animation of discussions and of <span class="voc"><span class="w">exertions</span><span class="g"><i>n.</i> /ɪɡˈzɜːrʃnz/ 奋力，努力</span></span> has sometimes worn an aspect which might impose on strangers unused to think freely and to speak and to write what they think; but this being now decided by the voice of the nation, announced according to the rules of the Constitution, all will, of course, arrange themselves under the will of the law, and unite in common efforts for the common good. All, too, will bear in mind this sacred principle, that though the will of the majority is in all cases to prevail, that will to be <span class="voc"><span class="w">rightful</span><span class="g"><i>adj.</i> /ˈraɪtfl/ 正当的，合法的</span></span> must be reasonable; that the minority possess their equal rights, which equal law must protect, and to violate would be oppression. Let us, then, fellow-citizens, unite with one heart and one mind. Let us restore to social intercourse that harmony and affection without which liberty and even life itself are but dreary things. And let us reflect that, having banished from our land that religious intolerance under which mankind so long bled and suffered, we have yet gained little if we <span class="voc"><span class="w">countenance</span><span class="g"><i>v.</i> /ˈkaʊntənəns/ 容许，纵容</span></span> a political intolerance as <span class="voc"><span class="w">despotic</span><span class="g"><i>adj.</i> /dɪˈspɑːtɪk/ 专制的，暴虐的</span></span>, as wicked, and capable of as bitter and bloody persecutions. During the <span class="voc"><span class="w">throes</span><span class="g"><i>n.</i> /θroʊz/ 剧痛，阵痛</span></span> and convulsions of the ancient world, during the agonizing spasms of infuriated man, seeking through blood and slaughter his long-lost liberty, it was not wonderful that the agitation of the billows should reach even this distant and peaceful shore; that this should be more felt and feared by some and less by others, and should divide opinions as to measures of safety. But every difference of opinion is not a difference of principle. We have called by different names brethren of the same principle. We are all Republicans, we are all Federalists. If there be any among us who would wish to dissolve this Union or to change its republican form, let them stand undisturbed as monuments of the safety with which error of opinion may be tolerated where reason is left free to combat it. I know, indeed, that some honest men fear that a republican government can not be strong, that this Government is not strong enough; but would the honest patriot, in the full tide of successful experiment, abandon a government which has so far kept us free and firm on the <span class="voc"><span class="w">theoretic</span><span class="g"><i>adj.</i> /ˌθiːəˈretɪk/ 理论上的，纯思辨的</span></span> and <span class="voc"><span class="w">visionary</span><span class="g"><i>adj.</i> /ˈvɪʒəneri/ 空想的，幻影般的</span></span> fear that this Government, the world's best hope, may by possibility want energy to preserve itself? I trust not. I believe this, on the contrary, the strongest Government on earth. I believe it the only one where every man, at the call of the law, would fly to the standard of the law, and would meet invasions of the public order as his own personal concern. Sometimes it is said that man can not be trusted with the government of himself. Can he, then, be trusted with the government of others? Or have we found angels in the forms of kings to govern him? Let history answer this question.</div>
+  <div class="zh">在我们经历的这场意见之争中，辩论与奋争的激烈有时呈现出一种面貌，足以迷惑那些不习惯自由思想、不习惯说出并写下心中所想的外人；但既然国民的声音已依宪法规定的程序作出裁决，所有人当然都会在法律的意志之下各安其位，为共同的福祉同心协力。也愿所有人牢记这条神圣的原则：虽然多数的意志在一切情形下都应当占上风，但这意志要正当，就必须合乎理性；少数派拥有平等的权利，平等的法律必须予以保护，侵犯它们就是压迫。那么，同胞们，让我们以一心一意团结起来。让我们把和谐与情谊还给社会交往——没有它们，自由乃至生命本身都只是索然无味之物。也让我们想到：我们既已把那种令人类长久流血受难的宗教不宽容逐出国境，那么如果我们纵容一种同样专横、同样邪恶、同样能造成惨烈而血腥迫害的政治不宽容，所得的实在太少。在古代世界的阵痛与痉挛中，在被激怒的人们借流血与屠戮去追寻久已失落的自由时的痛苦抽搐里，波涛的震荡竟传到这遥远而宁静的彼岸，本不足为奇；有人对此感受更深、畏惧更甚，有人则较为淡然，因而在安全措施上生出意见分歧，也不足为奇。但意见的分歧并不都是原则的分歧。我们曾用不同的名字称呼持同一原则的弟兄。我们都是共和党人，我们都是联邦党人。我们中间若有人想要解散这个联邦或改变它的共和形式，就让他们不受打扰地站着，成为一座座纪念碑，昭示在理性得以自由与之交战的地方，意见的错误可以被安全地容忍。我当然知道，有些诚实的人担心共和政府不能强而有力，担心这个政府不够强而有力；但是，一位诚实的爱国者，在成功的试验正处高潮之时，会因为一种纯属空想与臆测的恐惧——害怕这个政府，这个世界最好的希望，可能缺乏保全自身的力量——就弃绝一个迄今使我们保持自由与坚定的政府吗？我相信不会。我反倒认为，这是世上最强有力的政府。我认为唯有在这里，每个人一听到法律的召唤便会奔赴法律的旗帜之下，并把对公共秩序的侵犯当作自己的切身之事来对待。有时人们说，人不能被信任自己管理自己。那么，他就能被信任去管理别人吗？还是说，我们曾在君王的形象中找到了天使来统治他？让历史来回答这个问题吧。</div>
+</section>
+
+<section class="para">
+  <span class="no">03</span>
+  <div class="en">Let us, then, with courage and confidence pursue our own Federal and Republican principles, our attachment to union and representative government. Kindly separated by nature and a wide ocean from the exterminating <span class="voc"><span class="w">havoc</span><span class="g"><i>n.</i> /ˈhævək/ 浩劫，大破坏</span></span> of one quarter of the globe; too high-minded to endure the <span class="voc"><span class="w">degradations</span><span class="g"><i>n.</i> /ˌdeɡrəˈdeɪʃnz/ 屈辱，堕落</span></span> of the others; possessing a chosen country, with room enough for our descendants to the thousandth and thousandth generation; entertaining a due sense of our equal right to the use of our own <span class="voc"><span class="w">faculties</span><span class="g"><i>n.</i> /ˈfækltiz/ 才能，官能</span></span>, to the acquisitions of our own industry, to honor and confidence from our fellow-citizens, resulting not from birth, but from our actions and their sense of them; enlightened by a benign religion, professed, indeed, and practiced in various forms, yet all of them <span class="voc"><span class="w">inculcating</span><span class="g"><i>v.</i> /ɪnˈkʌlkeɪtɪŋ/ 谆谆教诲，反复灌输</span></span> honesty, truth, <span class="voc"><span class="w">temperance</span><span class="g"><i>n.</i> /ˈtempərəns/ 节制，有度</span></span>, gratitude, and the love of man; acknowledging and adoring an overruling Providence, which by all its <span class="voc"><span class="w">dispensations</span><span class="g"><i>n.</i> /ˌdɪspenˈseɪʃnz/ 天命的安排，施与</span></span> proves that it delights in the happiness of man here and his greater happiness hereafter -- with all these blessings, what more is necessary to make us a happy and a prosperous people? Still one thing more, fellow-citizens -- a wise and <span class="voc"><span class="w">frugal</span><span class="g"><i>adj.</i> /ˈfruːɡl/ 节俭的，节制的</span></span> Government, which shall restrain men from injuring one another, shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government, and this is necessary to close the circle of our <span class="voc"><span class="w">felicities</span><span class="g"><i>n.</i> /fəˈlɪsətiz/ 幸福，福分</span></span>.</div>
+  <div class="zh">那么，让我们以勇气与信心奉行我们自己的联邦与共和原则，奉行我们对统一与代议制政府的忠诚。大自然与辽阔的海洋仁慈地把我们同地球上一隅那场灭绝性的浩劫隔开；我们的心志高尚，不能忍受其他各处的屈辱；我们拥有一片被选中的国土，其广阔足以供我们的子孙繁衍至千代万代；我们怀抱这样一种应有的体认：我们平等地享有运用自身才能的权利，享有自己勤劳所得的权利，享有同胞给予的荣誉与信任——这并非来自出身，而是来自我们的行为以及他们对此的评价；我们受一种仁慈的宗教的启迪，它虽以各种形式被信奉与实践，却无不教诲诚实、真理、节制、感恩与爱人；我们承认并敬拜一位主宰一切的天意，它一切的安排都证明，它喜悦人今世的幸福，更喜悦人来世更大的幸福——既有这一切福分，要使我们成为幸福而繁荣的人民，还需要什么呢？同胞们，还差一样——一个明智而节俭的政府，它约束人们互不伤害，此外任其自由安排自己的实业与进取，并且不把劳动者挣得的面包从他口中夺走。这便是善政的全部要义，也是圆满我们的幸福所必需的。</div>
+</section>
+
+<section class="para">
+  <span class="no">04</span>
+  <div class="en">About to enter, fellow-citizens, on the exercise of duties which comprehend everything dear and valuable to you, it is proper you should understand what I <span class="voc"><span class="w">deem</span><span class="g"><i>v.</i> /diːm/ 认为，视为</span></span> the essential principles of our Government, and consequently those which ought to shape its Administration. I will compress them within the narrowest <span class="voc"><span class="w">compass</span><span class="g"><i>n.</i> /ˈkʌmpəs/ 范围，界限</span></span> they will bear, stating the general principle, but not all its limitations. Equal and exact justice to all men, of whatever state or persuasion, religious or political; peace, commerce, and honest friendship with all nations, <span class="voc"><span class="w">entangling</span><span class="g"><i>adj.</i> /ɪnˈtæŋɡlɪŋ/ 纠缠的，牵连难解的</span></span> alliances with none; the support of the State governments in all their rights, as the most competent administrations for our domestic concerns and the surest <span class="voc"><span class="w">bulwarks</span><span class="g"><i>n.</i> /ˈbʊlwərks/ 堡垒，屏障</span></span> against antirepublican tendencies; the preservation of the General Government in its whole constitutional vigor, as the <span class="voc"><span class="w">sheet anchor</span><span class="g"><i>phr.</i> /ˈʃiːt ˈæŋkər/ 最后的依靠，主锚</span></span> of our peace at home and safety abroad; a jealous care of the right of election by the people -- a mild and safe corrective of abuses which are lopped by the sword of revolution where peaceable remedies are unprovided; absolute <span class="voc"><span class="w">acquiescence</span><span class="g"><i>n.</i> /ˌækwiˈesns/ 服从，默然接受</span></span> in the decisions of the majority, the vital principle of republics, from which is no appeal but to force, the vital principle and immediate parent of despotism; a well-disciplined militia, our best reliance in peace and for the first moments of war till regulars may relieve them; the supremacy of the civil over the military authority; economy in the public expense, that labor may be lightly burthened; the honest payment of our debts and sacred preservation of the public faith; encouragement of agriculture, and of commerce as its handmaid; the diffusion of information and <span class="voc"><span class="w">arraignment</span><span class="g"><i>n.</i> /əˈreɪnmənt/ 提审，控诉</span></span> of all abuses at the bar of the public reason; freedom of religion; freedom of the press, and freedom of person under the protection of the habeas corpus, and trial by juries impartially selected. These principles form the bright constellation which has gone before us and guided our steps through an age of revolution and reformation. The wisdom of our sages and blood of our heroes have been devoted to their attainment. They should be the creed of our political faith, the text of civic instruction, the <span class="voc"><span class="w">touchstone</span><span class="g"><i>n.</i> /ˈtʌtʃstoʊn/ 试金石，检验标准</span></span> by which to try the services of those we trust; and should we wander from them in moments of error or of alarm, let us hasten to retrace our steps and to regain the road which alone leads to peace, liberty, and safety.</div>
+  <div class="zh">同胞们，我即将去履行那些包含你们所珍视的一切的职责，你们理当了解我认为我国政府的基本原则是什么，从而也了解应当据以塑造本政府施政的那些原则。我将把它们压缩到所能容纳的最窄范围，只陈述通则，而不列举其全部限制。对一切人——无论其信仰或政治立场——给予平等而精确的公正；与所有国家保持和平、通商与真诚的友谊，不与任何国家结下纠缠不清的同盟；支持各州政府在一切权利上的地位，因为它们是处理我们国内事务最称职的行政机构，也是抵御反共和倾向最可靠的堡垒；保全联邦政府完整的宪制活力，它是我们在国内和平与国外安全的最后依靠；以警觉之心守护人民的选举权——这是对弊政温和而稳妥的矫正，而在没有和平补救手段的地方，弊政只能由革命的利剑砍去；绝对服从多数的决定，这是共和政体的生命原则，除此之外别无上诉，唯有诉诸武力，而武力正是专制政体的生命原则与直接母体；一支训练有素的民兵，是我们在和平时期以及战争最初阶段最可倚仗的力量，直到正规军前来接替；文职权力高于军事权力；公共开支力求节约，使劳动的负担得以轻省；诚实偿付我们的债务，神圣地守护公共信用；鼓励农业，并鼓励作为其婢女的商业；传播知识，把一切弊政提交公共理性的法庭受审；宗教自由；出版自由；以及在人身保护令保障下的人身自由，和由公正遴选的陪审团进行的审判。这些原则构成灿烂的星座，走在我们前面，指引我们走过一个革命与改革的时代。我们先哲的智慧与英雄的鲜血，都曾为求得它们而献出。它们应当是我们政治信仰的信条、公民教育的课本、检验我们所信托者的服务的试金石；倘若我们在迷误或惊惶的时刻偏离了它们，就让我们赶紧循原路返回，重新踏上那条唯一通向和平、自由与安全的道路。</div>
+</section>
+
+<section class="para">
+  <span class="no">05</span>
+  <div class="en">I <span class="voc"><span class="w">repair</span><span class="g"><i>v.</i> /rɪˈper/ 前往，赴（古义）</span></span>, then, fellow-citizens, to the post you have assigned me. With experience enough in subordinate offices to have seen the difficulties of this the greatest of all, I have learnt to expect that it will rarely fall to the lot of imperfect man to retire from this station with the reputation and the favor which bring him into it. Without <span class="voc"><span class="w">pretensions</span><span class="g"><i>n.</i> /prɪˈtenʃnz/ 自许，奢望</span></span> to that high confidence you reposed in our first and greatest revolutionary character, whose <span class="voc"><span class="w">preeminent</span><span class="g"><i>adj.</i> /priˈemɪnənt/ 卓越的，超群的</span></span> services had entitled him to the first place in his country's love and destined for him the fairest page in the volume of faithful history, I ask so much confidence only as may give firmness and effect to the legal administration of your affairs. I shall often go wrong through defect of judgment. When right, I shall often be thought wrong by those whose positions will not command a view of the whole ground. I ask your <span class="voc"><span class="w">indulgence</span><span class="g"><i>n.</i> /ɪnˈdʌldʒəns/ 宽容，体谅</span></span> for my own errors, which will never be intentional, and your support against the errors of others, who may condemn what they would not if seen in all its parts. The <span class="voc"><span class="w">approbation</span><span class="g"><i>n.</i> /ˌæprəˈbeɪʃn/ 赞许，认可</span></span> implied by your <span class="voc"><span class="w">suffrage</span><span class="g"><i>n.</i> /ˈsʌfrɪdʒ/ 选举，投票</span></span> is a great consolation to me for the past, and my future <span class="voc"><span class="w">solicitude</span><span class="g"><i>n.</i> /səˈlɪsɪtuːd/ 关切，牵挂</span></span> will be to retain the good opinion of those who have bestowed it in advance, to <span class="voc"><span class="w">conciliate</span><span class="g"><i>v.</i> /kənˈsɪlieɪt/ 安抚，争取（好感）</span></span> that of others by doing them all the good in my power, and to be instrumental to the happiness and freedom of all.</div>
+  <div class="zh">那么，同胞们，我这就前往你们指派给我的岗位。在下级职位上我已积累了足够的经验，足以看清这最高职务的艰难，因此我早已明白：一个不完美的人，能带着把他送入此位时的声望与恩宠从这个位置上退下来，是罕有的际遇。我不敢奢望你们曾给予那位首屈一指、最伟大的革命人物的高度信任——他那卓越的功绩使他有资格占据国人敬爱中的首位，也注定让他在忠实的历史册页上占有最美的一页——我只求得到那样一份信任，足以使你们事务的合法治理坚定而有效。我会因判断力的缺陷而常常出错；即使判断正确，我也常会被那些所处位置无法纵览全局的人误认为错。我请你们宽容我自己的过错，它们绝非出于故意；也请你们支持我抵御他人的错误，他们若能看到事情的全貌，本不会那样谴责。你们的投票所蕴含的赞许，对我过去的种种是莫大的安慰；而我今后的关切，在于保持那些预先给予我信任者的好评，以竭尽所能为他们谋福祉来争取其他人的好感，并致力于所有人的幸福与自由。</div>
+</section>
+
+<section class="para">
+  <span class="no">06</span>
+  <div class="en">Relying, then, on the <span class="voc"><span class="w">patronage</span><span class="g"><i>n.</i> /ˈpeɪtrənɪdʒ/ 庇护，眷顾</span></span> of your good will, I advance with obedience to the work, ready to retire from it whenever you become <span class="voc"><span class="w">sensible</span><span class="g"><i>adj.</i> /ˈsensəbl/ 察觉到的，知晓的</span></span> how much better choice it is in your power to make. And may that Infinite Power which rules the destinies of the universe lead our <span class="voc"><span class="w">councils</span><span class="g"><i>n.</i> /ˈkaʊnslz/ 议事，谋议</span></span> to what is best, and give them a favorable <span class="voc"><span class="w">issue</span><span class="g"><i>n.</i> /ˈɪʃuː/ 结果，结局</span></span> for your peace and prosperity.</div>
+  <div class="zh">那么，仰赖你们善意的眷顾，我怀着服从之心走上这项事业，随时准备在你们察觉到自己本可以作出更好的选择时抽身退下。愿那位主宰宇宙命运的无穷力量，引导我们的谋划走向至善，并使之有一个有利于你们和平与繁荣的结果。</div>
+</section>
+</main>
+
+<section class="gloss">
+  <h2>词汇总表</h2>
+  <p class="sub">按英文段落出现顺序排列，共 <b id="gcount">—</b> 条。</p>
+  <table class="gt">
+    <thead><tr><th>Word</th><th>词性</th><th>音标（美式）</th><th>释义</th></tr></thead>
+    <tbody id="gbody"></tbody>
+  </table>
+</section>
+
+<footer class="ft">
+  <p><b>文本版本</b>：耶鲁法学院 Avalon Project 所载 1801 年文本，与国会、国家档案馆通行的排印本一致。演说当日即由《National Intelligencer》等报纸刊出，各早期印本在标点与大小写上互有出入；本页照 Avalon 版原文排印，未作改动。</p>
+  <p><b>文本版权</b>：1801 年公开发表，著作权早已过期，属公有领域。文本来源：<a href="https://avalon.law.yale.edu/19th_century/jefinau1.asp" target="_blank" rel="noopener">Yale Law School, Avalon Project — Thomas Jefferson, First Inaugural Address, March 4, 1801</a>。中文译文为本网站自译。</p>
+  <p><b>关于音频与视频</b>：1801 年远早于录音技术的问世，杰斐逊没有留下任何历史原声，如今流传的朗读都是后人诵读。本页未找到可自由授权的朗诵音频或允许嵌入的影像，故不附音视频。</p>
+  <p><b>背景</b>：1800 年大选中杰斐逊与竞选搭档阿伦·伯尔选举人票持平，众议院自 2 月 11 日起连续投票，直到 2 月 17 日才选出杰斐逊，执政的联邦党人第一次把政权和平交给反对派。词汇音标采用美式发音（General American）。</p>
+</footer>
+
+</div>
+
+<div class="panel" id="panel" hidden>
+  <div class="row"><span>中文译文</span><button class="sw" id="tgZh" aria-pressed="true" aria-label="中文译文"></button></div>
+  <div class="row"><span>词汇浮层</span><button class="sw" id="tgGl" aria-pressed="true" aria-label="词汇浮层"></button></div>
+  <div class="info">共 <b id="gcount2">—</b> 条词汇 · 音标为美式发音</div>
+</div>
+<button class="fab" id="fab" aria-label="显示设置" title="显示设置">⚙</button>
+
+<div class="vpop" id="vpop" hidden aria-hidden="true">
+  <span class="ar"></span>
+  <div class="pw"></div>
+  <div class="pm"><span class="pos"></span><span class="ipa"></span></div>
+  <div class="pd"></div>
+</div>
+
+<script>
+(function(){
+  var body = document.body;
+
+  /* 0. 媒体是可选的：未填写的行自动隐藏，全都没填则整块不显示 */
+  var mediaSec = document.getElementById('media');
+  if(mediaSec){
+    var rows = Array.prototype.slice.call(mediaSec.querySelectorAll('[data-media]'));
+    var shown = 0;
+    rows.forEach(function(r){
+      var filled = !/\{\{[A-Z_]+\}\}/.test(r.innerHTML) && !/\ssrc=""/.test(r.innerHTML);
+      r.hidden = !filled;
+      if(filled){ r.classList.toggle('sep', shown > 0); shown++; }
+    });
+    mediaSec.hidden = shown === 0;
+  }
+  var ft = document.querySelector('footer.ft');
+  if(ft){
+    ft.hidden = ft.textContent.trim() === '' || /\{\{[A-Z_]+\}\}/.test(ft.textContent);
+  }
+
+  /* 1. 词汇释义 -> data 属性 */
+  var seen = Object.create(null);
+  var items = [];
+  Array.prototype.forEach.call(document.querySelectorAll('#body .voc'), function(v){
+    var wEl = v.querySelector('.w');
+    var gEl = v.querySelector('.g');
+    if(!wEl || !gEl) return;
+    var word = wEl.textContent.trim();
+    var posEl = gEl.querySelector('i');
+    var pos = posEl ? posEl.textContent.trim() : '';
+    var rest = posEl ? gEl.textContent.replace(posEl.textContent, '').trim() : gEl.textContent.trim();
+    var m = rest.match(/^(\/[^/]*\/)\s*([\s\S]*)$/);
+    var ipa = m ? m[1] : '';
+    var def = m ? m[2] : rest;
+    v.setAttribute('data-w', word);
+    v.setAttribute('data-pos', pos);
+    v.setAttribute('data-ipa', ipa);
+    v.setAttribute('data-def', def);
+    v.setAttribute('tabindex', '0');
+    v.setAttribute('role', 'button');
+    v.setAttribute('aria-label', word + ' ' + ipa + ' ' + def);
+    var key = word.toLowerCase();
+    if(!seen[key]){ seen[key] = 1; items.push({w:word, pos:pos, ipa:ipa, def:def}); }
+  });
+
+  /* 2. 页尾词汇总表（去重、按出现顺序） */
+  var tb = document.getElementById('gbody');
+  items.forEach(function(r){
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td class="wd"></td><td class="ps"></td><td class="ip"></td><td></td>';
+    tr.children[0].textContent = r.w;
+    tr.children[1].textContent = r.pos;
+    tr.children[2].textContent = r.ipa;
+    tr.children[3].textContent = r.def;
+    tb.appendChild(tr);
+  });
+  document.getElementById('gcount').textContent = items.length;
+  var g2 = document.getElementById('gcount2');
+  if(g2) g2.textContent = items.length;
+
+  /* 3. 浮层：悬停显示，单击固定，点别处 / Esc 关闭 */
+  var pop   = document.getElementById('vpop');
+  var pw    = pop.querySelector('.pw');
+  var ppos  = pop.querySelector('.pos');
+  var pipa  = pop.querySelector('.ipa');
+  var pdef  = pop.querySelector('.pd');
+  var arrow = pop.querySelector('.ar');
+  var current = null, pinned = null;
+
+  function enabled(){ return !body.classList.contains('no-gloss'); }
+
+  function place(el){
+    var r = el.getBoundingClientRect();
+    var pwid = pop.offsetWidth, phgt = pop.offsetHeight;
+    var left = Math.max(10, Math.min(r.left + r.width/2 - pwid/2, window.innerWidth - pwid - 10));
+    var top = r.top - phgt - 11, below = false;
+    if(top < 10){ top = r.bottom + 11; below = true; }
+    pop.style.left = Math.round(left) + 'px';
+    pop.style.top  = Math.round(top) + 'px';
+    pop.classList.toggle('below', below);
+    arrow.style.left = Math.round(Math.max(10, Math.min(r.left + r.width/2 - left, pwid - 20))) + 'px';
+  }
+
+  function show(el){
+    if(!enabled()) return;
+    if(current && current !== el) current.classList.remove('on');
+    current = el; el.classList.add('on');
+    pw.textContent   = el.getAttribute('data-w');
+    ppos.textContent = el.getAttribute('data-pos');
+    pipa.textContent = el.getAttribute('data-ipa');
+    pdef.textContent = el.getAttribute('data-def');
+    pop.hidden = false;
+    pop.setAttribute('aria-hidden','false');
+    pop.classList.toggle('pinned', pinned === el);
+    place(el);
+    requestAnimationFrame(function(){ pop.classList.add('show'); });
+  }
+
+  function hide(){
+    if(current){ current.classList.remove('on'); current = null; }
+    pinned = null;
+    pop.classList.remove('show','pinned');
+    pop.hidden = true;
+    pop.setAttribute('aria-hidden','true');
+  }
+
+  function vocOf(t){ return t && t.closest ? t.closest('.voc') : null; }
+
+  document.addEventListener('mouseover', function(e){
+    var v = vocOf(e.target);
+    if(!v || !enabled() || pinned || v === current) return;
+    show(v);
+  });
+  document.addEventListener('mouseout', function(e){
+    var v = vocOf(e.target);
+    if(!v) return;
+    var to = e.relatedTarget;
+    if(to && vocOf(to) === v) return;
+    if(pinned === v) return;
+    hide();
+  });
+  document.addEventListener('click', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled()){
+      if(pinned === v){ hide(); } else { pinned = v; show(v); }
+      return;
+    }
+    if(!v && (current || pinned)) hide();
+  });
+  document.addEventListener('focusin', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled() && v !== current) show(v);
+  });
+  document.addEventListener('focusout', function(e){
+    var v = vocOf(e.target);
+    if(v && !pinned) hide();
+  });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && (current || pinned)) hide();
+  });
+
+  var raf = 0;
+  function reposition(){ if(!current || pop.hidden) return; raf = 0; place(current); }
+  window.addEventListener('scroll', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); }, true);
+  window.addEventListener('resize', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); });
+
+  /* 4. 显示开关（右下角按钮，默认收起） */
+  var tgZh = document.getElementById('tgZh');
+  var tgGl = document.getElementById('tgGl');
+  var fab  = document.getElementById('fab');
+  var panel= document.getElementById('panel');
+
+  function sync(){
+    tgZh.setAttribute('aria-pressed', body.classList.contains('no-zh') ? 'false' : 'true');
+    tgGl.setAttribute('aria-pressed', body.classList.contains('no-gloss') ? 'false' : 'true');
+  }
+  fab.addEventListener('click', function(e){ e.stopPropagation(); panel.hidden = !panel.hidden; });
+  tgZh.addEventListener('click', function(e){ e.stopPropagation(); body.classList.toggle('no-zh'); sync(); });
+  tgGl.addEventListener('click', function(e){
+    e.stopPropagation();
+    body.classList.toggle('no-gloss');
+    if(body.classList.contains('no-gloss')) hide();
+    sync();
+  });
+  panel.addEventListener('click', function(e){ e.stopPropagation(); });
+  document.addEventListener('click', function(e){
+    if(!panel.hidden && !panel.contains(e.target) && e.target !== fab) panel.hidden = true;
+  });
+  sync();
+})();
+</script>
+</body>
+</html>
