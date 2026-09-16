@@ -17,7 +17,7 @@ sourceUrl: "https://www.americanrhetoric.com/speeches/mlkihaveadream.htm"
 copyrightStatus: "copyrighted-excerpt"
 copyrightNote: "本页为受版权保护演说的评论性节选，仅选取必要段落用于英语阅读与历史教育。原文出处： American Rhetoric ；版权归相关权利人所有。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/PbUtL_0vAJk?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 历史影像 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=PbUtL_0vAJk", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/PbUtL_0vAJk?rel=0", "sourceName": "历史影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=PbUtL_0vAJk", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

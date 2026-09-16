@@ -7,7 +7,7 @@ date: "1865 年 3 月 4 日"
 location: "华盛顿"
 era: "奴隶制、分裂与内战"
 kind: "就职演说"
-status: "full"
+status: "excerpt"
 description: "战争即将结束，林肯没有发表胜利宣言，而是追问奴隶制与战争的道德责任。他拒绝把南方人妖魔化，提出“不怨恨任何人，以仁爱对待所有人”，并把战后重建定义为医治国家创伤、追求公正而持久的和平。"
 topics: ["内战", "重建", "和解"]
 difficulty: "intermediate"

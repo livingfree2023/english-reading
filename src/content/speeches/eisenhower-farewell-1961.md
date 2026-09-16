@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/eisenhower-farewell-1961.html"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源：Wikisource「Eisenhower's farewell address (audio transcript)」（https://en.wikisource.org/wiki/Eisenhower%27s_farewell_address_(audio_transcript)）。德怀特·D·艾森豪威尔 1961 年 1 月 17 日从白宫向全国电视广播发表。联邦职务作品（17 U.S.C. §105），载于《Public Papers of the Presidents: Dwight D. Eisenhower, 1960-61》。无原声音频。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/QpV_NkcAtD0?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 总统告别演说影像（YouTube） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=QpV_NkcAtD0", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/QpV_NkcAtD0?rel=0", "sourceName": "总统告别演说影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=QpV_NkcAtD0", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

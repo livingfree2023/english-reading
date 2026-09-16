@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/marshall-harvard-1947.html"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源：Wikisource「Marshall Plan」（https://en.wikisource.org/wiki/Marshall_Plan）。乔治·C·马歇尔 1947 年 6 月 5 日在哈佛大学毕业典礼上以国务卿身份发表。联邦职务作品（17 U.S.C. §105），载于《Department of State Bulletin》第 16 卷第 14 期（1947 年 6 月 15 日）。无原声音频。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/ML7LpdTFcwg?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） George C. Marshall Foundation 音视频 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=ML7LpdTFcwg", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/ML7LpdTFcwg?rel=0", "sourceName": "George C. Marshall Foundation 音视频（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=ML7LpdTFcwg", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

@@ -17,7 +17,7 @@ sourceUrl: "https://www.americanrhetoric.com/speeches/rfkmlkatindianapolis.htm"
 copyrightStatus: "copyrighted-excerpt"
 copyrightNote: "本页为非联邦职务演说的评论性节选。原文出处： American Rhetoric ；版权归相关权利人所有。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/BCrx_u3825g?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） RFK Speeches 影像 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=BCrx_u3825g", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/BCrx_u3825g?rel=0", "sourceName": "RFK Speeches 影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=BCrx_u3825g", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

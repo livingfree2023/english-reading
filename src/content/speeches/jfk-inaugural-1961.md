@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/jfk-inaugural-1961.html"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源：Wikisource「John F. Kennedy's Inaugural Address」（https://en.wikisource.org/wiki/John_F._Kennedy%27s_Inaugural_Address）。约翰·F·肯尼迪 1961 年 1 月 20 日在国会大厦东门廊宣誓就职时发表。联邦职务作品（17 U.S.C. §105），载于《Public Papers of the Presidents: John F. Kennedy, 1961》。无原声音频。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/NwM6s55no6U?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） The Kennedy Center 典礼影像（YouTube） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=NwM6s55no6U", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/NwM6s55no6U?rel=0", "sourceName": "The Kennedy Center 典礼影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=NwM6s55no6U", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

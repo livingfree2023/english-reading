@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/fdr-four-freedoms-1941.html"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源：Wikisource「The Four Freedoms」。富兰克林·D·罗斯福 1941 年 1 月 6 日在国情咨文中向国会联席会议发表。联邦职务作品（17 U.S.C. §105），载于《Congressional Record》87 Cong. Rec. 44。无原声音频。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/5iHKtrirjlY?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） Four Freedoms 影像节选（YouTube） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=5iHKtrirjlY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/5iHKtrirjlY?rel=0", "sourceName": "Four Freedoms 影像节选（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=5iHKtrirjlY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

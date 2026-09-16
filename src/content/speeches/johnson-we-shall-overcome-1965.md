@@ -7,7 +7,7 @@ date: "1965 年 3 月 15 日"
 location: "国会联席会议"
 era: "民权与当代"
 kind: "国会演说"
-status: "full"
+status: "excerpt"
 description: "塞尔玛到蒙哥马利的游行遭到暴力镇压后，约翰逊向国会提交投票权法案。他罕见地借用民权运动的歌名，宣布黑人争取投票权的事业就是全体美国人的事业。"
 topics: ["民权", "投票权", "国会"]
 difficulty: "intermediate"

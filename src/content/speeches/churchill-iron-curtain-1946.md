@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/churchill-iron-curtain-1946.html"
 copyrightStatus: "historical-public-domain"
 copyrightNote: "原文来源：International Churchill Society（国际丘吉尔学会）刊布之《The Sinews of Peace》（https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/the-sinews-of-peace/）；维基文库（Wikisource）目前未收录该演讲全文，「Sinews of Peace」在文库中仍为待建条目。温斯顿·丘吉尔 1946 年 3 月 5 日在密苏里州富尔顿威斯敏斯特学院发表。本篇为节选页：原文约五千词，此处仅选取开篇与「铁幕」核心段落共四段。丘吉尔以英国私人公民身份演说，非美国政府职务作品；演说文本著作权由丘吉尔遗产管理机构持有。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/ZA5ISi9yhhs?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） Westminster College 现场影像（YouTube） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=ZA5ISi9yhhs", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/ZA5ISi9yhhs?rel=0", "sourceName": "Westminster College 现场影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=ZA5ISi9yhhs", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

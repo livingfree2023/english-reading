@@ -17,7 +17,7 @@ sourceUrl: "https://www.americanrhetoric.com/speeches/convention2004/barackobama
 copyrightStatus: "copyrighted-excerpt"
 copyrightNote: "本页为非联邦职务演说的评论性节选。原文出处： American Rhetoric ；版权归相关权利人所有。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/_fMNIofUw2I?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 民主党全国大会官方频道影像 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=_fMNIofUw2I", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/_fMNIofUw2I?rel=0", "sourceName": "民主党全国大会官方频道影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=_fMNIofUw2I", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

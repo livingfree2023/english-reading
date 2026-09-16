@@ -17,7 +17,7 @@ sourceUrl: "https://www.booknim.com/fdr-first-inaugural-1933.html"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源：Wikisource「Franklin D. Roosevelt's First Inaugural Address」。富兰克林·D·罗斯福 1933 年 3 月 4 日在国会大厦东门廊宣誓就职时发表。联邦职务作品（17 U.S.C. §105），亦载于《Congressional Record》78 Cong. Rec. 614。无原声音频。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/MX_v0zxM23Q?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 1933 年就职典礼影像（YouTube；FDR Presidential Library 课程资源） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=MX_v0zxM23Q", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/MX_v0zxM23Q?rel=0", "sourceName": "1933 年就职典礼影像（YouTube；FDR Presidential Library 课程资源）", "sourceUrl": "https://www.youtube.com/watch?v=MX_v0zxM23Q", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

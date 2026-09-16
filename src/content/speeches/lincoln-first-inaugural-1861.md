@@ -7,7 +7,7 @@ date: "1861 年 3 月 4 日"
 location: "华盛顿"
 era: "奴隶制、分裂与内战"
 kind: "就职演说"
-status: "full"
+status: "excerpt"
 description: "南方七州已宣布脱离联邦，林肯在内战爆发前的就职演说中坚持联邦永久存在，同时承诺不以武力侵犯南方各州的财产与权利。他把分裂视为无政府状态的开端，最后以“我们不是敌人，而是朋友”呼吁仍然可能的和解。"
 topics: ["内战", "林肯", "联邦"]
 difficulty: "intermediate"

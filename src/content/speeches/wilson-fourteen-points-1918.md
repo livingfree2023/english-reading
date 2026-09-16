@@ -17,7 +17,7 @@ sourceUrl: "https://en.wikisource.org/wiki/Fourteen_Points"
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源 ：Wikisource「Fourteen Points」（ https://en.wikisource.org/wiki/Fourteen_Points ）。伍德罗·威尔逊 1918 年 1 月 8 日在国会联席会议上发表。 文本版权 ：联邦职务作品（17 U.S.C. §105），亦为 1918 年出版、1930 年前作品，属公有领域。中文译文为本网站自译。 音视频 ：无原声音频（录音技术 1877 年才出现）。词汇音标采用美式发音（General American）。 版本说明 ：本篇为演说全文，十四点纲领部分照原文分条编号，故段落序号（01–35）与文中的第 1–14 条并不一致。底本第五段有「all the world lies been audience」一处排印讹误（当作 has been audience），本页照底本原文保留。原文以双连字符（--）代破折号，本页从之。文中的 Central Empires 与 Central Powers 同指一战中的中欧列强（同盟国），译文统一作「中欧列强」。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/ttmtpeL5pP8?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 十四点讲解视频 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=ttmtpeL5pP8", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/ttmtpeL5pP8?rel=0", "sourceName": "十四点讲解视频（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=ttmtpeL5pP8", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

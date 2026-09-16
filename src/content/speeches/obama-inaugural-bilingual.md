@@ -14,7 +14,7 @@ difficulty: "advanced"
 readingTime: 23
 sourceName: "原文来源待复核"
 sourceUrl: "https://www.booknim.com/obama-inaugural-bilingual.html"
-copyrightStatus: "historical-public-domain"
+copyrightStatus: "us-government-work"
 copyrightNote: "原文：Barack Obama, First Inaugural Address, United States Capitol, Washington, D.C., 20 January 2009（公有领域）。 译文与注音：本页中文为对照译文，音标采用美式发音（General American）；词性依该词在句中的用法标注。 注：原文 \"Khe Sahn\" 通行为 Khe Sanh（越南溪山），译文中已更正。 音频：Wikimedia Commons「Barack Obama inauguration speech 2009」，公有领域，18:58。 视频：The Obama White House 官方 YouTube 频道（点击后加载，不预先请求第三方资源）。"
 audio: null
 video: null

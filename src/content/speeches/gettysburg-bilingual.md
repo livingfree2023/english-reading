@@ -17,7 +17,7 @@ sourceUrl: "https://en.wikisource.org/wiki/Gettysburg_Address_(Bliss_copy)"
 copyrightStatus: "historical-public-domain"
 copyrightNote: "文本版本 ：Bliss 抄本——林肯亲笔签名并署题的唯一一份手稿，也是华盛顿林肯纪念堂南墙镌刻所依据的文本。现存手稿共五份（Nicolay、Hay、Everett、Bancroft、Bliss），各处文字略有出入：「under God」不见于 Nicolay 与 Hay 抄本，而见于后三份；至少三名记者在演说当天就把带「under God」的电文发了出去。全文三个段落，不到三百词。 文本版权 ：1863 年公开发表，著作权早已过期，属公有领域。文本来源： Wikisource「Gettysburg Address (Bliss copy)」 。中文译文为本网站自译。 关于音频 ：林肯本人没有留下任何录音（录音技术在他去世十一年后才问世）。本页所附音频为 2006 年由 Britton Rea 在威斯康星州洛迪录制的现代朗诵，不是历史原声；权利人已声明在全球范围内放弃著作权。 关于视频 ：来自 YouTube 频道 TimelessReader1 的图文朗诵，采用 youtube-nocookie 域名嵌入，点击按钮后才加载。词汇音标采用美式发音（General American）。"
 audio: {"url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/Gettysburg_by_Britton.ogg/Gettysburg_by_Britton.ogg.mp3", "sourceName": "音频 1:50 · 公有领域 · 来源：Wikimedia Commons「Gettysburg by Britton.ogg」，朗诵 Britton Rea（威斯康星州洛迪），权利人放弃著作权 · 原始条目 · OGG 原文件 · 下载 MP3", "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a1/Gettysburg_by_Britton.ogg/Gettysburg_by_Britton.ogg.mp3", "rightsNote": "外链音频；请以来源页面所示授权为准。"}
-video: {"url": "https://www.youtube-nocookie.com/embed/JtEqTBuigFY?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） TimelessReader1 图文朗诵（YouTube） · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=JtEqTBuigFY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/JtEqTBuigFY?rel=0", "sourceName": "TimelessReader1 图文朗诵（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=JtEqTBuigFY", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 

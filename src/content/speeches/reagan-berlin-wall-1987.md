@@ -17,7 +17,7 @@ sourceUrl: "https://www.reaganlibrary.gov/archives/speech/remarks-brandenburg-ga
 copyrightStatus: "us-government-work"
 copyrightNote: "原文来源： Ronald Reagan Presidential Library 。本页为联邦职务作品的双语精选段落。"
 audio: null
-video: {"url": "https://www.youtube-nocookie.com/embed/5MDFX-dNtsM?rel=0", "sourceName": "视频 ▶ 加载视频（YouTube） 柏林墙演说影像 · 在新窗口打开", "sourceUrl": "https://www.youtube.com/watch?v=5MDFX-dNtsM", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
+video: {"url": "https://www.youtube-nocookie.com/embed/5MDFX-dNtsM?rel=0", "sourceName": "柏林墙演说影像（YouTube）", "sourceUrl": "https://www.youtube.com/watch?v=5MDFX-dNtsM", "rightsNote": "外链视频；版权归上传者及相关权利人所有。"}
 related: []
 ---
 
