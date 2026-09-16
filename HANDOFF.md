@@ -24,7 +24,7 @@
 
 完整清单与每篇的版权依据见 `CONTENT.md`。
 
-### 已发布（12 篇）
+### 已发布（20 篇）
 
 | 文件 | 年份 | 标题 | 形式 |
 |------|------|------|------|
@@ -40,13 +40,22 @@
 | roosevelt-muck-rake-1906.html | 1906 | 拿着粪耙的人 | 全文 |
 | wilson-fourteen-points-1918.html | 1918 | 十四点和平原则 | 全文 |
 | obama-inaugural-bilingual.html | 2009 | 奥巴马首次就职演说 | 全文 |
+| churchill-iron-curtain-1946.html | 1946 | 丘吉尔铁幕演说 | 节选 |
+| truman-doctrine-1947.html | 1947 | 杜鲁门主义演说 | 全文 |
+| marshall-harvard-1947.html | 1947 | 马歇尔哈佛演说 | 全文 |
+| fdr-first-inaugural-1933.html | 1933 | 小罗斯福首次就职演说 | 全文 |
+| fdr-four-freedoms-1941.html | 1941 | 小罗斯福四大自由 | 全文 |
+| fdr-day-of-infamy-1941.html | 1941 | 小罗斯福耻辱之日 | 全文 |
+| eisenhower-farewell-1961.html | 1961 | 艾森豪威尔告别演说 | 全文 |
+| jfk-inaugural-1961.html | 1961 | 肯尼迪就职演说 | 全文 |
 
-### 待做（16 篇）
+### 待做（8 篇）
 
-下一批 = era 4（1933–1945）：
-1. 1933 小罗斯福首次就职演说（待定 PD 依据，可能降为节选页）
-2. 1941 小罗斯福《四大自由》国情咨文（全文）
-3. 1941 小罗斯福《耻辱之日》珍珠港演说（全文）
+下一批 = era 2（1838–1865）补齐林肯篇目：
+1. 1861 林肯首次就职演说
+2. 1865 林肯第二次就职演说
+
+其余待做篇目见 `CONTENT.md`，包括约翰逊、肯尼迪、里根、马丁·路德·金与 2004 年奥巴马演说。
 
 完整清单见 `CONTENT.md`。
 
@@ -131,13 +140,7 @@ git log --oneline -5      # 最近提交
 # 确认 skill 存在
 ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
 
-# 下一步：创建 era 4 三篇页面（1933–1945）
-# 1. 1933 FDR First Inaugural — 待定 PD 依据，可能降为节选页
-#    来源: 需先确认 PD，检查是否在 Public Papers 系列内
-# 2. 1941 FDR Four Freedoms (Annual Message to Congress) — 全文
-#    来源: Wikisource / Congressional Record (17 U.S.C. §105)
-# 3. 1941 FDR Day of Infamy (Pearl Harbor speech) — 全文
-#    来源: Wikisource / Congressional Record (17 U.S.C. §105)
+# 下一步：创建下一篇待做页面，并同步更新 CONTENT.md、index.html 与 sitemap.xml
 #
 # 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
 # 可启动后台 agent 并行生成
