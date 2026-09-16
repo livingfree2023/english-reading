@@ -24,29 +24,26 @@
 
 完整清单与每篇的版权依据见 `CONTENT.md`。
 
-### 已发布（3 篇）
-
-| 文件 | 年份 | 标题 |
-|------|------|------|
-| washington-first-inaugural-1789.html | 1789 | 华盛顿首次就职演说 |
-| gettysburg-bilingual.html | 1863 | 葛底斯堡演说 (Bliss 抄本) |
-| obama-inaugural-bilingual.html | 2009 | 奥巴马首次就职演说 |
-
-### 待验证草稿（2 篇，已提交到 repo 但未入索引）
-
-由 sub-agent 生成，未人工审核。需检查：结构完整性（back-link、canonical、OG 标签、词汇 span、闭合标签）、正文内容、翻译质量、版权依据、`data-page-node-id` 清理。验证后用 `add_to_index.py` 注册到首页。
+### 已发布（8 篇）
 
 | 文件 | 年份 | 标题 | 形式 |
 |------|------|------|------|
-| jefferson-first-inaugural-1801.html | 1801 | 杰斐逊首次就职演说 | 全文 |
+| washington-first-inaugural-1789.html | 1789 | 华盛顿首次就职演说 | 全文 |
 | washington-farewell-1796.html | 1796 | 华盛顿告别演说 | 节选 |
+| jefferson-first-inaugural-1801.html | 1801 | 杰斐逊首次就职演说 | 全文 |
+| webster-liberty-and-union-1830.html | 1830 | 韦伯斯特「Liberty and Union」 | 节选 |
+| lincoln-lyceum-1838.html | 1838 | 林肯青年学会演说 | 节选 |
+| douglass-fourth-of-july-1852.html | 1852 | 道格拉斯「What to the Slave Is the Fourth of July?」 | 全文 |
+| gettysburg-bilingual.html | 1863 | 葛底斯堡演说 (Bliss 抄本) | 全文 |
+| obama-inaugural-bilingual.html | 2009 | 奥巴马首次就职演说 | 全文 |
 
-### 待做（23 篇）
+### 待做（20 篇）
 
-按年代顺序，下一批：
-1. 1830 韦伯斯特「Liberty and Union」（节选）
-2. 1838 林肯青年学会演说（节选）
-3. 1852 道格拉斯「What to the Slave Is the Fourth of July?」（全文）
+下一批 = era 3（1895–1918）：
+1. 1895 布克·T·华盛顿 亚特兰大妥协演说（全文）
+2. 1896 布莱恩「Cross of Gold」（全文）
+3. 1906 西奥多·罗斯福「The Man with the Muck-rake」（全文）
+4. 1918 威尔逊「十四点」（全文）
 
 完整清单见 `CONTENT.md`。
 
@@ -131,15 +128,16 @@ git log --oneline -5      # 最近提交
 # 确认 skill 存在
 ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
 
-# 下一步：验证 2 篇待验证草稿
-# 1. 读 jefferson-first-inaugural-1801.html — 检查结构、内容、版权
-# 2. 读 washington-farewell-1796.html — 同上
-# 3. 用 add_to_index.py 注册到首页
-# 4. 更新 CONTENT.md 状态为「已发布」
-# 5. 提交推送
-
-# 然后：创建新页面（Webster 1830、Lincoln 1838、Douglass 1852）
-# - 用 bilingual-reading-page skill 获取模板和规则
-# - 可启动后台 agent 并行生成
-# - 按上述「每篇流程」执行
+# 下一步：创建 era 3 四篇页面（1895–1918）
+# 1. 1895 Booker T. Washington "Atlanta Compromise" — 全文
+#    来源: Wikisource / Library of Congress
+# 2. 1896 William Jennings Bryan "Cross of Gold" — 全文
+#    来源: Wikisource / 1896 Democratic Convention
+# 3. 1906 Theodore Roosevelt "The Man with the Muck-rake" — 全文
+#    来源: Wikisource / Public Papers
+# 4. 1918 Woodrow Wilson "Fourteen Points" — 全文
+#    来源: Wikisource / Congressional Record (17 U.S.C. §105)
+#
+# 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
+# 可启动后台 agent 并行生成
 ```
