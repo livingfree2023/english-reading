@@ -291,13 +291,16 @@
 (function(){
   var body = document.body;
 
-  /* 0. 媒体是可选的：未填写的行自动隐藏，全都没填则整块不显示 */
+  /* 0. 媒体按行独立处理：音频或视频任一可用时显示整块媒体区 */
   var mediaSec = document.getElementById('media');
   if(mediaSec){
     var rows = Array.prototype.slice.call(mediaSec.querySelectorAll('[data-media]'));
     var shown = 0;
     rows.forEach(function(r){
-      var filled = !/\{\{[A-Z_]+\}\}/.test(r.innerHTML) && !/\ssrc=""/.test(r.innerHTML);
+      var kind = r.getAttribute('data-media');
+      var hasTemplateToken = /\{\{[A-Z_]+\}\}/.test(r.innerHTML);
+      var hasAudioSource = !!r.querySelector('audio[src]');
+      var filled = kind === 'audio' ? (!hasTemplateToken && hasAudioSource) : (!hasTemplateToken);
       r.hidden = !filled;
       if(filled){ r.classList.toggle('sep', shown > 0); shown++; }
     });

@@ -215,7 +215,7 @@
   </h1>
 </header>
 
-<!-- 没有音频/视频时整段删除；没有视频就只留音频那一行 -->
+<!-- 音频与视频分别显示；两者都没有时整段隐藏 -->
 <section class="media" id="media" hidden>
   <div class="mrow" data-media="audio">
     <span class="mlbl">音频</span>
@@ -225,7 +225,7 @@
   <div class="mrow" data-media="video">
     <span class="mlbl">视频</span>
     <button class="vidbtn" id="vidbtn" type="button">▶ 加载视频（YouTube）</button>
-    <span class="mn">{{VIDEO_SOURCE}} · <a href="https://www.youtube.com/watch?v={{YOUTUBE_ID}}" target="_blank" rel="noopener">在新窗口打开</a></span>
+    <span class="mn">Four Freedoms 影像节选（YouTube） · <a href="https://www.youtube.com/watch?v=5iHKtrirjlY" target="_blank" rel="noopener">在新窗口打开</a></span>
   </div>
   <div class="vidwrap" id="vidwrap" hidden></div>
 </section>
@@ -805,13 +805,16 @@
 (function(){
   var body = document.body;
 
-  /* 0. 媒体是可选的：未填写的行自动隐藏，全都没填则整块不显示 */
+  /* 0. 媒体按行独立处理：音频或视频任一可用时显示整块媒体区 */
   var mediaSec = document.getElementById('media');
   if(mediaSec){
     var rows = Array.prototype.slice.call(mediaSec.querySelectorAll('[data-media]'));
     var shown = 0;
     rows.forEach(function(r){
-      var filled = !/\{\{[A-Z_]+\}\}/.test(r.innerHTML) && !/\ssrc=""/.test(r.innerHTML);
+      var kind = r.getAttribute('data-media');
+      var hasTemplateToken = /\{\{[A-Z_]+\}\}/.test(r.innerHTML);
+      var hasAudioSource = !!r.querySelector('audio[src]');
+      var filled = kind === 'audio' ? (!hasTemplateToken && hasAudioSource) : (!hasTemplateToken);
       r.hidden = !filled;
       if(filled){ r.classList.toggle('sep', shown > 0); shown++; }
     });
@@ -955,7 +958,7 @@
   if(vidbtn && vidrow && !vidrow.hidden){
     vidbtn.addEventListener('click', function(){
       var f = document.createElement('iframe');
-      f.src = 'https://www.youtube-nocookie.com/embed/{{YOUTUBE_ID}}?rel=0';
+      f.src = 'https://www.youtube-nocookie.com/embed/5iHKtrirjlY?rel=0';
       f.title = 'The Four Freedoms — Franklin D. Roosevelt';
       f.setAttribute('frameborder','0');
       f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
