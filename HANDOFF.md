@@ -13,6 +13,22 @@ Markdown 是唯一内容源；不要直接编辑 `dist/` 或生成的 HTML。新
 
 生成的根级 `.html` 文件仅用于发布，不应作为内容编辑入口。
 
+### 正文 Markdown 约定
+
+每一段必须使用一个两位数标题、英文正文和中文引用；标题只作为构建时段号，不会在页面上显示为标题。
+
+```md
+### 01
+
+English text with [[vicissitudes|n.|/vɪˈsɪsɪtuːdz/|世事变迁]].
+
+> 中文译文。
+```
+
+- 词汇格式固定为 `[[词条|词性|IPA|中文释义]]`；在字段内使用 `\|`、`\\` 或 `\]\]` 转义分隔符。
+- 诗句或完整引文段落使用 `:::quote` 与 `:::` 包裹；内部仍是英文正文和中文引用。`::: quote`（带空格）不是有效语法。
+- 正文不得写入 `<section>`、`<div>`、`<span>`、`<br>` 或 `<p>` 等 HTML。构建器会生成双语布局、词汇浮层和词汇表。
+
 ## 内容计划: 28 篇总计
 
 完整清单与每篇的版权依据见 `CONTENT.md`；结构化来源与媒体字段位于 `src/content/speeches/*.md`，总政策见 `RIGHTS.md`。
@@ -72,7 +88,7 @@ Markdown 是唯一内容源；不要直接编辑 `dist/` 或生成的 HTML。新
 ## 每篇流程
 
 1. **取原文**：Wikisource / Yale Avalon Project / Library of Congress 等权威来源，逐字核对。
-2. **编辑 Markdown**：更新 frontmatter 与英中对照正文；词汇使用 `<span class="voc"><span class="w">word</span><span class="g">...</span></span>`。
+2. **编辑 Markdown**：更新 frontmatter 与英中对照正文；每段使用 `### NN`、英文、中文引用，词汇使用 `[[word|part of speech|/IPA/|释义]]`。
 3. **媒体与页脚**：只使用外链，分别记录来源、权利说明和回退链接；没有媒体时不显示整个媒体区。
 4. **验证**：运行 `npm run check && npm run build`，确认路由、sitemap、元数据和移动布局。
 5. **提交**：单独提交内容变更，并同步更新 `CONTENT.md`。
