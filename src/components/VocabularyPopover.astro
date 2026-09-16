@@ -9,7 +9,7 @@
     });
   };
 
-  document.querySelectorAll('.voc').forEach((word) => {
+  document.querySelectorAll<HTMLElement>('.voc').forEach((word) => {
     const gloss = word.querySelector('.g');
     const visible = word.querySelector('.w');
     if (!gloss || !visible) return;
@@ -17,6 +17,24 @@
     word.setAttribute('role', 'button');
     word.setAttribute('aria-expanded', 'false');
     word.setAttribute('aria-label', `${visible.textContent?.trim()}: ${gloss.textContent?.trim()}`);
+    let closeTimer: number | undefined;
+    const open = () => {
+      window.clearTimeout(closeTimer);
+      closeAll();
+      word.classList.add('is-open');
+      word.setAttribute('aria-expanded', 'true');
+      word.dataset.placement = word.getBoundingClientRect().top < 150 ? 'below' : 'above';
+    };
+    const close = () => {
+      closeTimer = window.setTimeout(() => {
+        word.classList.remove('is-open');
+        word.setAttribute('aria-expanded', 'false');
+      }, 80);
+    };
+    word.addEventListener('mouseenter', open);
+    word.addEventListener('mouseleave', close);
+    word.addEventListener('focusin', open);
+    word.addEventListener('focusout', close);
     word.addEventListener('click', (event) => {
       event.stopPropagation();
       const open = word.classList.contains('is-open');
