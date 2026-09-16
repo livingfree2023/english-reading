@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>十四点和平原则 · 中英双语精注版</title>
+<meta name="description" content="十四点和平原则：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<link rel="canonical" href="https://www.booknim.com/wilson-fourteen-points-1918.html">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.booknim.com/wilson-fourteen-points-1918.html">
+<meta property="og:title" content="十四点和平原则 · 中英双语精注版">
+<meta property="og:description" content="十四点和平原则：英文原文 · 逐段中文对照 · 生词悬停显示音标与释义。">
+<meta property="og:site_name" content="双语精读 · 用演讲串起的美国史">
+<style>
+  :root{
+    --bg:#fbfaf7;
+    --paper:#ffffff;
+    --ink:#1c1b19;
+    --ink-soft:#4a4744;
+    --zh:#2f4f6f;
+    --accent:#8b1e1e;
+    --gold:#a8842c;
+    --rule:#e6e1d8;
+    --chip:#f4f1ea;
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Georgia","Times New Roman",-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",serif;
+    line-height:1.75;
+  }
+  .wrap{max-width:780px;margin:0 auto;padding:0 24px 60px}
+
+  .back{
+    display:inline-block;margin:20px 0 0;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12px;letter-spacing:.04em;color:var(--gold);text-decoration:none;
+  }
+  .back:hover{color:var(--accent)}
+  .back + header.hd{padding-top:12px}
+  header.hd{padding:38px 0 18px;border-bottom:3px double var(--rule);margin-bottom:4px}
+  .kicker{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.22em;text-transform:uppercase;
+    color:var(--gold);margin:0 0 8px;
+  }
+  h1{font-size:25px;line-height:1.3;margin:0 0 6px;font-weight:600;letter-spacing:.01em}
+  h1 small{display:block;font-size:13.5px;font-weight:400;color:var(--ink-soft);margin-top:6px;letter-spacing:.04em}
+
+  /* 音视频 */
+  .media{
+    margin:14px 0 2px;padding:10px 13px 11px;
+    background:var(--paper);border:1px solid var(--rule);border-radius:9px;
+  }
+  .media[hidden],.mrow[hidden]{display:none}
+  .mrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .mrow.sep{margin-top:8px;padding-top:8px;border-top:1px dashed #eee8dc}
+  .mlbl{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.14em;color:var(--gold);flex:none;
+  }
+  .aud{flex:1 1 240px;min-width:200px;height:32px;display:block}
+  .mn{font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:11.5px;color:#8d887e;line-height:1.5}
+  .mn a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+  .mn a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+  .vidbtn{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12.5px;cursor:pointer;padding:5px 12px;border-radius:999px;
+    border:1px solid var(--rule);background:var(--paper);color:var(--ink-soft);transition:.15s;
+  }
+  .vidbtn:hover{border-color:var(--gold);color:var(--ink)}
+  .vidwrap{margin-top:10px}
+  .vidwrap[hidden]{display:none}
+  .vidwrap iframe{display:block;width:100%;aspect-ratio:16/9;height:auto;border:0;border-radius:6px;background:#000}
+
+  /* 设置：默认隐藏，点右下角按钮展开 */
+  .fab{
+    position:fixed;right:16px;bottom:16px;z-index:310;
+    width:38px;height:38px;border-radius:50%;
+    border:1px solid var(--rule);background:rgba(255,255,255,.92);
+    color:var(--ink-soft);cursor:pointer;
+    box-shadow:0 2px 10px rgba(40,32,18,.10);
+    display:flex;align-items:center;justify-content:center;
+    font-size:16px;line-height:1;padding:0;
+    backdrop-filter:blur(6px);transition:.15s;
+  }
+  .fab:hover{color:var(--ink);border-color:var(--gold)}
+  .panel{
+    position:fixed;right:16px;bottom:62px;z-index:310;
+    min-width:186px;padding:8px 12px 10px;
+    background:#fff;border:1px solid #e6dfd0;border-radius:10px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:13px;color:var(--ink-soft);
+  }
+  .panel[hidden]{display:none}
+  .panel .row{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:5px 0;white-space:nowrap}
+  .panel .row + .row{border-top:1px dashed #eee8dc}
+  .panel .info{padding-top:7px;margin-top:2px;border-top:1px solid #eee8dc;font-size:11.5px;color:#8d887e}
+  .sw{
+    position:relative;width:34px;height:19px;flex:none;
+    border:none;border-radius:999px;background:#dcd6ca;cursor:pointer;padding:0;transition:background .15s;
+  }
+  .sw::after{
+    content:"";position:absolute;top:2px;left:2px;
+    width:15px;height:15px;border-radius:50%;background:#fff;
+    box-shadow:0 1px 2px rgba(0,0,0,.22);transition:left .15s;
+  }
+  .sw[aria-pressed="true"]{background:var(--accent)}
+  .sw[aria-pressed="true"]::after{left:17px}
+
+  .para{padding:13px 0;border-bottom:1px solid var(--rule)}
+  .para:first-of-type{padding-top:4px}
+  .para .no{
+    display:inline-block;font-size:10px;letter-spacing:.14em;color:var(--gold);
+    font-family:-apple-system,sans-serif;margin-bottom:4px;
+  }
+  .en{font-size:17px;line-height:1.62;color:var(--ink);text-align:justify;hyphens:auto;margin:0}
+  .en p{margin:0 0 6px}
+  .zh{
+    margin-top:7px;padding-left:13px;
+    border-left:3px solid #dfe7ee;
+    font-family:-apple-system,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    font-size:14px;line-height:1.7;color:var(--zh);
+  }
+  .en .q{display:block;margin:10px 0 2px 22px;font-style:italic;color:var(--ink-soft)}
+  .zh .q{display:block;margin:7px 0 2px 8px;color:var(--zh)}
+
+  /* 词汇：原文只留虚线下划线，释义隐藏在 .g 中，由浮层读取 */
+  .voc{display:inline;cursor:help;position:relative}
+  .voc .w{
+    text-decoration:underline dotted var(--gold) 1.5px;
+    text-underline-offset:4px;font-weight:600;transition:background .12s;
+  }
+  .voc .w:hover,.voc.on .w{background:linear-gradient(transparent 62%,#f6e8c8 62%)}
+  .voc .g{display:none}
+
+  .vpop{
+    position:fixed;left:0;top:0;z-index:200;
+    min-width:150px;max-width:300px;padding:10px 13px 11px;
+    background:#fff;color:var(--ink);
+    border:1px solid #e6dfd0;border-radius:9px;
+    box-shadow:0 10px 26px rgba(40,32,18,.16),0 2px 6px rgba(40,32,18,.08);
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    pointer-events:none;opacity:0;transform:translateY(4px);
+    transition:opacity .13s ease,transform .13s ease;
+  }
+  .vpop.show{opacity:1;transform:translateY(0)}
+  .vpop[hidden]{display:none}
+  .vpop .pw{font-family:Georgia,"Times New Roman",serif;font-size:16px;font-weight:600;color:var(--ink);line-height:1.35;margin-bottom:5px}
+  .vpop .pm{font-size:13px;line-height:1.5;margin-bottom:4px;display:flex;flex-wrap:wrap;gap:8px;align-items:baseline}
+  .vpop .pos{color:var(--gold);font-style:italic;flex:none}
+  .vpop .ipa{color:var(--accent);font-family:"Times New Roman",Times,serif;font-size:15px}
+  .vpop .pd{font-size:13.5px;line-height:1.55;color:var(--ink-soft);padding-top:6px;border-top:1px dashed #ede7da}
+  .vpop .ar{position:absolute;width:10px;height:10px;background:#fff;border:1px solid #e6dfd0;transform:rotate(45deg)}
+  .vpop:not(.below) .ar{bottom:-6px;border-top:none;border-left:none}
+  .vpop.below .ar{top:-6px;border-bottom:none;border-right:none}
+  .vpop.pinned .pw::after{
+    content:"已固定";float:right;margin-left:10px;
+    font-family:-apple-system,"PingFang SC",sans-serif;
+    font-size:10px;font-weight:400;color:var(--gold);
+    border:1px solid var(--gold);border-radius:3px;padding:1px 4px;letter-spacing:.05em;
+  }
+
+  body.no-gloss .voc{cursor:default}
+  body.no-gloss .voc .w{text-decoration:none;font-weight:400;background:none !important}
+  body.no-zh .zh{display:none}
+
+  .gloss{margin-top:36px;padding-top:20px;border-top:3px double var(--rule)}
+  .gloss h2{font-size:17px;margin:0 0 4px;font-weight:600}
+  .gloss .sub{font-size:12px;color:var(--ink-soft);margin:0 0 12px;font-family:-apple-system,sans-serif}
+  table.gt{width:100%;border-collapse:collapse;font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;font-size:12.5px}
+  table.gt th,table.gt td{text-align:left;padding:5px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+  table.gt th{font-size:11.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft);border-bottom:2px solid var(--rule);font-weight:600}
+  table.gt td.wd{font-family:Georgia,serif;font-weight:600;width:20%}
+  table.gt td.ps{color:var(--gold);width:11%;font-variant:italic}
+  table.gt td.ip{font-family:"Times New Roman",serif;color:var(--accent);width:24%}
+  table.gt tr:hover td{background:var(--chip)}
+
+  footer.ft{
+    margin-top:32px;font-size:11.5px;color:var(--ink-soft);line-height:1.75;
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+  }
+  footer.ft[hidden]{display:none}
+  footer.ft p{margin:0 0 9px}
+  footer.ft a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+  footer.ft a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+
+  @media (max-width:640px){
+    .wrap{padding:0 15px 56px}
+    h1{font-size:21px}
+    .en{font-size:16px;line-height:1.72}
+    .zh{font-size:13.5px;line-height:1.72}
+    .gloss table.gt td.ip{width:auto}
+    .fab{right:12px;bottom:12px;width:34px;height:34px;font-size:14px}
+    .panel{right:12px;bottom:54px}
+  }
+  @media print{
+    .fab,.panel,.media{display:none !important}
+    body{background:#fff}
+    .para{page-break-inside:avoid}
+    .gloss{page-break-before:always}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<a class="back" href="index.html">← 返回时间轴</a>
+
+<header class="hd">
+  <p class="kicker">1918 年 1 月 8 日 · 华盛顿国会联席会议</p>
+  <h1>十四点和平原则
+    <small>Fourteen Points — Woodrow Wilson</small>
+  </h1>
+</header>
+
+<!-- 没有音频/视频时整段删除；没有视频就只留音频那一行 -->
+<section class="media" id="media" hidden>
+  <div class="mrow" data-media="audio">
+    <span class="mlbl">音频</span>
+    <audio class="aud" controls preload="none" src="{{AUDIO_SRC}}"></audio>
+    <span class="mn">{{AUDIO_LEN}} · {{AUDIO_COPYRIGHT}} · <a href="{{AUDIO_SRC}}" download>下载 MP3</a></span>
+  </div>
+  <div class="mrow" data-media="video">
+    <span class="mlbl">视频</span>
+    <button class="vidbtn" id="vidbtn" type="button">▶ 加载视频（YouTube）</button>
+    <span class="mn">{{VIDEO_SOURCE}} · <a href="https://www.youtube.com/watch?v={{YOUTUBE_ID}}" target="_blank" rel="noopener">在新窗口打开</a></span>
+  </div>
+  <div class="vidwrap" id="vidwrap" hidden></div>
+</section>
+
+<main id="body">
+
+<section class="para">
+  <span class="no">01</span>
+  <div class="en">Gentlemen of the Congress:<br><br>Once more, as repeatedly before, the <span class="voc"><span class="w">spokesmen</span><span class="g"><i>n.</i> /ˈspoʊksmən/ 代言人，发言人</span></span> of the Central Empires have indicated their desire to discuss the objects of the war and the possible basis of a general peace. <span class="voc"><span class="w">Parleys</span><span class="g"><i>n.</i> /ˈpɑːrli/ 谈判，非正式会谈（parley 的复数）</span></span> have been in progress at Brest-Litovsk between Russian representatives and representatives of the Central Powers to which the attention of all the <span class="voc"><span class="w">belligerents</span><span class="g"><i>n.</i> /bəˈlɪdʒərənts/ 交战国，交战方</span></span> has been invited for the purpose of <span class="voc"><span class="w">ascertaining</span><span class="g"><i>v.</i> /ˌæsərˈteɪnɪŋ/ 查明，确定</span></span> whether it may be possible to extend these parleys into a general conference <span class="voc"><span class="w">with regard to</span><span class="g"><i>phr.</i> /wɪð rɪˈɡɑːrd tuː/ 关于，就……而言</span></span> terms of peace and settlement.</div>
+  <div class="zh">国会诸君：<br><br>又一次——如同此前一再发生的那样——中欧列强的代言人表示，愿意讨论这场战争的目的，以及全面和平可能的基础。在布列斯特-立托夫斯克，俄国代表与中欧列强代表之间的谈判正在进行；全体交战国的注意力都被引向那里，为的是查明：是否有可能把这些谈判扩展为一场关于和平与解决条件的总会议。</div>
+</section>
+
+<section class="para">
+  <span class="no">02</span>
+  <div class="en">The Russian representatives presented not only a perfectly definite statement of the principles upon which they would be willing to conclude peace, but also an equally definite program of the <span class="voc"><span class="w">concrete</span><span class="g"><i>adj.</i> /ˈkɑːnkriːt/ 具体的，实在的</span></span> application of those principles. The representatives of the Central Powers, on their part, presented an outline of settlement which, if much less definite, seemed <span class="voc"><span class="w">susceptible</span><span class="g"><i>adj.</i> /səˈseptəbl/ 可作……解释的，能容纳……的（susceptible of）</span></span> of liberal interpretation until their specific program of practical terms was added. That program proposed no <span class="voc"><span class="w">concessions</span><span class="g"><i>n.</i> /kənˈseʃnz/ 让步，妥协</span></span> at all, either to the <span class="voc"><span class="w">sovereignty</span><span class="g"><i>n.</i> /ˈsɑːvrənti/ 主权</span></span> of Russia or to the preferences of the populations with whose fortunes it dealt, but meant, in a word, that the Central Empires were to keep every foot of territory their armed forces had occupied--every province, every city, every <span class="voc"><span class="w">point of vantage</span><span class="g"><i>phr.</i> /pɔɪnt əv ˈvæntɪdʒ/ 有利位置，制高点</span></span> as a permanent addition to their territories and their power.</div>
+  <div class="zh">俄国代表不仅提出了一份十分明确的声明，说明他们愿意据以缔结和平的原则，还提出了同样明确的一套把这些原则具体落实的方案。中欧列强的代表这一方，则提出了一份解决方案的纲要；这份纲要虽然远不明确，却似乎还可以作宽松的解释——直到他们那套具体的实际条件被添加上去。那套方案根本没有作出任何让步：既不承认俄国的主权，也不顾其所处置地区人民的意愿；一言以蔽之，它的意思是：中欧列强要把其军队所占领的每一寸土地——每一省、每一城、每一处战略要地——都作为对其领土与权力的永久扩充而据为己有。</div>
+</section>
+
+<section class="para">
+  <span class="no">03</span>
+  <div class="en">It is a reasonable <span class="voc"><span class="w">conjecture</span><span class="g"><i>n.</i> /kənˈdʒektʃər/ 推测，猜想</span></span> that the general principles of settlement which they at first suggested <span class="voc"><span class="w">originated</span><span class="g"><i>v.</i> /əˈrɪdʒəneɪtɪd/ 发源，出自（originate 的过去式）</span></span> with the more liberal statesmen of Germany and Austria, the men who have begun to feel the force of their own peoples' thought and purpose, while the concrete terms of actual settlement came from the military leaders who have no thought but to keep what they have got. The negotiations have been broken off. The Russian representatives were sincere and <span class="voc"><span class="w">in earnest</span><span class="g"><i>phr.</i> /ɪn ˈɜːrnɪst/ 认真，郑重其事</span></span>. They cannot <span class="voc"><span class="w">entertain</span><span class="g"><i>v.</i> /ˌentərˈteɪn/ 考虑，接受（某种想法）</span></span> such proposals of <span class="voc"><span class="w">conquest</span><span class="g"><i>n.</i> /ˈkɑːŋkwest/ 征服，侵占</span></span> and <span class="voc"><span class="w">domination</span><span class="g"><i>n.</i> /ˌdɑːmɪˈneɪʃn/ 支配，统治</span></span>.</div>
+  <div class="zh">有一个合理的推测：他们最初提出的那些一般性和解原则，出自德国和奥地利较为开明的政治家——这些人已经开始感受到本国人民思想与意志的力量；而实际和解的具体条件，则出自那些只想着保住既得之物的军方领袖。谈判已经中断。俄国代表是真诚的、认真的。他们无法接受这种征服与支配的提议。</div>
+</section>
+
+<section class="para">
+  <span class="no">04</span>
+  <div class="en">The whole incident is full of significance. It is also full of <span class="voc"><span class="w">perplexity</span><span class="g"><i>n.</i> /pərˈpleksəti/ 困惑，费解</span></span>. With whom are the Russian representatives dealing? For whom are the representatives of the Central Empires speaking? Are they speaking for the majorities of their <span class="voc"><span class="w">respective</span><span class="g"><i>adj.</i> /rɪˈspektɪv/ 各自的，分别的</span></span> parliaments or for the minority parties, that military and <span class="voc"><span class="w">imperialistic</span><span class="g"><i>adj.</i> /ɪmˌpɪriəˈlɪstɪk/ 帝国主义的</span></span> minority which has so far <span class="voc"><span class="w">dominated</span><span class="g"><i>v.</i> /ˈdɑːmɪneɪtɪd/ 支配，主宰（dominate 的过去分词）</span></span> their whole policy and controlled the affairs of Turkey and of the Balkan States which have felt <span class="voc"><span class="w">obliged</span><span class="g"><i>adj.</i> /əˈblaɪdʒd/ 不得不的，被迫的</span></span> to become their <span class="voc"><span class="w">associates</span><span class="g"><i>n.</i> /əˈsoʊsiəts/ 同伙，伙伴</span></span> in this war?</div>
+  <div class="zh">整个事件意味深长，也令人费解。俄国代表究竟在同谁打交道？中欧列强的代表又在替谁说话？他们代表的是各自议会的多数，还是少数党派——那个军事的、帝国主义的少数派？正是这个少数派，迄今支配着他们的全部政策，控制着土耳其的事务，也控制着那些自觉不得不在本次战争中充当其同伙的巴尔干国家。</div>
+</section>
+
+<section class="para">
+  <span class="no">05</span>
+  <div class="en">The Russian representatives have insisted, very justly, very wisely, and in the true spirit of modern democracy, that the conferences they have been holding with the <span class="voc"><span class="w">Teutonic</span><span class="g"><i>adj.</i> /tuːˈtɑːnɪk/ 条顿的，日耳曼的</span></span> and Turkish statesmen should be held within open, not closed, doors, and all the world lies been audience, as was desired. To whom have we been listening, then? To those who speak the spirit and intention of the resolutions of the German Reichstag of the 9th of July last, the spirit and intention of the liberal leaders and parties of Germany, or to those who resist and <span class="voc"><span class="w">defy</span><span class="g"><i>v.</i> /dɪˈfaɪ/ 违抗，公然抗拒</span></span> that spirit and intention and insist upon conquest and <span class="voc"><span class="w">subjugation</span><span class="g"><i>n.</i> /ˌsʌbdʒuˈɡeɪʃn/ 征服，压服</span></span>? Or are we listening, in fact, to both, <span class="voc"><span class="w">unreconciled</span><span class="g"><i>adj.</i> /ʌnˈrekənsaɪld/ 未能调和一致的</span></span> and in open and hopeless <span class="voc"><span class="w">contradiction</span><span class="g"><i>n.</i> /ˌkɑːntrəˈdɪkʃn/ 矛盾，抵触</span></span>? These are very serious and <span class="voc"><span class="w">pregnant</span><span class="g"><i>adj.</i> /ˈpreɡnənt/ 意味深长的，蕴含重大的</span></span> questions. Upon the answer to them depends the peace of the world.</div>
+  <div class="zh">俄国代表坚持——坚持得十分正当、十分明智，也合乎现代民主的真正精神——他们与条顿和土耳其政治家的会谈应当在公开而非闭门的情况下进行；而全世界果然如其所愿，都成了旁听者。那么，我们一直在听谁说话？是听那些表达去年 7 月 9 日德国国会决议之精神与意旨的人，听那些代表德国自由派领袖与政党之精神与意旨的人；还是听那些抵抗、公然违抗这一精神与意旨，坚持征服与压服的人？又或者，我们实际上是在同时听这两者说话——它们彼此未能调和，处于公开而无可救药的矛盾之中？这些都是极其严肃、蕴含重大的问题。世界的和平，就系于对这些问题的回答。</div>
+</section>
+
+<section class="para">
+  <span class="no">06</span>
+  <div class="en">But whatever the results of the parleys at Brest-Litovsk, whatever the confusions of <span class="voc"><span class="w">counsel</span><span class="g"><i>n.</i> /ˈkaʊnsl/ 商议，谋划</span></span> and of purpose in the <span class="voc"><span class="w">utterances</span><span class="g"><i>n.</i> /ˈʌtərənsɪz/ 言论，言辞</span></span> of the spokesmen of the Central Empires, they have again attempted to acquaint the world with their objects in the war and have again challenged their <span class="voc"><span class="w">adversaries</span><span class="g"><i>n.</i> /ˈædvərseriz/ 对手，敌方</span></span> to say what their objects are and what sort of settlement they would <span class="voc"><span class="w">deem</span><span class="g"><i>v.</i> /diːm/ 认为，视为</span></span> just and satisfactory. There is no good reason why that challenge should not be responded to, and responded to with the <span class="voc"><span class="w">utmost</span><span class="g"><i>adj.</i> /ˈʌtmoʊst/ 最大的，极度的</span></span> <span class="voc"><span class="w">candor</span><span class="g"><i>n.</i> /ˈkændər/ 坦率，直率</span></span>. We did not wait for it. Not once, but again and again we have laid our whole thought and purpose before the world, not in general terms only, but each time with sufficient definition to make it clear what sort of definite terms of settlement must necessarily spring out of them. Within the last week Mr. Lloyd George has spoken with admirable candor and in admirable spirit for the people and Government of Great Britain.</div>
+  <div class="zh">但是，无论布列斯特-立托夫斯克的谈判结果如何，无论中欧列强代言人的言论中有着怎样的谋划不一、意图混乱，他们毕竟又一次试图让世界了解他们进行这场战争的目的，也又一次向他们的对手发出挑战，要对方说明自己的目的是什么、要怎样的解决方案才算公正而令人满意。没有理由不回应这一挑战，而且应当以最大的坦率来回应。我们并没有等它来问。我们不止一次、而是一再地把我们的全部想法与意图摆在世界面前；不只是笼统地表述，而是每一次都给出足够的界定，使人明白：必定会从这些想法中产生出怎样确定的和解条件。就在上一周，劳合·乔治先生以令人钦佩的坦率与精神，替大不列颠的人民和政府说了话。</div>
+</section>
+
+<section class="para">
+  <span class="no">07</span>
+  <div class="en">There is no confusion of counsel among the adversaries of the Central Powers, no uncertainty of principle, no <span class="voc"><span class="w">vagueness</span><span class="g"><i>n.</i> /ˈveɪɡnəs/ 含糊，不明确</span></span> of detail. The only secrecy of counsel, the only lack of fearless <span class="voc"><span class="w">frankness</span><span class="g"><i>n.</i> /ˈfræŋknəs/ 坦率，直言不讳</span></span>, the only failure to make definite statement of the objects of the war, lies with Germany and her allies. The issues of life and death hang upon these definitions. No statesman who has the least conception of his responsibility ought for a moment to permit himself to continue this tragical and <span class="voc"><span class="w">appalling</span><span class="g"><i>adj.</i> /əˈpɔːlɪŋ/ 骇人的，令人震惊的</span></span> outpouring of blood and treasure unless he is sure <span class="voc"><span class="w">beyond a peradventure</span><span class="g"><i>phr.</i> /bɪˈjɑːnd ə ˌpɜːrəˈventʃər/ 毫无疑问，绝无差错</span></span> that the objects of the vital sacrifice are <span class="voc"><span class="w">part and parcel</span><span class="g"><i>phr.</i> /pɑːrt ənd ˈpɑːrsl/ 不可分割的组成部分</span></span> of the very life of society and that the people for whom he speaks think them right and <span class="voc"><span class="w">imperative</span><span class="g"><i>adj.</i> /ɪmˈperətɪv/ 必须的，紧要的</span></span> as he does.</div>
+  <div class="zh">在中欧列强的对手之间，没有谋划上的混乱，没有原则上的游移，也没有细节上的含糊。唯一秘而不宣的谋划、唯一缺乏无畏坦率之处、唯一不肯就战争目的作出明确声明者，都在德国及其盟国一边。生死攸关的问题，就悬在这些界定之上。任何一位对自己的责任稍有认识的政治家，都不应哪怕有一刻容许这种悲惨而骇人的生命与财富的倾泻继续下去——除非他确信无疑：这场重大牺牲所要达到的目的，本身就是社会生活不可分割的一部分，而他为之发言的人民，也和他一样认为这些目的是正当而必须的。</div>
+</section>
+
+<section class="para">
+  <span class="no">08</span>
+  <div class="en">There is, moreover, a voice calling for these definitions of principle and of purpose which is, it seems to me, more thrilling and more <span class="voc"><span class="w">compelling</span><span class="g"><i>adj.</i> /kəmˈpelɪŋ/ 不可抗拒的，令人信服的</span></span> than any of the many moving voices with which the troubled air of the world is filled. It is the voice of the Russian people. They are <span class="voc"><span class="w">prostrate</span><span class="g"><i>adj.</i> /ˈprɑːstreɪt/ 俯伏的，被击倒的</span></span> and all but helpless, it would seem, before the <span class="voc"><span class="w">grim</span><span class="g"><i>adj.</i> /ɡrɪm/ 严酷的，冷酷的</span></span> power of Germany, which has <span class="voc"><span class="w">hitherto</span><span class="g"><i>adv.</i> /ˌhɪðərˈtuː/ 迄今，至今</span></span> known no <span class="voc"><span class="w">relenting</span><span class="g"><i>n.</i> /rɪˈlentɪŋ/ 心软，留情</span></span> and no pity. Their power, apparently, is shattered. And yet their soul is not <span class="voc"><span class="w">subservient</span><span class="g"><i>adj.</i> /səbˈsɜːrviənt/ 屈从的，卑躬屈膝的</span></span>. They will not yield either in principle or in action. Their conception of what is right, of what is humane and honorable for them to accept, has been stated with a frankness, a largeness of view, a generosity of spirit, and a universal human sympathy which must challenge the admiration of every friend of mankind; and they have refused to <span class="voc"><span class="w">compound</span><span class="g"><i>v.</i> /kəmˈpaʊnd/ 妥协，折中（compound one's ideals）</span></span> their ideals or <span class="voc"><span class="w">desert</span><span class="g"><i>v.</i> /dɪˈzɜːrt/ 抛弃，背弃</span></span> others that they themselves may be safe.</div>
+  <div class="zh">而且，还有一种声音在要求这些关于原则与目的的界定；在我看来，它比充斥于这动荡世界的许多动人声音更令人心弦震动，也更不可抗拒。那是俄国人民的声音。在德国那严酷无情的力量面前，他们似乎已俯伏在地、几近无助；而德国迄今不知留情，也不知怜悯。他们的力量显然已被击碎。然而他们的灵魂并未屈从。无论在原则上还是在行动上，他们都不肯退让。他们对何者为正、何者是人道的与体面的、可以接受的，已经作了陈述；那份陈述带着坦率、视野的开阔、精神的宽厚，以及一种普世的人类同情——这必定赢得每一个人类之友的钦佩。他们拒绝把自己的理想折中，也拒绝为了自身的安全而背弃他人。</div>
+</section>
+
+<section class="para">
+  <span class="no">09</span>
+  <div class="en">They call to us to say what it is that we desire, in what, if in anything, our purpose and our spirit differ from theirs; and I believe that the people of the United States would wish me to respond, with <span class="voc"><span class="w">utter</span><span class="g"><i>adj.</i> /ˈʌtər/ 完全的，彻底的</span></span> simplicity and frankness. Whether their present leaders believe it or not, it is our <span class="voc"><span class="w">heartfelt</span><span class="g"><i>adj.</i> /ˈhɑːrtfelt/ 由衷的，诚挚的</span></span> desire and hope that some way may be opened <span class="voc"><span class="w">whereby</span><span class="g"><i>adv.</i> /werˈbaɪ/ 借此，凭此</span></span> we may be <span class="voc"><span class="w">privileged</span><span class="g"><i>adj.</i> /ˈprɪvəlɪdʒd/ 有幸的，享有特权的</span></span> to assist the people of Russia to <span class="voc"><span class="w">attain</span><span class="g"><i>v.</i> /əˈteɪn/ 达到，实现</span></span> their utmost hope of liberty and ordered peace.</div>
+  <div class="zh">他们呼吁我们说明：我们所求的究竟是什么；在哪些方面——如果确有的话——我们的目的与精神与他们不同。我相信，合众国人民会希望我以彻底的朴素与坦率来作答。不管俄国目前的领导人信不信，我们由衷地期望并希望：能够打开一条道路，使我们有幸去帮助俄国人民，实现他们对自由与有序和平的最大期望。</div>
+</section>
+
+<section class="para">
+  <span class="no">10</span>
+  <div class="en">It will be our wish and purpose that the processes of peace, when they are begun, shall be absolutely open and that they shall involve and permit <span class="voc"><span class="w">henceforth</span><span class="g"><i>adv.</i> /ˌhensˈfɔːrθ/ 从此以后</span></span> no secret understandings of any kind. The day of conquest and <span class="voc"><span class="w">aggrandizement</span><span class="g"><i>n.</i> /əˈɡrændɪzmənt/ 扩张，扩张权势</span></span> is gone by; so is also the day of secret <span class="voc"><span class="w">covenants</span><span class="g"><i>n.</i> /ˈkʌvənənts/ 盟约，契约</span></span> entered into in the interest of particular governments and likely at some <span class="voc"><span class="w">unlooked-for</span><span class="g"><i>adj.</i> /ʌnˈlʊkt fɔːr/ 始料未及的</span></span> moment to upset the peace of the world. It is this happy fact, now clear to the view of every public man whose thoughts do not still <span class="voc"><span class="w">linger</span><span class="g"><i>v.</i> /ˈlɪŋɡər/ 逗留，徘徊</span></span> in an age that is dead and gone, which makes it possible for every nation whose purposes are consistent with justice and the peace of the world to <span class="voc"><span class="w">avow</span><span class="g"><i>v.</i> /əˈvaʊ/ 公开承认，坦承</span></span> now or at any other time the objects it has in view.</div>
+  <div class="zh">我们将希望并力求：和平进程一旦启动，就应当是绝对公开的，并且从此不允许、不包含任何形式的秘密谅解。征服与扩张的时代已经过去；为了特定政府的利益而订立、又可能在某个人始料未及的时刻扰乱世界和平的秘密盟约的时代，也已经过去。正是这一令人欣慰的事实——如今，每一个思想尚未滞留于一个已死已逝时代的人，都能清楚地看到它——使得每一个目的与正义及世界和平相符的国家，都能够在此刻或任何时候，公开申明自己所抱的目的。</div>
+</section>
+
+<section class="para">
+  <span class="no">11</span>
+  <div class="en">We entered this war because <span class="voc"><span class="w">violations</span><span class="g"><i>n.</i> /ˌvaɪəˈleɪʃnz/ 违反，侵害</span></span> of right had occurred which touched us <span class="voc"><span class="w">to the quick</span><span class="g"><i>phr.</i> /tuː ðə kwɪk/ 触及痛处，深深刺痛</span></span> and made the life of our own people impossible unless they were corrected and the world secured once for all against their <span class="voc"><span class="w">recurrence</span><span class="g"><i>n.</i> /rɪˈkɜːrəns/ 再次发生，复发</span></span>.</div>
+  <div class="zh">我们之所以投入这场战争，是因为发生了对权利的侵害；这些侵害深深刺痛了我们，使我们自己的人民无法生活下去——除非这些侵害得到纠正，除非世界从此一劳永逸地获得保障，不再重蹈覆辙。</div>
+</section>
+
+<section class="para">
+  <span class="no">12</span>
+  <div class="en">What we demand in this war, therefore, is nothing <span class="voc"><span class="w">peculiar</span><span class="g"><i>adj.</i> /pɪˈkjuːliər/ 独有的，特有的</span></span> to ourselves. It is that the world be made fit and safe to live in; and particularly that it be made safe for every peace-loving nation which, like our own, wishes to live its own life, determine its own <span class="voc"><span class="w">institutions</span><span class="g"><i>n.</i> /ˌɪnstɪˈtuːʃnz/ 制度，体制</span></span>, be <span class="voc"><span class="w">assured</span><span class="g"><i>adj.</i> /əˈʃʊrd/ 有保证的，得到保障的</span></span> of justice and fair dealing by the other peoples of the world, as against force and selfish <span class="voc"><span class="w">aggression</span><span class="g"><i>n.</i> /əˈɡreʃn/ 侵略，侵犯</span></span>.</div>
+  <div class="zh">因此，我们在这场战争中所要求的，并非我们独有的东西。我们要求的是：把这个世界变得适宜居住、安全可居；尤其是要让它对每一个爱好和平的国家都是安全的——这些国家像我们一样，希望过自己的生活，决定自己的制度，并从世界其他民族那里获得正义与公平对待的保障，以对抗武力和自私的侵略。</div>
+</section>
+
+<section class="para">
+  <span class="no">13</span>
+  <div class="en">All the peoples of the world are <span class="voc"><span class="w">in effect</span><span class="g"><i>phr.</i> /ɪn ɪˈfekt/ 实际上，事实上</span></span> <span class="voc"><span class="w">partners</span><span class="g"><i>n.</i> /ˈpɑːrtnərz/ 伙伴，合伙人</span></span> in this interest, and <span class="voc"><span class="w">for our own part</span><span class="g"><i>phr.</i> /fɔːr aʊr oʊn pɑːrt/ 就我们而言</span></span> we see very clearly that unless justice be done to others it will not be done to us.</div>
+  <div class="zh">世界各民族实际上都是这一利益中的伙伴；就我们自己而言，我们看得很清楚：若不把正义施于他人，正义也不会施于我们。</div>
+</section>
+
+<section class="para">
+  <span class="no">14</span>
+  <div class="en">The <span class="voc"><span class="w">program</span><span class="g"><i>n.</i> /ˈproʊɡræm/ 纲领，方案</span></span> of the world's peace, therefore, is our program; and that program, the only possible program, <span class="voc"><span class="w">as we see it</span><span class="g"><i>phr.</i> /æz wiː ˈsiː ɪt/ 在我们看来</span></span>, is this:</div>
+  <div class="zh">因此，世界和平的纲领，就是我们的纲领；而这一纲领——在我们看来也是唯一可能的纲领——如下：</div>
+</section>
+
+<section class="para">
+  <span class="no">15</span>
+  <div class="en">1. Open <span class="voc"><span class="w">covenants</span><span class="g"><i>n.</i> /ˈkʌvənənts/ 盟约，契约</span></span> of peace must be arrived at, after which there will surely be no private international action or rulings of any kind, but <span class="voc"><span class="w">diplomacy</span><span class="g"><i>n.</i> /dɪˈploʊməsi/ 外交</span></span> shall <span class="voc"><span class="w">proceed</span><span class="g"><i>v.</i> /proʊˈsiːd/ 进行，行事</span></span> always frankly and <span class="voc"><span class="w">in the public view</span><span class="g"><i>phr.</i> /ɪn ðə ˈpʌblɪk vjuː/ 在公众视野中，公开地</span></span>.</div>
+  <div class="zh">一、和平盟约必须公开达成；此后，绝不允许任何形式的私下国际行动或裁决，外交应当始终坦率行事、公开进行。</div>
+</section>
+
+<section class="para">
+  <span class="no">16</span>
+  <div class="en">2. Absolute freedom of <span class="voc"><span class="w">navigation</span><span class="g"><i>n.</i> /ˌnævɪˈɡeɪʃn/ 航行，航海</span></span> upon the seas, outside <span class="voc"><span class="w">territorial</span><span class="g"><i>adj.</i> /ˌterəˈtɔːriəl/ 领土的</span></span> waters, <span class="voc"><span class="w">alike</span><span class="g"><i>adv.</i> /əˈlaɪk/ 同样地，一视同仁地</span></span> in peace and in war, except as the seas may be closed <span class="voc"><span class="w">in whole or in part</span><span class="g"><i>phr.</i> /ɪn hoʊl ɔːr ɪn pɑːrt/ 全部或部分地</span></span> by international action for the <span class="voc"><span class="w">enforcement</span><span class="g"><i>n.</i> /ɪnˈfɔːrsmənt/ 执行，强制实施</span></span> of international covenants.</div>
+  <div class="zh">二、领海之外的海上航行必须绝对自由，无论平时还是战时皆然；唯经国际行动、为执行国际盟约而全部或部分封锁的海域，不在此列。</div>
+</section>
+
+<section class="para">
+  <span class="no">17</span>
+  <div class="en">3. The removal, so far as possible, of all economic <span class="voc"><span class="w">barriers</span><span class="g"><i>n.</i> /ˈbæriərz/ 壁垒，障碍</span></span> and the <span class="voc"><span class="w">establishment</span><span class="g"><i>n.</i> /ɪˈstæblɪʃmənt/ 建立，设立</span></span> of an equality of trade conditions among all the nations <span class="voc"><span class="w">consenting</span><span class="g"><i>v.</i> /kənˈsentɪŋ/ 同意，赞同（consent 的现在分词）</span></span> to the peace and associating themselves for its <span class="voc"><span class="w">maintenance</span><span class="g"><i>n.</i> /ˈmeɪntənəns/ 维持，维护</span></span>.</div>
+  <div class="zh">三、尽可能消除一切经济壁垒，在一切同意和平并协力维护和平的国家之间，建立贸易条件的平等。</div>
+</section>
+
+<section class="para">
+  <span class="no">18</span>
+  <div class="en">4. <span class="voc"><span class="w">Adequate</span><span class="g"><i>adj.</i> /ˈædɪkwət/ 充分的，足够的</span></span> <span class="voc"><span class="w">guarantees</span><span class="g"><i>n.</i> /ˌɡærənˈtiːz/ 保证，担保</span></span> given and taken that national <span class="voc"><span class="w">armaments</span><span class="g"><i>n.</i> /ˈɑːrməmənts/ 军备，武装力量</span></span> will be reduced to the lowest points <span class="voc"><span class="w">consistent with</span><span class="g"><i>phr.</i> /kənˈsɪstənt wɪð/ 与……相称，与……一致</span></span> <span class="voc"><span class="w">domestic</span><span class="g"><i>adj.</i> /dəˈmestɪk/ 国内的，本国的</span></span> safety.</div>
+  <div class="zh">四、必须相互给予并接受充分的保证：各国军备将裁减到与国内安全相称的最低限度。</div>
+</section>
+
+<section class="para">
+  <span class="no">19</span>
+  <div class="en">5. A free, open-minded, and absolutely <span class="voc"><span class="w">impartial</span><span class="g"><i>adj.</i> /ɪmˈpɑːrʃl/ 公正的，不偏不倚的</span></span> <span class="voc"><span class="w">adjustment</span><span class="g"><i>n.</i> /əˈdʒʌstmənt/ 调整，协调</span></span> of all <span class="voc"><span class="w">colonial</span><span class="g"><i>adj.</i> /kəˈloʊniəl/ 殖民地的</span></span> claims, based upon a strict <span class="voc"><span class="w">observance</span><span class="g"><i>n.</i> /əbˈzɜːrvəns/ 遵守，奉行</span></span> of the principle that in determining all such questions of sovereignty the interests of the population concerned must have equal weight with the <span class="voc"><span class="w">equitable</span><span class="g"><i>adj.</i> /ˈekwɪtəbl/ 公平合理的</span></span> claims of the government whose <span class="voc"><span class="w">title</span><span class="g"><i>n.</i> /ˈtaɪtl/ 所有权，主权名义</span></span> is to be determined.</div>
+  <div class="zh">五、对一切殖民地主张，必须作出自由、开明而绝对公正的调整；其依据是严格遵守这样一项原则：在裁定所有此类主权问题时，相关居民的利益，必须与那些其主权名义有待确定的国家所提出的合理主张，具有同等的分量。</div>
+</section>
+
+<section class="para">
+  <span class="no">20</span>
+  <div class="en">6. The <span class="voc"><span class="w">evacuation</span><span class="g"><i>n.</i> /ɪˌvækjuˈeɪʃn/ 撤出，撤退</span></span> of all Russian territory and such a settlement of all questions affecting Russia as will secure the best and freest cooperation of the other nations of the world in obtaining for her an <span class="voc"><span class="w">unhampered</span><span class="g"><i>adj.</i> /ʌnˈhæmpərd/ 不受妨碍的</span></span> and <span class="voc"><span class="w">unembarrassed</span><span class="g"><i>adj.</i> /ˌʌnɪmˈbærəst/ 不受牵制的，无阻碍的</span></span> opportunity for the independent determination of her own political development and national policy, and assure her of a sincere welcome into the society of free nations under institutions of her own choosing; and, more than a welcome, assistance also of every kind that she may need and may herself desire. The treatment <span class="voc"><span class="w">accorded</span><span class="g"><i>v.</i> /əˈkɔːrdɪd/ 给予（accord 的过去分词）</span></span> Russia by her sister nations in the months to come will be the <span class="voc"><span class="w">acid test</span><span class="g"><i>phr.</i> /ˈæsɪd test/ 决定性的考验</span></span> of their good will, of their <span class="voc"><span class="w">comprehension</span><span class="g"><i>n.</i> /ˌkɑːmprɪˈhenʃn/ 理解，领会</span></span> of her needs <span class="voc"><span class="w">as distinguished from</span><span class="g"><i>phr.</i> /æz dɪˈstɪŋɡwɪʃt frəm/ 与……有别，不同于</span></span> their own interests, and of their intelligent and <span class="voc"><span class="w">unselfish</span><span class="g"><i>adj.</i> /ʌnˈselfɪʃ/ 无私的</span></span> sympathy.</div>
+  <div class="zh">六、必须撤出全部俄国领土，并就一切涉及俄国的问题作出这样的解决：使世界其他国家能够最好、最自由地合作，为俄国争取一个不受妨碍、不受牵制的机会，由其独立决定自身的政治发展与国家政策；并保证真诚地欢迎她按其自选的制度进入自由国家的社会；而且不止于欢迎，还要给予她所需要、她自己也愿意接受的一切援助。今后数月内，俄国各姊妹国家对她的待遇，将是对它们善意的决定性考验，是对它们能否理解俄国之需要（而非把它们自己的利益与之混为一谈）的考验，也是对它们明智而无自私之心的同情的考验。</div>
+</section>
+
+<section class="para">
+  <span class="no">21</span>
+  <div class="en">7. Belgium, the whole world will agree, must be <span class="voc"><span class="w">evacuated</span><span class="g"><i>v.</i> /ɪˈvækjueɪtɪd/ 撤出，撤离（evacuate 的过去分词）</span></span> and <span class="voc"><span class="w">restored</span><span class="g"><i>v.</i> /rɪˈstɔːrd/ 恢复，归还（restore 的过去分词）</span></span>, without any attempt to limit the sovereignty which she enjoys in common with all other free nations. No other single act will serve as this will serve to restore confidence among the nations in the laws which they have themselves set and determined for the government of their relations with one another. Without this <span class="voc"><span class="w">healing</span><span class="g"><i>adj.</i> /ˈhiːlɪŋ/ 治愈的，弥合的</span></span> act the whole structure and <span class="voc"><span class="w">validity</span><span class="g"><i>n.</i> /vəˈlɪdəti/ 效力，正当性</span></span> of international law is forever <span class="voc"><span class="w">impaired</span><span class="g"><i>v.</i> /ɪmˈperd/ 损害，削弱（impair 的过去分词）</span></span>.</div>
+  <div class="zh">七、全世界都会同意：比利时必须撤出并予以恢复，不得以任何方式限制她与所有其他自由国家共同享有的主权。要恢复各国对它们自己制定、自己确立的、用以规范彼此关系的法律的信心，没有任何别的单独举措能比这一举措更有效。若没有这一弥合创伤之举，国际法的整个结构与效力将永远受损。</div>
+</section>
+
+<section class="para">
+  <span class="no">22</span>
+  <div class="en">8. All French territory should be freed and the invaded <span class="voc"><span class="w">portions</span><span class="g"><i>n.</i> /ˈpɔːrʃnz/ 部分，区域</span></span> restored, and the wrong done to France by Prussia in 1871 in the matter of Alsace-Lorraine, which has <span class="voc"><span class="w">unsettled</span><span class="g"><i>v.</i> /ʌnˈsetld/ 扰乱，使不安定（unsettle 的过去分词）</span></span> the peace of the world for nearly fifty years, should be <span class="voc"><span class="w">righted</span><span class="g"><i>v.</i> /ˈraɪtɪd/ 纠正，昭雪（right 的过去分词）</span></span>, in order that peace may once more be made secure <span class="voc"><span class="w">in the interest of</span><span class="g"><i>phr.</i> /ɪn ði ˈɪntrəst əv/ 为了……的利益</span></span> all.</div>
+  <div class="zh">八、法国全部领土应予解放，被侵占的地区应予恢复；1871 年普鲁士在阿尔萨斯-洛林问题上对法国犯下的错误——近五十年来它一直扰乱着世界和平——应当得到纠正，以便和平能够为了所有人的利益而重新获得保障。</div>
+</section>
+
+<section class="para">
+  <span class="no">23</span>
+  <div class="en">9. A <span class="voc"><span class="w">re-adjustment</span><span class="g"><i>n.</i> /ˌriːəˈdʒʌstmənt/ 重新调整</span></span> of the <span class="voc"><span class="w">frontiers</span><span class="g"><i>n.</i> /frʌnˈtɪrz/ 边界，国界</span></span> of Italy should be <span class="voc"><span class="w">effected</span><span class="g"><i>v.</i> /ɪˈfektɪd/ 实现，实施（effect 的过去分词）</span></span> along clearly recognizable lines of <span class="voc"><span class="w">nationality</span><span class="g"><i>n.</i> /ˌnæʃəˈnæləti/ 民族，民族归属</span></span>.</div>
+  <div class="zh">九、意大利的边界应当依照清晰可辨的民族界线重新调整。</div>
+</section>
+
+<section class="para">
+  <span class="no">24</span>
+  <div class="en">10. The peoples of Austria-Hungary, whose place among the nations we wish to see <span class="voc"><span class="w">safeguarded</span><span class="g"><i>v.</i> /ˈseɪfɡɑːrdɪd/ 保障，维护（safeguard 的过去分词）</span></span> and <span class="voc"><span class="w">assured</span><span class="g"><i>v.</i> /əˈʃʊrd/ 确保，使确定（assure 的过去分词）</span></span>, should be <span class="voc"><span class="w">accorded</span><span class="g"><i>v.</i> /əˈkɔːrdɪd/ 给予（accord 的过去分词）</span></span> the freest opportunity of <span class="voc"><span class="w">autonomous</span><span class="g"><i>adj.</i> /ɔːˈtɑːnəməs/ 自治的，自主的</span></span> development.</div>
+  <div class="zh">十、奥匈帝国各民族——我们希望看到它们在各民族之林中的地位得到保障与确认——应当获得最自由的自主发展机会。</div>
+</section>
+
+<section class="para">
+  <span class="no">25</span>
+  <div class="en">11. Romania, Serbia, and Montenegro should be evacuated; occupied territories restored; Serbia accorded free and secure access to the sea; and the relations of the several Balkan states to one another determined by friendly <span class="voc"><span class="w">counsel</span><span class="g"><i>n.</i> /ˈkaʊnsl/ 商议，协商</span></span> along historically established lines of <span class="voc"><span class="w">allegiance</span><span class="g"><i>n.</i> /əˈliːdʒəns/ 效忠，归属</span></span> and nationality; and international guarantees of the political and economic independence and territorial <span class="voc"><span class="w">integrity</span><span class="g"><i>n.</i> /ɪnˈteɡrəti/ 完整，领土完整</span></span> of the several Balkan states should be <span class="voc"><span class="w">entered into</span><span class="g"><i>phr.</i> /ˈentərd ˈɪntuː/ 订立，缔结</span></span>.</div>
+  <div class="zh">十一、罗马尼亚、塞尔维亚和门的内哥罗必须撤出；被占领的领土必须恢复；塞尔维亚应获得自由而安全的出海口；巴尔干各国彼此之间的关系，应依照历史上形成的归属与民族界线，经友好协商加以确定；并且应当订立国际保证，保障巴尔干各国的政治与经济独立及领土完整。</div>
+</section>
+
+<section class="para">
+  <span class="no">26</span>
+  <div class="en">12. The Turkish portions of the present Ottoman Empire should be assured a secure sovereignty, but the other nationalities which are now under Turkish rule should be assured an <span class="voc"><span class="w">undoubted</span><span class="g"><i>adj.</i> /ʌnˈdaʊtɪd/ 不容置疑的</span></span> security of life and an absolutely <span class="voc"><span class="w">unmolested</span><span class="g"><i>adj.</i> /ˌʌnməˈlestɪd/ 不受干扰的</span></span> opportunity of autonomous development, and the Dardanelles should be <span class="voc"><span class="w">permanently</span><span class="g"><i>adv.</i> /ˈpɜːrmənəntli/ 永久地</span></span> opened as a free passage to the ships and <span class="voc"><span class="w">commerce</span><span class="g"><i>n.</i> /ˈkɑːmɜːrs/ 商业，贸易</span></span> of all nations under international guarantees.</div>
+  <div class="zh">十二、现奥斯曼帝国的土耳其人部分，应获得安全的主权保障；但目前在土耳其统治之下的其他各民族，应获得不容置疑的生命安全，以及完全不受干扰的自主发展机会；达达尼尔海峡应永久开放，在国际保证之下作为所有国家船舶与商业的自由通道。</div>
+</section>
+
+<section class="para">
+  <span class="no">27</span>
+  <div class="en">13. An independent Polish state should be <span class="voc"><span class="w">erected</span><span class="g"><i>v.</i> /ɪˈrektɪd/ 建立，竖立（erect 的过去分词）</span></span> which should include the territories <span class="voc"><span class="w">inhabited</span><span class="g"><i>v.</i> /ɪnˈhæbɪtɪd/ 居住于（inhabit 的过去分词）</span></span> by <span class="voc"><span class="w">indisputably</span><span class="g"><i>adv.</i> /ˌɪndɪˈspjuːtəbli/ 无可争辩地</span></span> Polish populations, which should be assured a free and secure access to the sea, and whose political and economic independence and territorial integrity should be guaranteed by international <span class="voc"><span class="w">covenant</span><span class="g"><i>n.</i> /ˈkʌvənənt/ 盟约，契约</span></span>.</div>
+  <div class="zh">十三、应建立一个独立的波兰国家，其领土应包括无可争辩地由波兰人居住的地区；应保证它拥有自由而安全的出海口；其政治与经济的独立及领土完整，应由国际盟约予以保证。</div>
+</section>
+
+<section class="para">
+  <span class="no">28</span>
+  <div class="en">14. A general <span class="voc"><span class="w">association</span><span class="g"><i>n.</i> /əˌsoʊsiˈeɪʃn/ 联合，联盟</span></span> of nations must be formed under <span class="voc"><span class="w">specific</span><span class="g"><i>adj.</i> /spəˈsɪfɪk/ 明确的，具体的</span></span> covenants for the purpose of <span class="voc"><span class="w">affording</span><span class="g"><i>v.</i> /əˈfɔːrdɪŋ/ 提供，给予（afford 的现在分词）</span></span> <span class="voc"><span class="w">mutual</span><span class="g"><i>adj.</i> /ˈmjuːtʃuəl/ 相互的，彼此的</span></span> guarantees of political independence and territorial integrity to great and small states alike.</div>
+  <div class="zh">十四、必须依据明确的盟约，建立一个各国参加的普遍联合，以便对大国与小国同样提供政治独立与领土完整的相互保证。</div>
+</section>
+
+<section class="para">
+  <span class="no">29</span>
+  <div class="en">In regard to these essential <span class="voc"><span class="w">rectifications</span><span class="g"><i>n.</i> /ˌrektɪfɪˈkeɪʃnz/ 纠正，矫正</span></span> of wrong and <span class="voc"><span class="w">assertions</span><span class="g"><i>n.</i> /əˈsɜːrʃnz/ 主张，断言</span></span> of right, we feel ourselves to be <span class="voc"><span class="w">intimate</span><span class="g"><i>adj.</i> /ˈɪntɪmət/ 亲密的，密切的</span></span> partners of all the governments and peoples associated together against the <span class="voc"><span class="w">imperialists</span><span class="g"><i>n.</i> /ɪmˈpɪriəlɪsts/ 帝国主义者</span></span>. We cannot be separated in interest or divided in purpose. We stand together until the end.</div>
+  <div class="zh">对于这些对错误的根本纠正与对权利的主张，我们感到自己是所有为对抗帝国主义者而联合起来的政府与人民的亲密伙伴。我们在利益上不可分离，在目的上不可分裂。我们站在一起，直到最后。</div>
+</section>
+
+<section class="para">
+  <span class="no">30</span>
+  <div class="en">For such arrangements and covenants we are willing to fight and to continue to fight until they are achieved; but only because we wish the right to <span class="voc"><span class="w">prevail</span><span class="g"><i>v.</i> /prɪˈveɪl/ 获胜，占上风</span></span> and desire a just and <span class="voc"><span class="w">stable</span><span class="g"><i>adj.</i> /ˈsteɪbl/ 稳定的，稳固的</span></span> peace such as can be secured only by removing the chief <span class="voc"><span class="w">provocations</span><span class="g"><i>n.</i> /ˌprɑːvəˈkeɪʃnz/ 挑衅，导火索</span></span> to war, which this program does remove.</div>
+  <div class="zh">为了这样的安排与盟约，我们愿意战斗，并愿意继续战斗，直到它们实现；但这只是因为：我们希望正义得胜，渴望一种公正而稳固的和平——而这样的和平，只有消除战争的主要导火索才能获得，而这一纲领恰恰消除了这些导火索。</div>
+</section>
+
+<section class="para">
+  <span class="no">31</span>
+  <div class="en">We have no <span class="voc"><span class="w">jealousy</span><span class="g"><i>n.</i> /ˈdʒeləsi/ 嫉妒，忌妒</span></span> of German greatness, and there is nothing in this program that impairs it. We <span class="voc"><span class="w">grudge</span><span class="g"><i>v.</i> /ɡrʌdʒ/ 嫉妒，吝于承认（grudge sb sth）</span></span> her no achievement or distinction of learning or of <span class="voc"><span class="w">pacific</span><span class="g"><i>adj.</i> /pəˈsɪfɪk/ 和平的，爱好和平的</span></span> enterprise such as have made her record very bright and very <span class="voc"><span class="w">enviable</span><span class="g"><i>adj.</i> /ˈenviəbl/ 令人羡慕的</span></span>. We do not wish to injure her or to block in any way her <span class="voc"><span class="w">legitimate</span><span class="g"><i>adj.</i> /lɪˈdʒɪtɪmət/ 正当的，合法的</span></span> influence or power. We do not wish to fight her either with arms or with <span class="voc"><span class="w">hostile</span><span class="g"><i>adj.</i> /ˈhɑːstl/ 敌意的，敌对的</span></span> arrangements of trade, if she is willing to associate herself with us and the other peace-loving nations of the world in covenants of justice and law and fair dealing.</div>
+  <div class="zh">我们对德国的强大并不嫉妒，这一纲领中也没有任何削弱它的内容。我们不吝于承认她在学术或和平事业上的任何成就与卓越——这些成就使她的记录极为光彩，也极为令人羡慕。我们并不想伤害她，也不想以任何方式阻断她正当的影响或实力。我们不想与她兵戎相见，也不想以敌对的贸易安排与她为敌——只要她愿意同我们以及世界上其他爱好和平的国家一道，加入正义、法律与公平相待的盟约。</div>
+</section>
+
+<section class="para">
+  <span class="no">32</span>
+  <div class="en">We wish her only to accept a place of <span class="voc"><span class="w">equality</span><span class="g"><i>n.</i> /iˈkwɑːləti/ 平等</span></span> among the peoples of the world--the new world in which we now live--instead of a place of <span class="voc"><span class="w">mastery</span><span class="g"><i>n.</i> /ˈmæstəri/ 支配，统治</span></span>.</div>
+  <div class="zh">我们只希望她接受在世界各民族之中的平等地位——即我们现在所生活的这个新世界中的平等地位——而不是一个支配者的地位。</div>
+</section>
+
+<section class="para">
+  <span class="no">33</span>
+  <div class="en">Neither do we <span class="voc"><span class="w">presume</span><span class="g"><i>v.</i> /prɪˈzuːm/ 擅自，冒昧</span></span> to suggest to her any <span class="voc"><span class="w">alteration</span><span class="g"><i>n.</i> /ˌɔːltəˈreɪʃn/ 更改，变动</span></span> or modification of her institutions. But it is necessary, we must frankly say, and necessary as a <span class="voc"><span class="w">preliminary</span><span class="g"><i>n.</i> /prɪˈlɪmɪneri/ 前提，预备步骤</span></span> to any intelligent dealings with her on our part, that we should know whom her spokesmen speak for when they speak to us, whether for the Reichstag majority or for the military party and the men whose <span class="voc"><span class="w">creed</span><span class="g"><i>n.</i> /kriːd/ 信条，宗旨</span></span> is <span class="voc"><span class="w">imperial</span><span class="g"><i>adj.</i> /ɪmˈpɪriəl/ 帝国的，帝国统治的</span></span> domination.</div>
+  <div class="zh">我们也无意冒昧地建议她对自己的制度作任何更改或修改。但我们必须坦率地说：有必要——而且是我们要同她进行任何有意义的交往的先决条件——让我们知道，她的代言人在对我们说话时是替谁说话：是替国会多数，还是替军方政党，以及那些以帝国支配为信条的人。</div>
+</section>
+
+<section class="para">
+  <span class="no">34</span>
+  <div class="en">We have spoken now, surely, in terms too concrete to <span class="voc"><span class="w">admit of</span><span class="g"><i>phr.</i> /ədˈmɪt əv/ 容许，留有……余地</span></span> any further doubt or question. An <span class="voc"><span class="w">evident</span><span class="g"><i>adj.</i> /ˈevɪdənt/ 明显的，显然的</span></span> principle runs through the whole program I have <span class="voc"><span class="w">outlined</span><span class="g"><i>v.</i> /ˈaʊtlaɪnd/ 概述，勾画（outline 的过去分词）</span></span>. It is the principle of justice to all peoples and nationalities, and their right to live <span class="voc"><span class="w">on equal terms</span><span class="g"><i>phr.</i> /ɑːn ˈiːkwəl tɜːrmz/ 在平等条件下</span></span> of liberty and safety with one another, whether they be strong or weak.</div>
+  <div class="zh">我们如今所说的话，其具体程度想必已不容任何怀疑或质问了。我所概述的这整个纲领，贯穿着一条显然的原则。那就是：对一切民族与族裔施行正义，以及它们彼此之间在自由与安全上享有平等生活的权利——无论它们是强是弱。</div>
+</section>
+
+<section class="para">
+  <span class="no">35</span>
+  <div class="en">Unless this principle be made its <span class="voc"><span class="w">foundation</span><span class="g"><i>n.</i> /faʊnˈdeɪʃn/ 基础，根基</span></span>, no part of the structure of international justice can stand. The people of the United States could act upon no other principle, and to the <span class="voc"><span class="w">vindication</span><span class="g"><i>n.</i> /ˌvɪndɪˈkeɪʃn/ 证明正当，维护</span></span> of this principle they are ready to <span class="voc"><span class="w">devote</span><span class="g"><i>v.</i> /dɪˈvoʊt/ 奉献，献出</span></span> their lives, their honor, and everything that they possess. The moral <span class="voc"><span class="w">climax</span><span class="g"><i>n.</i> /ˈklaɪmæks/ 高潮，顶点</span></span> of this, the <span class="voc"><span class="w">culminating</span><span class="g"><i>adj.</i> /ˈkʌlmɪneɪtɪŋ/ 达到顶点的，最终达到高潮的</span></span> and final war for human liberty has come, and they are ready to put their own strength, their own highest purpose, their own <span class="voc"><span class="w">integrity</span><span class="g"><i>n.</i> /ɪnˈteɡrəti/ 正直，操守</span></span> and <span class="voc"><span class="w">devotion</span><span class="g"><i>n.</i> /dɪˈvoʊʃn/ 忠诚，献身</span></span> to the test.</div>
+  <div class="zh">除非把这一原则作为它的基础，国际正义的结构便没有任何一部分能够立得住。合众国人民不可能依循别的原则行事；为了证明这一原则正当，他们准备献出自己的生命、荣誉，以及他们所拥有的一切。这一场为人类自由而进行的、登峰造极的最终之战，其道德的高潮已经到来；他们准备把自己的力量、自己最高的目标、自己的正直与忠诚，一并交付考验。</div>
+</section>
+
+</main>
+
+<section class="gloss">
+  <h2>词汇总表</h2>
+  <p class="sub">按英文段落出现顺序排列，共 <b id="gcount">—</b> 条。</p>
+  <table class="gt">
+    <thead><tr><th>Word</th><th>词性</th><th>音标（美式）</th><th>释义</th></tr></thead>
+    <tbody id="gbody"></tbody>
+  </table>
+</section>
+
+<footer class="ft">
+  <p><b>原文来源</b>：Wikisource「Fourteen Points」（<a href="https://en.wikisource.org/wiki/Fourteen_Points" target="_blank" rel="noopener">https://en.wikisource.org/wiki/Fourteen_Points</a>）。伍德罗·威尔逊 1918 年 1 月 8 日在国会联席会议上发表。</p>
+  <p><b>文本版权</b>：联邦职务作品（17 U.S.C. §105），亦为 1918 年出版、1930 年前作品，属公有领域。中文译文为本网站自译。</p>
+  <p><b>音视频</b>：无原声音频（录音技术 1877 年才出现）。词汇音标采用美式发音（General American）。</p>
+  <p><b>版本说明</b>：本篇为演说全文，十四点纲领部分照原文分条编号，故段落序号（01–35）与文中的第 1–14 条并不一致。底本第五段有「all the world lies been audience」一处排印讹误（当作 has been audience），本页照底本原文保留。原文以双连字符（--）代破折号，本页从之。文中的 Central Empires 与 Central Powers 同指一战中的中欧列强（同盟国），译文统一作「中欧列强」。</p>
+</footer>
+
+</div>
+
+<div class="panel" id="panel" hidden>
+  <div class="row"><span>中文译文</span><button class="sw" id="tgZh" aria-pressed="true" aria-label="中文译文"></button></div>
+  <div class="row"><span>词汇浮层</span><button class="sw" id="tgGl" aria-pressed="true" aria-label="词汇浮层"></button></div>
+  <div class="info">共 <b id="gcount2">—</b> 条词汇 · 音标为美式发音</div>
+</div>
+<button class="fab" id="fab" aria-label="显示设置" title="显示设置">⚙</button>
+
+<div class="vpop" id="vpop" hidden aria-hidden="true">
+  <span class="ar"></span>
+  <div class="pw"></div>
+  <div class="pm"><span class="pos"></span><span class="ipa"></span></div>
+  <div class="pd"></div>
+</div>
+
+<script>
+(function(){
+  var body = document.body;
+
+  /* 0. 媒体是可选的：未填写的行自动隐藏，全都没填则整块不显示 */
+  var mediaSec = document.getElementById('media');
+  if(mediaSec){
+    var rows = Array.prototype.slice.call(mediaSec.querySelectorAll('[data-media]'));
+    var shown = 0;
+    rows.forEach(function(r){
+      var filled = !/\{\{[A-Z_]+\}\}/.test(r.innerHTML) && !/\ssrc=""/.test(r.innerHTML);
+      r.hidden = !filled;
+      if(filled){ r.classList.toggle('sep', shown > 0); shown++; }
+    });
+    mediaSec.hidden = shown === 0;
+  }
+  var ft = document.querySelector('footer.ft');
+  if(ft){
+    ft.hidden = ft.textContent.trim() === '' || /\{\{[A-Z_]+\}\}/.test(ft.textContent);
+  }
+
+  /* 1. 词汇释义 -> data 属性 */
+  var seen = Object.create(null);
+  var items = [];
+  Array.prototype.forEach.call(document.querySelectorAll('#body .voc'), function(v){
+    var wEl = v.querySelector('.w');
+    var gEl = v.querySelector('.g');
+    if(!wEl || !gEl) return;
+    var word = wEl.textContent.trim();
+    var posEl = gEl.querySelector('i');
+    var pos = posEl ? posEl.textContent.trim() : '';
+    var rest = posEl ? gEl.textContent.replace(posEl.textContent, '').trim() : gEl.textContent.trim();
+    var m = rest.match(/^(\/[^/]*\/)\s*([\s\S]*)$/);
+    var ipa = m ? m[1] : '';
+    var def = m ? m[2] : rest;
+    v.setAttribute('data-w', word);
+    v.setAttribute('data-pos', pos);
+    v.setAttribute('data-ipa', ipa);
+    v.setAttribute('data-def', def);
+    v.setAttribute('tabindex', '0');
+    v.setAttribute('role', 'button');
+    v.setAttribute('aria-label', word + ' ' + ipa + ' ' + def);
+    var key = word.toLowerCase();
+    if(!seen[key]){ seen[key] = 1; items.push({w:word, pos:pos, ipa:ipa, def:def}); }
+  });
+
+  /* 2. 页尾词汇总表（去重、按出现顺序） */
+  var tb = document.getElementById('gbody');
+  items.forEach(function(r){
+    var tr = document.createElement('tr');
+    tr.innerHTML = '<td class="wd"></td><td class="ps"></td><td class="ip"></td><td></td>';
+    tr.children[0].textContent = r.w;
+    tr.children[1].textContent = r.pos;
+    tr.children[2].textContent = r.ipa;
+    tr.children[3].textContent = r.def;
+    tb.appendChild(tr);
+  });
+  document.getElementById('gcount').textContent = items.length;
+  var g2 = document.getElementById('gcount2');
+  if(g2) g2.textContent = items.length;
+
+  /* 3. 浮层：悬停显示，单击固定，点别处 / Esc 关闭 */
+  var pop   = document.getElementById('vpop');
+  var pw    = pop.querySelector('.pw');
+  var ppos  = pop.querySelector('.pos');
+  var pipa  = pop.querySelector('.ipa');
+  var pdef  = pop.querySelector('.pd');
+  var arrow = pop.querySelector('.ar');
+  var current = null, pinned = null;
+
+  function enabled(){ return !body.classList.contains('no-gloss'); }
+
+  function place(el){
+    var r = el.getBoundingClientRect();
+    var pwid = pop.offsetWidth, phgt = pop.offsetHeight;
+    var left = Math.max(10, Math.min(r.left + r.width/2 - pwid/2, window.innerWidth - pwid - 10));
+    var top = r.top - phgt - 11, below = false;
+    if(top < 10){ top = r.bottom + 11; below = true; }
+    pop.style.left = Math.round(left) + 'px';
+    pop.style.top  = Math.round(top) + 'px';
+    pop.classList.toggle('below', below);
+    arrow.style.left = Math.round(Math.max(10, Math.min(r.left + r.width/2 - left, pwid - 20))) + 'px';
+  }
+
+  function show(el){
+    if(!enabled()) return;
+    if(current && current !== el) current.classList.remove('on');
+    current = el; el.classList.add('on');
+    pw.textContent   = el.getAttribute('data-w');
+    ppos.textContent = el.getAttribute('data-pos');
+    pipa.textContent = el.getAttribute('data-ipa');
+    pdef.textContent = el.getAttribute('data-def');
+    pop.hidden = false;
+    pop.setAttribute('aria-hidden','false');
+    pop.classList.toggle('pinned', pinned === el);
+    place(el);
+    requestAnimationFrame(function(){ pop.classList.add('show'); });
+  }
+
+  function hide(){
+    if(current){ current.classList.remove('on'); current = null; }
+    pinned = null;
+    pop.classList.remove('show','pinned');
+    pop.hidden = true;
+    pop.setAttribute('aria-hidden','true');
+  }
+
+  function vocOf(t){ return t && t.closest ? t.closest('.voc') : null; }
+
+  document.addEventListener('mouseover', function(e){
+    var v = vocOf(e.target);
+    if(!v || !enabled() || pinned || v === current) return;
+    show(v);
+  });
+  document.addEventListener('mouseout', function(e){
+    var v = vocOf(e.target);
+    if(!v) return;
+    var to = e.relatedTarget;
+    if(to && vocOf(to) === v) return;
+    if(pinned === v) return;
+    hide();
+  });
+  document.addEventListener('click', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled()){
+      if(pinned === v){ hide(); } else { pinned = v; show(v); }
+      return;
+    }
+    if(!v && (current || pinned)) hide();
+  });
+  document.addEventListener('focusin', function(e){
+    var v = vocOf(e.target);
+    if(v && enabled() && v !== current) show(v);
+  });
+  document.addEventListener('focusout', function(e){
+    var v = vocOf(e.target);
+    if(v && !pinned) hide();
+  });
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape' && (current || pinned)) hide();
+  });
+
+  var raf = 0;
+  function reposition(){ if(!current || pop.hidden) return; raf = 0; place(current); }
+  window.addEventListener('scroll', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); }, true);
+  window.addEventListener('resize', function(){ if(current && !raf) raf = requestAnimationFrame(reposition); });
+
+  /* 4. 视频：点击后才加载 iframe */
+  var vidbtn = document.getElementById('vidbtn');
+  var vidwrap = document.getElementById('vidwrap');
+  var vidrow = vidbtn && vidbtn.closest('[data-media]');
+  if(vidbtn && vidrow && !vidrow.hidden){
+    vidbtn.addEventListener('click', function(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/{{YOUTUBE_ID}}?rel=0';
+      f.title = '{{EN_SUBTITLE}}';
+      f.setAttribute('frameborder','0');
+      f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+      f.setAttribute('allowfullscreen','');
+      f.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+      f.loading = 'lazy';
+      vidwrap.appendChild(f);
+      vidwrap.hidden = false;
+      vidbtn.hidden = true;
+    });
+  }
+
+  /* 5. 显示开关（右下角按钮，默认收起） */
+  var tgZh = document.getElementById('tgZh');
+  var tgGl = document.getElementById('tgGl');
+  var fab  = document.getElementById('fab');
+  var panel= document.getElementById('panel');
+
+  function sync(){
+    tgZh.setAttribute('aria-pressed', body.classList.contains('no-zh') ? 'false' : 'true');
+    tgGl.setAttribute('aria-pressed', body.classList.contains('no-gloss') ? 'false' : 'true');
+  }
+  fab.addEventListener('click', function(e){ e.stopPropagation(); panel.hidden = !panel.hidden; });
+  tgZh.addEventListener('click', function(e){ e.stopPropagation(); body.classList.toggle('no-zh'); sync(); });
+  tgGl.addEventListener('click', function(e){
+    e.stopPropagation();
+    body.classList.toggle('no-gloss');
+    if(body.classList.contains('no-gloss')) hide();
+    sync();
+  });
+  panel.addEventListener('click', function(e){ e.stopPropagation(); });
+  document.addEventListener('click', function(e){
+    if(!panel.hidden && !panel.contains(e.target) && e.target !== fab) panel.hidden = true;
+  });
+  sync();
+})();
+</script>
+</body>
+</html>
