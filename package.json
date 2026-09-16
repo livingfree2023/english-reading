@@ -14,7 +14,9 @@
   },
   "dependencies": {
     "@astrojs/check": "latest",
+    "@astrojs/markdown-remark": "^7.3.1",
     "astro": "latest",
+    "remark-directive": "^4.0.0",
     "typescript": "latest",
     "zod": "latest"
   }

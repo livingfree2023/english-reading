@@ -32,6 +32,85 @@ function parseFrontmatter(text, file) {
   return data;
 }
 
+function splitEscaped(value, separator) {
+  const fields = [''];
+  let escaped = false;
+  for (const character of value) {
+    if (escaped) {
+      fields[fields.length - 1] += character;
+      escaped = false;
+    } else if (character === '\\') {
+      escaped = true;
+    } else if (character === separator) {
+      fields.push('');
+    } else {
+      fields[fields.length - 1] += character;
+    }
+  }
+  if (escaped) fields[fields.length - 1] += '\\';
+  return fields.map((field) => field.trim());
+}
+
+function parseVocabulary(value, file, paragraph) {
+  const vocabulary = [];
+  let cursor = 0;
+  while (cursor < value.length) {
+    const start = value.indexOf('[[', cursor);
+    if (start === -1) break;
+    let escaped = false;
+    let end = -1;
+    for (let index = start + 2; index < value.length - 1; index += 1) {
+      if (escaped) { escaped = false; continue; }
+      if (value[index] === '\\') { escaped = true; continue; }
+      if (value[index] === ']' && value[index + 1] === ']') { end = index; break; }
+    }
+    if (end === -1) {
+      errors.push(`${file}: paragraph ${paragraph} has an unclosed vocabulary token`);
+      break;
+    }
+    const fields = splitEscaped(value.slice(start + 2, end), '|');
+    if (fields.length !== 4 || fields.some((field) => !field)) {
+      errors.push(`${file}: paragraph ${paragraph} vocabulary needs [[word|part of speech|IPA|definition]]`);
+    } else if (!/^\/[^/]+\/$/.test(fields[2])) {
+      errors.push(`${file}: paragraph ${paragraph} vocabulary IPA must be slash-delimited`);
+    }
+    vocabulary.push(fields);
+    cursor = end + 2;
+  }
+  return vocabulary;
+}
+
+function parseSpeechBody(text, file) {
+  const body = text.replace(/^---\n[\s\S]*?\n---\n/, '').trim();
+  if (/<\/?(?:section|div|span|br|p)\b/i.test(body)) errors.push(`${file}: body contains legacy HTML`);
+  if (body.includes('{{')) errors.push(`${file}: unresolved placeholder`);
+  const parts = body.split(/^### (\d{2})\n\n/gm);
+  if (parts.shift()?.trim()) errors.push(`${file}: body must begin with ### 01`);
+  const paragraphs = [];
+  for (let index = 0; index < parts.length; index += 2) {
+    const number = parts[index];
+    const content = parts[index + 1]?.trim();
+    const expected = String(paragraphs.length + 1).padStart(2, '0');
+    if (number !== expected) errors.push(`${file}: expected paragraph ${expected}, found ${number}`);
+    if (!content) { errors.push(`${file}: paragraph ${number} is empty`); continue; }
+
+    const quote = content.match(/^:::quote\n\n([\s\S]*?)\n\n((?:>.*\n?)+)\n:::\s*$/);
+    const standard = content.match(/^([\s\S]*?)\n\n((?:>.*\n?)+)$/);
+    const match = quote ?? standard;
+    if (!match) {
+      errors.push(`${file}: paragraph ${number} needs English text plus one quoted Chinese translation`);
+      continue;
+    }
+    const [, english, quotedChinese] = match;
+    const chinese = quotedChinese.replace(/^> ?/gm, '').trim();
+    if (!english.trim() || !chinese) errors.push(`${file}: paragraph ${number} must contain both languages`);
+    if (content.includes(':::') && !quote) errors.push(`${file}: paragraph ${number} has an invalid directive`);
+    paragraphs.push({ number, english, chinese, vocabulary: parseVocabulary(english, file, number) });
+  }
+  if (!paragraphs.length) errors.push(`${file}: speech body has no paragraphs`);
+  return paragraphs;
+}
+
 for (const file of files) {
   const id = basename(file, '.md');
   if (ids.has(id)) errors.push(`duplicate speech id: ${id}`);
@@ -53,10 +132,9 @@ for (const file of files) {
     if (kind === 'video' && !media.url.includes('youtube-nocookie.com/embed/')) errors.push(`${file}: video must use youtube-nocookie embed`);
   }
   if (expectedExcerpts.has(id) && data.status !== 'excerpt') errors.push(`${file}: expected excerpt status`);
-  if (text.includes('{{')) errors.push(`${file}: unresolved placeholder`);
-  const paragraphCount = (text.match(/<section class="para">/g) ?? []).length;
-  const vocabularyCount = (text.match(/<span class="voc">/g) ?? []).length;
-  if (!paragraphCount) errors.push(`${file}: speech body has no paragraphs`);
+  const paragraphs = parseSpeechBody(text, file);
+  const paragraphCount = paragraphs.length;
+  const vocabularyCount = paragraphs.reduce((count, paragraph) => count + paragraph.vocabulary.length, 0);
   if (data.status === 'full' && vocabularyCount < Math.max(3, Math.ceil(paragraphCount / 4))) errors.push(`${file}: full-text page needs vocabulary coverage (${vocabularyCount}/${Math.max(3, Math.ceil(paragraphCount / 4))})`);
 }
 
@@ -77,7 +155,7 @@ if (existsSync(join(root, 'dist'))) {
     const html = readFileSync(join(root, `dist${route}`), 'utf8');
     if (!html.includes('<link rel="canonical"') || !html.includes('property="og:title"') || !html.includes('property="og:description"')) errors.push(`missing required metadata: ${route}`);
     const sourceText = readFileSync(join(speechDir, `${route.slice(1, -5)}.md`), 'utf8');
-    if (sourceText.includes('<span class="voc">') && !html.includes('本页词汇')) errors.push(`missing generated glossary: ${route}`);
+    if (sourceText.includes('[[') && !html.includes('本页词汇')) errors.push(`missing generated glossary: ${route}`);
   }
 }
 
