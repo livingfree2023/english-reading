@@ -85,6 +85,39 @@
   .sw[aria-pressed="true"]{background:var(--accent)}
   .sw[aria-pressed="true"]::after{left:17px}
 
+  /* 音视频 */
+  .media{
+    margin:14px 0 2px;padding:10px 13px 11px;
+    background:var(--paper);border:1px solid var(--rule);border-radius:9px;
+  }
+  .mrow{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
+  .mrow + .mrow{margin-top:8px;padding-top:8px;border-top:1px dashed #eee8dc}
+  .mlbl{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11px;letter-spacing:.14em;color:var(--gold);flex:none;
+  }
+  .aud{flex:1 1 240px;min-width:200px;height:32px;display:block}
+  .mn{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:11.5px;color:#8d887e;line-height:1.5;
+  }
+  .mn a{color:var(--ink-soft);text-decoration:none;border-bottom:1px solid var(--rule)}
+  .mn a:hover{color:var(--accent);border-bottom-color:var(--accent)}
+  .vidbtn{
+    font-family:-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;
+    font-size:12.5px;cursor:pointer;
+    padding:5px 12px;border-radius:999px;
+    border:1px solid var(--rule);background:var(--paper);color:var(--ink-soft);
+    transition:.15s;
+  }
+  .vidbtn:hover{border-color:var(--gold);color:var(--ink)}
+  .vidwrap{margin-top:10px}
+  .vidwrap[hidden]{display:none}
+  .vidwrap iframe{
+    display:block;width:100%;aspect-ratio:16/9;height:auto;
+    border:0;border-radius:6px;background:#000;
+  }
+
   .para{
     padding:13px 0;
     border-bottom:1px solid var(--rule);
@@ -218,7 +251,7 @@
     .panel{right:12px;bottom:54px}
   }
   @media print{
-    .fab,.panel{display:none !important}
+    .fab,.panel,.media{display:none !important}
     body{background:#fff}
     .para{page-break-inside:avoid}
     .gloss{page-break-before:always}
@@ -234,6 +267,20 @@
     <small data-page-node-id="S9Lk6E5DhKJK6iFTA5KuFQ">Barack Obama — First Inaugural Address, 20 January 2009</small>
   </h1>
 </header>
+
+<section class="media">
+  <div class="mrow">
+    <span class="mlbl">音频</span>
+    <audio class="aud" controls preload="none" src="media/obama-inaugural-2009.mp3"></audio>
+    <span class="mn">18:58 · 公有领域（Wikimedia Commons）· <a href="media/obama-inaugural-2009.mp3" download>下载 MP3</a></span>
+  </div>
+  <div class="mrow">
+    <span class="mlbl">视频</span>
+    <button class="vidbtn" id="vidbtn" type="button">▶ 加载视频（YouTube）</button>
+    <span class="mn">The Obama White House 官方频道 · <a href="https://www.youtube.com/watch?v=3PuHGKnboNY" target="_blank" rel="noopener">在新窗口打开</a></span>
+  </div>
+  <div class="vidwrap" id="vidwrap" hidden></div>
+</section>
 
 <main id="body" data-page-node-id="2ljDUAVQWZy9u136A25BHr">
 
@@ -491,7 +538,9 @@
 <footer class="ft" data-page-node-id="hpg7f0mGQOR3XAPEccsT2J">
   原文：Barack Obama, First Inaugural Address, United States Capitol, Washington, D.C., 20 January 2009（公有领域）。<br data-page-node-id="BAAStRbdvqcOEm2blHzMO0">
   译文与注音：本页中文为对照译文，音标采用美式发音（General American）；词性依该词在句中的用法标注。<br data-page-node-id="t3plkZl91dBAXi075NDiAJ">
-  注：原文 "Khe Sahn" 通行为 Khe Sanh（越南溪山），译文中已更正。
+  注：原文 "Khe Sahn" 通行为 Khe Sanh（越南溪山），译文中已更正。<br data-page-node-id="BAAStRbdvqcOEm2blHzMO0">
+  音频：Wikimedia Commons「Barack Obama inauguration speech 2009」，公有领域，18:58。<br>
+  视频：The Obama White House 官方 YouTube 频道（点击后加载，不预先请求第三方资源）。
 </footer>
 
 </div>
@@ -673,6 +722,25 @@
   window.addEventListener('resize', function(){
     if(current && !raf) raf = requestAnimationFrame(reposition);
   });
+
+  /* ---------- 3.5 视频：点击后才加载 iframe ---------- */
+  var vidbtn  = document.getElementById('vidbtn');
+  var vidwrap = document.getElementById('vidwrap');
+  if(vidbtn){
+    vidbtn.addEventListener('click', function(){
+      var f = document.createElement('iframe');
+      f.src = 'https://www.youtube-nocookie.com/embed/3PuHGKnboNY?rel=0';
+      f.title = 'President Barack Obama\'s Inaugural Address — The Obama White House';
+      f.setAttribute('frameborder','0');
+      f.setAttribute('allow','accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share');
+      f.setAttribute('allowfullscreen','');
+      f.setAttribute('referrerpolicy','strict-origin-when-cross-origin');
+      f.loading = 'lazy';
+      vidwrap.appendChild(f);
+      vidwrap.hidden = false;
+      vidbtn.hidden = true;
+    });
+  }
 
   /* ---------- 4. 显示开关（右下角按钮，默认收起） ---------- */
   var tgZh  = document.getElementById('tgZh');

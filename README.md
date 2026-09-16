@@ -8,6 +8,16 @@
 
 浏览器直接打开 HTML 即可，无依赖。
 
+## 媒体文件
+
+`media/` 存放与文章配套的音频，随仓库一起部署。
+
+| 文件 | 大小 | 来源 / 授权 |
+| --- | --- | --- |
+| `media/obama-inaugural-2009.mp3` | 24.6 MB，18:58 | Wikimedia Commons「Barack Obama inauguration speech 2009」，公有领域 |
+
+视频不入库，页面用 YouTube 懒加载嵌入（点击后插入 `youtube-nocookie` iframe），来源为 The Obama White House 官方频道 `3PuHGKnboNY`。
+
 ## 新增一篇
 
 1. 把做好的 `.html` 放进仓库根目录。
