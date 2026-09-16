@@ -8,7 +8,13 @@
 
 浏览器直接打开 HTML 即可，无依赖。
 
+## 新增一篇
+
+1. 把做好的 `.html` 放进仓库根目录。
+2. 在 `index.html` 的 `<ul class="list">` 里复制一段 `<li>…</li>`，改序号、标题、链接与统计（文件内有注释模板）。
+3. 更新页脚「共 N 篇」。
+
 ## 部署
 
 静态站点，无构建步骤。Vercel 导入仓库后：Framework Preset 选 **Other**，Build Command 与 Output Directory 留空。
-`vercel.json` 把 `/` 重写到 `obama-inaugural-bilingual.html`，因此根路径可直接访问。
+`index.html` 为首页，根路径直接可访问；`vercel.json` 仅开启 `cleanUrls`（访问时可省略 `.html` 后缀）。
