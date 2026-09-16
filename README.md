@@ -7,6 +7,7 @@
 | 文件 | 内容 |
 | --- | --- |
 | `index.html` | 首页。时间轴目录，每张卡片含日期、场合与 200–300 字历史政治背景。 |
+| `gettysburg-bilingual.html` | 林肯 1863 年葛底斯堡演说（Bliss 抄本）：3 段英文原文 + 逐段中文对照；24 处生词标注；页尾附词汇总表。 |
 | `obama-inaugural-bilingual.html` | 奥巴马 2009 年首次就职演说：34 段英文原文 + 逐段中文对照；生词带金色虚线下划线，悬停或单击弹出浮层显示词性、美式音标与中文释义；页尾附词汇总表。 |
 
 浏览器直接打开 HTML 即可，无依赖。
@@ -17,6 +18,8 @@
 
 | 文章 | 媒体 | 来源 / 授权 |
 | --- | --- | --- |
+| 葛底斯堡演说 | 音频 1:50 | Wikimedia Commons「Gettysburg by Britton.ogg」，朗诵 Britton Rea，权利人放弃著作权。林肯本人无录音，此为现代朗诵，不是历史原声 |
+| 葛底斯堡演说 | 视频 | YouTube 懒加载嵌入，频道 TimelessReader1 `JtEqTBuigFY` |
 | 奥巴马 2009 就职演说 | 音频 18:58 | Wikimedia Commons「Barack Obama inauguration speech 2009」，公有领域 |
 | 奥巴马 2009 就职演说 | 视频 | YouTube 懒加载嵌入（点击后插入 `youtube-nocookie` iframe），The Obama White House 官方频道 `3PuHGKnboNY` |
 
