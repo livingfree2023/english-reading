@@ -54,7 +54,10 @@ for (const file of files) {
   }
   if (expectedExcerpts.has(id) && data.status !== 'excerpt') errors.push(`${file}: expected excerpt status`);
   if (text.includes('{{')) errors.push(`${file}: unresolved placeholder`);
-  if (!text.includes('<section class="para">')) errors.push(`${file}: speech body has no paragraphs`);
+  const paragraphCount = (text.match(/<section class="para">/g) ?? []).length;
+  const vocabularyCount = (text.match(/<span class="voc">/g) ?? []).length;
+  if (!paragraphCount) errors.push(`${file}: speech body has no paragraphs`);
+  if (data.status === 'full' && vocabularyCount < Math.max(3, Math.ceil(paragraphCount / 4))) errors.push(`${file}: full-text page needs vocabulary coverage (${vocabularyCount}/${Math.max(3, Math.ceil(paragraphCount / 4))})`);
 }
 
 if (files.length !== 28) errors.push(`expected 28 Markdown entries, found ${files.length}`);
@@ -73,6 +76,8 @@ if (existsSync(join(root, 'dist'))) {
   for (const route of expectedRoutes) {
     const html = readFileSync(join(root, `dist${route}`), 'utf8');
     if (!html.includes('<link rel="canonical"') || !html.includes('property="og:title"') || !html.includes('property="og:description"')) errors.push(`missing required metadata: ${route}`);
+    const sourceText = readFileSync(join(speechDir, `${route.slice(1, -5)}.md`), 'utf8');
+    if (sourceText.includes('<span class="voc">') && !html.includes('本页词汇')) errors.push(`missing generated glossary: ${route}`);
   }
 }
 
