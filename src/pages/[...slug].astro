@@ -1,0 +1,18 @@
+---
+import { getCollection, render } from 'astro:content';
+import SpeechLayout from '../layouts/SpeechLayout.astro';
+
+export async function getStaticPaths() {
+  const speeches = await getCollection('speeches');
+  return speeches.map((speech) => ({ params: { slug: `${speech.id}.html` }, props: { speech } }));
+}
+
+const { speech } = Astro.props;
+const { Content } = await render(speech);
+const related = (await getCollection('speeches'))
+  .filter((item) => item.id !== speech.id && item.data.era === speech.data.era)
+  .sort((a, b) => Math.abs(a.data.year - speech.data.year) - Math.abs(b.data.year - speech.data.year))
+  .slice(0, 2);
+---
+
+<SpeechLayout speech={speech} Content={Content} related={related} />
