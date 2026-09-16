@@ -24,7 +24,7 @@
 
 完整清单与每篇的版权依据见 `CONTENT.md`。
 
-### 已发布（8 篇）
+### 已发布（12 篇）
 
 | 文件 | 年份 | 标题 | 形式 |
 |------|------|------|------|
@@ -35,15 +35,18 @@
 | lincoln-lyceum-1838.html | 1838 | 林肯青年学会演说 | 节选 |
 | douglass-fourth-of-july-1852.html | 1852 | 道格拉斯「What to the Slave Is the Fourth of July?」 | 全文 |
 | gettysburg-bilingual.html | 1863 | 葛底斯堡演说 (Bliss 抄本) | 全文 |
+| washington-atlanta-compromise-1895.html | 1895 | 亚特兰大妥协演说 | 全文 |
+| bryan-cross-of-gold-1896.html | 1896 | 黄金十字架 | 全文 |
+| roosevelt-muck-rake-1906.html | 1906 | 拿着粪耙的人 | 全文 |
+| wilson-fourteen-points-1918.html | 1918 | 十四点和平原则 | 全文 |
 | obama-inaugural-bilingual.html | 2009 | 奥巴马首次就职演说 | 全文 |
 
-### 待做（20 篇）
+### 待做（16 篇）
 
-下一批 = era 3（1895–1918）：
-1. 1895 布克·T·华盛顿 亚特兰大妥协演说（全文）
-2. 1896 布莱恩「Cross of Gold」（全文）
-3. 1906 西奥多·罗斯福「The Man with the Muck-rake」（全文）
-4. 1918 威尔逊「十四点」（全文）
+下一批 = era 4（1933–1945）：
+1. 1933 小罗斯福首次就职演说（待定 PD 依据，可能降为节选页）
+2. 1941 小罗斯福《四大自由》国情咨文（全文）
+3. 1941 小罗斯福《耻辱之日》珍珠港演说（全文）
 
 完整清单见 `CONTENT.md`。
 
@@ -128,14 +131,12 @@ git log --oneline -5      # 最近提交
 # 确认 skill 存在
 ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
 
-# 下一步：创建 era 3 四篇页面（1895–1918）
-# 1. 1895 Booker T. Washington "Atlanta Compromise" — 全文
-#    来源: Wikisource / Library of Congress
-# 2. 1896 William Jennings Bryan "Cross of Gold" — 全文
-#    来源: Wikisource / 1896 Democratic Convention
-# 3. 1906 Theodore Roosevelt "The Man with the Muck-rake" — 全文
-#    来源: Wikisource / Public Papers
-# 4. 1918 Woodrow Wilson "Fourteen Points" — 全文
+# 下一步：创建 era 4 三篇页面（1933–1945）
+# 1. 1933 FDR First Inaugural — 待定 PD 依据，可能降为节选页
+#    来源: 需先确认 PD，检查是否在 Public Papers 系列内
+# 2. 1941 FDR Four Freedoms (Annual Message to Congress) — 全文
+#    来源: Wikisource / Congressional Record (17 U.S.C. §105)
+# 3. 1941 FDR Day of Infamy (Pearl Harbor speech) — 全文
 #    来源: Wikisource / Congressional Record (17 U.S.C. §105)
 #
 # 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
