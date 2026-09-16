@@ -80,8 +80,8 @@
 
 ## 站点级改造（2026-09-16 已完成）
 
-1. **文章页加返回首页链接。** `page-template.html` 头部加 `<a class="back" href="index.html">← 返回时间轴</a>`，已同步到全部文章页。
-2. **首页时间轴按时代分组。** `<div class="eras">` 下六个 `<section class="era" data-from data-to>`，各自含一个 `<ol class="tl">`；空时代用 CSS `.era:not(:has(.tl-item))` 隐藏。`add_to_index.py` 按 `--year` 自动选时代。
+1. **文章页加返回首页链接。** `SpeechLayout.astro` 统一输出 `<a class="back" href="/">← 返回时间轴</a>`，所有文章保留原有根级 `.html` URL。
+2. **首页时间轴按时代分组。** `index.astro` 从内容集合按时代和年份生成分组；卡片由 `TimelineCard.astro` 输出，筛选由客户端脚本完成。
 3. **`kind` 取值统一**：就职演说 / 国情咨文 / 国会演说 / 卸任文告 / 竞选演说 / 公开演说 / 节选。葛底斯堡已从「公墓落成演说」改为「公开演说」。
 4. **补 `canonical`、`og:type`、`og:url`、`og:title`、`og:description`、`og:site_name`。** 模板新增占位符 `{{FILE_SLUG}}`（填文件名，如 `gettysburg-bilingual.html`）。
 5. 页面级 meta 已齐；已生成 `sitemap.xml`，可提交给搜索引擎。
@@ -90,7 +90,7 @@
 
 ## 每篇的固定动作
 
-沿用 `~/.workbuddy-ai/skills/bilingual-reading-page` 的 SKILL.md：取权威原文 → 套模板替换占位符 → 逐段英中对照 → 标生词（美式音标、按句中用法标词性）→ 找外链媒体 → `add_to_index.py` 按年份插入 → 提交推送。
+当前流程：取权威原文 → 编辑 `src/content/speeches/*.md` → 保留英中对照与词汇标注 → 填写外链媒体和权利说明 → 运行 `npm run check && npm run build` → 提交变更。
 
 ## 不随篇目变的硬约束
 

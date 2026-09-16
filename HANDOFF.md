@@ -120,10 +120,10 @@ cat CONTENT.md           # 状态看板
 git log --oneline -5      # 最近提交
 
 # 确认 skill 存在
-ls ~/.workbuddy-ai/skills/bilingual-reading-page/SKILL.md
+ls src/content/speeches
 
 # 下一步：维护现有 Markdown，或在 CONTENT.md 中登记并加入新的 Markdown 演说
 #
-# 流程：读 bilingual-reading-page SKILL.md → 用 add_to_index.py 注册 → 清理 data-page-node-id → 提交推送
+# 流程：编辑 Markdown → 运行 npm run check && npm run build → 提交推送
 # 可启动后台 agent 并行生成
 ```
